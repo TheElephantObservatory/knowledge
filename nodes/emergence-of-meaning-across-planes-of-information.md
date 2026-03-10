@@ -1,0 +1,38 @@
+---
+slug: emergence-of-meaning-across-planes-of-information
+title: "Emergence of Meaning Across Planes of Information"
+observer: "Brendan Graham Dempsey"
+observer_slug: brendan-graham-dempsey
+source_title: "Meaning and Complexification | The Evolution of Meaning"
+source_url: "https://www.youtube.com/watch?v=LeaFCcJNCTI"
+source_author: "Brendan Graham Dempsey"
+tags: [UTOK, Systems Thinking, Epistemology, Information Theory]
+edges:
+  - target: propositional-grammar-and-the-birth-of-justification
+    type: exemplifies
+  - target: life-as-embodied-meaning-evolutions-three-billion-year-learning
+    type: exemplifies
+  - target: meaning-descends-teleology-from-physics-to-culture
+    type: extends
+  - target: meanings-recursive-ascent-from-entropy-to-civilization
+    type: extends
+  - target: meaning-as-cosmic-information-architecture
+    type: grounds
+created_at: "2026-03-07"
+---
+
+# Emergence of Meaning Across Planes of Information
+
+The most clarifying framework for understanding the stratification of cosmic complexification may be Gregg Henriques's Unified Theory of Knowledge, particularly its Tree of Knowledge diagram and Periodic Table of Behavior. Rather than reducing all phenomena to physics, the UTOK recognizes that the natural world is monistic at its foundation — an energy-information field — but that genuinely novel planes of existence emerge from it: Matter, Life, Mind, and Culture. Each plane is not merely more complex matter; it involves qualitatively different kinds of information processing that require different metaphysical concepts beyond efficient causation. Genetic information processing gives rise to Life. Neuronal information processing gives rise to Mind. Symbolic information processing gives rise to Culture. And crucially, each of these represents a novel kind of meaning — a different language of meaningful information that entities process in learning what bears on their viability. The Periodic Table of Behavior maps the entity-field relationships unique to each plane: the object-field relationship of Matter, the organism-ecology relationship of Life, the animal-environment relationship of Mind, and the person-society relationship of Culture. Each coupling creates mutual information correlating system with environment, and each represents unique demands on viability — unique domains where distinct qualities of meaning manifest. Meaning, in this framework, is not merely subjective. It is intricately tied to thermodynamic reality all the way down.
+
+## Apprentice
+
+Most attempts to explain the universe try to reduce everything to physics — atoms and forces all the way up. But a compelling alternative suggests that reality genuinely builds new layers on top of itself, each with its own rules. Gregg Henriques's Unified Theory of Knowledge proposes that the universe starts as a single energy-information field, but that Matter, Life, Mind, and Culture are not just complicated physics — they are genuinely new kinds of things. What makes each layer distinct is the kind of information processing happening within it. Genes process information to keep organisms alive. Brains process information to help animals navigate their environments. Symbols process information to hold human societies together. Each of these is a different language of meaning. A bacterium and a grieving human are both processing meaningful information, but the meaning operates at entirely different levels of reality. This framework also maps the relationships unique to each layer: objects exist within physical fields, organisms within ecologies, animals within environments, persons within societies. Each pairing creates its own demands for survival. Meaning, in this view, is not just a feeling inside human heads — it is woven into the structure of reality itself.
+
+## Adept
+
+The perennial tension between reductionism and emergence finds a sophisticated resolution in Gregg Henriques's Unified Theory of Knowledge. UTOK begins from an ontological monism — reality is a single energy-information field — but resists collapsing explanation into physics alone. Instead, it identifies four irreducible planes of existence: Matter, Life, Mind, and Culture, each visualized in the Tree of Knowledge diagram. The critical move is recognizing that each plane involves a qualitatively distinct mode of information processing. Genetic information processing constitutes the Life plane; neuronal information processing constitutes the Mind plane; symbolic information processing constitutes the Culture plane. These are not merely quantitative increases in complexity. They represent new causal registers that cannot be fully captured by efficient causation alone — formal, final, and perhaps novel causal logics become necessary at each transition. The Periodic Table of Behavior extends this architecture by mapping the characteristic entity-field couplings at each plane: object-field, organism-ecology, animal-environment, and person-society. Each coupling generates mutual information between system and surround, and each defines a unique viability space — a domain in which specific qualities of meaning become operationally relevant. Meaning here is not a subjective overlay on an indifferent physical substrate. It is structurally entailed by thermodynamic reality: what bears on a system's viability is meaningful to that system in a precise, non-metaphorical sense. This grounds a naturalistic theory of meaning that spans from molecular biology to cultural semiotics without dissolving the distinctions between them.
+
+## Magus
+
+Henriques's Unified Theory of Knowledge represents one of the more rigorous attempts to dissolve the explanatory gap between ontological monism and the manifest irreducibility of biological, psychological, and cultural phenomena. The foundational commitment is to a single energy-information substrate — avoiding both Cartesian dualism and eliminative physicalism — while insisting that emergent planes of existence are not merely epistemically convenient redescriptions but involve genuine ontological novelty. The Tree of Knowledge schematizes four such planes — Matter, Life, Mind, Culture — differentiated not by substance but by the mode of information processing that constitutes each. This is a crucial distinction: the planes are individuated by their semiotic architecture. Genetic information processing instantiates the autopoietic closure characteristic of living systems; neuronal information processing instantiates the anticipatory, valenced modeling characteristic of minded animals; symbolic information processing instantiates the intersubjectively scaffolded normativity characteristic of persons embedded in culture. Each transition introduces causal categories that resist reduction to antecedent-plane mechanics — Aristotelian formal and final causation become indispensable descriptive tools at the biological and psychological planes respectively, a point convergent with biosemiotics and enactivist philosophy of mind. The Periodic Table of Behavior formalizes the relational ontology implicit in each plane: entity-field couplings that are not incidental but constitutive of what it means to be an entity at that level. Viability — thermodynamically grounded — anchors the concept of meaning across all planes, resisting both deflationary naturalism and inflationary phenomenology. Meaning is the informational signature of what bears on systemic persistence within a given coupling regime. This positions UTOK as a potential metatheoretical scaffold capable of integrating evolutionary biology, cognitive science, and cultural theory without sacrificing the explanatory autonomy of any domain.

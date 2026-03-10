@@ -1,0 +1,36 @@
+---
+slug: existence-as-informational-achievement-against-entropy
+title: "Existence as Informational Achievement Against Entropy"
+observer: "Brendan Graham Dempsey"
+observer_slug: brendan-graham-dempsey
+source_title: "Energy and Information | The Evolution of Meaning"
+source_url: "https://www.youtube.com/watch?v=0JXmMQWeC2Y"
+source_author: "Brendan Graham Dempsey"
+tags: [Information Theory, Complexity Science, Systems Thinking]
+edges:
+  - target: order-against-the-drift-energy-as-existence
+    type: grounds
+  - target: the-universe-learns-entropy-as-cognitive-imperative
+    type: extends
+  - target: meaning-as-the-physics-of-persistence
+    type: contrasts
+  - target: meanings-recursive-ascent-from-entropy-to-civilization
+    type: extends
+created_at: "2026-03-07"
+---
+
+# Existence as Informational Achievement Against Entropy
+
+Information and entropy are not merely analogous — they are structurally unified. The key insight is that improbability and information are deeply linked. Claude Shannon formalized this connection: the more improbable an outcome, the more informative it is. If you roll a die with six sides versus one with six hundred, the outcome of the six-hundred-sided die yields more bits of information, because the range of alternative outcomes was greater. Consider a missing coffee mug: being told it is not in the bathroom sink conveys almost nothing, because there are so many places it could be. But being told exactly where it is — that narrows the vast range of possible states to a single fact — and that is enormously informative. The information content of a message is therefore a function of how much uncertainty it resolves. This connects directly to Boltzmann's thermodynamic entropy: both measure the number of possible states a system could occupy. A system in a highly ordered, constrained configuration has low entropy and high informational richness. A disordered system has high entropy and low informational distinctiveness. From this unified perspective, maintaining informational integrity over time — what the Santa Fe Institute's David Krakauer calls an 'informational individual' — means preserving a figure-ground distinction between a system and its environment. Environments influence systems, systems influence environments, and each influences its own future states. The fidelity with which an entity preserves its informational distinction over time, against an entropic and fluctuating environment, is precisely what defines it as an enduring entity. Existence, at its most fundamental, is an informational achievement.
+
+## Apprentice
+
+When you learn something surprising, it feels more meaningful than learning something obvious. That intuition turns out to be mathematically precise. Claude Shannon, the founder of information theory, showed that the more unexpected a piece of news is, the more information it actually carries. If someone tells you your missing coffee mug is not on the moon, that tells you almost nothing useful. But if they tell you exactly where it is, that single fact cuts through an enormous range of possibilities — and that is what makes it genuinely informative. This same logic connects to physical entropy, the measure of disorder in a system. A highly ordered, specific arrangement of matter has low entropy and is rich in information. A disordered, scrambled arrangement could be almost anything, so it tells you very little. The deeper insight is that staying organized — whether you are a living cell, a mind, or any coherent system — means constantly pushing back against the natural drift toward disorder. To persist as a recognizable, distinct thing over time is not just a physical feat. It is an informational one. Existence itself, at its most basic level, is the ongoing achievement of maintaining meaningful distinction from the surrounding world.
+
+## Adept
+
+Shannon's foundational insight in information theory is that information content is a function of improbability. Formally, the self-information of an event is the negative logarithm of its probability: rare events carry more bits than common ones. This is not merely a mathematical convenience — it reveals a deep structural unity between information theory and thermodynamic entropy. Boltzmann's entropy measures the number of microstates compatible with a given macrostate. Shannon's entropy measures the average uncertainty across a probability distribution. Both are, at root, measures of the size of a possibility space. A highly constrained, ordered system occupies a narrow region of that space and is therefore both low in entropy and high in informational specificity. A disordered system is spread across many possible configurations and carries little distinctive information. This unification has profound consequences for how we think about complex systems. David Krakauer at the Santa Fe Institute extends this framework with the concept of the 'informational individual' — an entity defined not by its material substrate but by the fidelity with which it preserves a figure-ground distinction between itself and its environment over time. Systems that endure do so by maintaining coherent internal states against entropic perturbation, while remaining causally coupled to their surroundings. The persistence of any organized entity — biological, cognitive, or social — is therefore an ongoing informational achievement: the continuous re-inscription of a low-entropy signature against a high-entropy background.
+
+## Magus
+
+The isomorphism between Shannon entropy and Boltzmann entropy is more than formal analogy — it reflects a common underlying ontology of possibility spaces. Shannon's measure H = -Σ p(x) log p(x) and Boltzmann's S = k log W are both functions of the cardinality of accessible states, differing only in their physical grounding and the interpretive frameworks applied to them. The self-information of a message, I(x) = -log p(x), makes explicit what thermodynamics implies: specificity is informationally productive precisely because it forecloses alternatives. High improbability and high information content are co-extensive. This convergence licenses a unified treatment of order, constraint, and meaning across physical and semiotic registers. Krakauer's formalization of the 'informational individual' operationalizes this unity at the level of systems theory. An informational individual is defined by the mutual information structure between its internal states, its environmental inputs, and its own future states — a triadic causal architecture that constitutes identity as a dynamical, self-referential process rather than a static configuration. Persistence, on this account, is the maintenance of a low-conditional-entropy trajectory through state space: the system's future remains more predictable from its own past than from environmental noise alone. This reframes ontological questions about individuation and endurance in explicitly informational terms. What it means to exist as a coherent entity is to instantiate a compression of possibility — to be, against the background of thermodynamic diffusion, an improbable and therefore meaningful configuration that actively sustains its own improbability across time.

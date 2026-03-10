@@ -1,0 +1,1657 @@
+[
+  {
+    "source_slug": "meaning-descends-teleology-from-physics-to-culture",
+    "target_slug": "from-genetic-memory-to-lived-experience-the-cambrian-cognitive-revolution",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "meaning-descends-teleology-from-physics-to-culture",
+    "target_slug": "the-symbolic-inheritance-culture-before-the-self",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "meaning-descends-teleology-from-physics-to-culture",
+    "target_slug": "propositional-grammar-and-the-birth-of-justification",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "reality-as-quantum-computations-adaptive-memory",
+    "target_slug": "meaning-in-the-noise-relevance-realization-and-optimal-grip",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "reality-as-quantum-computations-adaptive-memory",
+    "target_slug": "existence-as-informational-achievement-against-entropy",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "reality-as-quantum-computations-adaptive-memory",
+    "target_slug": "meaning-as-cosmic-information-architecture",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "existence-as-informational-achievement-against-entropy",
+    "target_slug": "order-against-the-drift-energy-as-existence",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "existence-as-informational-achievement-against-entropy",
+    "target_slug": "the-universe-learns-entropy-as-cognitive-imperative",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "existence-as-informational-achievement-against-entropy",
+    "target_slug": "meaning-as-the-physics-of-persistence",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "order-against-the-drift-energy-as-existence",
+    "target_slug": "existence-as-informational-achievement-against-entropy",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "order-against-the-drift-energy-as-existence",
+    "target_slug": "the-universe-learns-entropy-as-cognitive-imperative",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "order-against-the-drift-energy-as-existence",
+    "target_slug": "life-as-embodied-meaning-evolutions-three-billion-year-learning",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "teleology-without-transcendence-absence-as-causal-force",
+    "target_slug": "meaning-as-the-physics-of-persistence",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "teleology-without-transcendence-absence-as-causal-force",
+    "target_slug": "meaning-descends-teleology-from-physics-to-culture",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "teleology-without-transcendence-absence-as-causal-force",
+    "target_slug": "meaning-as-cosmic-information-architecture",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "life-as-embodied-meaning-evolutions-three-billion-year-learning",
+    "target_slug": "from-genetic-memory-to-lived-experience-the-cambrian-cognitive-revolution",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "life-as-embodied-meaning-evolutions-three-billion-year-learning",
+    "target_slug": "propositional-grammar-and-the-birth-of-justification",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "life-as-embodied-meaning-evolutions-three-billion-year-learning",
+    "target_slug": "meaning-descends-teleology-from-physics-to-culture",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-symbolic-inheritance-culture-before-the-self",
+    "target_slug": "from-genetic-memory-to-lived-experience-the-cambrian-cognitive-revolution",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-symbolic-inheritance-culture-before-the-self",
+    "target_slug": "meaning-descends-teleology-from-physics-to-culture",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-universe-learns-entropy-as-cognitive-imperative",
+    "target_slug": "order-against-the-drift-energy-as-existence",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-universe-learns-entropy-as-cognitive-imperative",
+    "target_slug": "life-as-embodied-meaning-evolutions-three-billion-year-learning",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-universe-learns-entropy-as-cognitive-imperative",
+    "target_slug": "existence-as-informational-achievement-against-entropy",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "emergence-of-meaning-across-planes-of-information",
+    "target_slug": "propositional-grammar-and-the-birth-of-justification",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "emergence-of-meaning-across-planes-of-information",
+    "target_slug": "life-as-embodied-meaning-evolutions-three-billion-year-learning",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "emergence-of-meaning-across-planes-of-information",
+    "target_slug": "meaning-descends-teleology-from-physics-to-culture",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "meaning-in-the-noise-relevance-realization-and-optimal-grip",
+    "target_slug": "meaning-as-the-physics-of-persistence",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "meaning-in-the-noise-relevance-realization-and-optimal-grip",
+    "target_slug": "meaning-as-cosmic-information-architecture",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "meaning-in-the-noise-relevance-realization-and-optimal-grip",
+    "target_slug": "life-as-embodied-meaning-evolutions-three-billion-year-learning",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-brain-as-survival-simulation-prediction-before-peril",
+    "target_slug": "from-genetic-memory-to-lived-experience-the-cambrian-cognitive-revolution",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-brain-as-survival-simulation-prediction-before-peril",
+    "target_slug": "teleology-without-transcendence-absence-as-causal-force",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-brain-as-survival-simulation-prediction-before-peril",
+    "target_slug": "meaning-as-cosmic-information-architecture",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "from-genetic-memory-to-lived-experience-the-cambrian-cognitive-revolution",
+    "target_slug": "life-as-embodied-meaning-evolutions-three-billion-year-learning",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "from-genetic-memory-to-lived-experience-the-cambrian-cognitive-revolution",
+    "target_slug": "the-brain-as-survival-simulation-prediction-before-peril",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "good-faith-without-consensus-democracys-commitment-to-understanding",
+    "target_slug": "the-normalization-of-bad-faith-information-as-fallout",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "good-faith-without-consensus-democracys-commitment-to-understanding",
+    "target_slug": "propositional-grammar-and-the-birth-of-justification",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "good-faith-without-consensus-democracys-commitment-to-understanding",
+    "target_slug": "meaning-in-the-noise-relevance-realization-and-optimal-grip",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-normalization-of-bad-faith-information-as-fallout",
+    "target_slug": "good-faith-without-consensus-democracys-commitment-to-understanding",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "the-normalization-of-bad-faith-information-as-fallout",
+    "target_slug": "the-rationality-trap-why-caution-becomes-civilizationally-irrational",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "the-normalization-of-bad-faith-information-as-fallout",
+    "target_slug": "meaning-in-the-noise-relevance-realization-and-optimal-grip",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "displacement-and-the-civilizational-design-problem",
+    "target_slug": "the-runaway-train-without-a-driver",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "displacement-and-the-civilizational-design-problem",
+    "target_slug": "profits-hidden-ledger-externalizing-collapse",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "displacement-and-the-civilizational-design-problem",
+    "target_slug": "the-rationality-trap-why-caution-becomes-civilizationally-irrational",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "energy-blindness-the-forgotten-infrastructure-of-civilization",
+    "target_slug": "good-faith-without-consensus-democracys-commitment-to-understanding",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "energy-blindness-the-forgotten-infrastructure-of-civilization",
+    "target_slug": "order-against-the-drift-energy-as-existence",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "energy-blindness-the-forgotten-infrastructure-of-civilization",
+    "target_slug": "profits-hidden-ledger-externalizing-collapse",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "profits-hidden-ledger-externalizing-collapse",
+    "target_slug": "displacement-and-the-civilizational-design-problem",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "profits-hidden-ledger-externalizing-collapse",
+    "target_slug": "the-runaway-train-without-a-driver",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "profits-hidden-ledger-externalizing-collapse",
+    "target_slug": "energy-blindness-the-forgotten-infrastructure-of-civilization",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-runaway-train-without-a-driver",
+    "target_slug": "profits-hidden-ledger-externalizing-collapse",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-runaway-train-without-a-driver",
+    "target_slug": "displacement-and-the-civilizational-design-problem",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-runaway-train-without-a-driver",
+    "target_slug": "good-faith-without-consensus-democracys-commitment-to-understanding",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "the-rationality-trap-why-caution-becomes-civilizationally-irrational",
+    "target_slug": "the-runaway-train-without-a-driver",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-rationality-trap-why-caution-becomes-civilizationally-irrational",
+    "target_slug": "profits-hidden-ledger-externalizing-collapse",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-rationality-trap-why-caution-becomes-civilizationally-irrational",
+    "target_slug": "displacement-and-the-civilizational-design-problem",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "attention-misaligned-agency-and-the-curated-world",
+    "target_slug": "the-normalization-of-bad-faith-information-as-fallout",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "attention-misaligned-agency-and-the-curated-world",
+    "target_slug": "meaning-in-the-noise-relevance-realization-and-optimal-grip",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "attention-misaligned-agency-and-the-curated-world",
+    "target_slug": "the-brain-as-survival-simulation-prediction-before-peril",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-invisible-architecture-of-misunderstanding",
+    "target_slug": "good-faith-without-consensus-democracys-commitment-to-understanding",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-invisible-architecture-of-misunderstanding",
+    "target_slug": "the-normalization-of-bad-faith-information-as-fallout",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-invisible-architecture-of-misunderstanding",
+    "target_slug": "meaning-in-the-noise-relevance-realization-and-optimal-grip",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "pathogenesis-of-civilization-beyond-symptomatic-crisis-management",
+    "target_slug": "sensemaking-as-civilizational-infrastructure",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "pathogenesis-of-civilization-beyond-symptomatic-crisis-management",
+    "target_slug": "displacement-and-the-civilizational-design-problem",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "pathogenesis-of-civilization-beyond-symptomatic-crisis-management",
+    "target_slug": "exponential-finance-against-finite-earth",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "exponential-finance-against-finite-earth",
+    "target_slug": "displacement-and-the-civilizational-design-problem",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "exponential-finance-against-finite-earth",
+    "target_slug": "the-runaway-train-without-a-driver",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "exponential-finance-against-finite-earth",
+    "target_slug": "profits-hidden-ledger-externalizing-collapse",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-irreducible-complexity-we-cannot-simplify",
+    "target_slug": "sensemaking-as-civilizational-infrastructure",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "the-irreducible-complexity-we-cannot-simplify",
+    "target_slug": "displacement-and-the-civilizational-design-problem",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-irreducible-complexity-we-cannot-simplify",
+    "target_slug": "pathogenesis-of-civilization-beyond-symptomatic-crisis-management",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "conditioning-not-nature-the-cultivable-human",
+    "target_slug": "the-symbolic-inheritance-culture-before-the-self",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "conditioning-not-nature-the-cultivable-human",
+    "target_slug": "the-invisible-architecture-of-misunderstanding",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "conditioning-not-nature-the-cultivable-human",
+    "target_slug": "attention-misaligned-agency-and-the-curated-world",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "the-dystopia-catastrophe-bind-toward-a-third-attractor",
+    "target_slug": "the-benevolence-trap-powers-paradox-at-civilizations-edge",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-dystopia-catastrophe-bind-toward-a-third-attractor",
+    "target_slug": "pathogenesis-of-civilization-beyond-symptomatic-crisis-management",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-dystopia-catastrophe-bind-toward-a-third-attractor",
+    "target_slug": "displacement-and-the-civilizational-design-problem",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "sensemaking-as-civilizational-infrastructure",
+    "target_slug": "meaning-in-the-noise-relevance-realization-and-optimal-grip",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "sensemaking-as-civilizational-infrastructure",
+    "target_slug": "displacement-and-the-civilizational-design-problem",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "sensemaking-as-civilizational-infrastructure",
+    "target_slug": "pathogenesis-of-civilization-beyond-symptomatic-crisis-management",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-nine-cell-architecture-of-civilizational-response",
+    "target_slug": "sensemaking-as-civilizational-infrastructure",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-nine-cell-architecture-of-civilizational-response",
+    "target_slug": "the-dystopia-catastrophe-bind-toward-a-third-attractor",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-nine-cell-architecture-of-civilizational-response",
+    "target_slug": "pathogenesis-of-civilization-beyond-symptomatic-crisis-management",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "the-paradox-of-scaling-local-action-in-civilizational-crisis",
+    "target_slug": "the-nine-cell-architecture-of-civilizational-response",
+    "relationship_type": "complements"
+  },
+  {
+    "source_slug": "the-paradox-of-scaling-local-action-in-civilizational-crisis",
+    "target_slug": "sensemaking-as-civilizational-infrastructure",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-paradox-of-scaling-local-action-in-civilizational-crisis",
+    "target_slug": "displacement-and-the-civilizational-design-problem",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-irretractability-problem-speed-outpacing-governance",
+    "target_slug": "when-harm-becomes-irreversible-the-inverted-precautionary-moment",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "the-irretractability-problem-speed-outpacing-governance",
+    "target_slug": "the-rationality-trap-why-caution-becomes-civilizationally-irrational",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-irretractability-problem-speed-outpacing-governance",
+    "target_slug": "the-runaway-train-without-a-driver",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-superorganisms-inheritance-ai-and-structural-collapse",
+    "target_slug": "the-runaway-train-without-a-driver",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-superorganisms-inheritance-ai-and-structural-collapse",
+    "target_slug": "exponential-finance-against-finite-earth",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "the-superorganisms-inheritance-ai-and-structural-collapse",
+    "target_slug": "profits-hidden-ledger-externalizing-collapse",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "presence-and-abstraction-the-hemispheric-origins-of-crisis",
+    "target_slug": "sensemaking-as-civilizational-infrastructure",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "presence-and-abstraction-the-hemispheric-origins-of-crisis",
+    "target_slug": "meaning-in-the-noise-relevance-realization-and-optimal-grip",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "presence-and-abstraction-the-hemispheric-origins-of-crisis",
+    "target_slug": "propositional-grammar-and-the-birth-of-justification",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-metacrisis-when-underlying-dynamics-compound-into-civilizational-peril",
+    "target_slug": "sensemaking-as-civilizational-infrastructure",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-metacrisis-when-underlying-dynamics-compound-into-civilizational-peril",
+    "target_slug": "the-dystopia-catastrophe-bind-toward-a-third-attractor",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "the-metacrisis-when-underlying-dynamics-compound-into-civilizational-peril",
+    "target_slug": "pathogenesis-of-civilization-beyond-symptomatic-crisis-management",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "optimizations-paradox-why-efficiency-accelerates-extraction",
+    "target_slug": "the-iatrogenic-spiral-when-solutions-become-tomorrows-problems",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "optimizations-paradox-why-efficiency-accelerates-extraction",
+    "target_slug": "displacement-and-the-civilizational-design-problem",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "optimizations-paradox-why-efficiency-accelerates-extraction",
+    "target_slug": "profits-hidden-ledger-externalizing-collapse",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "advancement-without-betterment-the-moral-blindness-of-progress",
+    "target_slug": "exponential-finance-against-finite-earth",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "advancement-without-betterment-the-moral-blindness-of-progress",
+    "target_slug": "profits-hidden-ledger-externalizing-collapse",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "advancement-without-betterment-the-moral-blindness-of-progress",
+    "target_slug": "displacement-and-the-civilizational-design-problem",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "when-harm-becomes-irreversible-the-inverted-precautionary-moment",
+    "target_slug": "the-irretractability-problem-speed-outpacing-governance",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "when-harm-becomes-irreversible-the-inverted-precautionary-moment",
+    "target_slug": "the-rationality-trap-why-caution-becomes-civilizationally-irrational",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "when-harm-becomes-irreversible-the-inverted-precautionary-moment",
+    "target_slug": "the-iatrogenic-spiral-when-solutions-become-tomorrows-problems",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-iatrogenic-spiral-when-solutions-become-tomorrows-problems",
+    "target_slug": "displacement-and-the-civilizational-design-problem",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "the-iatrogenic-spiral-when-solutions-become-tomorrows-problems",
+    "target_slug": "optimizations-paradox-why-efficiency-accelerates-extraction",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-iatrogenic-spiral-when-solutions-become-tomorrows-problems",
+    "target_slug": "pathogenesis-of-civilization-beyond-symptomatic-crisis-management",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "the-rapture-structure-salvation-beyond-the-inflection-point",
+    "target_slug": "when-meaning-collapses-building-resilience-without-center",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-rapture-structure-salvation-beyond-the-inflection-point",
+    "target_slug": "the-metacrisis-when-underlying-dynamics-compound-into-civilizational-peril",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "the-rapture-structure-salvation-beyond-the-inflection-point",
+    "target_slug": "binary-as-tool-not-truth-knowing-when-to-put-it-down",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "when-meaning-collapses-building-resilience-without-center",
+    "target_slug": "the-metacrisis-when-underlying-dynamics-compound-into-civilizational-peril",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "when-meaning-collapses-building-resilience-without-center",
+    "target_slug": "meanings-recursive-ascent-from-entropy-to-civilization",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "when-meaning-collapses-building-resilience-without-center",
+    "target_slug": "the-rapture-structure-salvation-beyond-the-inflection-point",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "exponential-curves-running-in-opposite-directions",
+    "target_slug": "the-metacrisis-when-underlying-dynamics-compound-into-civilizational-peril",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "exponential-curves-running-in-opposite-directions",
+    "target_slug": "exponential-finance-against-finite-earth",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "exponential-curves-running-in-opposite-directions",
+    "target_slug": "good-faith-without-consensus-democracys-commitment-to-understanding",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "expertise-as-the-erosion-of-certainty",
+    "target_slug": "earned-simplicity-complexity-as-initiation",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "expertise-as-the-erosion-of-certainty",
+    "target_slug": "the-irreducible-complexity-we-cannot-simplify",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "expertise-as-the-erosion-of-certainty",
+    "target_slug": "the-metacrisis-when-underlying-dynamics-compound-into-civilizational-peril",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "binary-as-tool-not-truth-knowing-when-to-put-it-down",
+    "target_slug": "expertise-as-the-erosion-of-certainty",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "binary-as-tool-not-truth-knowing-when-to-put-it-down",
+    "target_slug": "earned-simplicity-complexity-as-initiation",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "binary-as-tool-not-truth-knowing-when-to-put-it-down",
+    "target_slug": "the-irreducible-complexity-we-cannot-simplify",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-dual-collapse-when-meaning-systems-fail",
+    "target_slug": "the-scaffolding-is-the-intelligence",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-dual-collapse-when-meaning-systems-fail",
+    "target_slug": "sensemaking-as-civilizational-infrastructure",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "rapture-ideologies-and-the-forgotten-ecstasy",
+    "target_slug": "the-rapture-structure-salvation-beyond-the-inflection-point",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "rapture-ideologies-and-the-forgotten-ecstasy",
+    "target_slug": "the-scaffolding-is-the-intelligence",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "rapture-ideologies-and-the-forgotten-ecstasy",
+    "target_slug": "when-meaning-collapses-building-resilience-without-center",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "from-race-to-cosmos-the-ontology-of-meaning-making",
+    "target_slug": "the-dual-collapse-when-meaning-systems-fail",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "from-race-to-cosmos-the-ontology-of-meaning-making",
+    "target_slug": "when-meaning-collapses-building-resilience-without-center",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "from-race-to-cosmos-the-ontology-of-meaning-making",
+    "target_slug": "sensemaking-as-civilizational-infrastructure",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "equality-and-liberty-co-constitutive-not-competing",
+    "target_slug": "when-meaning-collapses-building-resilience-without-center",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "equality-and-liberty-co-constitutive-not-competing",
+    "target_slug": "advancement-without-betterment-the-moral-blindness-of-progress",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "equality-and-liberty-co-constitutive-not-competing",
+    "target_slug": "the-arcana-americana-inherited-wisdom-in-living-transmission",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "cultural-seeds-and-civilizational-succession",
+    "target_slug": "the-arcana-americana-inherited-wisdom-in-living-transmission",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "cultural-seeds-and-civilizational-succession",
+    "target_slug": "when-meaning-collapses-building-resilience-without-center",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "cultural-seeds-and-civilizational-succession",
+    "target_slug": "the-nine-cell-architecture-of-civilizational-response",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-scaffolding-is-the-intelligence",
+    "target_slug": "conditioning-not-nature-the-cultivable-human",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-scaffolding-is-the-intelligence",
+    "target_slug": "expertise-as-the-erosion-of-certainty",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "earned-simplicity-complexity-as-initiation",
+    "target_slug": "expertise-as-the-erosion-of-certainty",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "earned-simplicity-complexity-as-initiation",
+    "target_slug": "binary-as-tool-not-truth-knowing-when-to-put-it-down",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "earned-simplicity-complexity-as-initiation",
+    "target_slug": "the-irreducible-complexity-we-cannot-simplify",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "wisdoms-architecture-when-good-intentions-generate-cults",
+    "target_slug": "when-gurus-replace-priests-authority-in-the-attention-economy",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "wisdoms-architecture-when-good-intentions-generate-cults",
+    "target_slug": "the-benevolence-trap-powers-paradox-at-civilizations-edge",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "wisdoms-architecture-when-good-intentions-generate-cults",
+    "target_slug": "ambiguity-as-weapon-when-compassion-enables-capture",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "beyond-fear-fight-follow-fuck-communitas-without-collapse",
+    "target_slug": "wisdoms-architecture-when-good-intentions-generate-cults",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "beyond-fear-fight-follow-fuck-communitas-without-collapse",
+    "target_slug": "when-gurus-replace-priests-authority-in-the-attention-economy",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "beyond-fear-fight-follow-fuck-communitas-without-collapse",
+    "target_slug": "the-benevolence-trap-powers-paradox-at-civilizations-edge",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "when-gurus-replace-priests-authority-in-the-attention-economy",
+    "target_slug": "beyond-fear-fight-follow-fuck-communitas-without-collapse",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "when-gurus-replace-priests-authority-in-the-attention-economy",
+    "target_slug": "wisdoms-architecture-when-good-intentions-generate-cults",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "when-gurus-replace-priests-authority-in-the-attention-economy",
+    "target_slug": "the-dual-collapse-when-meaning-systems-fail",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-contingent-civilizational-fork-backtracking-toward-wholeness",
+    "target_slug": "cultural-seeds-and-civilizational-succession",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-contingent-civilizational-fork-backtracking-toward-wholeness",
+    "target_slug": "the-dual-collapse-when-meaning-systems-fail",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-contingent-civilizational-fork-backtracking-toward-wholeness",
+    "target_slug": "the-metacrisis-when-underlying-dynamics-compound-into-civilizational-peril",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-mountain-as-teacher-where-risk-meets-transcendence",
+    "target_slug": "encoding-values-into-capitals-architecture",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-mountain-as-teacher-where-risk-meets-transcendence",
+    "target_slug": "wisdoms-architecture-when-good-intentions-generate-cults",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "ambiguity-as-weapon-when-compassion-enables-capture",
+    "target_slug": "wisdoms-architecture-when-good-intentions-generate-cults",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "ambiguity-as-weapon-when-compassion-enables-capture",
+    "target_slug": "when-money-rewrites-the-rules-of-the-game",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "encoding-values-into-capitals-architecture",
+    "target_slug": "when-money-rewrites-the-rules-of-the-game",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "encoding-values-into-capitals-architecture",
+    "target_slug": "the-nine-cell-architecture-of-civilizational-response",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "encoding-values-into-capitals-architecture",
+    "target_slug": "the-scaffolding-is-the-intelligence",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-simultaneous-collapse-of-both-meaning-frameworks",
+    "target_slug": "the-dual-collapse-when-meaning-systems-fail",
+    "relationship_type": "mirrors"
+  },
+  {
+    "source_slug": "the-simultaneous-collapse-of-both-meaning-frameworks",
+    "target_slug": "when-meaning-collapses-building-resilience-without-center",
+    "relationship_type": "mirrors"
+  },
+  {
+    "source_slug": "the-simultaneous-collapse-of-both-meaning-frameworks",
+    "target_slug": "rapture-ideologies-and-the-forgotten-ecstasy",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "modernisms-operating-system-scaled-for-a-vanished-world",
+    "target_slug": "the-simultaneous-collapse-of-both-meaning-frameworks",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "modernisms-operating-system-scaled-for-a-vanished-world",
+    "target_slug": "the-contingent-civilizational-fork-backtracking-toward-wholeness",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "modernisms-operating-system-scaled-for-a-vanished-world",
+    "target_slug": "exponential-curves-running-in-opposite-directions",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "when-dunbars-ceiling-breaks-game-as-structural-inheritance",
+    "target_slug": "repeating-collapse-why-transformational-culture-fails-forward",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "when-dunbars-ceiling-breaks-game-as-structural-inheritance",
+    "target_slug": "the-contingent-civilizational-fork-backtracking-toward-wholeness",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "when-dunbars-ceiling-breaks-game-as-structural-inheritance",
+    "target_slug": "exponential-curves-running-in-opposite-directions",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "repeating-collapse-why-transformational-culture-fails-forward",
+    "target_slug": "when-dunbars-ceiling-breaks-game-as-structural-inheritance",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "repeating-collapse-why-transformational-culture-fails-forward",
+    "target_slug": "the-metacrisis-when-underlying-dynamics-compound-into-civilizational-peril",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-map-precedes-the-choice-sense-making-as-reality-navigation",
+    "target_slug": "sensemaking-as-civilizational-infrastructure",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-map-precedes-the-choice-sense-making-as-reality-navigation",
+    "target_slug": "the-simultaneous-collapse-of-both-meaning-frameworks",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-map-precedes-the-choice-sense-making-as-reality-navigation",
+    "target_slug": "presence-and-abstraction-the-hemispheric-origins-of-crisis",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "open-sourcing-ecstasy-against-institutional-gatekeeping",
+    "target_slug": "rapture-ideologies-and-the-forgotten-ecstasy",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "open-sourcing-ecstasy-against-institutional-gatekeeping",
+    "target_slug": "the-contingent-civilizational-fork-backtracking-toward-wholeness",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "open-sourcing-ecstasy-against-institutional-gatekeeping",
+    "target_slug": "the-arcana-americana-inherited-wisdom-in-living-transmission",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "stone-age-minds-in-hyper-modern-worlds",
+    "target_slug": "exponential-curves-running-in-opposite-directions",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "stone-age-minds-in-hyper-modern-worlds",
+    "target_slug": "when-dunbars-ceiling-breaks-game-as-structural-inheritance",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "stone-age-minds-in-hyper-modern-worlds",
+    "target_slug": "the-contingent-civilizational-fork-backtracking-toward-wholeness",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "biological-vulnerability-and-the-modern-economic-trap",
+    "target_slug": "the-meta-problem-attention-sensemaking-civilization",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "biological-vulnerability-and-the-modern-economic-trap",
+    "target_slug": "exponential-curves-running-in-opposite-directions",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "biological-vulnerability-and-the-modern-economic-trap",
+    "target_slug": "the-metacrisis-when-underlying-dynamics-compound-into-civilizational-peril",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "meaning-as-cosmic-information-architecture",
+    "target_slug": "meanings-recursive-ascent-from-entropy-to-civilization",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "meaning-as-cosmic-information-architecture",
+    "target_slug": "meaning-descends-teleology-from-physics-to-culture",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "meaning-as-cosmic-information-architecture",
+    "target_slug": "meaning-as-the-physics-of-persistence",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "meaning-descends-teleology-from-physics-to-culture",
+    "target_slug": "meanings-recursive-ascent-from-entropy-to-civilization",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "order-against-the-drift-energy-as-existence",
+    "target_slug": "meanings-recursive-ascent-from-entropy-to-civilization",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "existence-as-informational-achievement-against-entropy",
+    "target_slug": "meanings-recursive-ascent-from-entropy-to-civilization",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "life-as-embodied-meaning-evolutions-three-billion-year-learning",
+    "target_slug": "meanings-recursive-ascent-from-entropy-to-civilization",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "life-as-embodied-meaning-evolutions-three-billion-year-learning",
+    "target_slug": "meaning-as-the-physics-of-persistence",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "meaning-as-the-physics-of-persistence",
+    "target_slug": "meaning-as-cosmic-information-architecture",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "meaning-as-the-physics-of-persistence",
+    "target_slug": "meaning-descends-teleology-from-physics-to-culture",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "meaning-as-the-physics-of-persistence",
+    "target_slug": "meaning-in-the-noise-relevance-realization-and-optimal-grip",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "sacred-as-dissipative-structure-learnings-meta-sacred-architecture",
+    "target_slug": "meanings-recursive-ascent-from-entropy-to-civilization",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "sacred-as-dissipative-structure-learnings-meta-sacred-architecture",
+    "target_slug": "life-as-embodied-meaning-evolutions-three-billion-year-learning",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "sacred-as-dissipative-structure-learnings-meta-sacred-architecture",
+    "target_slug": "when-meaning-collapses-building-resilience-without-center",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "propositional-grammar-and-the-birth-of-justification",
+    "target_slug": "meanings-recursive-ascent-from-entropy-to-civilization",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "propositional-grammar-and-the-birth-of-justification",
+    "target_slug": "emergence-of-meaning-across-planes-of-information",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "propositional-grammar-and-the-birth-of-justification",
+    "target_slug": "the-symbolic-inheritance-culture-before-the-self",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-symbolic-inheritance-culture-before-the-self",
+    "target_slug": "propositional-grammar-and-the-birth-of-justification",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-symbolic-inheritance-culture-before-the-self",
+    "target_slug": "conditioning-not-nature-the-cultivable-human",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "from-genetic-memory-to-lived-experience-the-cambrian-cognitive-revolution",
+    "target_slug": "meanings-recursive-ascent-from-entropy-to-civilization",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-brain-as-survival-simulation-prediction-before-peril",
+    "target_slug": "meaning-in-the-noise-relevance-realization-and-optimal-grip",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-universe-learns-entropy-as-cognitive-imperative",
+    "target_slug": "meanings-recursive-ascent-from-entropy-to-civilization",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "emergence-of-meaning-across-planes-of-information",
+    "target_slug": "meanings-recursive-ascent-from-entropy-to-civilization",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "emergence-of-meaning-across-planes-of-information",
+    "target_slug": "meaning-as-cosmic-information-architecture",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "meanings-recursive-ascent-from-entropy-to-civilization",
+    "target_slug": "meaning-as-cosmic-information-architecture",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "meanings-recursive-ascent-from-entropy-to-civilization",
+    "target_slug": "meaning-as-the-physics-of-persistence",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "meanings-recursive-ascent-from-entropy-to-civilization",
+    "target_slug": "order-against-the-drift-energy-as-existence",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "the-normalization-of-bad-faith-information-as-fallout",
+    "target_slug": "the-meta-problem-attention-sensemaking-civilization",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-rationality-trap-why-caution-becomes-civilizationally-irrational",
+    "target_slug": "the-iatrogenic-spiral-when-solutions-become-tomorrows-problems",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-normalization-of-bad-faith-information-as-fallout",
+    "target_slug": "attention-misaligned-agency-and-the-curated-world",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "good-faith-without-consensus-democracys-commitment-to-understanding",
+    "target_slug": "the-invisible-architecture-of-misunderstanding",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-rationality-trap-why-caution-becomes-civilizationally-irrational",
+    "target_slug": "the-superorganisms-inheritance-ai-and-structural-collapse",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "good-faith-without-consensus-democracys-commitment-to-understanding",
+    "target_slug": "the-map-precedes-the-choice-sense-making-as-reality-navigation",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-rationality-trap-why-caution-becomes-civilizationally-irrational",
+    "target_slug": "when-harm-becomes-irreversible-the-inverted-precautionary-moment",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "life-as-embodied-meaning-evolutions-three-billion-year-learning",
+    "target_slug": "meaning-as-cosmic-information-architecture",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "meaning-as-the-physics-of-persistence",
+    "target_slug": "meanings-recursive-ascent-from-entropy-to-civilization",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "good-faith-without-consensus-democracys-commitment-to-understanding",
+    "target_slug": "ambiguity-as-weapon-when-compassion-enables-capture",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "the-rationality-trap-why-caution-becomes-civilizationally-irrational",
+    "target_slug": "advancement-without-betterment-the-moral-blindness-of-progress",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-triadic-epistemic-uprising-beyond-fragmented-reason",
+    "target_slug": "three-epistemic-capacities-against-civilizational-collapse",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "the-triadic-epistemic-uprising-beyond-fragmented-reason",
+    "target_slug": "the-nine-cell-architecture-of-civilizational-response",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-triadic-epistemic-uprising-beyond-fragmented-reason",
+    "target_slug": "the-map-precedes-the-choice-sense-making-as-reality-navigation",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "monoculture-of-communication-relationships-as-the-substrate-of-life",
+    "target_slug": "the-normalization-of-bad-faith-information-as-fallout",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "monoculture-of-communication-relationships-as-the-substrate-of-life",
+    "target_slug": "the-invisible-architecture-of-misunderstanding",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "monoculture-of-communication-relationships-as-the-substrate-of-life",
+    "target_slug": "the-irreducible-complexity-we-cannot-simplify",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "three-epistemic-capacities-against-civilizational-collapse",
+    "target_slug": "the-triadic-epistemic-uprising-beyond-fragmented-reason",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "three-epistemic-capacities-against-civilizational-collapse",
+    "target_slug": "the-nine-cell-architecture-of-civilizational-response",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "three-epistemic-capacities-against-civilizational-collapse",
+    "target_slug": "the-dual-collapse-when-meaning-systems-fail",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "songlines-of-struggle-the-wisdom-commons-we-already-possess",
+    "target_slug": "the-arcana-americana-inherited-wisdom-in-living-transmission",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-meta-problem-attention-sensemaking-civilization",
+    "target_slug": "attention-misaligned-agency-and-the-curated-world",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-meta-problem-attention-sensemaking-civilization",
+    "target_slug": "biological-vulnerability-and-the-modern-economic-trap",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "the-meta-problem-attention-sensemaking-civilization",
+    "target_slug": "sensemaking-as-civilizational-infrastructure",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "when-money-rewrites-the-rules-of-the-game",
+    "target_slug": "ambiguity-as-weapon-when-compassion-enables-capture",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "when-money-rewrites-the-rules-of-the-game",
+    "target_slug": "encoding-values-into-capitals-architecture",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "when-money-rewrites-the-rules-of-the-game",
+    "target_slug": "wisdoms-architecture-when-good-intentions-generate-cults",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-mountain-as-teacher-where-risk-meets-transcendence",
+    "target_slug": "open-sourcing-ecstasy-against-institutional-gatekeeping",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-mountain-as-teacher-where-risk-meets-transcendence",
+    "target_slug": "repeating-collapse-why-transformational-culture-fails-forward",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "stone-age-minds-in-hyper-modern-worlds",
+    "target_slug": "conditioning-not-nature-the-cultivable-human",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "stone-age-minds-in-hyper-modern-worlds",
+    "target_slug": "biological-vulnerability-and-the-modern-economic-trap",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-benevolence-trap-powers-paradox-at-civilizations-edge",
+    "target_slug": "the-dystopia-catastrophe-bind-toward-a-third-attractor",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-benevolence-trap-powers-paradox-at-civilizations-edge",
+    "target_slug": "pathogenesis-of-civilization-beyond-symptomatic-crisis-management",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-benevolence-trap-powers-paradox-at-civilizations-edge",
+    "target_slug": "displacement-and-the-civilizational-design-problem",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "biological-vulnerability-and-the-modern-economic-trap",
+    "target_slug": "attention-misaligned-agency-and-the-curated-world",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "biological-vulnerability-and-the-modern-economic-trap",
+    "target_slug": "stone-age-minds-in-hyper-modern-worlds",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "repeating-collapse-why-transformational-culture-fails-forward",
+    "target_slug": "wisdoms-architecture-when-good-intentions-generate-cults",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "the-paradox-of-scaling-local-action-in-civilizational-crisis",
+    "target_slug": "attention-misaligned-agency-and-the-curated-world",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-paradox-of-scaling-local-action-in-civilizational-crisis",
+    "target_slug": "the-map-precedes-the-choice-sense-making-as-reality-navigation",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "open-sourcing-ecstasy-against-institutional-gatekeeping",
+    "target_slug": "ambiguity-as-weapon-when-compassion-enables-capture",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "modernisms-operating-system-scaled-for-a-vanished-world",
+    "target_slug": "when-meaning-collapses-building-resilience-without-center",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "modernisms-operating-system-scaled-for-a-vanished-world",
+    "target_slug": "stone-age-minds-in-hyper-modern-worlds",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "from-race-to-cosmos-the-ontology-of-meaning-making",
+    "target_slug": "meaning-as-cosmic-information-architecture",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "from-race-to-cosmos-the-ontology-of-meaning-making",
+    "target_slug": "the-map-precedes-the-choice-sense-making-as-reality-navigation",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "from-race-to-cosmos-the-ontology-of-meaning-making",
+    "target_slug": "pathogenesis-of-civilization-beyond-symptomatic-crisis-management",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-arcana-americana-inherited-wisdom-in-living-transmission",
+    "target_slug": "songlines-of-struggle-the-wisdom-commons-we-already-possess",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "the-arcana-americana-inherited-wisdom-in-living-transmission",
+    "target_slug": "open-sourcing-ecstasy-against-institutional-gatekeeping",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "equality-and-liberty-co-constitutive-not-competing",
+    "target_slug": "binary-as-tool-not-truth-knowing-when-to-put-it-down",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "equality-and-liberty-co-constitutive-not-competing",
+    "target_slug": "modernisms-operating-system-scaled-for-a-vanished-world",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-superorganisms-inheritance-ai-and-structural-collapse",
+    "target_slug": "optimizations-paradox-why-efficiency-accelerates-extraction",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "teleology-without-transcendence-absence-as-causal-force",
+    "target_slug": "meanings-recursive-ascent-from-entropy-to-civilization",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "encoding-values-into-capitals-architecture",
+    "target_slug": "exponential-finance-against-finite-earth",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "encoding-values-into-capitals-architecture",
+    "target_slug": "binary-as-tool-not-truth-knowing-when-to-put-it-down",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "presence-and-abstraction-the-hemispheric-origins-of-crisis",
+    "target_slug": "stone-age-minds-in-hyper-modern-worlds",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "presence-and-abstraction-the-hemispheric-origins-of-crisis",
+    "target_slug": "binary-as-tool-not-truth-knowing-when-to-put-it-down",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "presence-and-abstraction-the-hemispheric-origins-of-crisis",
+    "target_slug": "attention-misaligned-agency-and-the-curated-world",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "energy-blindness-the-forgotten-infrastructure-of-civilization",
+    "target_slug": "the-runaway-train-without-a-driver",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "energy-blindness-the-forgotten-infrastructure-of-civilization",
+    "target_slug": "exponential-finance-against-finite-earth",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "energy-blindness-the-forgotten-infrastructure-of-civilization",
+    "target_slug": "the-superorganisms-inheritance-ai-and-structural-collapse",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-irretractability-problem-speed-outpacing-governance",
+    "target_slug": "advancement-without-betterment-the-moral-blindness-of-progress",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "beyond-fear-fight-follow-fuck-communitas-without-collapse",
+    "target_slug": "repeating-collapse-why-transformational-culture-fails-forward",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "cultural-seeds-and-civilizational-succession",
+    "target_slug": "repeating-collapse-why-transformational-culture-fails-forward",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "ambiguity-as-weapon-when-compassion-enables-capture",
+    "target_slug": "encoding-values-into-capitals-architecture",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-map-precedes-the-choice-sense-making-as-reality-navigation",
+    "target_slug": "attention-misaligned-agency-and-the-curated-world",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-map-precedes-the-choice-sense-making-as-reality-navigation",
+    "target_slug": "expertise-as-the-erosion-of-certainty",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-rapture-structure-salvation-beyond-the-inflection-point",
+    "target_slug": "rapture-ideologies-and-the-forgotten-ecstasy",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-rapture-structure-salvation-beyond-the-inflection-point",
+    "target_slug": "wisdoms-architecture-when-good-intentions-generate-cults",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-rapture-structure-salvation-beyond-the-inflection-point",
+    "target_slug": "repeating-collapse-why-transformational-culture-fails-forward",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "advancement-without-betterment-the-moral-blindness-of-progress",
+    "target_slug": "the-iatrogenic-spiral-when-solutions-become-tomorrows-problems",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "advancement-without-betterment-the-moral-blindness-of-progress",
+    "target_slug": "the-superorganisms-inheritance-ai-and-structural-collapse",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-dystopia-catastrophe-bind-toward-a-third-attractor",
+    "target_slug": "the-iatrogenic-spiral-when-solutions-become-tomorrows-problems",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "when-gurus-replace-priests-authority-in-the-attention-economy",
+    "target_slug": "open-sourcing-ecstasy-against-institutional-gatekeeping",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-simultaneous-collapse-of-both-meaning-frameworks",
+    "target_slug": "three-epistemic-capacities-against-civilizational-collapse",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "attention-misaligned-agency-and-the-curated-world",
+    "target_slug": "the-meta-problem-attention-sensemaking-civilization",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "attention-misaligned-agency-and-the-curated-world",
+    "target_slug": "biological-vulnerability-and-the-modern-economic-trap",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "attention-misaligned-agency-and-the-curated-world",
+    "target_slug": "when-gurus-replace-priests-authority-in-the-attention-economy",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "rapture-ideologies-and-the-forgotten-ecstasy",
+    "target_slug": "open-sourcing-ecstasy-against-institutional-gatekeeping",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "rapture-ideologies-and-the-forgotten-ecstasy",
+    "target_slug": "repeating-collapse-why-transformational-culture-fails-forward",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "conditioning-not-nature-the-cultivable-human",
+    "target_slug": "stone-age-minds-in-hyper-modern-worlds",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "conditioning-not-nature-the-cultivable-human",
+    "target_slug": "advancement-without-betterment-the-moral-blindness-of-progress",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "conditioning-not-nature-the-cultivable-human",
+    "target_slug": "modernisms-operating-system-scaled-for-a-vanished-world",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-invisible-architecture-of-misunderstanding",
+    "target_slug": "monoculture-of-communication-relationships-as-the-substrate-of-life",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "when-dunbars-ceiling-breaks-game-as-structural-inheritance",
+    "target_slug": "cultural-seeds-and-civilizational-succession",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "when-dunbars-ceiling-breaks-game-as-structural-inheritance",
+    "target_slug": "the-superorganisms-inheritance-ai-and-structural-collapse",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-scaffolding-is-the-intelligence",
+    "target_slug": "wisdoms-architecture-when-good-intentions-generate-cults",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-scaffolding-is-the-intelligence",
+    "target_slug": "attention-misaligned-agency-and-the-curated-world",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-scaffolding-is-the-intelligence",
+    "target_slug": "stone-age-minds-in-hyper-modern-worlds",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-dual-collapse-when-meaning-systems-fail",
+    "target_slug": "the-simultaneous-collapse-of-both-meaning-frameworks",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-dual-collapse-when-meaning-systems-fail",
+    "target_slug": "when-meaning-collapses-building-resilience-without-center",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-dual-collapse-when-meaning-systems-fail",
+    "target_slug": "three-epistemic-capacities-against-civilizational-collapse",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-iatrogenic-spiral-when-solutions-become-tomorrows-problems",
+    "target_slug": "the-superorganisms-inheritance-ai-and-structural-collapse",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-iatrogenic-spiral-when-solutions-become-tomorrows-problems",
+    "target_slug": "when-harm-becomes-irreversible-the-inverted-precautionary-moment",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-nine-cell-architecture-of-civilizational-response",
+    "target_slug": "displacement-and-the-civilizational-design-problem",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "expertise-as-the-erosion-of-certainty",
+    "target_slug": "binary-as-tool-not-truth-knowing-when-to-put-it-down",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "exponential-curves-running-in-opposite-directions",
+    "target_slug": "advancement-without-betterment-the-moral-blindness-of-progress",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "exponential-curves-running-in-opposite-directions",
+    "target_slug": "the-dystopia-catastrophe-bind-toward-a-third-attractor",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "exponential-finance-against-finite-earth",
+    "target_slug": "optimizations-paradox-why-efficiency-accelerates-extraction",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "wisdoms-architecture-when-good-intentions-generate-cults",
+    "target_slug": "repeating-collapse-why-transformational-culture-fails-forward",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "wisdoms-architecture-when-good-intentions-generate-cults",
+    "target_slug": "beyond-fear-fight-follow-fuck-communitas-without-collapse",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-contingent-civilizational-fork-backtracking-toward-wholeness",
+    "target_slug": "pathogenesis-of-civilization-beyond-symptomatic-crisis-management",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-contingent-civilizational-fork-backtracking-toward-wholeness",
+    "target_slug": "open-sourcing-ecstasy-against-institutional-gatekeeping",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-runaway-train-without-a-driver",
+    "target_slug": "the-superorganisms-inheritance-ai-and-structural-collapse",
+    "relationship_type": "expands"
+  },
+  {
+    "source_slug": "the-runaway-train-without-a-driver",
+    "target_slug": "exponential-finance-against-finite-earth",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "pathogenesis-of-civilization-beyond-symptomatic-crisis-management",
+    "target_slug": "the-dystopia-catastrophe-bind-toward-a-third-attractor",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "pathogenesis-of-civilization-beyond-symptomatic-crisis-management",
+    "target_slug": "the-metacrisis-when-underlying-dynamics-compound-into-civilizational-peril",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-metacrisis-when-underlying-dynamics-compound-into-civilizational-peril",
+    "target_slug": "displacement-and-the-civilizational-design-problem",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "when-meaning-collapses-building-resilience-without-center",
+    "target_slug": "the-simultaneous-collapse-of-both-meaning-frameworks",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "when-meaning-collapses-building-resilience-without-center",
+    "target_slug": "the-dual-collapse-when-meaning-systems-fail",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "when-meaning-collapses-building-resilience-without-center",
+    "target_slug": "three-epistemic-capacities-against-civilizational-collapse",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "profits-hidden-ledger-externalizing-collapse",
+    "target_slug": "exponential-finance-against-finite-earth",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "profits-hidden-ledger-externalizing-collapse",
+    "target_slug": "optimizations-paradox-why-efficiency-accelerates-extraction",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "profits-hidden-ledger-externalizing-collapse",
+    "target_slug": "advancement-without-betterment-the-moral-blindness-of-progress",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "meaning-in-the-noise-relevance-realization-and-optimal-grip",
+    "target_slug": "the-brain-as-survival-simulation-prediction-before-peril",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "sensemaking-as-civilizational-infrastructure",
+    "target_slug": "the-map-precedes-the-choice-sense-making-as-reality-navigation",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "displacement-and-the-civilizational-design-problem",
+    "target_slug": "the-metacrisis-when-underlying-dynamics-compound-into-civilizational-peril",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "sensemaking-as-civilizational-infrastructure",
+    "target_slug": "the-metacrisis-when-underlying-dynamics-compound-into-civilizational-peril",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "displacement-and-the-civilizational-design-problem",
+    "target_slug": "pathogenesis-of-civilization-beyond-symptomatic-crisis-management",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "sensemaking-as-civilizational-infrastructure",
+    "target_slug": "the-meta-problem-attention-sensemaking-civilization",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "displacement-and-the-civilizational-design-problem",
+    "target_slug": "the-iatrogenic-spiral-when-solutions-become-tomorrows-problems",
+    "relationship_type": "exemplifies"
+  }
+]
