@@ -7,7 +7,7 @@ This repository is a complete, nightly export of the knowledge graph from
 of metamodernism, sensemaking, the metacrisis, game theory, consciousness studies,
 and adjacent ideas.
 
-Last synced: **2026-03-10** · 77 nodes · 16 observers
+Last synced: **2026-03-11** · 77 nodes · 16 observers
 
 ---
 
