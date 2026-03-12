@@ -8,8 +8,6 @@ source_url: "https://www.youtube.com/watch?v=-Ew6nRTLFlU"
 source_author: "Brendan Graham Dempsey"
 tags: [Epistemology, Complexity Science, Evolutionary Biology, Systems Thinking]
 edges:
-  - target: meaning-as-cosmic-information-architecture
-    type: extends
   - target: meaning-as-the-physics-of-persistence
     type: grounds
   - target: order-against-the-drift-energy-as-existence

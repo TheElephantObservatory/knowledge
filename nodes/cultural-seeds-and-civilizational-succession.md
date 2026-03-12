@@ -8,8 +8,6 @@ source_url: "https://www.youtube.com/watch?v=0374g6vuGjg"
 source_author: "Rebel Wisdom"
 tags: [Cultural Evolution, Civilizational Risk, Systems Thinking, Meta-Crisis]
 edges:
-  - target: the-arcana-americana-inherited-wisdom-in-living-transmission
-    type: exemplifies
   - target: when-meaning-collapses-building-resilience-without-center
     type: extends
   - target: the-nine-cell-architecture-of-civilizational-response

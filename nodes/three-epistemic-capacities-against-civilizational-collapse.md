@@ -8,12 +8,8 @@ source_url: "https://www.youtube.com/watch?v=-mNP6pQcH88"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Epistemology, Civilizational Risk, Collective Intelligence, Systems Thinking]
 edges:
-  - target: the-triadic-epistemic-uprising-beyond-fragmented-reason
-    type: extends
   - target: the-nine-cell-architecture-of-civilizational-response
     type: applies
-  - target: the-dual-collapse-when-meaning-systems-fail
-    type: grounds
 created_at: "2026-03-08"
 ---
 

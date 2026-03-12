@@ -13,8 +13,6 @@ edges:
     type: extends
   - target: the-contingent-civilizational-fork-backtracking-toward-wholeness
     type: grounds
-  - target: the-arcana-americana-inherited-wisdom-in-living-transmission
-    type: exemplifies
   - target: ambiguity-as-weapon-when-compassion-enables-capture
     type: applies
 created_at: "2026-03-08"

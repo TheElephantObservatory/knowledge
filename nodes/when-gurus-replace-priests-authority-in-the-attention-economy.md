@@ -12,8 +12,6 @@ edges:
     type: extends
   - target: wisdoms-architecture-when-good-intentions-generate-cults
     type: extends
-  - target: the-dual-collapse-when-meaning-systems-fail
-    type: grounds
   - target: open-sourcing-ecstasy-against-institutional-gatekeeping
     type: extends
 created_at: "2026-03-08"

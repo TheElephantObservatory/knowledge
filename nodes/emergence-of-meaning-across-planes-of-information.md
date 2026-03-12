@@ -16,8 +16,6 @@ edges:
     type: extends
   - target: meanings-recursive-ascent-from-entropy-to-civilization
     type: extends
-  - target: meaning-as-cosmic-information-architecture
-    type: grounds
 created_at: "2026-03-07"
 ---
 

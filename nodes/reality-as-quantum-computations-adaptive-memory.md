@@ -12,8 +12,6 @@ edges:
     type: applies
   - target: existence-as-informational-achievement-against-entropy
     type: grounds
-  - target: meaning-as-cosmic-information-architecture
-    type: extends
 created_at: "2026-03-07"
 ---
 

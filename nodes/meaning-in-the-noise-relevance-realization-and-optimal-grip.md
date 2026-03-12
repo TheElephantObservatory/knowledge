@@ -10,8 +10,6 @@ tags: [Relevance Realization, Embodied Cognition, Systems Thinking, Consciousnes
 edges:
   - target: meaning-as-the-physics-of-persistence
     type: extends
-  - target: meaning-as-cosmic-information-architecture
-    type: applies
   - target: life-as-embodied-meaning-evolutions-three-billion-year-learning
     type: grounds
   - target: the-brain-as-survival-simulation-prediction-before-peril

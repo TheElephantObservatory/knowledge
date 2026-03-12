@@ -12,8 +12,6 @@ edges:
     type: contrasts
   - target: advancement-without-betterment-the-moral-blindness-of-progress
     type: extends
-  - target: the-arcana-americana-inherited-wisdom-in-living-transmission
-    type: applies
   - target: binary-as-tool-not-truth-knowing-when-to-put-it-down
     type: contrasts
   - target: modernisms-operating-system-scaled-for-a-vanished-world

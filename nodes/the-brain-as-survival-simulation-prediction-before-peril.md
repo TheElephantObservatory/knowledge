@@ -12,8 +12,6 @@ edges:
     type: extends
   - target: teleology-without-transcendence-absence-as-causal-force
     type: grounds
-  - target: meaning-as-cosmic-information-architecture
-    type: applies
   - target: meaning-in-the-noise-relevance-realization-and-optimal-grip
     type: grounds
 created_at: "2026-03-07"

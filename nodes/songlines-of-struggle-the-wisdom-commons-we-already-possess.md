@@ -7,9 +7,6 @@ source_title: "Body and Soul #5 - Giving Birth to an Emergent Wisdom Commons w/ 
 source_url: "https://www.youtube.com/watch?v=stLFyCOEJP0"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Cultural Evolution, Collective Intelligence, Wisdom Traditions, Sensemaking]
-edges:
-  - target: the-arcana-americana-inherited-wisdom-in-living-transmission
-    type: extends
 created_at: "2026-03-08"
 ---
 

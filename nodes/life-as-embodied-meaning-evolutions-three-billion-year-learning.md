@@ -18,8 +18,6 @@ edges:
     type: grounds
   - target: meaning-as-the-physics-of-persistence
     type: applies
-  - target: meaning-as-cosmic-information-architecture
-    type: exemplifies
 created_at: "2026-03-07"
 ---
 

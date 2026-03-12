@@ -10,8 +10,6 @@ tags: [Phenomenology, Civilizational Risk, Cultural Evolution, Meaning Crisis]
 edges:
   - target: cultural-seeds-and-civilizational-succession
     type: extends
-  - target: the-dual-collapse-when-meaning-systems-fail
-    type: grounds
   - target: the-metacrisis-when-underlying-dynamics-compound-into-civilizational-peril
     type: applies
   - target: pathogenesis-of-civilization-beyond-symptomatic-crisis-management

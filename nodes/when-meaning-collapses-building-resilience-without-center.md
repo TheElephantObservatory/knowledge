@@ -16,8 +16,6 @@ edges:
     type: exemplifies
   - target: the-simultaneous-collapse-of-both-meaning-frameworks
     type: extends
-  - target: the-dual-collapse-when-meaning-systems-fail
-    type: extends
   - target: three-epistemic-capacities-against-civilizational-collapse
     type: applies
 created_at: "2026-03-08"

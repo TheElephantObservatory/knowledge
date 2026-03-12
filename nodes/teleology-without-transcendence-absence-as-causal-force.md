@@ -12,8 +12,6 @@ edges:
     type: extends
   - target: meaning-descends-teleology-from-physics-to-culture
     type: applies
-  - target: meaning-as-cosmic-information-architecture
-    type: grounds
   - target: meanings-recursive-ascent-from-entropy-to-civilization
     type: extends
 created_at: "2026-03-07"

@@ -8,8 +8,6 @@ source_url: "https://www.youtube.com/watch?v=duLh2ZCBkeM"
 source_author: "Brendan Graham Dempsey"
 tags: [Information Theory, Complexity Science, Relevance Realization]
 edges:
-  - target: meaning-as-cosmic-information-architecture
-    type: extends
   - target: meaning-descends-teleology-from-physics-to-culture
     type: applies
   - target: meaning-in-the-noise-relevance-realization-and-optimal-grip

@@ -25,11 +25,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "reality-as-quantum-computations-adaptive-memory",
-    "target_slug": "meaning-as-cosmic-information-architecture",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "existence-as-informational-achievement-against-entropy",
     "target_slug": "order-against-the-drift-energy-as-existence",
     "relationship_type": "grounds"
@@ -70,11 +65,6 @@
     "relationship_type": "applies"
   },
   {
-    "source_slug": "teleology-without-transcendence-absence-as-causal-force",
-    "target_slug": "meaning-as-cosmic-information-architecture",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "life-as-embodied-meaning-evolutions-three-billion-year-learning",
     "target_slug": "from-genetic-memory-to-lived-experience-the-cambrian-cognitive-revolution",
     "relationship_type": "extends"
@@ -136,11 +126,6 @@
   },
   {
     "source_slug": "meaning-in-the-noise-relevance-realization-and-optimal-grip",
-    "target_slug": "meaning-as-cosmic-information-architecture",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "meaning-in-the-noise-relevance-realization-and-optimal-grip",
     "target_slug": "life-as-embodied-meaning-evolutions-three-billion-year-learning",
     "relationship_type": "grounds"
   },
@@ -153,11 +138,6 @@
     "source_slug": "the-brain-as-survival-simulation-prediction-before-peril",
     "target_slug": "teleology-without-transcendence-absence-as-causal-force",
     "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "the-brain-as-survival-simulation-prediction-before-peril",
-    "target_slug": "meaning-as-cosmic-information-architecture",
-    "relationship_type": "applies"
   },
   {
     "source_slug": "from-genetic-memory-to-lived-experience-the-cambrian-cognitive-revolution",
@@ -620,16 +600,6 @@
     "relationship_type": "applies"
   },
   {
-    "source_slug": "the-dual-collapse-when-meaning-systems-fail",
-    "target_slug": "the-scaffolding-is-the-intelligence",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-dual-collapse-when-meaning-systems-fail",
-    "target_slug": "sensemaking-as-civilizational-infrastructure",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "rapture-ideologies-and-the-forgotten-ecstasy",
     "target_slug": "the-rapture-structure-salvation-beyond-the-inflection-point",
     "relationship_type": "extends"
@@ -643,11 +613,6 @@
     "source_slug": "rapture-ideologies-and-the-forgotten-ecstasy",
     "target_slug": "when-meaning-collapses-building-resilience-without-center",
     "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "from-race-to-cosmos-the-ontology-of-meaning-making",
-    "target_slug": "the-dual-collapse-when-meaning-systems-fail",
-    "relationship_type": "extends"
   },
   {
     "source_slug": "from-race-to-cosmos-the-ontology-of-meaning-making",
@@ -668,16 +633,6 @@
     "source_slug": "equality-and-liberty-co-constitutive-not-competing",
     "target_slug": "advancement-without-betterment-the-moral-blindness-of-progress",
     "relationship_type": "extends"
-  },
-  {
-    "source_slug": "equality-and-liberty-co-constitutive-not-competing",
-    "target_slug": "the-arcana-americana-inherited-wisdom-in-living-transmission",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "cultural-seeds-and-civilizational-succession",
-    "target_slug": "the-arcana-americana-inherited-wisdom-in-living-transmission",
-    "relationship_type": "exemplifies"
   },
   {
     "source_slug": "cultural-seeds-and-civilizational-succession",
@@ -755,19 +710,9 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "when-gurus-replace-priests-authority-in-the-attention-economy",
-    "target_slug": "the-dual-collapse-when-meaning-systems-fail",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "the-contingent-civilizational-fork-backtracking-toward-wholeness",
     "target_slug": "cultural-seeds-and-civilizational-succession",
     "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-contingent-civilizational-fork-backtracking-toward-wholeness",
-    "target_slug": "the-dual-collapse-when-meaning-systems-fail",
-    "relationship_type": "grounds"
   },
   {
     "source_slug": "the-contingent-civilizational-fork-backtracking-toward-wholeness",
@@ -808,11 +753,6 @@
     "source_slug": "encoding-values-into-capitals-architecture",
     "target_slug": "the-scaffolding-is-the-intelligence",
     "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "the-simultaneous-collapse-of-both-meaning-frameworks",
-    "target_slug": "the-dual-collapse-when-meaning-systems-fail",
-    "relationship_type": "mirrors"
   },
   {
     "source_slug": "the-simultaneous-collapse-of-both-meaning-frameworks",
@@ -890,11 +830,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "open-sourcing-ecstasy-against-institutional-gatekeeping",
-    "target_slug": "the-arcana-americana-inherited-wisdom-in-living-transmission",
-    "relationship_type": "exemplifies"
-  },
-  {
     "source_slug": "stone-age-minds-in-hyper-modern-worlds",
     "target_slug": "exponential-curves-running-in-opposite-directions",
     "relationship_type": "extends"
@@ -925,21 +860,6 @@
     "relationship_type": "applies"
   },
   {
-    "source_slug": "meaning-as-cosmic-information-architecture",
-    "target_slug": "meanings-recursive-ascent-from-entropy-to-civilization",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "meaning-as-cosmic-information-architecture",
-    "target_slug": "meaning-descends-teleology-from-physics-to-culture",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "meaning-as-cosmic-information-architecture",
-    "target_slug": "meaning-as-the-physics-of-persistence",
-    "relationship_type": "exemplifies"
-  },
-  {
     "source_slug": "meaning-descends-teleology-from-physics-to-culture",
     "target_slug": "meanings-recursive-ascent-from-entropy-to-civilization",
     "relationship_type": "extends"
@@ -963,11 +883,6 @@
     "source_slug": "life-as-embodied-meaning-evolutions-three-billion-year-learning",
     "target_slug": "meaning-as-the-physics-of-persistence",
     "relationship_type": "applies"
-  },
-  {
-    "source_slug": "meaning-as-the-physics-of-persistence",
-    "target_slug": "meaning-as-cosmic-information-architecture",
-    "relationship_type": "extends"
   },
   {
     "source_slug": "meaning-as-the-physics-of-persistence",
@@ -1040,16 +955,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "emergence-of-meaning-across-planes-of-information",
-    "target_slug": "meaning-as-cosmic-information-architecture",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "meanings-recursive-ascent-from-entropy-to-civilization",
-    "target_slug": "meaning-as-cosmic-information-architecture",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "meanings-recursive-ascent-from-entropy-to-civilization",
     "target_slug": "meaning-as-the-physics-of-persistence",
     "relationship_type": "grounds"
@@ -1095,11 +1000,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "life-as-embodied-meaning-evolutions-three-billion-year-learning",
-    "target_slug": "meaning-as-cosmic-information-architecture",
-    "relationship_type": "exemplifies"
-  },
-  {
     "source_slug": "meaning-as-the-physics-of-persistence",
     "target_slug": "meanings-recursive-ascent-from-entropy-to-civilization",
     "relationship_type": "extends"
@@ -1113,21 +1013,6 @@
     "source_slug": "the-rationality-trap-why-caution-becomes-civilizationally-irrational",
     "target_slug": "advancement-without-betterment-the-moral-blindness-of-progress",
     "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-triadic-epistemic-uprising-beyond-fragmented-reason",
-    "target_slug": "three-epistemic-capacities-against-civilizational-collapse",
-    "relationship_type": "exemplifies"
-  },
-  {
-    "source_slug": "the-triadic-epistemic-uprising-beyond-fragmented-reason",
-    "target_slug": "the-nine-cell-architecture-of-civilizational-response",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-triadic-epistemic-uprising-beyond-fragmented-reason",
-    "target_slug": "the-map-precedes-the-choice-sense-making-as-reality-navigation",
-    "relationship_type": "grounds"
   },
   {
     "source_slug": "monoculture-of-communication-relationships-as-the-substrate-of-life",
@@ -1146,23 +1031,8 @@
   },
   {
     "source_slug": "three-epistemic-capacities-against-civilizational-collapse",
-    "target_slug": "the-triadic-epistemic-uprising-beyond-fragmented-reason",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "three-epistemic-capacities-against-civilizational-collapse",
     "target_slug": "the-nine-cell-architecture-of-civilizational-response",
     "relationship_type": "applies"
-  },
-  {
-    "source_slug": "three-epistemic-capacities-against-civilizational-collapse",
-    "target_slug": "the-dual-collapse-when-meaning-systems-fail",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "songlines-of-struggle-the-wisdom-commons-we-already-possess",
-    "target_slug": "the-arcana-americana-inherited-wisdom-in-living-transmission",
-    "relationship_type": "extends"
   },
   {
     "source_slug": "the-meta-problem-attention-sensemaking-civilization",
@@ -1271,27 +1141,12 @@
   },
   {
     "source_slug": "from-race-to-cosmos-the-ontology-of-meaning-making",
-    "target_slug": "meaning-as-cosmic-information-architecture",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "from-race-to-cosmos-the-ontology-of-meaning-making",
     "target_slug": "the-map-precedes-the-choice-sense-making-as-reality-navigation",
     "relationship_type": "applies"
   },
   {
     "source_slug": "from-race-to-cosmos-the-ontology-of-meaning-making",
     "target_slug": "pathogenesis-of-civilization-beyond-symptomatic-crisis-management",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "the-arcana-americana-inherited-wisdom-in-living-transmission",
-    "target_slug": "songlines-of-struggle-the-wisdom-commons-we-already-possess",
-    "relationship_type": "exemplifies"
-  },
-  {
-    "source_slug": "the-arcana-americana-inherited-wisdom-in-living-transmission",
-    "target_slug": "open-sourcing-ecstasy-against-institutional-gatekeeping",
     "relationship_type": "grounds"
   },
   {
@@ -1495,21 +1350,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "the-dual-collapse-when-meaning-systems-fail",
-    "target_slug": "the-simultaneous-collapse-of-both-meaning-frameworks",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-dual-collapse-when-meaning-systems-fail",
-    "target_slug": "when-meaning-collapses-building-resilience-without-center",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-dual-collapse-when-meaning-systems-fail",
-    "target_slug": "three-epistemic-capacities-against-civilizational-collapse",
-    "relationship_type": "applies"
-  },
-  {
     "source_slug": "the-iatrogenic-spiral-when-solutions-become-tomorrows-problems",
     "target_slug": "the-superorganisms-inheritance-ai-and-structural-collapse",
     "relationship_type": "grounds"
@@ -1592,11 +1432,6 @@
   {
     "source_slug": "when-meaning-collapses-building-resilience-without-center",
     "target_slug": "the-simultaneous-collapse-of-both-meaning-frameworks",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "when-meaning-collapses-building-resilience-without-center",
-    "target_slug": "the-dual-collapse-when-meaning-systems-fail",
     "relationship_type": "extends"
   },
   {

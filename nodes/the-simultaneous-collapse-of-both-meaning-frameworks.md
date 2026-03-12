@@ -8,8 +8,6 @@ source_url: "https://www.youtube.com/watch?v=4iTdV2Tnr8U"
 source_author: "The Jim Rutt Show"
 tags: [Meaning Crisis, Meta-Crisis, Epistemology, Sensemaking]
 edges:
-  - target: the-dual-collapse-when-meaning-systems-fail
-    type: mirrors
   - target: when-meaning-collapses-building-resilience-without-center
     type: mirrors
   - target: rapture-ideologies-and-the-forgotten-ecstasy

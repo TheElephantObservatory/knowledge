@@ -8,14 +8,10 @@ source_url: "https://www.youtube.com/watch?v=ZuCieejIEbI"
 source_author: "John Vervaeke’s Lectern"
 tags: [Ontological Design, Relational Ontology, Meaning Crisis, Narrative and Myth]
 edges:
-  - target: the-dual-collapse-when-meaning-systems-fail
-    type: extends
   - target: when-meaning-collapses-building-resilience-without-center
     type: extends
   - target: sensemaking-as-civilizational-infrastructure
     type: applies
-  - target: meaning-as-cosmic-information-architecture
-    type: extends
   - target: the-map-precedes-the-choice-sense-making-as-reality-navigation
     type: applies
   - target: pathogenesis-of-civilization-beyond-symptomatic-crisis-management
