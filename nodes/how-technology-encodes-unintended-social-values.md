@@ -9,8 +9,6 @@ source_url: "https://www.youtube.com/watch?v=UGE9c4d26CU"
 source_author: "The Jim Rutt Show"
 tags: [Ontological Design, Social Technology, Systems Thinking, Ethics]
 edges:
-  - target: ai-and-the-systematic-replacement-of-living-communication
-    type: extends
   - target: the-structural-incompleteness-of-optimization-metrics
     type: applies
   - target: the-misidentification-of-value-in-modern-civilization

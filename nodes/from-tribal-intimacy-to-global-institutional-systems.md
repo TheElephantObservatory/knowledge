@@ -10,9 +10,9 @@ source_author: "Rebel Wisdom"
 tags: [Systems Thinking, Civilizational Risk, Game B, Cultural Evolution]
 edges:
   - target: shared-sensemaking-as-the-foundation-for-global-action
-    type: grounds
+    type: extends
   - target: enlightenment-infrastructure-in-a-scaled-world
-    type: contrasts
+    type: grounds
 created_at: "2026-03-08"
 ---
 

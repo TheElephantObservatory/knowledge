@@ -9,12 +9,12 @@ source_url: "https://www.youtube.com/watch?v=HSV_GzIeeS4"
 source_author: "Nate Hagens"
 tags: [Wisdom Traditions, Consciousness Studies, Cultural Evolution, Civilizational Risk]
 edges:
+  - target: locating-the-wrong-turn-in-western-history
+    type: grounds
   - target: structural-failure-modes-of-collective-sensemaking
     type: extends
   - target: how-pluralistic-hesitation-enables-bad-faith-actors
     type: applies
-  - target: locating-the-wrong-turn-in-western-history
-    type: grounds
 created_at: "2026-03-08"
 ---
 

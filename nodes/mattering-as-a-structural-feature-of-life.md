@@ -9,16 +9,16 @@ source_url: "https://www.youtube.com/watch?v=AxLi96DkUsc"
 source_author: "John Vervaeke’s Lectern"
 tags: [Relevance Realization, Meaning Crisis, Systems Thinking, Embodied Cognition]
 edges:
-  - target: the-misidentification-of-value-in-modern-civilization
-    type: contrasts
-  - target: recovering-the-singular-source-of-human-value
-    type: extends
-  - target: the-neural-process-of-constructing-meaningful-worlds
-    type: extends
   - target: the-developmental-origin-of-value-perception
     type: grounds
+  - target: recovering-the-singular-source-of-human-value
+    type: extends
   - target: mapping-reality-from-energy-to-culture
     type: grounds
+  - target: the-neural-process-of-constructing-meaningful-worlds
+    type: extends
+  - target: the-misidentification-of-value-in-modern-civilization
+    type: contrasts
 created_at: "2026-03-15"
 ---
 

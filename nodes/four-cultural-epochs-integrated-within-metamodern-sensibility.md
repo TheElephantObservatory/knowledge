@@ -10,10 +10,10 @@ source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Metamodernism, Epistemology, Cultural Evolution, UTOK]
 edges:
   - target: mapping-reality-from-energy-to-culture
-    type: grounds
-  - target: the-fifth-joint-point-of-evolutionary-complexity
     type: extends
   - target: myth-as-a-long-term-survival-technology
+    type: applies
+  - target: the-fifth-joint-point-of-evolutionary-complexity
     type: extends
 created_at: "2026-03-15"
 ---

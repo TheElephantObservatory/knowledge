@@ -9,16 +9,12 @@ source_url: "https://www.youtube.com/watch?v=nTzkiYwKzXM"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Philosophy of Mind, Ontological Design, Epistemology]
 edges:
-  - target: the-foundational-crisis-of-psychological-definition
-    type: extends
   - target: the-four-distinct-layers-of-mind
-    type: grounds
-  - target: the-structural-unification-of-psychological-science
-    type: exemplifies
+    type: extends
   - target: the-fragmented-architecture-of-human-psychology
     type: extends
   - target: metaphysical-architecture-for-the-psyche-in-crisis
-    type: extends
+    type: grounds
 created_at: "2026-03-15"
 ---
 

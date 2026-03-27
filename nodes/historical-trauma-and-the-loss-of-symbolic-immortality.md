@@ -11,12 +11,10 @@ tags: [Symbolism, Meaning Crisis, Consciousness Studies, Civilizational Risk]
 edges:
   - target: myth-as-a-long-term-survival-technology
     type: extends
-  - target: the-spiritual-crisis-beneath-our-global-breakdown
-    type: grounds
   - target: shared-cosmic-narratives-and-civilizational-value
     type: extends
-  - target: integrating-objective-science-and-interior-wisdom
-    type: applies
+  - target: the-spiritual-crisis-beneath-our-global-breakdown
+    type: grounds
 created_at: "2026-03-15"
 ---
 

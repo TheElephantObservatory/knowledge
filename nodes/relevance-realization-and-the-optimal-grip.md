@@ -9,8 +9,8 @@ source_url: "https://www.youtube.com/watch?v=ChTmQ4iTYpo"
 source_author: "Brendan Graham Dempsey"
 tags: [Relevance Realization, Embodied Cognition, Systems Thinking, Consciousness Studies]
 edges:
-  - target: information-as-the-mechanism-of-physical-existence
-    type: contrasts
+  - target: genetic-information-and-the-evolution-of-meaning
+    type: grounds
   - target: the-transition-from-genetic-memory-to-neural-learning
     type: extends
 created_at: "2026-03-07"

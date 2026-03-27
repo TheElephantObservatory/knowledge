@@ -9,12 +9,14 @@ source_url: "https://www.youtube.com/watch?v=0374g6vuGjg"
 source_author: "Rebel Wisdom"
 tags: [Embodied Cognition, Systems Thinking, Cognitive Science, Ontological Design]
 edges:
-  - target: the-continuity-of-meaning-from-matter-to-culture
-    type: grounds
+  - target: enlightenment-infrastructure-in-a-scaled-world
+    type: extends
   - target: reclaiming-agency-from-the-curated-information-environment
     type: applies
+  - target: the-continuity-of-meaning-from-matter-to-culture
+    type: grounds
   - target: three-pillars-of-a-new-enlightenment
-    type: applies
+    type: extends
 created_at: "2026-03-08"
 ---
 

@@ -9,16 +9,14 @@ source_url: "https://www.youtube.com/watch?v=9vFZcok3TLY"
 source_author: "The Jim Rutt Show"
 tags: [Ontological Design, Consciousness Studies, Process Philosophy, Philosophy of Mind]
 edges:
-  - target: mapping-reality-from-energy-to-culture
-    type: grounds
-  - target: the-neural-process-of-constructing-meaningful-worlds
-    type: applies
   - target: building-a-metapsychology-of-qualitative-transformation
     type: extends
   - target: mattering-as-a-structural-feature-of-life
-    type: exemplifies
+    type: grounds
   - target: the-four-distinct-layers-of-mind
-    type: extends
+    type: exemplifies
+  - target: the-neural-process-of-constructing-meaningful-worlds
+    type: applies
 created_at: "2026-03-15"
 ---
 

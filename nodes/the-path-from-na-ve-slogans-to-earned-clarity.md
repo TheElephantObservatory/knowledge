@@ -9,14 +9,10 @@ source_url: "https://www.youtube.com/watch?v=0374g6vuGjg"
 source_author: "Rebel Wisdom"
 tags: [Epistemology, Complexity Science, Sensemaking, Integral Theory]
 edges:
-  - target: the-structural-barriers-to-shared-systems-narratives
-    type: exemplifies
-  - target: the-generative-dynamics-of-civilizational-self-termination
-    type: applies
-  - target: binary-logic-and-the-practice-of-contextualism
-    type: contrasts
   - target: the-three-by-three-matrix-of-civilizational-response
     type: applies
+  - target: the-generative-dynamics-of-civilizational-self-termination
+    type: extends
 created_at: "2026-03-08"
 ---
 

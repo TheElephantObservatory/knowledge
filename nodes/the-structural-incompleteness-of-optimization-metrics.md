@@ -9,16 +9,14 @@ source_url: "https://www.youtube.com/watch?v=Kr2nhiNCOXo"
 source_author: "The Stoa"
 tags: [Epistemology, Systems Thinking, Relevance Realization, Meta-Crisis]
 edges:
-  - target: mattering-as-a-structural-feature-of-life
+  - target: the-misidentification-of-value-in-modern-civilization
     type: grounds
   - target: recovering-the-singular-source-of-human-value
     type: extends
-  - target: the-misidentification-of-value-in-modern-civilization
-    type: extends
+  - target: mattering-as-a-structural-feature-of-life
+    type: contrasts
   - target: the-neural-process-of-constructing-meaningful-worlds
     type: grounds
-  - target: ai-and-the-systematic-replacement-of-living-communication
-    type: exemplifies
 created_at: "2026-03-15"
 ---
 

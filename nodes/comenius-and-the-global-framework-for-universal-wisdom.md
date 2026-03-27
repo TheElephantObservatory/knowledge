@@ -9,12 +9,12 @@ source_url: "https://www.youtube.com/watch?v=GWxH9khqd3A"
 source_author: "PERSPECTIVA"
 tags: [Epistemology, Wisdom Traditions, Sensemaking]
 edges:
-  - target: structural-educational-lag-and-civilizational-collapse
-    type: grounds
-  - target: the-capability-crisis-of-unjust-educational-systems
-    type: extends
   - target: the-structural-inability-to-transmit-human-meaning
     type: contrasts
+  - target: the-capability-crisis-of-unjust-educational-systems
+    type: extends
+  - target: structural-educational-lag-and-civilizational-collapse
+    type: grounds
   - target: shared-cosmic-narratives-and-civilizational-value
     type: extends
 created_at: "2026-03-15"

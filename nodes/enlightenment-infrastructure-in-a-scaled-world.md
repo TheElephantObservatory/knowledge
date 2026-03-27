@@ -11,14 +11,14 @@ tags: [Epistemology, Meta-Crisis, Systems Thinking, Cultural Evolution]
 edges:
   - target: three-pillars-of-a-new-enlightenment
     type: extends
-  - target: a-decentralized-toolkit-for-designing-new-communities
-    type: extends
   - target: the-simultaneous-collapse-of-sacred-and-secular-authority
     type: extends
-  - target: biological-drivers-of-culture-and-political-failure
-    type: contrasts
   - target: decoupling-technical-advancement-from-human-betterment
     type: contrasts
+  - target: biological-drivers-of-culture-and-political-failure
+    type: contrasts
+  - target: a-decentralized-toolkit-for-designing-new-communities
+    type: extends
 created_at: "2026-03-08"
 ---
 

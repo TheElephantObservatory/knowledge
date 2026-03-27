@@ -9,12 +9,12 @@ source_url: "https://www.youtube.com/watch?v=HNpB8RhM5Tk"
 source_author: "Life Itself"
 tags: [Philosophy of Mind, Developmental Psychology, Consciousness Studies, Epistemology]
 edges:
+  - target: ai-mimicry-and-the-crisis-of-human-formation
+    type: extends
+  - target: the-category-error-of-machine-personhood
+    type: grounds
   - target: the-developmental-origin-of-value-perception
     type: grounds
-  - target: how-chatbots-hijack-the-human-bonding-system
-    type: extends
-  - target: commercial-incentives-and-the-psychedelic-movement
-    type: contrasts
 created_at: "2026-03-15"
 ---
 

@@ -9,16 +9,16 @@ source_url: "https://www.youtube.com/watch?v=ML8FxA0ClPE"
 source_author: "Rebel Wisdom"
 tags: [Narrative and Myth, Meta-Crisis, Meaning Crisis, Civilizational Risk]
 edges:
-  - target: shared-logic-across-religious-and-secular-raptures
-    type: extends
   - target: the-competitive-logic-of-technological-acceleration
     type: grounds
+  - target: ai-acceleration-of-the-global-economic-superorganism
+    type: grounds
+  - target: shared-logic-across-religious-and-secular-raptures
+    type: extends
   - target: open-sourcing-ecstasy-against-institutional-gatekeeping
     type: extends
   - target: structural-failure-modes-of-collective-sensemaking
     type: exemplifies
-  - target: ai-acceleration-of-the-global-economic-superorganism
-    type: grounds
 created_at: "2026-03-08"
 ---
 

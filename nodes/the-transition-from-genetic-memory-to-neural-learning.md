@@ -9,11 +9,11 @@ source_url: "https://www.youtube.com/watch?v=ChTmQ4iTYpo"
 source_author: "Brendan Graham Dempsey"
 tags: [Evolutionary Biology, Philosophy of Mind, Complexity Science, Embodied Cognition]
 edges:
-  - target: from-thermodynamic-survival-to-cultural-meaning
-    type: extends
   - target: how-purpose-emerges-from-the-physics-of-absence
     type: grounds
   - target: propositional-grammar-and-the-evolution-of-personhood
+    type: extends
+  - target: from-thermodynamic-survival-to-cultural-meaning
     type: extends
 created_at: "2026-03-07"
 ---

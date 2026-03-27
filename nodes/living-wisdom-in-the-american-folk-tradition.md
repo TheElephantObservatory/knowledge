@@ -9,14 +9,14 @@ source_url: "https://www.youtube.com/watch?v=stLFyCOEJP0"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Cultural Evolution, Collective Intelligence, Wisdom Traditions, Sensemaking]
 edges:
-  - target: cultural-continuity-strategies-for-prosocial-communities
-    type: extends
-  - target: from-tribal-intimacy-to-global-institutional-systems
-    type: grounds
-  - target: validating-local-action-during-global-crisis
-    type: applies
   - target: open-sourcing-ecstasy-against-institutional-gatekeeping
     type: exemplifies
+  - target: cultural-continuity-strategies-for-prosocial-communities
+    type: extends
+  - target: validating-local-action-during-global-crisis
+    type: applies
+  - target: from-tribal-intimacy-to-global-institutional-systems
+    type: grounds
 created_at: "2026-03-08"
 ---
 

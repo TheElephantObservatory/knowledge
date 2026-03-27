@@ -9,12 +9,16 @@ source_url: "https://www.youtube.com/watch?v=_P8PLHvZygo"
 source_author: "Nate Hagens"
 tags: [Civilizational Risk, Systems Thinking, Complexity Science, Meta-Crisis]
 edges:
-  - target: from-tribal-intimacy-to-global-institutional-systems
-    type: grounds
-  - target: the-blind-superorganism-of-global-economic-growth-1
+  - target: exponential-financial-systems-within-finite-physical-realities
     type: grounds
   - target: ai-optimization-of-global-fossil-fuel-extraction
     type: exemplifies
+  - target: the-generative-dynamics-of-civilizational-self-termination
+    type: extends
+  - target: the-blind-superorganism-of-global-economic-growth-1
+    type: extends
+  - target: the-competitive-logic-of-technological-acceleration
+    type: extends
 created_at: "2026-03-07"
 ---
 

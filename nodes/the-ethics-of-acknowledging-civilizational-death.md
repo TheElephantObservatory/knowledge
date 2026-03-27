@@ -9,14 +9,14 @@ source_url: "https://www.youtube.com/watch?v=m_c2-Bs1BqM"
 source_author: "Rebel Wisdom"
 tags: [Ethics, Epistemology, Civilizational Risk, Meaning Crisis]
 edges:
-  - target: the-spiritual-crisis-beneath-our-global-breakdown
-    type: grounds
   - target: ethical-choice-in-the-mythic-present
     type: applies
   - target: navigating-the-irreversible-collapse-of-collective-sensemaking
     type: extends
+  - target: the-spiritual-crisis-beneath-our-global-breakdown
+    type: grounds
   - target: historical-trauma-and-the-loss-of-symbolic-immortality
-    type: extends
+    type: grounds
   - target: psychological-adaptation-and-the-crisis-of-personhood
     type: extends
 created_at: "2026-03-15"

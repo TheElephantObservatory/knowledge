@@ -9,16 +9,14 @@ source_url: "https://www.youtube.com/watch?v=4iTdV2Tnr8U"
 source_author: "The Jim Rutt Show"
 tags: [Meaning Crisis, Meta-Crisis, Epistemology, Sensemaking]
 edges:
-  - target: three-pillars-of-a-new-enlightenment
+  - target: a-decentralized-toolkit-for-designing-new-communities
     type: extends
   - target: shared-sensemaking-as-the-foundation-for-global-action
     type: grounds
-  - target: a-decentralized-toolkit-for-designing-new-communities
-    type: extends
   - target: reclaiming-human-presence-from-the-logic-of-escape
+    type: extends
+  - target: shared-logic-across-religious-and-secular-raptures
     type: exemplifies
-  - target: locating-the-wrong-turn-in-western-history
-    type: grounds
 created_at: "2026-03-08"
 ---
 

@@ -9,16 +9,16 @@ source_url: "https://www.youtube.com/watch?v=tQkQrc3Ant4"
 source_author: "Nate Hagens"
 tags: [Political Philosophy, Complexity Science, Systems Thinking, Meta-Crisis]
 edges:
-  - target: exponential-financial-systems-within-finite-physical-realities
-    type: grounds
-  - target: the-blind-superorganism-of-global-economic-growth-1
-    type: extends
-  - target: encoding-values-into-organizational-governance-and-capital
-    type: applies
   - target: ai-acceleration-of-the-global-economic-superorganism
     type: extends
+  - target: the-blind-superorganism-of-global-economic-growth-1
+    type: extends
   - target: design-criteria-for-a-mature-global-civilization
-    type: exemplifies
+    type: applies
+  - target: exponential-financial-systems-within-finite-physical-realities
+    type: grounds
+  - target: encoding-values-into-organizational-governance-and-capital
+    type: applies
 created_at: "2026-03-07"
 ---
 

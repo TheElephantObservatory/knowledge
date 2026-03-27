@@ -9,12 +9,6 @@ source_url: "https://www.youtube.com/watch?v=HNpB8RhM5Tk"
 source_author: "Life Itself"
 tags: [Ontological Design, Developmental Psychology, Ethics, Philosophy of Mind]
 edges:
-  - target: how-chatbots-hijack-the-human-bonding-system
-    type: extends
-  - target: ai-and-the-systematic-replacement-of-living-communication
-    type: extends
-  - target: how-ai-captures-the-childs-sense-of-truth
-    type: extends
   - target: mapping-reality-from-energy-to-culture
     type: grounds
 created_at: "2026-03-15"

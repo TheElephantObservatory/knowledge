@@ -11,10 +11,12 @@ tags: [Meta-Crisis, Complexity Science, Civilizational Risk, Systems Thinking]
 edges:
   - target: the-periodic-architecture-of-scientific-dimensions
     type: extends
-  - target: the-structural-breakdown-of-our-meaning-making-systems
+  - target: the-four-dimensions-of-behavioral-complexity
     type: extends
   - target: mapping-reality-from-energy-to-culture
     type: grounds
+  - target: the-structural-breakdown-of-our-meaning-making-systems
+    type: extends
   - target: psychological-adaptation-and-the-crisis-of-personhood
     type: applies
 created_at: "2026-03-15"

@@ -10,9 +10,7 @@ source_author: "Nate Hagens"
 tags: [Systems Thinking, Complexity Science, Political Philosophy, Civilizational Risk]
 edges:
   - target: the-generative-dynamics-of-civilizational-self-termination
-    type: applies
-  - target: energy-infrastructure-and-the-material-foundations-of-society
-    type: grounds
+    type: extends
 created_at: "2026-03-07"
 ---
 

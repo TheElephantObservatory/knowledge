@@ -13,8 +13,6 @@ edges:
     type: exemplifies
   - target: the-misidentification-of-value-in-modern-civilization
     type: grounds
-  - target: ai-and-the-systematic-replacement-of-living-communication
-    type: extends
 created_at: "2026-03-15"
 ---
 

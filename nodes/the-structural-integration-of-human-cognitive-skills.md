@@ -9,11 +9,11 @@ source_url: "https://www.youtube.com/watch?v=Oka3XTDxbqY"
 source_author: "The Jim Rutt Show"
 tags: [Developmental Psychology, Cognitive Science, Systems Thinking, Epistemology]
 edges:
+  - target: the-fifth-joint-point-of-evolutionary-complexity
+    type: extends
   - target: four-distinct-modes-of-human-cognition
     type: applies
   - target: the-neural-process-of-constructing-meaningful-worlds
-    type: extends
-  - target: the-fifth-joint-point-of-evolutionary-complexity
     type: grounds
 created_at: "2026-03-15"
 ---

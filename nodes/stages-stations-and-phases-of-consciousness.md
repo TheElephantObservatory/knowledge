@@ -9,16 +9,16 @@ source_url: "https://www.youtube.com/watch?v=9f19SwwpCfY"
 source_author: "The Stoa"
 tags: [Developmental Psychology, Consciousness Studies, Complexity Science, Contemplative Practice]
 edges:
+  - target: the-structural-integration-of-human-cognitive-skills
+    type: exemplifies
+  - target: integrating-development-ensoulment-and-transcendence
+    type: extends
   - target: distinguishing-stages-stations-and-consciousness-phases
     type: extends
   - target: the-tripartite-map-of-human-consciousness
     type: contrasts
   - target: building-a-metapsychology-of-qualitative-transformation
     type: grounds
-  - target: integrating-development-ensoulment-and-transcendence
-    type: extends
-  - target: the-structural-integration-of-human-cognitive-skills
-    type: exemplifies
 created_at: "2026-03-15"
 ---
 

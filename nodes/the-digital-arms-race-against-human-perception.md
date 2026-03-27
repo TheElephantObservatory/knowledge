@@ -9,12 +9,14 @@ source_url: "https://www.youtube.com/watch?v=3CdxIATnH_w"
 source_author: "Nate Hagens"
 tags: [Attention Economy, Sensemaking, Collective Intelligence, Meta-Crisis]
 edges:
-  - target: shared-sensemaking-as-the-foundation-for-global-action
-    type: applies
-  - target: communication-as-a-living-relational-ecosystem
+  - target: reclaiming-agency-from-the-curated-information-environment
     type: extends
+  - target: digital-market-incentives-and-the-new-intellectuals
+    type: grounds
   - target: biological-vulnerability-and-the-modern-economic-trap
     type: exemplifies
+  - target: shared-sensemaking-as-the-foundation-for-global-action
+    type: applies
 created_at: "2026-03-08"
 ---
 

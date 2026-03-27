@@ -9,12 +9,14 @@ source_url: "https://www.youtube.com/watch?v=RLZgfzq2dP4"
 source_author: "The Stoa"
 tags: [Phenomenology, Civilizational Risk, Cultural Evolution, Meaning Crisis]
 edges:
+  - target: the-simultaneous-collapse-of-sacred-and-secular-authority
+    type: extends
   - target: a-decentralized-toolkit-for-designing-new-communities
+    type: extends
+  - target: the-structural-trap-of-constant-problem-generation
     type: extends
   - target: reconciling-ancient-biology-with-god-like-technology
     type: grounds
-  - target: the-structural-trap-of-constant-problem-generation
-    type: extends
 created_at: "2026-03-08"
 ---
 

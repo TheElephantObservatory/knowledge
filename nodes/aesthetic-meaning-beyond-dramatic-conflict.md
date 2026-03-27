@@ -9,16 +9,16 @@ source_url: "https://www.youtube.com/watch?v=byau1SegVqw"
 source_author: "The Stoa"
 tags: [Narrative and Myth, Game B, Cultural Evolution]
 edges:
-  - target: ethical-choice-in-the-mythic-present
-    type: extends
-  - target: building-coordination-through-shared-value-stories
-    type: applies
   - target: myth-as-a-long-term-survival-technology
-    type: grounds
-  - target: shared-cosmic-narratives-and-civilizational-value
     type: grounds
   - target: mattering-as-a-structural-feature-of-life
     type: grounds
+  - target: shared-cosmic-narratives-and-civilizational-value
+    type: grounds
+  - target: building-coordination-through-shared-value-stories
+    type: applies
+  - target: ethical-choice-in-the-mythic-present
+    type: extends
 created_at: "2026-03-15"
 ---
 

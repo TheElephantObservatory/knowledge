@@ -9,10 +9,12 @@ source_url: "https://www.youtube.com/watch?v=DeNOLulwSeA"
 source_author: "The Jim Rutt Show"
 tags: [Ethics, Civilizational Risk, Systems Thinking, Existential Risk]
 edges:
+  - target: educational-skill-building-versus-ai-prosthetic-dependency
+    type: applies
   - target: the-structural-inability-to-transmit-human-meaning
     type: extends
-  - target: the-fifth-joint-point-of-evolutionary-complexity
-    type: grounds
+  - target: how-ai-captures-the-childs-sense-of-truth
+    type: extends
 created_at: "2026-03-15"
 ---
 

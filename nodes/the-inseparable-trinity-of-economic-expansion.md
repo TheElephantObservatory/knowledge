@@ -13,10 +13,12 @@ edges:
     type: extends
   - target: the-fifth-joint-point-of-evolutionary-complexity
     type: extends
-  - target: energy-quality-and-the-physics-of-civilizational-scale
-    type: grounds
+  - target: the-fossil-labor-subsidy-of-modern-economics
+    type: exemplifies
   - target: the-misidentification-of-value-in-modern-civilization
     type: contrasts
+  - target: energy-quality-and-the-physics-of-civilizational-scale
+    type: grounds
 created_at: "2026-03-15"
 ---
 

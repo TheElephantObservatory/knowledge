@@ -9,9 +9,9 @@ source_url: "https://www.youtube.com/watch?v=8vceeE4YYrI"
 source_author: "PERSPECTIVA"
 tags: [Developmental Psychology, Philosophy of Mind, Phenomenology, Neuroscience]
 edges:
-  - target: the-misidentification-of-value-in-modern-civilization
-    type: extends
   - target: integrating-development-ensoulment-and-transcendence
+    type: extends
+  - target: the-misidentification-of-value-in-modern-civilization
     type: extends
   - target: the-neural-process-of-constructing-meaningful-worlds
     type: extends

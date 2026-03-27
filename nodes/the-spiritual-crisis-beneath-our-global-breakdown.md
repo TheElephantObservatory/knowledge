@@ -11,10 +11,6 @@ tags: [Meaning Crisis, Existential Risk, Consciousness Studies, Wisdom Tradition
 edges:
   - target: the-misidentification-of-value-in-modern-civilization
     type: grounds
-  - target: mattering-as-a-structural-feature-of-life
-    type: grounds
-  - target: shared-cosmic-narratives-and-civilizational-value
-    type: grounds
 created_at: "2026-03-15"
 ---
 

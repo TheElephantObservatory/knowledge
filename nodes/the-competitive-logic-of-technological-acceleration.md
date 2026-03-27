@@ -9,14 +9,8 @@ source_url: "https://www.youtube.com/watch?v=tQkQrc3Ant4"
 source_author: "Nate Hagens"
 tags: [Civilizational Risk, Game Theory, Systems Thinking, Political Philosophy]
 edges:
-  - target: the-structural-trap-of-constant-problem-generation
-    type: extends
-  - target: the-structural-tension-of-global-coordination-systems
-    type: extends
-  - target: ai-acceleration-of-the-global-economic-superorganism
-    type: grounds
-  - target: competitive-acceleration-and-ai-governance-lag
-    type: exemplifies
+  - target: mandating-safety-proofs-for-irreversible-technologies
+    type: applies
 created_at: "2026-03-07"
 ---
 

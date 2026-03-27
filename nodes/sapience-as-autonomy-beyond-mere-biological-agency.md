@@ -10,9 +10,7 @@ source_author: "Brendan Graham Dempsey"
 tags: [Philosophy of Mind, Epistemology, Evolutionary Biology, Consciousness Studies]
 edges:
   - target: the-category-error-of-machine-personhood
-    type: extends
-  - target: the-neural-process-of-constructing-meaningful-worlds
-    type: grounds
+    type: applies
   - target: mattering-as-a-structural-feature-of-life
     type: grounds
 created_at: "2026-03-15"

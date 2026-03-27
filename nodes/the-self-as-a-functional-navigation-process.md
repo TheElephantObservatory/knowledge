@@ -9,16 +9,12 @@ source_url: "https://www.youtube.com/watch?v=D6m0p_yF8dE"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Philosophy of Mind, Phenomenology, Evolutionary Biology, Systems Thinking]
 edges:
-  - target: the-three-layered-architecture-of-human-self-consciousness
+  - target: the-neural-process-of-constructing-meaningful-worlds
     type: extends
   - target: the-epistemic-distinction-between-science-and-psyche
     type: extends
   - target: integrating-objective-science-and-interior-wisdom
     type: applies
-  - target: the-tripartite-map-of-human-consciousness
-    type: grounds
-  - target: the-neural-process-of-constructing-meaningful-worlds
-    type: extends
 created_at: "2026-03-15"
 ---
 

@@ -9,12 +9,12 @@ source_url: "https://www.youtube.com/watch?v=jH-h3c-KOss"
 source_author: "PERSPECTIVA"
 tags: [Epistemology, Sensemaking, Meta-Crisis, Consciousness Studies]
 edges:
-  - target: the-structural-breakdown-of-our-meaning-making-systems
-    type: grounds
+  - target: the-four-interior-dimensions-of-the-meta-crisis
+    type: extends
   - target: the-neural-process-of-constructing-meaningful-worlds
     type: grounds
-  - target: shared-cosmic-narratives-and-civilizational-value
-    type: extends
+  - target: the-structural-breakdown-of-our-meaning-making-systems
+    type: grounds
   - target: the-fifth-joint-point-of-evolutionary-complexity
     type: extends
 created_at: "2026-03-15"

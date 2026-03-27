@@ -8,11 +8,6 @@ source_title: "Beyond the Meta-Crisis: Zak Stein's Vision for Human Development"
 source_url: "https://www.youtube.com/watch?v=xWpCoJDCgkU"
 source_author: "Life Itself"
 tags: [Meta-Crisis, Ontological Design, Wisdom Traditions, Meaning Crisis]
-edges:
-  - target: the-fifth-joint-point-of-evolutionary-complexity
-    type: grounds
-  - target: shared-cosmic-narratives-and-civilizational-value
-    type: extends
 created_at: "2026-03-15"
 ---
 

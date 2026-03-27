@@ -9,13 +9,15 @@ source_url: "https://www.youtube.com/watch?v=8Es_WTEgZHE"
 source_author: "Rebel Wisdom"
 tags: [Epistemology, Sensemaking, Systems Thinking, Collective Intelligence]
 edges:
-  - target: the-path-from-na-ve-slogans-to-earned-clarity
-    type: extends
   - target: the-necessary-uncertainty-of-genuine-expertise
     type: grounds
-  - target: shared-sensemaking-as-the-foundation-for-global-action
-    type: extends
   - target: structural-failure-modes-of-collective-sensemaking
+    type: extends
+  - target: the-path-from-na-ve-slogans-to-earned-clarity
+    type: extends
+  - target: reclaiming-agency-from-the-curated-information-environment
+    type: applies
+  - target: shared-sensemaking-as-the-foundation-for-global-action
     type: extends
 created_at: "2026-03-08"
 ---

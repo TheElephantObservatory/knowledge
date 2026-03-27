@@ -13,8 +13,6 @@ edges:
     type: grounds
   - target: mapping-reality-from-energy-to-culture
     type: grounds
-  - target: biological-vulnerability-and-the-modern-economic-trap
-    type: grounds
 created_at: "2026-03-15"
 ---
 

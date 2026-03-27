@@ -9,9 +9,9 @@ source_url: "https://www.youtube.com/watch?v=LeaFCcJNCTI"
 source_author: "Brendan Graham Dempsey"
 tags: [Complexity Science, Information Theory, Systems Thinking]
 edges:
-  - target: from-thermodynamic-survival-to-cultural-meaning
-    type: extends
   - target: the-continuity-of-meaning-from-matter-to-culture
+    type: extends
+  - target: from-thermodynamic-survival-to-cultural-meaning
     type: extends
 created_at: "2026-03-07"
 ---

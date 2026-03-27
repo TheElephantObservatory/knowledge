@@ -9,12 +9,14 @@ source_url: "https://www.youtube.com/watch?v=0JXmMQWeC2Y"
 source_author: "Brendan Graham Dempsey"
 tags: [Information Theory, Systems Thinking, Complexity Science]
 edges:
-  - target: information-entropy-and-the-persistence-of-form
+  - target: from-thermodynamic-survival-to-cultural-meaning
     type: extends
   - target: energy-information-and-the-growth-of-complexity
     type: extends
   - target: genetic-information-and-the-evolution-of-meaning
     type: exemplifies
+  - target: information-entropy-and-the-persistence-of-form
+    type: extends
   - target: how-purpose-emerges-from-the-physics-of-absence
     type: extends
 created_at: "2026-03-07"

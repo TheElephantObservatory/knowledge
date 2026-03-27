@@ -9,6 +9,8 @@ source_url: "https://www.youtube.com/watch?v=OpgkPLi3Zww"
 source_author: "Brendan Graham Dempsey"
 tags: [Evolutionary Biology, Information Theory, Ecology, Embodied Cognition]
 edges:
+  - target: from-thermodynamic-survival-to-cultural-meaning
+    type: extends
   - target: the-continuity-of-meaning-from-matter-to-culture
     type: extends
   - target: the-transition-from-genetic-memory-to-neural-learning

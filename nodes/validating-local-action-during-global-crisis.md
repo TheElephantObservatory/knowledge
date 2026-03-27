@@ -9,16 +9,16 @@ source_url: "https://www.youtube.com/watch?v=Kep8Fi_rUUI"
 source_author: "Nate Hagens"
 tags: [Sensemaking, Meta-Crisis, Relevance Realization, Systems Thinking]
 edges:
-  - target: mapping-reality-for-meaningful-choice
-    type: grounds
-  - target: the-three-by-three-matrix-of-civilizational-response
-    type: extends
-  - target: reconciling-ancient-biology-with-god-like-technology
-    type: grounds
   - target: reclaiming-agency-from-the-curated-information-environment
     type: applies
-  - target: a-decentralized-toolkit-for-designing-new-communities
-    type: applies
+  - target: design-criteria-for-a-mature-global-civilization
+    type: grounds
+  - target: mapping-reality-for-meaningful-choice
+    type: grounds
+  - target: the-necessary-uncertainty-of-genuine-expertise
+    type: extends
+  - target: the-three-by-three-matrix-of-civilizational-response
+    type: extends
 created_at: "2026-03-07"
 ---
 

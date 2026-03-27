@@ -9,16 +9,16 @@ source_url: "https://www.youtube.com/watch?v=Kr2nhiNCOXo"
 source_author: "The Stoa"
 tags: [Political Philosophy, Systems Thinking, Relational Ontology, Sensemaking]
 edges:
-  - target: the-structural-incompleteness-of-optimization-metrics
-    type: extends
-  - target: the-misidentification-of-value-in-modern-civilization
-    type: grounds
-  - target: recovering-the-singular-source-of-human-value
-    type: grounds
-  - target: integrating-war-into-a-mature-philosophy-of-love
-    type: extends
   - target: building-coordination-through-shared-value-stories
     type: applies
+  - target: integrating-war-into-a-mature-philosophy-of-love
+    type: extends
+  - target: recovering-the-singular-source-of-human-value
+    type: grounds
+  - target: the-structural-incompleteness-of-optimization-metrics
+    type: grounds
+  - target: the-misidentification-of-value-in-modern-civilization
+    type: extends
 created_at: "2026-03-15"
 ---
 

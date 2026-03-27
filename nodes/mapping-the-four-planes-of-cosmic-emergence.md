@@ -9,11 +9,13 @@ source_url: "https://www.youtube.com/watch?v=LeaFCcJNCTI"
 source_author: "Brendan Graham Dempsey"
 tags: [UTOK, Systems Thinking, Epistemology, Information Theory]
 edges:
+  - target: from-thermodynamic-survival-to-cultural-meaning
+    type: extends
   - target: the-continuity-of-meaning-from-matter-to-culture
     type: extends
-  - target: propositional-grammar-and-the-evolution-of-personhood
-    type: exemplifies
   - target: the-transition-from-genetic-memory-to-neural-learning
+    type: exemplifies
+  - target: propositional-grammar-and-the-evolution-of-personhood
     type: exemplifies
   - target: three-pillars-of-a-new-enlightenment
     type: applies

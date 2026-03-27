@@ -15,8 +15,6 @@ edges:
     type: grounds
   - target: the-structural-barriers-to-shared-systems-narratives
     type: extends
-  - target: communication-as-a-living-relational-ecosystem
-    type: extends
 created_at: "2026-03-07"
 ---
 

@@ -9,14 +9,12 @@ source_url: "https://www.youtube.com/watch?v=0374g6vuGjg"
 source_author: "Rebel Wisdom"
 tags: [Cultural Evolution, Civilizational Risk, Systems Thinking, Meta-Crisis]
 edges:
-  - target: open-sourcing-ecstasy-against-institutional-gatekeeping
-    type: extends
-  - target: the-three-by-three-matrix-of-civilizational-response
-    type: applies
-  - target: from-tribal-intimacy-to-global-institutional-systems
-    type: grounds
   - target: biological-drivers-of-culture-and-political-failure
     type: grounds
+  - target: from-tribal-intimacy-to-global-institutional-systems
+    type: grounds
+  - target: the-three-by-three-matrix-of-civilizational-response
+    type: extends
 created_at: "2026-03-08"
 ---
 

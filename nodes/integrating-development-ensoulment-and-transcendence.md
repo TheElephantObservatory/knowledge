@@ -9,15 +9,11 @@ source_url: "https://www.youtube.com/watch?v=ZzpOUf8OTAA"
 source_author: "The Stoa"
 tags: [Developmental Psychology, Consciousness Studies, Integral Theory, Wisdom Traditions]
 edges:
-  - target: the-spiritual-crisis-beneath-our-global-breakdown
-    type: grounds
-  - target: the-intergenerational-architecture-of-the-human-soul
-    type: applies
-  - target: symbol-image-and-language-in-psychic-healing
-    type: extends
   - target: the-structural-unification-of-psychological-science
     type: extends
-  - target: integrating-objective-science-and-interior-wisdom
+  - target: symbol-image-and-language-in-psychic-healing
+    type: extends
+  - target: the-spiritual-crisis-beneath-our-global-breakdown
     type: grounds
 created_at: "2026-03-15"
 ---

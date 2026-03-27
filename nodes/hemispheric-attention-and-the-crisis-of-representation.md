@@ -9,14 +9,16 @@ source_url: "https://www.youtube.com/watch?v=P7i1ughRGcQ"
 source_author: "John Vervaeke’s Lectern"
 tags: [Philosophy of Mind, Neuroscience, Meaning Crisis, Sensemaking]
 edges:
-  - target: relevance-realization-and-the-optimal-grip
-    type: extends
-  - target: biological-drivers-of-culture-and-political-failure
-    type: grounds
-  - target: reclaiming-agency-from-the-curated-information-environment
-    type: applies
   - target: propositional-grammar-and-the-evolution-of-personhood
     type: extends
+  - target: relevance-realization-and-the-optimal-grip
+    type: extends
+  - target: the-evolution-of-brains-as-predictive-models
+    type: contrasts
+  - target: reclaiming-agency-from-the-curated-information-environment
+    type: applies
+  - target: biological-drivers-of-culture-and-political-failure
+    type: grounds
 created_at: "2026-03-07"
 ---
 

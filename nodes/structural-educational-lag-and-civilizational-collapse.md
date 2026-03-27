@@ -9,12 +9,16 @@ source_url: "https://www.youtube.com/watch?v=zFVoearUvP8"
 source_author: "Nate Hagens"
 tags: [Meta-Crisis, Civilizational Risk, Systems Thinking, Cultural Evolution]
 edges:
-  - target: the-structural-inability-to-transmit-human-meaning
-    type: extends
   - target: the-capability-crisis-of-unjust-educational-systems
+    type: extends
+  - target: the-structural-inability-to-transmit-human-meaning
     type: extends
   - target: the-fifth-joint-point-of-evolutionary-complexity
     type: grounds
+  - target: structural-drivers-of-the-crisis-in-teacherly-authority
+    type: grounds
+  - target: comenius-and-the-civilizational-function-of-education
+    type: exemplifies
 created_at: "2026-03-15"
 ---
 

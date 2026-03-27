@@ -9,16 +9,14 @@ source_url: "https://www.youtube.com/watch?v=m_c2-Bs1BqM"
 source_author: "Rebel Wisdom"
 tags: [Liminal Space, Narrative and Myth, Ethics, Phenomenology]
 edges:
-  - target: the-spiritual-crisis-beneath-our-global-breakdown
+  - target: myth-as-a-long-term-survival-technology
+    type: grounds
+  - target: shared-cosmic-narratives-and-civilizational-value
+    type: extends
+  - target: integrating-development-ensoulment-and-transcendence
     type: extends
   - target: psychological-adaptation-and-the-crisis-of-personhood
     type: applies
-  - target: myth-as-a-long-term-survival-technology
-    type: grounds
-  - target: integrating-development-ensoulment-and-transcendence
-    type: extends
-  - target: shared-cosmic-narratives-and-civilizational-value
-    type: extends
 created_at: "2026-03-15"
 ---
 

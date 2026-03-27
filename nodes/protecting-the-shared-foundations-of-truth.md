@@ -9,13 +9,15 @@ source_url: "https://www.youtube.com/watch?v=0I-pFcYkFZI"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Epistemology, Media Ecology, Civilizational Risk, Sensemaking]
 edges:
-  - target: the-informational-war-against-shared-reality
-    type: exemplifies
   - target: undue-influence-and-the-collapse-of-personal-autonomy
     type: exemplifies
   - target: navigating-the-irreversible-collapse-of-collective-sensemaking
     type: extends
   - target: the-structural-breakdown-of-our-meaning-making-systems
+    type: extends
+  - target: the-informational-war-against-shared-reality
+    type: exemplifies
+  - target: the-four-interior-dimensions-of-the-meta-crisis
     type: grounds
 created_at: "2026-03-15"
 ---

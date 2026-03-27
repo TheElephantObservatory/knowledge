@@ -9,12 +9,14 @@ source_url: "https://www.youtube.com/watch?v=V8qeN7mdLNM"
 source_author: "The Stoa"
 tags: [Hermeneutics, Political Philosophy, Epistemology, Dialogos]
 edges:
-  - target: communication-as-a-living-relational-ecosystem
-    type: extends
-  - target: the-path-from-na-ve-slogans-to-earned-clarity
-    type: extends
   - target: strategic-warfare-in-the-informational-commons
     type: contrasts
+  - target: communication-as-a-living-relational-ecosystem
+    type: extends
+  - target: making-hidden-context-explicit-in-difficult-conversations
+    type: applies
+  - target: the-path-from-na-ve-slogans-to-earned-clarity
+    type: extends
   - target: binary-logic-and-the-practice-of-contextualism
     type: grounds
 created_at: "2026-03-07"

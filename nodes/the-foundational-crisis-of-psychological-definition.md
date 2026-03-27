@@ -11,9 +11,11 @@ tags: [Epistemology, Philosophy of Mind, Psychology, Consciousness Studies]
 edges:
   - target: integrating-objective-science-and-interior-wisdom
     type: applies
+  - target: the-structural-unification-of-psychological-science
+    type: extends
   - target: metaphysical-architecture-for-the-psyche-in-crisis
     type: grounds
-  - target: the-four-distinct-layers-of-mind
+  - target: defining-psychology-through-the-ontology-of-mind
     type: extends
 created_at: "2026-03-15"
 ---

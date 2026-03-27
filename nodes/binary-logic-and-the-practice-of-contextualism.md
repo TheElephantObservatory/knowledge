@@ -9,10 +9,14 @@ source_url: "https://www.youtube.com/watch?v=yxtTUsew0L0"
 source_author: "Bret Weinstein"
 tags: [Epistemology, Systems Thinking, Relevance Realization, Complexity Science]
 edges:
-  - target: the-continuity-of-meaning-from-matter-to-culture
-    type: grounds
+  - target: validating-local-action-during-global-crisis
+    type: applies
+  - target: the-three-by-three-matrix-of-civilizational-response
+    type: contrasts
   - target: the-structural-barriers-to-shared-systems-narratives
     type: applies
+  - target: the-path-from-na-ve-slogans-to-earned-clarity
+    type: extends
 created_at: "2026-03-08"
 ---
 

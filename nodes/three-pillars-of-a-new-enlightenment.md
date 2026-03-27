@@ -9,12 +9,14 @@ source_url: "https://www.youtube.com/watch?v=-mNP6pQcH88"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Epistemology, Civilizational Risk, Collective Intelligence, Systems Thinking]
 edges:
-  - target: a-decentralized-toolkit-for-designing-new-communities
-    type: contrasts
-  - target: mapping-reality-for-meaningful-choice
-    type: grounds
   - target: the-three-by-three-matrix-of-civilizational-response
     type: extends
+  - target: a-decentralized-toolkit-for-designing-new-communities
+    type: grounds
+  - target: mapping-reality-for-meaningful-choice
+    type: extends
+  - target: the-simultaneous-collapse-of-sacred-and-secular-authority
+    type: grounds
 created_at: "2026-03-08"
 ---
 

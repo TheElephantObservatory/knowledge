@@ -9,18 +9,18 @@ source_url: "https://www.youtube.com/watch?v=1Fv3S8T2nVE"
 source_author: "Life Itself"
 tags: [Developmental Psychology, Epistemology, Psychology]
 edges:
-  - target: the-structural-integration-of-human-cognitive-skills
-    type: grounds
   - target: the-capability-crisis-of-unjust-educational-systems
     type: extends
-  - target: the-developmental-origin-of-value-perception
-    type: grounds
-  - target: psychological-adaptation-and-the-crisis-of-personhood
-    type: extends
   - target: integrating-development-ensoulment-and-transcendence
-    type: grounds
+    type: extends
   - target: open-sourcing-ecstasy-against-institutional-gatekeeping
     type: exemplifies
+  - target: psychological-adaptation-and-the-crisis-of-personhood
+    type: extends
+  - target: the-structural-integration-of-human-cognitive-skills
+    type: grounds
+  - target: the-developmental-origin-of-value-perception
+    type: grounds
 created_at: "2026-03-15"
 ---
 

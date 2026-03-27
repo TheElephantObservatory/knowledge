@@ -9,16 +9,16 @@ source_url: "https://www.youtube.com/watch?v=yxtTUsew0L0"
 source_author: "Bret Weinstein"
 tags: [Epistemology, Complexity Science, Sensemaking, Meta-Crisis]
 edges:
-  - target: the-path-from-na-ve-slogans-to-earned-clarity
-    type: extends
   - target: the-structural-barriers-to-shared-systems-narratives
     type: exemplifies
-  - target: three-pillars-of-a-new-enlightenment
-    type: extends
-  - target: binary-logic-and-the-practice-of-contextualism
-    type: grounds
   - target: how-pluralistic-hesitation-enables-bad-faith-actors
     type: applies
+  - target: binary-logic-and-the-practice-of-contextualism
+    type: grounds
+  - target: the-path-from-na-ve-slogans-to-earned-clarity
+    type: extends
+  - target: three-pillars-of-a-new-enlightenment
+    type: extends
 created_at: "2026-03-08"
 ---
 

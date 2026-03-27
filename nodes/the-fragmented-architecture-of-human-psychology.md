@@ -9,9 +9,9 @@ source_url: "https://www.youtube.com/watch?v=ytgmu1KdxUA"
 source_author: "The Stoa"
 tags: [Philosophy of Mind, Epistemology, Psychology, Phenomenology]
 edges:
-  - target: the-foundational-crisis-of-psychological-definition
-    type: extends
   - target: the-structural-unification-of-psychological-science
+    type: extends
+  - target: the-foundational-crisis-of-psychological-definition
     type: extends
 created_at: "2026-03-15"
 ---

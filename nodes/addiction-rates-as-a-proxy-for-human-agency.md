@@ -11,12 +11,10 @@ tags: [Psychology, Sovereignty, Attention Economy, Systems Thinking]
 edges:
   - target: undue-influence-and-the-collapse-of-personal-autonomy
     type: extends
-  - target: mattering-as-a-structural-feature-of-life
-    type: grounds
   - target: the-structural-incompleteness-of-optimization-metrics
     type: grounds
-  - target: how-chatbots-hijack-the-human-bonding-system
-    type: exemplifies
+  - target: mattering-as-a-structural-feature-of-life
+    type: grounds
   - target: psychological-adaptation-and-the-crisis-of-personhood
     type: extends
 created_at: "2026-03-15"

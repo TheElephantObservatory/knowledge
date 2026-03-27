@@ -11,8 +11,6 @@ tags: [Meta-Crisis, Systems Thinking, Civilizational Risk, Ontological Design]
 edges:
   - target: reconciling-ancient-biology-with-god-like-technology
     type: grounds
-  - target: the-generative-dynamics-of-civilizational-self-termination
-    type: extends
   - target: exponential-financial-systems-within-finite-physical-realities
     type: exemplifies
 created_at: "2026-03-07"

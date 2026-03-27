@@ -9,16 +9,14 @@ source_url: "https://www.youtube.com/watch?v=qD5pnsyIYvQ"
 source_author: "Rebel Wisdom"
 tags: [Epistemology, Meta-Crisis, Cultural Evolution, Systems Thinking]
 edges:
-  - target: structural-educational-lag-and-civilizational-collapse
-    type: grounds
+  - target: comenius-and-the-civilizational-function-of-education
+    type: exemplifies
   - target: relational-structures-in-the-age-of-algorithms
     type: applies
   - target: the-structural-inability-to-transmit-human-meaning
     type: extends
   - target: ai-mimicry-and-the-crisis-of-human-formation
     type: extends
-  - target: comenius-and-the-civilizational-function-of-education
-    type: grounds
 created_at: "2026-03-15"
 ---
 

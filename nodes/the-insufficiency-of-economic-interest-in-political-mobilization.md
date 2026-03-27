@@ -9,15 +9,15 @@ source_url: "https://www.youtube.com/watch?v=4OYGvtz0pEU"
 source_author: "Footnotes2Plato"
 tags: [Meaning Crisis, Narrative and Myth, Political Philosophy]
 edges:
-  - target: shared-cosmic-narratives-and-civilizational-value
-    type: extends
   - target: building-coordination-through-shared-value-stories
+    type: extends
+  - target: shared-cosmic-narratives-and-civilizational-value
     type: extends
   - target: the-spiritual-crisis-beneath-our-global-breakdown
     type: grounds
-  - target: the-misidentification-of-value-in-modern-civilization
-    type: grounds
   - target: the-structural-inability-to-transmit-human-meaning
+    type: grounds
+  - target: the-misidentification-of-value-in-modern-civilization
     type: grounds
 created_at: "2026-03-15"
 ---

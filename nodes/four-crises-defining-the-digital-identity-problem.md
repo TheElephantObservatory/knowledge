@@ -11,12 +11,6 @@ tags: [Meta-Crisis, Sensemaking, Meaning Crisis, Systems Thinking]
 edges:
   - target: the-fifth-joint-point-of-evolutionary-complexity
     type: extends
-  - target: psychological-adaptation-and-the-crisis-of-personhood
-    type: extends
-  - target: the-spiritual-crisis-beneath-our-global-breakdown
-    type: extends
-  - target: the-structural-breakdown-of-our-meaning-making-systems
-    type: extends
 created_at: "2026-03-15"
 ---
 

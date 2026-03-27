@@ -9,10 +9,10 @@ source_url: "https://www.youtube.com/watch?v=kTFqnPEyweE"
 source_author: "Nate Hagens"
 tags: [Meta-Crisis, Systems Thinking, Sensemaking, Civilizational Risk]
 edges:
+  - target: the-path-from-na-ve-slogans-to-earned-clarity
+    type: extends
   - target: the-generative-dynamics-of-civilizational-self-termination
     type: exemplifies
-  - target: shared-sensemaking-as-the-foundation-for-global-action
-    type: grounds
   - target: the-three-by-three-matrix-of-civilizational-response
     type: applies
 created_at: "2026-03-07"

@@ -8,11 +8,6 @@ source_title: "Now UTOKing | 4 | Cognition"
 source_url: "https://www.youtube.com/watch?v=CuvDsGXFtho"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Relevance Realization, Cognitive Science, Embodied Cognition, Systems Thinking]
-edges:
-  - target: the-fifth-joint-point-of-evolutionary-complexity
-    type: extends
-  - target: four-distinct-modes-of-human-cognition
-    type: extends
 created_at: "2026-03-15"
 ---
 

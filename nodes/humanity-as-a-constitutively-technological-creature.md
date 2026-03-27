@@ -9,15 +9,13 @@ source_url: "https://www.youtube.com/watch?v=byau1SegVqw"
 source_author: "The Stoa"
 tags: [Relational Ontology, Civilizational Risk, Systems Thinking, Cultural Evolution]
 edges:
-  - target: the-fifth-joint-point-of-evolutionary-complexity
-    type: extends
-  - target: ai-and-the-systematic-replacement-of-living-communication
-    type: exemplifies
   - target: myth-as-a-long-term-survival-technology
     type: grounds
-  - target: how-technology-encodes-unintended-social-values
+  - target: the-fifth-joint-point-of-evolutionary-complexity
     type: extends
   - target: structural-educational-lag-and-civilizational-collapse
+    type: extends
+  - target: how-technology-encodes-unintended-social-values
     type: extends
 created_at: "2026-03-15"
 ---

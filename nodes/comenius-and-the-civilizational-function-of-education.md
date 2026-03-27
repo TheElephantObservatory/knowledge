@@ -9,16 +9,14 @@ source_url: "https://www.youtube.com/watch?v=I8O0JnMG8pk"
 source_author: "PERSPECTIVA"
 tags: [Philosophy of Mind, Cultural Evolution, Systems Thinking, Civilizational Risk]
 edges:
-  - target: structural-educational-lag-and-civilizational-collapse
-    type: extends
-  - target: the-capability-crisis-of-unjust-educational-systems
-    type: extends
-  - target: comenius-and-the-global-framework-for-universal-wisdom
-    type: exemplifies
   - target: the-structural-inability-to-transmit-human-meaning
     type: extends
   - target: the-fifth-joint-point-of-evolutionary-complexity
     type: grounds
+  - target: comenius-and-the-global-framework-for-universal-wisdom
+    type: exemplifies
+  - target: the-capability-crisis-of-unjust-educational-systems
+    type: extends
 created_at: "2026-03-15"
 ---
 

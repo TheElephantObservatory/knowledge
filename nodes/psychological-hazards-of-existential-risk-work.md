@@ -11,13 +11,13 @@ tags: [Psychology, Existential Risk, Consciousness Studies, Systems Thinking]
 edges:
   - target: psychological-adaptation-and-the-crisis-of-personhood
     type: extends
-  - target: the-spiritual-crisis-beneath-our-global-breakdown
-    type: extends
-  - target: metaphysical-architecture-for-the-psyche-in-crisis
-    type: grounds
   - target: historical-trauma-and-the-loss-of-symbolic-immortality
     type: exemplifies
+  - target: metaphysical-architecture-for-the-psyche-in-crisis
+    type: grounds
   - target: building-a-metapsychology-of-qualitative-transformation
+    type: grounds
+  - target: the-spiritual-crisis-beneath-our-global-breakdown
     type: extends
 created_at: "2026-03-15"
 ---

@@ -15,8 +15,6 @@ edges:
     type: applies
   - target: psychological-adaptation-and-the-crisis-of-personhood
     type: grounds
-  - target: the-four-quadrants-of-charismatic-authority
-    type: applies
 created_at: "2026-03-15"
 ---
 

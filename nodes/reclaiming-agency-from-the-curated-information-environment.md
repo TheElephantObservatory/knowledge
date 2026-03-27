@@ -9,15 +9,9 @@ source_url: "https://www.youtube.com/watch?v=dGW5J3EbOUY"
 source_author: "Rebel Wisdom"
 tags: [Attention Economy, Cognitive Science, Systems Thinking, Sensemaking]
 edges:
-  - target: the-digital-arms-race-against-human-perception
-    type: exemplifies
   - target: relevance-realization-and-the-optimal-grip
     type: grounds
   - target: communication-as-a-living-relational-ecosystem
-    type: extends
-  - target: biological-vulnerability-and-the-modern-economic-trap
-    type: extends
-  - target: mapping-reality-for-meaningful-choice
     type: extends
 created_at: "2026-03-07"
 ---

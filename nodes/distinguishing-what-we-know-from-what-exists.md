@@ -11,9 +11,11 @@ tags: [Epistemology, Philosophy of Mind, Ontological Design]
 edges:
   - target: mapping-reality-from-energy-to-culture
     type: grounds
-  - target: four-distinct-modes-of-human-cognition
-    type: applies
   - target: the-four-distinct-layers-of-mind
+    type: exemplifies
+  - target: distinguishing-speculative-ideas-from-systematic-metaphysics
+    type: extends
+  - target: the-foundational-crisis-of-psychological-definition
     type: exemplifies
   - target: the-structural-unification-of-psychological-science
     type: exemplifies

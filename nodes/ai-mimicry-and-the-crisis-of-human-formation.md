@@ -9,14 +9,8 @@ source_url: "https://www.youtube.com/watch?v=Ydv9SmVvpV8"
 source_author: "Nate Hagens"
 tags: [Philosophy of Mind, Embodied Cognition, Developmental Psychology, Meaning Crisis]
 edges:
-  - target: how-chatbots-hijack-the-human-bonding-system
-    type: extends
   - target: educational-skill-building-versus-ai-prosthetic-dependency
     type: applies
-  - target: how-ai-captures-the-childs-sense-of-truth
-    type: extends
-  - target: the-category-error-of-machine-personhood
-    type: extends
 created_at: "2026-03-15"
 ---
 

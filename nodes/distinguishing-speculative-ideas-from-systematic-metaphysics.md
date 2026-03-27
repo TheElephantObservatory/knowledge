@@ -9,16 +9,12 @@ source_url: "https://www.youtube.com/watch?v=uezaTXQBePE"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Epistemology, Ontological Design, Systems Thinking]
 edges:
+  - target: the-foundational-crisis-of-psychological-definition
+    type: extends
   - target: metaphysical-architecture-for-the-psyche-in-crisis
-    type: applies
+    type: grounds
   - target: universal-patterns-of-responsiveness-in-matter-and-mind
     type: extends
-  - target: distinguishing-what-we-know-from-what-exists
-    type: extends
-  - target: mapping-reality-from-energy-to-culture
-    type: grounds
-  - target: the-epistemic-distinction-between-science-and-psyche
-    type: exemplifies
 created_at: "2026-03-15"
 ---
 

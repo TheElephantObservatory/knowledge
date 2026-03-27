@@ -11,14 +11,12 @@ tags: [Evolutionary Biology, Philosophy of Mind, Civilizational Risk, Systems Th
 edges:
   - target: reconciling-ancient-biology-with-god-like-technology
     type: grounds
-  - target: human-nature-and-the-failure-of-developmental-conditioning
-    type: extends
-  - target: binary-logic-and-the-practice-of-contextualism
-    type: extends
-  - target: biological-vulnerability-and-the-modern-economic-trap
-    type: exemplifies
   - target: from-tribal-intimacy-to-global-institutional-systems
     type: grounds
+  - target: biological-vulnerability-and-the-modern-economic-trap
+    type: exemplifies
+  - target: binary-logic-and-the-practice-of-contextualism
+    type: extends
 created_at: "2026-03-08"
 ---
 

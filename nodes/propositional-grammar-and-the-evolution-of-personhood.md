@@ -9,12 +9,10 @@ source_url: "https://www.youtube.com/watch?v=UkZighcMjwU"
 source_author: "Brendan Graham Dempsey"
 tags: [Philosophy of Mind, Epistemology, Hermeneutics, Embodied Cognition]
 edges:
-  - target: the-formation-of-persons-through-cultural-inheritance
-    type: extends
   - target: from-thermodynamic-survival-to-cultural-meaning
-    type: extends
-  - target: from-material-universe-to-the-meaningful-cosmos
-    type: extends
+    type: grounds
+  - target: three-pillars-of-a-new-enlightenment
+    type: applies
 created_at: "2026-03-07"
 ---
 

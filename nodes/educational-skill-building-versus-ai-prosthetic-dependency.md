@@ -9,11 +9,9 @@ source_url: "https://www.youtube.com/watch?v=3Cw-g1-0nD8"
 source_author: "The Jim Rutt Show"
 tags: [Developmental Psychology, Epistemology, Embodied Cognition]
 edges:
-  - target: how-ai-captures-the-childs-sense-of-truth
-    type: extends
   - target: four-distinct-modes-of-human-cognition
     type: grounds
-  - target: the-capability-crisis-of-unjust-educational-systems
+  - target: how-ai-captures-the-childs-sense-of-truth
     type: extends
 created_at: "2026-03-15"
 ---

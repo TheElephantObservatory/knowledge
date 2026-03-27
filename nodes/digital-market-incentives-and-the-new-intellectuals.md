@@ -11,14 +11,10 @@ tags: [Attention Economy, Epistemology, Cultural Evolution, Sensemaking]
 edges:
   - target: the-simultaneous-collapse-of-sacred-and-secular-authority
     type: grounds
-  - target: the-digital-arms-race-against-human-perception
-    type: applies
-  - target: the-structural-architecture-of-cultic-emergence
-    type: extends
-  - target: open-sourcing-ecstasy-against-institutional-gatekeeping
-    type: extends
   - target: reclaiming-agency-from-the-curated-information-environment
     type: applies
+  - target: open-sourcing-ecstasy-against-institutional-gatekeeping
+    type: extends
 created_at: "2026-03-08"
 ---
 

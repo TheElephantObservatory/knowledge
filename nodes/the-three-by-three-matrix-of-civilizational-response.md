@@ -9,14 +9,14 @@ source_url: "https://www.youtube.com/watch?v=Kep8Fi_rUUI"
 source_author: "Nate Hagens"
 tags: [Systems Thinking, Civilizational Risk, Meta-Crisis, Sensemaking]
 edges:
+  - target: the-structural-tension-of-global-coordination-systems
+    type: applies
   - target: the-generative-dynamics-of-civilizational-self-termination
     type: grounds
   - target: design-criteria-for-a-mature-global-civilization
     type: grounds
   - target: escaping-the-twin-risks-of-catastrophe-and-dystopia
     type: grounds
-  - target: the-structural-tension-of-global-coordination-systems
-    type: applies
 created_at: "2026-03-07"
 ---
 

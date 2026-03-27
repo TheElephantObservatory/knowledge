@@ -9,14 +9,14 @@ source_url: "https://www.youtube.com/watch?v=PZNDhdKekjg"
 source_author: "The Stoa"
 tags: [Symbolism, Psychology, Hermeneutics, Narrative and Myth]
 edges:
-  - target: integrating-objective-science-and-interior-wisdom
+  - target: ethical-choice-in-the-mythic-present
+    type: exemplifies
+  - target: the-structural-unification-of-psychological-science
     type: grounds
   - target: four-distinct-modes-of-human-cognition
     type: extends
   - target: myth-as-a-long-term-survival-technology
     type: applies
-  - target: ethical-choice-in-the-mythic-present
-    type: exemplifies
 created_at: "2026-03-15"
 ---
 

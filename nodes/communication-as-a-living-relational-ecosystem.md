@@ -9,12 +9,16 @@ source_url: "https://www.youtube.com/watch?v=MDtn0eEas7c"
 source_author: "Nate Hagens"
 tags: [Systems Thinking, Media Ecology, Sensemaking, Meta-Crisis]
 edges:
-  - target: structural-failure-modes-of-collective-sensemaking
-    type: extends
-  - target: the-structural-barriers-to-shared-systems-narratives
-    type: extends
+  - target: strategic-warfare-in-the-informational-commons
+    type: exemplifies
   - target: the-necessary-uncertainty-of-genuine-expertise
     type: grounds
+  - target: the-structural-barriers-to-shared-systems-narratives
+    type: extends
+  - target: structural-failure-modes-of-collective-sensemaking
+    type: extends
+  - target: the-digital-arms-race-against-human-perception
+    type: exemplifies
 created_at: "2026-03-07"
 ---
 

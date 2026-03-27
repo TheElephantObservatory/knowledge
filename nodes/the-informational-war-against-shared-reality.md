@@ -9,12 +9,14 @@ source_url: "https://www.youtube.com/watch?v=w3Mqmv_sfDc"
 source_author: "The Jim Rutt Show"
 tags: [Epistemology, Meta-Crisis, Information Theory]
 edges:
-  - target: how-ai-captures-the-childs-sense-of-truth
+  - target: undue-influence-and-the-collapse-of-personal-autonomy
+    type: extends
+  - target: addiction-rates-as-a-proxy-for-human-agency
     type: applies
+  - target: how-ai-captures-the-childs-sense-of-truth
+    type: exemplifies
   - target: the-structural-inability-to-transmit-human-meaning
     type: grounds
-  - target: undue-influence-and-the-collapse-of-personal-autonomy
-    type: exemplifies
   - target: navigating-the-irreversible-collapse-of-collective-sensemaking
     type: extends
 created_at: "2026-03-15"

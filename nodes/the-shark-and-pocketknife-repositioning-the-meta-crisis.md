@@ -9,14 +9,16 @@ source_url: "https://www.youtube.com/watch?v=F3qCtw7MPR0"
 source_author: "PERSPECTIVA"
 tags: [Meta-Crisis, Phenomenology, Relational Ontology, Sensemaking]
 edges:
-  - target: myth-as-a-long-term-survival-technology
+  - target: psychological-adaptation-and-the-crisis-of-personhood
     type: extends
-  - target: integrating-development-ensoulment-and-transcendence
-    type: grounds
+  - target: myth-as-a-long-term-survival-technology
+    type: exemplifies
   - target: ethical-choice-in-the-mythic-present
     type: extends
-  - target: the-neural-process-of-constructing-meaningful-worlds
-    type: grounds
+  - target: shared-cosmic-narratives-and-civilizational-value
+    type: extends
+  - target: integrating-development-ensoulment-and-transcendence
+    type: extends
 created_at: "2026-03-15"
 ---
 

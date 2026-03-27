@@ -10,12 +10,14 @@ source_author: "PERSPECTIVA"
 tags: [Meta-Crisis, Epistemology, Meaning Crisis, Sensemaking]
 edges:
   - target: the-structural-inability-to-transmit-human-meaning
-    type: exemplifies
+    type: applies
   - target: the-misidentification-of-value-in-modern-civilization
-    type: grounds
-  - target: psychological-adaptation-and-the-crisis-of-personhood
+    type: extends
+  - target: the-four-interior-dimensions-of-the-meta-crisis
     type: extends
   - target: shared-cosmic-narratives-and-civilizational-value
+    type: extends
+  - target: psychological-adaptation-and-the-crisis-of-personhood
     type: extends
 created_at: "2026-03-15"
 ---

@@ -9,12 +9,14 @@ source_url: "https://www.youtube.com/watch?v=FxmvAIMd3-I"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Consciousness Studies, Philosophy of Mind, UTOK, Systems Thinking]
 edges:
-  - target: mattering-as-a-structural-feature-of-life
-    type: grounds
   - target: the-epistemic-distinction-between-science-and-psyche
     type: grounds
+  - target: the-self-as-a-functional-navigation-process
+    type: extends
   - target: four-distinct-modes-of-human-cognition
     type: contrasts
+  - target: integrating-development-ensoulment-and-transcendence
+    type: extends
 created_at: "2026-03-15"
 ---
 

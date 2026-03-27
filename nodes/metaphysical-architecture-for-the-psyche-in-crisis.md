@@ -9,14 +9,12 @@ source_url: "https://www.youtube.com/watch?v=PZNDhdKekjg"
 source_author: "The Stoa"
 tags: [Psychology, Existential Risk, Integral Theory]
 edges:
-  - target: building-a-metapsychology-of-qualitative-transformation
+  - target: integrating-development-ensoulment-and-transcendence
+    type: extends
+  - target: integrating-objective-science-and-interior-wisdom
     type: extends
   - target: the-fragmented-architecture-of-human-psychology
     type: grounds
-  - target: integrating-objective-science-and-interior-wisdom
-    type: extends
-  - target: integrating-development-ensoulment-and-transcendence
-    type: extends
 created_at: "2026-03-15"
 ---
 

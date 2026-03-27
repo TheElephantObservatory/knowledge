@@ -9,14 +9,14 @@ source_url: "https://www.youtube.com/watch?v=RLZgfzq2dP4"
 source_author: "The Stoa"
 tags: [Epistemology, Wisdom Traditions, Embodied Cognition, Consciousness Studies]
 edges:
-  - target: the-structural-architecture-of-cultic-emergence
-    type: extends
-  - target: open-sourcing-ecstasy-against-institutional-gatekeeping
-    type: exemplifies
-  - target: structural-failure-modes-of-collective-sensemaking
-    type: extends
   - target: the-four-quadrants-of-charismatic-authority
     type: contrasts
+  - target: open-sourcing-ecstasy-against-institutional-gatekeeping
+    type: exemplifies
+  - target: the-structural-architecture-of-cultic-emergence
+    type: extends
+  - target: structural-failure-modes-of-collective-sensemaking
+    type: extends
 created_at: "2026-03-08"
 ---
 

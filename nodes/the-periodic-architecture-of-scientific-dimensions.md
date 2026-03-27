@@ -9,12 +9,12 @@ source_url: "https://www.youtube.com/watch?v=GHz5oVpIWUQ"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Systems Thinking, Epistemology, Complexity Science, Integral Theory]
 edges:
-  - target: universal-patterns-of-responsiveness-in-matter-and-mind
-    type: extends
-  - target: mapping-reality-from-energy-to-culture
-    type: grounds
   - target: the-structural-integration-of-human-cognitive-skills
     type: applies
+  - target: mapping-reality-from-energy-to-culture
+    type: grounds
+  - target: universal-patterns-of-responsiveness-in-matter-and-mind
+    type: extends
 created_at: "2026-03-15"
 ---
 

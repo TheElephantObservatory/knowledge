@@ -9,15 +9,11 @@ source_url: "https://www.youtube.com/watch?v=Ydv9SmVvpV8"
 source_author: "Nate Hagens"
 tags: [Social Technology, Systems Thinking, Attention Economy, Collective Intelligence]
 edges:
-  - target: relational-structures-in-the-age-of-algorithms
-    type: contrasts
-  - target: educational-skill-building-versus-ai-prosthetic-dependency
-    type: extends
   - target: how-ai-captures-the-childs-sense-of-truth
     type: contrasts
-  - target: ai-and-the-systematic-replacement-of-living-communication
-    type: grounds
   - target: ai-mimicry-and-the-crisis-of-human-formation
+    type: extends
+  - target: educational-skill-building-versus-ai-prosthetic-dependency
     type: extends
 created_at: "2026-03-15"
 ---

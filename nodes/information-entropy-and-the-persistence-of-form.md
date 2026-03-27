@@ -9,14 +9,14 @@ source_url: "https://www.youtube.com/watch?v=0JXmMQWeC2Y"
 source_author: "Brendan Graham Dempsey"
 tags: [Information Theory, Complexity Science, Systems Thinking]
 edges:
-  - target: from-thermodynamic-survival-to-cultural-meaning
+  - target: information-as-the-mechanism-of-physical-existence
+    type: contrasts
+  - target: relevance-realization-and-the-optimal-grip
+    type: applies
+  - target: genetic-information-and-the-evolution-of-meaning
     type: extends
   - target: energy-information-and-the-growth-of-complexity
     type: extends
-  - target: genetic-information-and-the-evolution-of-meaning
-    type: exemplifies
-  - target: information-as-the-mechanism-of-physical-existence
-    type: contrasts
 created_at: "2026-03-07"
 ---
 

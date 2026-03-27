@@ -9,16 +9,14 @@ source_url: "https://www.youtube.com/watch?v=1NFuddEAi5s"
 source_author: "Nate Hagens"
 tags: [Civilizational Risk, Political Philosophy, Existential Risk, Systems Thinking]
 edges:
-  - target: the-competitive-logic-of-technological-acceleration
-    type: grounds
-  - target: the-structural-trap-of-constant-problem-generation
+  - target: the-structural-tension-of-global-coordination-systems
     type: extends
   - target: reconciling-ancient-biology-with-god-like-technology
     type: grounds
-  - target: competitive-acceleration-and-ai-governance-lag
-    type: exemplifies
   - target: ai-acceleration-of-the-global-economic-superorganism
     type: grounds
+  - target: competitive-acceleration-and-ai-governance-lag
+    type: exemplifies
 created_at: "2026-03-07"
 ---
 

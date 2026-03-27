@@ -9,14 +9,16 @@ source_url: "https://www.youtube.com/watch?v=0Qma07i4Swo"
 source_author: "The Jim Rutt Show"
 tags: [Relational Ontology, Ontological Design, Sensemaking, Systems Thinking]
 edges:
-  - target: ai-and-the-systematic-replacement-of-living-communication
-    type: grounds
-  - target: educational-skill-building-versus-ai-prosthetic-dependency
-    type: extends
   - target: the-structural-inability-to-transmit-human-meaning
+    type: grounds
+  - target: ai-orchestration-of-human-to-human-educational-networks
+    type: extends
+  - target: ai-mimicry-and-the-crisis-of-human-formation
     type: extends
   - target: how-ai-captures-the-childs-sense-of-truth
     type: extends
+  - target: educational-skill-building-versus-ai-prosthetic-dependency
+    type: applies
 created_at: "2026-03-15"
 ---
 

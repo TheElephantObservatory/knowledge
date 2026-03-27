@@ -11,11 +11,11 @@ tags: [Ontological Design, Systems Thinking, Social Technology]
 edges:
   - target: exponential-financial-systems-within-finite-physical-realities
     type: grounds
-  - target: the-structural-architecture-of-cultic-emergence
-    type: applies
+  - target: commercial-incentives-and-the-psychedelic-movement
+    type: exemplifies
   - target: decoupling-technical-advancement-from-human-betterment
     type: extends
-  - target: the-three-by-three-matrix-of-civilizational-response
+  - target: the-structural-architecture-of-cultic-emergence
     type: applies
 created_at: "2026-03-08"
 ---

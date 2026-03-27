@@ -9,8 +9,6 @@ source_url: "https://www.youtube.com/watch?v=8vceeE4YYrI"
 source_author: "PERSPECTIVA"
 tags: [Ethics, Epistemology, Meaning Crisis, Sensemaking]
 edges:
-  - target: shared-cosmic-narratives-and-civilizational-value
-    type: applies
   - target: the-misidentification-of-value-in-modern-civilization
     type: extends
   - target: the-structural-inability-to-transmit-human-meaning

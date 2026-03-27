@@ -9,9 +9,11 @@ source_url: "https://www.youtube.com/watch?v=Pbnn2X2fVvA"
 source_author: "Rebel Wisdom"
 tags: [Meaning Crisis, Cultural Evolution, Systems Thinking, Sacred Ecology]
 edges:
-  - target: the-structural-architecture-of-cultic-emergence
-    type: applies
   - target: structural-failure-modes-of-collective-sensemaking
+    type: applies
+  - target: validating-local-action-during-global-crisis
+    type: applies
+  - target: the-structural-architecture-of-cultic-emergence
     type: applies
 created_at: "2026-03-08"
 ---

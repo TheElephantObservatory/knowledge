@@ -9,16 +9,10 @@ source_url: "https://www.youtube.com/watch?v=rpN-H68rmb4"
 source_author: "Nate Hagens"
 tags: [Systems Thinking, Civilizational Risk, Epistemology, Complexity Science]
 edges:
-  - target: the-inseparable-trinity-of-economic-expansion
-    type: grounds
-  - target: ai-and-the-systematic-replacement-of-living-communication
-    type: exemplifies
-  - target: the-structural-incompleteness-of-optimization-metrics
-    type: extends
-  - target: energy-quality-and-the-physics-of-civilizational-scale
-    type: extends
   - target: the-misidentification-of-value-in-modern-civilization
     type: grounds
+  - target: energy-quality-and-the-physics-of-civilizational-scale
+    type: extends
 created_at: "2026-03-15"
 ---
 

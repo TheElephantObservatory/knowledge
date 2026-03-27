@@ -9,11 +9,13 @@ source_url: "https://www.youtube.com/watch?v=Pbnn2X2fVvA"
 source_author: "Rebel Wisdom"
 tags: [Systems Thinking, Meta-Crisis, Epistemology, Meaning Crisis]
 edges:
+  - target: human-nature-and-the-architecture-of-global-risk
+    type: grounds
   - target: the-structural-trap-of-constant-problem-generation
+    type: applies
+  - target: the-generative-dynamics-of-civilizational-self-termination
     type: extends
   - target: shared-sensemaking-as-the-foundation-for-global-action
-    type: grounds
-  - target: human-nature-and-the-architecture-of-global-risk
     type: extends
 created_at: "2026-03-08"
 ---

@@ -10,15 +10,13 @@ source_author: "Rebel Wisdom"
 tags: [Hermeneutics, Sensemaking, Phenomenology, Relational Ontology]
 edges:
   - target: communication-as-a-living-relational-ecosystem
-    type: grounds
+    type: extends
+  - target: three-pillars-of-a-new-enlightenment
+    type: extends
   - target: strategic-warfare-in-the-informational-commons
     type: applies
-  - target: mutual-understanding-in-the-presence-of-deep-disagreement
-    type: extends
   - target: binary-logic-and-the-practice-of-contextualism
-    type: contrasts
-  - target: mapping-reality-for-meaningful-choice
-    type: extends
+    type: grounds
 created_at: "2026-03-07"
 ---
 

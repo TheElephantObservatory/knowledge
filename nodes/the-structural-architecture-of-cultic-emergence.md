@@ -9,8 +9,8 @@ source_url: "https://www.youtube.com/watch?v=Ul4fnQxhrFE"
 source_author: "The Stoa"
 tags: [Epistemology, Systems Thinking, Ontological Design, Collective Intelligence]
 edges:
-  - target: the-four-quadrants-of-charismatic-authority
-    type: exemplifies
+  - target: digital-market-incentives-and-the-new-intellectuals
+    type: grounds
   - target: the-self-organizing-logic-of-sacred-values
     type: grounds
   - target: shared-logic-across-religious-and-secular-raptures

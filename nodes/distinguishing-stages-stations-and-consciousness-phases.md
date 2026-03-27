@@ -9,12 +9,12 @@ source_url: "https://www.youtube.com/watch?v=xNPHaPEyXfo"
 source_author: "Brendan Graham Dempsey"
 tags: [Developmental Psychology, Consciousness Studies, Philosophy of Mind, Contemplative Practice]
 edges:
-  - target: building-a-metapsychology-of-qualitative-transformation
-    type: grounds
   - target: the-structural-integration-of-human-cognitive-skills
     type: exemplifies
   - target: integrating-development-ensoulment-and-transcendence
-    type: extends
+    type: grounds
+  - target: the-structural-unification-of-psychological-science
+    type: grounds
 created_at: "2026-03-15"
 ---
 

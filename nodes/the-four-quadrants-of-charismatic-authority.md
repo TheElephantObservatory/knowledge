@@ -9,12 +9,14 @@ source_url: "https://www.youtube.com/watch?v=Ul4fnQxhrFE"
 source_author: "The Stoa"
 tags: [Psychology, Consciousness Studies, Systems Thinking, Collective Intelligence]
 edges:
-  - target: digital-market-incentives-and-the-new-intellectuals
-    type: grounds
-  - target: structural-failure-modes-of-collective-sensemaking
-    type: applies
   - target: shared-logic-across-religious-and-secular-raptures
     type: extends
+  - target: structural-failure-modes-of-collective-sensemaking
+    type: applies
+  - target: the-structural-architecture-of-cultic-emergence
+    type: extends
+  - target: digital-market-incentives-and-the-new-intellectuals
+    type: grounds
 created_at: "2026-03-08"
 ---
 

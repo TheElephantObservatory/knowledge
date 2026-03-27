@@ -9,16 +9,16 @@ source_url: "https://www.youtube.com/watch?v=8XCXvzQdcug"
 source_author: "Rebel Wisdom"
 tags: [Civilizational Risk, Systems Thinking, Existential Risk, Meta-Crisis]
 edges:
-  - target: design-criteria-for-a-mature-global-civilization
-    type: extends
-  - target: three-pillars-of-a-new-enlightenment
-    type: contrasts
   - target: the-structural-tension-of-global-coordination-systems
     type: extends
-  - target: the-generative-dynamics-of-civilizational-self-termination
-    type: exemplifies
+  - target: design-criteria-for-a-mature-global-civilization
+    type: extends
   - target: reconciling-ancient-biology-with-god-like-technology
     type: grounds
+  - target: the-generative-dynamics-of-civilizational-self-termination
+    type: exemplifies
+  - target: three-pillars-of-a-new-enlightenment
+    type: applies
 created_at: "2026-03-07"
 ---
 

@@ -9,9 +9,9 @@ source_url: "https://www.youtube.com/watch?v=3bxzo79SjpE"
 source_author: "Nate Hagens"
 tags: [Systems Thinking, Civilizational Risk, Cultural Evolution, Meta-Crisis]
 edges:
+  - target: the-blind-superorganism-of-global-economic-growth-1
+    type: extends
   - target: the-generative-dynamics-of-civilizational-self-termination
-    type: applies
-  - target: the-three-by-three-matrix-of-civilizational-response
     type: applies
   - target: ai-acceleration-of-the-global-economic-superorganism
     type: extends

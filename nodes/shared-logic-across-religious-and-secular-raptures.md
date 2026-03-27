@@ -9,12 +9,10 @@ source_url: "https://www.youtube.com/watch?v=Pbnn2X2fVvA"
 source_author: "Rebel Wisdom"
 tags: [Existential Risk, Meaning Crisis, Systems Thinking]
 edges:
-  - target: open-sourcing-ecstasy-against-institutional-gatekeeping
-    type: contrasts
   - target: structural-failure-modes-of-collective-sensemaking
     type: applies
-  - target: the-simultaneous-collapse-of-sacred-and-secular-authority
-    type: grounds
+  - target: open-sourcing-ecstasy-against-institutional-gatekeeping
+    type: contrasts
 created_at: "2026-03-08"
 ---
 

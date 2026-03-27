@@ -9,16 +9,14 @@ source_url: "https://www.youtube.com/watch?v=ChTmQ4iTYpo"
 source_author: "Brendan Graham Dempsey"
 tags: [Evolutionary Biology, Philosophy of Mind, Cognitive Science, Systems Thinking]
 edges:
-  - target: relevance-realization-and-the-optimal-grip
-    type: extends
-  - target: hemispheric-attention-and-the-crisis-of-representation
-    type: extends
-  - target: the-transition-from-genetic-memory-to-neural-learning
-    type: extends
   - target: how-purpose-emerges-from-the-physics-of-absence
     type: grounds
+  - target: relevance-realization-and-the-optimal-grip
+    type: extends
   - target: mapping-reality-for-meaningful-choice
     type: applies
+  - target: the-transition-from-genetic-memory-to-neural-learning
+    type: extends
 created_at: "2026-03-07"
 ---
 

@@ -9,11 +9,11 @@ source_url: "https://www.youtube.com/watch?v=CuvDsGXFtho"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Epistemology, Cognitive Science, Phenomenology, Relevance Realization]
 edges:
-  - target: the-four-distinct-layers-of-mind
-    type: extends
-  - target: the-structural-unification-of-psychological-science
-    type: extends
+  - target: the-neural-process-of-constructing-meaningful-worlds
+    type: grounds
   - target: integrating-objective-science-and-interior-wisdom
+    type: applies
+  - target: the-structural-unification-of-psychological-science
     type: extends
 created_at: "2026-03-15"
 ---

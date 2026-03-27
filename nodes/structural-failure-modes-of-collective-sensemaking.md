@@ -9,16 +9,16 @@ source_url: "https://www.youtube.com/watch?v=8Es_WTEgZHE"
 source_author: "Rebel Wisdom"
 tags: [Systems Thinking, Meta-Crisis, Game B, Collective Intelligence]
 edges:
-  - target: cultural-continuity-strategies-for-prosocial-communities
-    type: extends
-  - target: the-structural-barriers-to-shared-systems-narratives
-    type: extends
-  - target: three-pillars-of-a-new-enlightenment
-    type: applies
-  - target: the-structural-architecture-of-cultic-emergence
-    type: exemplifies
   - target: from-tribal-intimacy-to-global-institutional-systems
     type: grounds
+  - target: the-structural-barriers-to-shared-systems-narratives
+    type: extends
+  - target: cultural-continuity-strategies-for-prosocial-communities
+    type: extends
+  - target: the-structural-architecture-of-cultic-emergence
+    type: exemplifies
+  - target: three-pillars-of-a-new-enlightenment
+    type: applies
 created_at: "2026-03-08"
 ---
 

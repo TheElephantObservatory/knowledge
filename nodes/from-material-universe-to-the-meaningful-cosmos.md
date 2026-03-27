@@ -11,12 +11,14 @@ tags: [Ontological Design, Relational Ontology, Meaning Crisis, Narrative and My
 edges:
   - target: from-thermodynamic-survival-to-cultural-meaning
     type: extends
-  - target: relevance-realization-and-the-optimal-grip
-    type: grounds
-  - target: the-continuity-of-meaning-from-matter-to-culture
+  - target: propositional-grammar-and-the-evolution-of-personhood
     type: extends
   - target: mapping-reality-for-meaningful-choice
     type: applies
+  - target: the-continuity-of-meaning-from-matter-to-culture
+    type: extends
+  - target: relevance-realization-and-the-optimal-grip
+    type: grounds
 created_at: "2026-03-08"
 ---
 

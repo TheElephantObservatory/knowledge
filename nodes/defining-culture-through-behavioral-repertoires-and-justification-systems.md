@@ -11,12 +11,12 @@ tags: [Ontological Design, Systems Thinking, Cultural Evolution, Hermeneutics]
 edges:
   - target: the-periodic-architecture-of-scientific-dimensions
     type: extends
+  - target: the-four-distinct-layers-of-mind
+    type: extends
   - target: four-cultural-epochs-integrated-within-metamodern-sensibility
     type: applies
   - target: mapping-reality-from-energy-to-culture
     type: grounds
-  - target: the-four-distinct-layers-of-mind
-    type: extends
   - target: the-fragmented-architecture-of-human-psychology
     type: grounds
 created_at: "2026-03-15"

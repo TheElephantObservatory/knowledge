@@ -11,8 +11,6 @@ tags: [Systems Thinking, Political Philosophy, Civilizational Risk, Meta-Crisis]
 edges:
   - target: energy-infrastructure-and-the-material-foundations-of-society
     type: grounds
-  - target: ai-acceleration-of-the-global-economic-superorganism
-    type: extends
   - target: the-blind-superorganism-of-global-economic-growth-1
     type: extends
 created_at: "2026-03-07"

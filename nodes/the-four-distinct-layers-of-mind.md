@@ -9,10 +9,14 @@ source_url: "https://www.youtube.com/watch?v=90D8quVS2tE"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Philosophy of Mind, Consciousness Studies, UTOK, Phenomenology]
 edges:
+  - target: four-distinct-modes-of-human-cognition
+    type: extends
   - target: the-fragmented-architecture-of-human-psychology
     type: grounds
   - target: distinguishing-stages-stations-and-consciousness-phases
     type: extends
+  - target: the-foundational-crisis-of-psychological-definition
+    type: grounds
 created_at: "2026-03-15"
 ---
 

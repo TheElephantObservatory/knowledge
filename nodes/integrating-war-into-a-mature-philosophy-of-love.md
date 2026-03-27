@@ -9,14 +9,12 @@ source_url: "https://www.youtube.com/watch?v=pLMTqNiTFQo"
 source_author: "Footnotes2Plato"
 tags: [Integral Theory, Philosophy of Mind, Relational Ontology, Wisdom Traditions]
 edges:
-  - target: myth-as-a-long-term-survival-technology
-    type: grounds
-  - target: shared-cosmic-narratives-and-civilizational-value
-    type: contrasts
   - target: ethical-choice-in-the-mythic-present
     type: applies
-  - target: the-spiritual-crisis-beneath-our-global-breakdown
+  - target: myth-as-a-long-term-survival-technology
     type: extends
+  - target: the-spiritual-crisis-beneath-our-global-breakdown
+    type: grounds
 created_at: "2026-03-15"
 ---
 

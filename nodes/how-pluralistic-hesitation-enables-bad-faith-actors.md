@@ -9,14 +9,12 @@ source_url: "https://www.youtube.com/watch?v=hZrjJLwjpto"
 source_author: "Rebel Wisdom"
 tags: [Ethics, Game Theory, Epistemology, Systems Thinking]
 edges:
-  - target: commercial-incentives-and-the-psychedelic-movement
-    type: exemplifies
-  - target: structural-failure-modes-of-collective-sensemaking
-    type: grounds
   - target: the-structural-architecture-of-cultic-emergence
     type: extends
-  - target: the-path-from-na-ve-slogans-to-earned-clarity
-    type: extends
+  - target: structural-failure-modes-of-collective-sensemaking
+    type: grounds
+  - target: binary-logic-and-the-practice-of-contextualism
+    type: grounds
 created_at: "2026-03-08"
 ---
 

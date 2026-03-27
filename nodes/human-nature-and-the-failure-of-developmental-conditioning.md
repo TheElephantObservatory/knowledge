@@ -11,12 +11,14 @@ tags: [Evolutionary Biology, Developmental Psychology, Cultural Evolution, Ontol
 edges:
   - target: biological-vulnerability-and-the-modern-economic-trap
     type: applies
-  - target: decoupling-technical-advancement-from-human-betterment
-    type: extends
   - target: the-formation-of-persons-through-cultural-inheritance
     type: grounds
   - target: reclaiming-agency-from-the-curated-information-environment
     type: exemplifies
+  - target: biological-drivers-of-culture-and-political-failure
+    type: extends
+  - target: from-material-universe-to-the-meaningful-cosmos
+    type: grounds
 created_at: "2026-03-07"
 ---
 

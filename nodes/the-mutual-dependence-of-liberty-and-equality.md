@@ -9,12 +9,12 @@ source_url: "https://www.youtube.com/watch?v=ZuCieejIEbI"
 source_author: "John Vervaeke’s Lectern"
 tags: [Political Philosophy, Hermeneutics, Relational Ontology]
 edges:
-  - target: three-pillars-of-a-new-enlightenment
-    type: applies
   - target: mutual-understanding-in-the-presence-of-deep-disagreement
     type: applies
   - target: shared-sensemaking-as-the-foundation-for-global-action
     type: extends
+  - target: three-pillars-of-a-new-enlightenment
+    type: applies
 created_at: "2026-03-08"
 ---
 

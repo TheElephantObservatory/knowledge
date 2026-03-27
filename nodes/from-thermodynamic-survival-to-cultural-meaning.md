@@ -11,14 +11,6 @@ tags: [Epistemology, Complexity Science, Evolutionary Biology, Systems Thinking]
 edges:
   - target: the-continuity-of-meaning-from-matter-to-culture
     type: extends
-  - target: mapping-the-four-planes-of-cosmic-emergence
-    type: grounds
-  - target: how-purpose-emerges-from-the-physics-of-absence
-    type: extends
-  - target: genetic-information-and-the-evolution-of-meaning
-    type: exemplifies
-  - target: the-energetic-cost-of-ordered-existence
-    type: grounds
 created_at: "2026-03-07"
 ---
 

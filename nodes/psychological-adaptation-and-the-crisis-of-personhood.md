@@ -9,13 +9,13 @@ source_url: "https://www.youtube.com/watch?v=qD5pnsyIYvQ"
 source_author: "Rebel Wisdom"
 tags: [Meta-Crisis, Developmental Psychology, Sensemaking, Civilizational Risk]
 edges:
+  - target: building-a-metapsychology-of-qualitative-transformation
+    type: extends
   - target: metaphysical-architecture-for-the-psyche-in-crisis
     type: grounds
   - target: the-spiritual-crisis-beneath-our-global-breakdown
     type: extends
   - target: the-structural-inability-to-transmit-human-meaning
-    type: extends
-  - target: building-a-metapsychology-of-qualitative-transformation
     type: extends
   - target: the-fragmented-architecture-of-human-psychology
     type: grounds

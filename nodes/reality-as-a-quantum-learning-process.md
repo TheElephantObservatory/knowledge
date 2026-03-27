@@ -9,14 +9,14 @@ source_url: "https://www.youtube.com/watch?v=tkwgDtTWfcU"
 source_author: "Brendan Graham Dempsey"
 tags: [Information Theory, Evolutionary Biology, Complexity Science, Epistemology]
 edges:
-  - target: the-continuity-of-meaning-from-matter-to-culture
+  - target: the-transition-from-genetic-memory-to-neural-learning
     type: extends
   - target: from-thermodynamic-survival-to-cultural-meaning
     type: extends
-  - target: the-transition-from-genetic-memory-to-neural-learning
-    type: extends
   - target: how-purpose-emerges-from-the-physics-of-absence
     type: grounds
+  - target: the-continuity-of-meaning-from-matter-to-culture
+    type: extends
   - target: information-as-the-mechanism-of-physical-existence
     type: contrasts
 created_at: "2026-03-07"
