@@ -375,19 +375,34 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "the-optical-illusion-of-scaled-technological-benefits",
-    "target_slug": "educational-skill-building-versus-ai-prosthetic-dependency",
-    "relationship_type": "applies"
+    "source_slug": "the-nested-architecture-of-shared-cultural-beliefs",
+    "target_slug": "defining-culture-through-behavioral-repertoires-and-justification-systems",
+    "relationship_type": "extends"
   },
   {
-    "source_slug": "artificial-intimacy-and-the-collapse-of-social-reality",
-    "target_slug": "undue-influence-and-the-collapse-of-personal-autonomy",
-    "relationship_type": "applies"
+    "source_slug": "subjective-observation-and-the-limits-of-measurement",
+    "target_slug": "integrating-subjective-experience-culture-and-science",
+    "relationship_type": "extends"
   },
   {
-    "source_slug": "ai-socialization-and-the-end-of-human-inheritance",
-    "target_slug": "the-intergenerational-architecture-of-the-human-soul",
+    "source_slug": "integrating-subjective-experience-culture-and-science",
+    "target_slug": "the-enlightenment-gap-and-the-crisis-of-psychology",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "three-foundations-of-individual-and-collective-wisdom",
+    "target_slug": "the-structural-incompleteness-of-optimization-metrics",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "addressing-the-underlying-worldview-driving-global-crises",
+    "target_slug": "the-misidentification-of-value-in-modern-civilization",
     "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "information-technology-and-the-collapse-of-shared-truth",
+    "target_slug": "the-informational-war-against-shared-reality",
+    "relationship_type": "applies"
   },
   {
     "source_slug": "communication-as-a-living-relational-ecosystem",
@@ -805,19 +820,34 @@
     "relationship_type": "exemplifies"
   },
   {
-    "source_slug": "ai-companions-and-the-commercialization-of-regression",
-    "target_slug": "the-category-error-of-machine-personhood",
+    "source_slug": "the-nested-architecture-of-shared-cultural-beliefs",
+    "target_slug": "mapping-reality-from-energy-to-culture",
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "the-optical-illusion-of-scaled-technological-benefits",
-    "target_slug": "how-technology-encodes-unintended-social-values",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "ai-socialization-and-the-end-of-human-inheritance",
-    "target_slug": "the-category-error-of-machine-personhood",
+    "source_slug": "subjective-observation-and-the-limits-of-measurement",
+    "target_slug": "bridging-the-personal-self-and-objective-physical-reality",
     "relationship_type": "extends"
+  },
+  {
+    "source_slug": "integrating-subjective-experience-culture-and-science",
+    "target_slug": "integrating-objective-science-and-interior-wisdom",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "addressing-the-underlying-worldview-driving-global-crises",
+    "target_slug": "the-structural-breakdown-of-our-meaning-making-systems",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "scaling-the-boundaries-of-human-cooperation",
+    "target_slug": "myth-as-a-long-term-survival-technology",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "information-technology-and-the-collapse-of-shared-truth",
+    "target_slug": "how-algorithmic-curation-fragments-collective-sanity",
+    "relationship_type": "exemplifies"
   },
   {
     "source_slug": "communication-as-a-living-relational-ecosystem",
@@ -1205,23 +1235,38 @@
     "relationship_type": "exemplifies"
   },
   {
-    "source_slug": "ai-companions-and-the-commercialization-of-regression",
-    "target_slug": "how-ai-replaces-primary-human-relationships",
+    "source_slug": "the-nested-architecture-of-shared-cultural-beliefs",
+    "target_slug": "the-linguistic-architecture-of-human-self-consciousness",
     "relationship_type": "extends"
   },
   {
-    "source_slug": "the-optical-illusion-of-scaled-technological-benefits",
-    "target_slug": "scaling-collective-wisdom-for-unbounded-technological-power",
+    "source_slug": "subjective-observation-and-the-limits-of-measurement",
+    "target_slug": "a-unified-architecture-for-human-knowledge",
     "relationship_type": "extends"
   },
   {
-    "source_slug": "artificial-intimacy-and-the-collapse-of-social-reality",
-    "target_slug": "how-ai-replaces-primary-human-relationships",
+    "source_slug": "integrating-subjective-experience-culture-and-science",
+    "target_slug": "four-distinct-modes-of-human-cognition",
     "relationship_type": "extends"
   },
   {
-    "source_slug": "ai-socialization-and-the-end-of-human-inheritance",
-    "target_slug": "ai-mimicry-and-the-crisis-of-human-formation",
+    "source_slug": "addressing-the-underlying-worldview-driving-global-crises",
+    "target_slug": "the-spiritual-crisis-beneath-our-global-breakdown",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "scaling-the-boundaries-of-human-cooperation",
+    "target_slug": "building-coordination-through-shared-value-stories",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "information-technology-and-the-collapse-of-shared-truth",
+    "target_slug": "navigating-the-irreversible-collapse-of-collective-sensemaking",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "information-technology-and-the-collapse-of-shared-truth",
+    "target_slug": "protecting-the-shared-foundations-of-truth",
     "relationship_type": "extends"
   },
   {
@@ -1620,48 +1665,23 @@
     "relationship_type": "exemplifies"
   },
   {
-    "source_slug": "conversational-ai-and-the-hijacking-of-human-attachment",
-    "target_slug": "artificial-intimacy-and-the-collapse-of-social-reality",
+    "source_slug": "the-nested-architecture-of-shared-cultural-beliefs",
+    "target_slug": "integrating-subjective-experience-culture-and-science",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "subjective-observation-and-the-limits-of-measurement",
+    "target_slug": "integrating-objective-science-and-interior-wisdom",
     "relationship_type": "extends"
   },
   {
-    "source_slug": "conversational-ai-and-the-hijacking-of-human-attachment",
-    "target_slug": "how-ai-replaces-primary-human-relationships",
+    "source_slug": "addressing-the-underlying-worldview-driving-global-crises",
+    "target_slug": "the-fifth-joint-point-of-evolutionary-complexity",
     "relationship_type": "extends"
   },
   {
-    "source_slug": "conversational-ai-and-the-hijacking-of-human-attachment",
-    "target_slug": "the-category-error-of-machine-personhood",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "sanity-and-the-fragmentation-of-shared-reality",
-    "target_slug": "navigating-the-irreversible-collapse-of-collective-sensemaking",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "sanity-and-the-fragmentation-of-shared-reality",
-    "target_slug": "the-informational-war-against-shared-reality",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "sanity-and-the-fragmentation-of-shared-reality",
-    "target_slug": "undue-influence-and-the-collapse-of-personal-autonomy",
-    "relationship_type": "exemplifies"
-  },
-  {
-    "source_slug": "the-neurological-cost-of-offloading-human-literacy",
-    "target_slug": "educational-skill-building-versus-ai-prosthetic-dependency",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-neurological-cost-of-offloading-human-literacy",
-    "target_slug": "ai-mimicry-and-the-crisis-of-human-formation",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-neurological-cost-of-offloading-human-literacy",
-    "target_slug": "biological-connection-and-the-simulation-of-language",
+    "source_slug": "scaling-the-boundaries-of-human-cooperation",
+    "target_slug": "the-nested-architecture-of-shared-cultural-beliefs",
     "relationship_type": "grounds"
   },
   {
@@ -1975,34 +1995,84 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "conversational-ai-and-the-hijacking-of-human-attachment",
-    "target_slug": "ai-companions-and-the-commercialization-of-regression",
+    "source_slug": "the-breakdown-of-embodied-intergenerational-socialization",
+    "target_slug": "ai-mimicry-and-the-crisis-of-human-formation",
     "relationship_type": "extends"
   },
   {
-    "source_slug": "conversational-ai-and-the-hijacking-of-human-attachment",
-    "target_slug": "biological-connection-and-the-simulation-of-language",
-    "relationship_type": "grounds"
+    "source_slug": "the-breakdown-of-embodied-intergenerational-socialization",
+    "target_slug": "how-ai-captures-the-childs-sense-of-truth",
+    "relationship_type": "exemplifies"
   },
   {
-    "source_slug": "sanity-and-the-fragmentation-of-shared-reality",
-    "target_slug": "the-structural-breakdown-of-our-meaning-making-systems",
+    "source_slug": "the-displacement-of-human-connection-by-ai",
+    "target_slug": "clinical-divergence-in-ai-attention-and-attachment",
     "relationship_type": "extends"
   },
   {
-    "source_slug": "sanity-and-the-fragmentation-of-shared-reality",
-    "target_slug": "the-anti-fascist-origins-of-systems-thinking",
+    "source_slug": "separating-biological-mindedness-from-abstract-consciousness",
+    "target_slug": "the-tripartite-map-of-human-consciousness",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "separating-biological-mindedness-from-abstract-consciousness",
+    "target_slug": "a-three-dimensional-map-of-the-mind",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-linguistic-architecture-of-human-self-consciousness",
+    "target_slug": "the-four-distinct-layers-of-mind",
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "the-neurological-cost-of-offloading-human-literacy",
+    "source_slug": "the-linguistic-architecture-of-human-self-consciousness",
+    "target_slug": "sapience-as-autonomy-beyond-mere-biological-agency",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "a-three-dimensional-map-of-the-mind",
+    "target_slug": "the-four-distinct-layers-of-mind",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "how-algorithmic-curation-fragments-collective-sanity",
+    "target_slug": "navigating-the-irreversible-collapse-of-collective-sensemaking",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "neurological-atrophy-and-the-erosion-of-civilizational-literacy",
+    "target_slug": "educational-skill-building-versus-ai-prosthetic-dependency",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "neurological-atrophy-and-the-erosion-of-civilizational-literacy",
     "target_slug": "how-ai-captures-the-childs-sense-of-truth",
     "relationship_type": "extends"
   },
   {
-    "source_slug": "the-neurological-cost-of-offloading-human-literacy",
-    "target_slug": "ai-socialization-and-the-end-of-human-inheritance",
+    "source_slug": "neurological-atrophy-and-the-erosion-of-civilizational-literacy",
+    "target_slug": "the-ai-resource-curse-and-human-devaluation",
     "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-neurological-hijacking-of-human-attachment",
+    "target_slug": "ai-and-the-simulation-of-perfect-parental-care",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-neurological-hijacking-of-human-attachment",
+    "target_slug": "how-ai-replaces-primary-human-relationships",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-neurological-hijacking-of-human-attachment",
+    "target_slug": "separating-cognitive-scaffolding-from-relational-reward",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-nested-architecture-of-shared-cultural-beliefs",
+    "target_slug": "navigating-the-irreversible-collapse-of-collective-sensemaking",
+    "relationship_type": "applies"
   },
   {
     "source_slug": "the-structural-trap-of-constant-problem-generation",
@@ -2345,14 +2415,69 @@
     "relationship_type": "contrasts"
   },
   {
-    "source_slug": "biological-connection-and-the-simulation-of-language",
-    "target_slug": "artificial-intimacy-and-the-collapse-of-social-reality",
+    "source_slug": "the-breakdown-of-embodied-intergenerational-socialization",
+    "target_slug": "the-intergenerational-architecture-of-the-human-soul",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-breakdown-of-embodied-intergenerational-socialization",
+    "target_slug": "the-category-error-of-machine-personhood",
     "relationship_type": "applies"
   },
   {
-    "source_slug": "biological-connection-and-the-simulation-of-language",
-    "target_slug": "the-category-error-of-machine-personhood",
+    "source_slug": "separating-biological-mindedness-from-abstract-consciousness",
+    "target_slug": "the-four-distinct-layers-of-mind",
     "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-structural-evolution-of-subjective-awareness",
+    "target_slug": "the-tripartite-map-of-human-consciousness",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-structural-evolution-of-subjective-awareness",
+    "target_slug": "the-neural-process-of-constructing-meaningful-worlds",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-linguistic-architecture-of-human-self-consciousness",
+    "target_slug": "the-three-layered-architecture-of-human-self-consciousness",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-linguistic-architecture-of-human-self-consciousness",
+    "target_slug": "the-tripartite-map-of-human-consciousness",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-linguistic-architecture-of-human-self-consciousness",
+    "target_slug": "symbol-image-and-language-in-psychic-healing",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "a-three-dimensional-map-of-the-mind",
+    "target_slug": "the-tripartite-map-of-human-consciousness",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "a-three-dimensional-map-of-the-mind",
+    "target_slug": "mapping-reality-from-energy-to-culture",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "a-three-dimensional-map-of-the-mind",
+    "target_slug": "the-linguistic-architecture-of-human-self-consciousness",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "subjective-observation-and-the-limits-of-measurement",
+    "target_slug": "the-epistemic-distinction-between-science-and-psyche",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "integrating-subjective-experience-culture-and-science",
+    "target_slug": "bridging-the-personal-self-and-objective-physical-reality",
+    "relationship_type": "extends"
   },
   {
     "source_slug": "the-structural-trap-of-constant-problem-generation",
@@ -2740,13 +2865,43 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "biological-connection-and-the-simulation-of-language",
-    "target_slug": "ai-companions-and-the-commercialization-of-regression",
+    "source_slug": "the-breakdown-of-embodied-intergenerational-socialization",
+    "target_slug": "the-displacement-of-human-connection-by-ai",
     "relationship_type": "exemplifies"
   },
   {
-    "source_slug": "biological-connection-and-the-simulation-of-language",
-    "target_slug": "how-ai-captures-the-childs-sense-of-truth",
+    "source_slug": "separating-cognitive-scaffolding-from-relational-reward",
+    "target_slug": "ai-orchestration-of-human-to-human-educational-networks",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "separating-cognitive-scaffolding-from-relational-reward",
+    "target_slug": "how-ai-replaces-primary-human-relationships",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-displacement-of-human-connection-by-ai",
+    "target_slug": "the-category-error-of-machine-personhood",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "clinical-divergence-in-ai-attention-and-attachment",
+    "target_slug": "how-ai-replaces-primary-human-relationships",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-structural-evolution-of-subjective-awareness",
+    "target_slug": "the-four-distinct-layers-of-mind",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "ai-and-the-simulation-of-perfect-parental-care",
+    "target_slug": "clinical-divergence-in-ai-attention-and-attachment",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "integrating-subjective-experience-culture-and-science",
+    "target_slug": "a-unified-architecture-for-human-knowledge",
     "relationship_type": "extends"
   },
   {
@@ -3110,6 +3265,56 @@
     "relationship_type": "extends"
   },
   {
+    "source_slug": "separating-cognitive-scaffolding-from-relational-reward",
+    "target_slug": "educational-skill-building-versus-ai-prosthetic-dependency",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "separating-cognitive-scaffolding-from-relational-reward",
+    "target_slug": "clinical-divergence-in-ai-attention-and-attachment",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "separating-cognitive-scaffolding-from-relational-reward",
+    "target_slug": "the-displacement-of-human-connection-by-ai",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "the-displacement-of-human-connection-by-ai",
+    "target_slug": "how-ai-replaces-primary-human-relationships",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "separating-biological-mindedness-from-abstract-consciousness",
+    "target_slug": "bridging-the-personal-self-and-objective-physical-reality",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "ai-as-the-peak-of-industrial-reductionism",
+    "target_slug": "the-structural-incompleteness-of-optimization-metrics",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "ai-as-the-peak-of-industrial-reductionism",
+    "target_slug": "distinguishing-human-complexity-from-biological-systems",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "ai-as-the-peak-of-industrial-reductionism",
+    "target_slug": "how-ai-captures-the-childs-sense-of-truth",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "three-foundations-of-individual-and-collective-wisdom",
+    "target_slug": "integrating-objective-science-and-interior-wisdom",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "information-technology-and-the-collapse-of-shared-truth",
+    "target_slug": "structural-educational-lag-and-civilizational-collapse",
+    "relationship_type": "grounds"
+  },
+  {
     "source_slug": "reclaiming-human-presence-from-the-logic-of-escape",
     "target_slug": "shared-logic-across-religious-and-secular-raptures",
     "relationship_type": "extends"
@@ -3425,6 +3630,51 @@
     "relationship_type": "extends"
   },
   {
+    "source_slug": "clinical-divergence-in-ai-attention-and-attachment",
+    "target_slug": "the-category-error-of-machine-personhood",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "separating-biological-mindedness-from-abstract-consciousness",
+    "target_slug": "the-forgotten-dimension-of-animal-mindedness",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-structural-evolution-of-subjective-awareness",
+    "target_slug": "the-three-layered-architecture-of-human-self-consciousness",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "ai-and-the-simulation-of-perfect-parental-care",
+    "target_slug": "the-displacement-of-human-connection-by-ai",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "ai-and-the-simulation-of-perfect-parental-care",
+    "target_slug": "separating-cognitive-scaffolding-from-relational-reward",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "three-foundations-of-individual-and-collective-wisdom",
+    "target_slug": "recovering-the-singular-source-of-human-value",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "three-foundations-of-individual-and-collective-wisdom",
+    "target_slug": "integrating-development-ensoulment-and-transcendence",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "addressing-the-underlying-worldview-driving-global-crises",
+    "target_slug": "the-shared-structural-drivers-of-civilizational-risk",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "scaling-the-boundaries-of-human-cooperation",
+    "target_slug": "shared-cosmic-narratives-and-civilizational-value",
+    "relationship_type": "extends"
+  },
+  {
     "source_slug": "reclaiming-human-presence-from-the-logic-of-escape",
     "target_slug": "structural-failure-modes-of-collective-sensemaking",
     "relationship_type": "exemplifies"
@@ -3685,31 +3935,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "ai-companions-and-the-commercialization-of-regression",
-    "target_slug": "artificial-intimacy-and-the-collapse-of-social-reality",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "ai-companions-and-the-commercialization-of-regression",
-    "target_slug": "how-ai-captures-the-childs-sense-of-truth",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "the-optical-illusion-of-scaled-technological-benefits",
-    "target_slug": "the-asymmetric-logic-of-ai-risk-and-reward",
-    "relationship_type": "exemplifies"
-  },
-  {
-    "source_slug": "artificial-intimacy-and-the-collapse-of-social-reality",
-    "target_slug": "the-category-error-of-machine-personhood",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "ai-socialization-and-the-end-of-human-inheritance",
-    "target_slug": "how-ai-captures-the-childs-sense-of-truth",
-    "relationship_type": "exemplifies"
-  },
-  {
     "source_slug": "mattering-as-a-structural-feature-of-life",
     "target_slug": "the-neural-process-of-constructing-meaningful-worlds",
     "relationship_type": "extends"
@@ -3718,5 +3943,45 @@
     "source_slug": "mattering-as-a-structural-feature-of-life",
     "target_slug": "the-misidentification-of-value-in-modern-civilization",
     "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "clinical-divergence-in-ai-attention-and-attachment",
+    "target_slug": "undue-influence-and-the-collapse-of-personal-autonomy",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "neurological-atrophy-and-the-erosion-of-civilizational-literacy",
+    "target_slug": "ai-mimicry-and-the-crisis-of-human-formation",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "neurological-atrophy-and-the-erosion-of-civilizational-literacy",
+    "target_slug": "the-breakdown-of-embodied-intergenerational-socialization",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-neurological-hijacking-of-human-attachment",
+    "target_slug": "the-displacement-of-human-connection-by-ai",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "the-neurological-hijacking-of-human-attachment",
+    "target_slug": "clinical-divergence-in-ai-attention-and-attachment",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "ai-as-the-peak-of-industrial-reductionism",
+    "target_slug": "bonnitta-roy-s-process-based-critique-of-complexity",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "ai-as-the-peak-of-industrial-reductionism",
+    "target_slug": "the-category-error-of-machine-personhood",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "three-foundations-of-individual-and-collective-wisdom",
+    "target_slug": "scaling-collective-wisdom-for-unbounded-technological-power",
+    "relationship_type": "applies"
   }
 ]
