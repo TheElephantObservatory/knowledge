@@ -684,6 +684,10 @@
     "definition": "The underlying motivations, stakes, and desired outcomes that each participant brings to a conversation, often unspoken and misaligned across divides."
   },
   {
+    "term": "confess error",
+    "definition": "The act of acknowledging mistakes or failures transparently, without defensive rationalization or narrative manipulation, as a prerequisite for genuine collective learning and renewal."
+  },
+  {
     "term": "conflict-driven narrative",
     "definition": "A storytelling structure that relies on opposition, antagonism, and dramatic tension between opposing forces as the primary mechanism for generating meaning and audience engagement."
   },
@@ -722,6 +726,10 @@
   {
     "term": "constitutive implication",
     "definition": "A structural relationship in which a system or framework is not merely failing to address a problem but is fundamentally involved in producing or generating that problem as an inherent feature of its logic."
+  },
+  {
+    "term": "contact with lived reality",
+    "definition": "Direct engagement with concrete experience and observable consequences rather than abstract theory or ideology, serving as the ground truth against which shared narratives are tested and refined."
   },
   {
     "term": "content",
@@ -800,6 +808,10 @@
     "definition": "The dynamical state of a complex system poised precisely at the boundary between order and chaos, where the system exhibits maximal information processing capacity, adaptive responsiveness, and sensitivity without being destabilized by noise or perturbations."
   },
   {
+    "term": "critique",
+    "definition": "In this context, rigorous external feedback or challenge that functions as a transformative force when received without defensiveness, enabling revision of beliefs and practices."
+  },
+  {
     "term": "cultural evolution",
     "definition": "The transmission and modification of beliefs, practices, and narratives across generations and populations, functioning as a mechanism for developing new forms of social organization and collective identity."
   },
@@ -816,12 +828,20 @@
     "definition": "A theoretical framework developed by Marvin Harris positing that material conditions—energy throughput, resource flows, and infrastructure—form the foundational layer determining cultural institutions and ideologies, rather than the reverse."
   },
   {
+    "term": "cultural renewal",
+    "definition": "A regenerative process through which organizations restore adaptive capacity by creating conditions for confession, critique integration, and narrative reconstruction grounded in direct contact with lived reality rather than inherited abstractions."
+  },
+  {
     "term": "Cultural resilience",
     "definition": "The capacity of a society's values, narratives, and social structures to persist, adapt, and propagate through periods of civilizational disruption or collapse."
   },
   {
     "term": "Cultural seeds",
     "definition": "Foundational ideas, practices, and organizational structures within a civilization that are capable of surviving disruption and reconstituting social order in subsequent iterations."
+  },
+  {
+    "term": "cultural sensemaking",
+    "definition": "The collective process by which groups construct, test, and revise shared meaning and narrative frameworks in response to experience, requiring integration of plural perspectives and willingness to rewrite foundational stories."
   },
   {
     "term": "cultural transmission",
@@ -982,6 +1002,10 @@
   {
     "term": "discernment",
     "definition": "The ability to perceive and distinguish the true nature of a situation or path forward, particularly in contexts where the answer is not logically deducible but requires insight into underlying reality."
+  },
+  {
+    "term": "Disciplined repair",
+    "definition": "The ongoing practice of identifying and correcting distortions, gaps, or failures in understanding through iterative engagement with evidence and alternative perspectives."
   },
   {
     "term": "Disclosure",
@@ -1306,6 +1330,10 @@
   {
     "term": "Epistemic foundations",
     "definition": "The underlying systems of knowledge production, validation, and transmission that allow a civilization to distinguish truth from falsehood and maintain rational deliberation. These include institutions, norms, and psychological capacities for reasoning that enable trustworthy information ecosystems."
+  },
+  {
+    "term": "Epistemic humility",
+    "definition": "The disciplined recognition that complete certainty about complex realities is unattainable, requiring one to remain open to evidence and alternative framings rather than settling into comfortable but incomplete explanations."
   },
   {
     "term": "Epistemic location",
@@ -1634,6 +1662,10 @@
   {
     "term": "Fractal application",
     "definition": "A principle or insight that maintains structural similarity and relevance across multiple nested levels of organization, from individual to interpersonal to cultural scales."
+  },
+  {
+    "term": "Frame collapse",
+    "definition": "The premature reduction of a multidimensional situation to a single interpretive lens, which forecloses understanding by eliminating the productive tension between different valid perspectives."
   },
   {
     "term": "free energy",
@@ -2220,6 +2252,10 @@
     "definition": "Shared, learned behavioral repertoires that coordinate group behavior through social transmission across generations, observable in both human and non-human animals such as chimpanzees, cetaceans, and birds."
   },
   {
+    "term": "lived experience",
+    "definition": "In this context, the concrete, embodied reality of actual conditions and outcomes as opposed to abstract models, metrics, or theoretical frameworks that may diverge from what is genuinely occurring."
+  },
+  {
     "term": "Locally rational decisions",
     "definition": "Individual or institutional choices that optimize for immediate self-interest or profit within a bounded context, which can aggregate into globally irrational or destructive outcomes at the systems level."
   },
@@ -2234,6 +2270,10 @@
   {
     "term": "maintenance theorem",
     "definition": "The principle that computer systems should be understood as phenomena drifting in state space rather than machines executing commands, requiring continuous autonomous correction to maintain desired states against entropy and interference."
+  },
+  {
+    "term": "map-territory distinction",
+    "definition": "The epistemological principle that mental models, representations, and abstractions are fundamentally different from the reality they describe; confusing the two leads to institutional rigidity and disconnection from actual conditions."
   },
   {
     "term": "market selection for harm",
@@ -2366,6 +2406,10 @@
   {
     "term": "methodological behaviorism",
     "definition": "The approach of defining a scientific discipline by its methods rather than its subject matter, exemplified by psychology's self-definition as 'the science of behavior and mental processes' despite lacking consensus on what psychology fundamentally investigates in the world."
+  },
+  {
+    "term": "metric idolatry",
+    "definition": "The organizational pathology wherein quantifiable measures become ends in themselves rather than tools for understanding reality, causing institutions to optimize for the measurement rather than the underlying value or outcome."
   },
   {
     "term": "Metric optimization",
@@ -2852,6 +2896,10 @@
     "definition": "The originating cause or fundamental mechanism by which a disease, dysfunction, or systemic failure develops; the study of how pathological conditions arise from underlying structural or dynamic causes rather than their symptomatic manifestations."
   },
   {
+    "term": "Pattern emergence",
+    "definition": "The process by which a coherent understanding of reality gradually becomes visible through sustained engagement with multiple perspectives, rather than being imposed deductively from a single framework."
+  },
+  {
     "term": "Peak states",
     "definition": "Transient periods of heightened consciousness, perception, or capability characterized by optimal neurochemical conditions and enhanced access to cognitive or intuitive resources."
   },
@@ -2890,6 +2938,10 @@
   {
     "term": "Perspectival knowledge",
     "definition": "The capacity to discern salience—to distinguish what is relevant and foregrounded from background noise within a perceptual or conceptual landscape. It is the selective attention mechanism that determines which elements of experience become meaningful."
+  },
+  {
+    "term": "Perspectival pluralism",
+    "definition": "The practice of simultaneously holding and moving between distinct interpretive lenses (personal, social, systemic) without collapsing them into a single viewpoint, enabling more complete understanding of complex phenomena."
   },
   {
     "term": "perspectival shift",
@@ -2966,6 +3018,10 @@
   {
     "term": "Planetary limits",
     "definition": "The finite ecological and thermodynamic boundaries of Earth's capacity to absorb resource extraction, waste, and environmental degradation while maintaining habitability and systemic stability."
+  },
+  {
+    "term": "Plural perspective",
+    "definition": "The deliberate practice of holding and moving between multiple distinct viewpoints or interpretive frameworks simultaneously without collapsing them into a single dominant lens."
   },
   {
     "term": "polarized conversations",
@@ -3082,6 +3138,10 @@
   {
     "term": "Procedural knowledge",
     "definition": "Skill-based knowing that confers practical power through learned sequences and steps, ranging from simple motor tasks to complex technical operations. It is instantiated in the nervous system as embodied, automatic competence."
+  },
+  {
+    "term": "procedural sclerosis",
+    "definition": "The institutional decay wherein established processes become decoupled from their original purpose and are maintained through inertia and rule-following rather than adaptive responsiveness to changing conditions."
   },
   {
     "term": "Process ontology",
@@ -3240,6 +3300,10 @@
     "definition": "A metaphorical distinction between systems that permit user participation and modification (read-write) versus those that restrict users to passive consumption (read-only); used here to contrast decentralized, participatory digital architectures with hierarchical, top-down institutional structures."
   },
   {
+    "term": "Reality contact",
+    "definition": "The disciplined commitment to remaining engaged with the actual complexity and constraints of a situation rather than retreating into abstraction, ideology, or oversimplification."
+  },
+  {
     "term": "reality testing",
     "definition": "The psychological process of calibrating one's understanding of social and interpersonal reality through feedback from genuine social interactions, particularly through observation of authentic emotional and behavioral responses from attachment figures."
   },
@@ -3290,6 +3354,10 @@
   {
     "term": "reductive transhumanism",
     "definition": "A philosophical position that treats human cognition as fundamentally reducible to computation or information processing, thereby denying human irreducibility and justifying the replacement or improvement of human nature through technological means."
+  },
+  {
+    "term": "reflective attention",
+    "definition": "A disciplined metacognitive practice in which communities deliberately examine their own processes, assumptions, and feedback loops to detect misalignments between their operational stories and actual outcomes."
   },
   {
     "term": "reflexivity",
@@ -3456,6 +3524,10 @@
     "definition": "A property of complex systems where they spontaneously evolve toward a critical state without external tuning, exhibiting scale-invariant behavior and sudden cascading events; exemplified by systems like sandpiles that reach a threshold where small perturbations trigger avalanches of any size."
   },
   {
+    "term": "self-protective spin",
+    "definition": "The cognitive and communicative mechanisms by which individuals reframe or distort their own failures to preserve ego or status, thereby blocking authentic feedback integration and systemic adaptation."
+  },
+  {
     "term": "self-recursive",
     "definition": "A system or pattern that refers to or contains itself at multiple levels of abstraction, where higher-order patterns emerge from the interaction of lower-order elements in a self-referential manner."
   },
@@ -3512,6 +3584,10 @@
     "definition": "A breakdown in the collective capacity to construct shared meaning and accurate understanding of reality, typically caused by information systems that systematically distort perception rather than clarify it."
   },
   {
+    "term": "sensemaking through confession",
+    "definition": "A collective epistemic practice in which groups recover contact with reality by acknowledging error, creating psychological safety for honest feedback, and allowing critique to reshape shared understanding rather than defending existing narratives."
+  },
+  {
     "term": "Sensory-motor loop",
     "definition": "The dynamic coupling between sensory input and motor output that constitutes the fundamental mechanism of mindedness, enabling an organism to perceive and respond to its environment through embodied interaction."
   },
@@ -3534,6 +3610,10 @@
   {
     "term": "shared sensemaking",
     "definition": "The collective capacity of a population to develop common understanding about the nature of problems and the viability of solutions, which enables coordinated action and prevents fragmentation into conflicting efforts."
+  },
+  {
+    "term": "shared story",
+    "definition": "The collective narrative or sense-making framework that a group uses to interpret reality and coordinate action; subject to revision through contact with empirical experience and diverse perspectives."
   },
   {
     "term": "shared story of value",
@@ -3918,85 +3998,5 @@
   {
     "term": "Third-person epistemic",
     "definition": "The capacity to understand objective reality through scientific methodology, formal logic, and empirical evidence, characterized by external observation and measurable confidence margins. This is the dominant epistemic mode of the modern Enlightenment."
-  },
-  {
-    "term": "Three modes of knowing",
-    "definition": "The irreducible epistemological categories of subjective (phenomenological experience), intersubjective (shared cultural meaning-making), and objective (empirical scientific knowledge) through which humans access reality, each with distinct evolutionary origins and validity conditions."
-  },
-  {
-    "term": "three-by-three grid of responses",
-    "definition": "A framework for addressing civilizational challenges by mapping interventions across three domains (culture, political economy, infrastructure) and three time horizons (short-term triage, intermediate-term transition, long-term redesign) to ensure comprehensive and coherent action."
-  },
-  {
-    "term": "tight oil / shale formations",
-    "definition": "Unconventional petroleum sources extracted from low-permeability rock formations where oil is dispersed throughout the source rock itself, requiring more energy-intensive extraction methods than conventional oil reserves."
-  },
-  {
-    "term": "Time between worlds",
-    "definition": "A liminal historical period characterized by the failure of established institutional forms and the opening of possibility space for radical reconception of fundamental social functions, as opposed to periods of stability where incremental change predominates."
-  },
-  {
-    "term": "Tipping point",
-    "definition": "A critical threshold beyond which a system undergoes irreversible qualitative change; in this context, the point at which machine-mediated relationships become the dominant form of human relational engagement."
-  },
-  {
-    "term": "tractable question",
-    "definition": "A problem or inquiry that is practically solvable or addressable through concrete intervention, once the underlying reality has been accepted and properly framed."
-  },
-  {
-    "term": "tragedy-of-the-commons",
-    "definition": "A game-theoretic scenario in which individual rational actors pursuing self-interest deplete or degrade a shared resource, resulting in collective harm that no single actor intended."
-  },
-  {
-    "term": "transactional levels",
-    "definition": "The lowest-order operating framework of a system, concerned with concrete, enforceable exchanges of property, control, and legal rights rather than higher-order values, relationships, or shared meaning."
-  },
-  {
-    "term": "transcend-and-include",
-    "definition": "A developmental principle in which a higher stage of understanding preserves and incorporates the valid insights of previous stages while transcending their limitations, avoiding both regression and the false progress of mere replacement."
-  },
-  {
-    "term": "transcended and included",
-    "definition": "A dialectical operation (associated with Hegelian synthesis and integral theory) wherein a higher perspective preserves and integrates the valid insights of opposing positions rather than simply negating or bypassing them."
-  },
-  {
-    "term": "transcendence",
-    "definition": "The capacity for genuine choice and self-authorship through witnessing consciousness—the ability to hold multiple dimensions of experience in view simultaneously and act from a position of uncaused causality rather than reactive determination. It is the locus of freedom within the causal chain."
-  },
-  {
-    "term": "Transcendent dimension of choice",
-    "definition": "The mature phase of human development in which one moves from passively receiving one's circumstances to actively authoring the conditions of one's own ensoulment through deliberate, binding commitments."
-  },
-  {
-    "term": "Transcendentals",
-    "definition": "In classical philosophy, the fundamental properties or principles (truth, beauty, goodness) that transcend particular cultural contexts and are considered essential to reality itself, serving as the ultimate ground of meaning and value."
-  },
-  {
-    "term": "Transdisciplinary approach",
-    "definition": "A methodological integration that transcends disciplinary boundaries to synthesize concepts, methods, and insights from multiple fields into a unified framework for understanding phenomena."
-  },
-  {
-    "term": "Transitional object",
-    "definition": "A concrete object (such as a teddy bear or blanket) that serves a developmental function by helping a child bridge the gap between dependence on a caregiver and the development of independent self-soothing capacity; characterized by being inert and phase-appropriate rather than reciprocal."
-  },
-  {
-    "term": "Transjectivity",
-    "definition": "The principle that meaning arises neither from purely subjective nor purely objective sources, but emerges through dynamic relational exchange between an agent and its environment, applicable across all levels of complexity."
-  },
-  {
-    "term": "transmigration",
-    "definition": "In this context, the movement or transfer of human consciousness or identity from one substrate or realm to another (such as from biological bodies to digital systems or from Earth to other planets)."
-  },
-  {
-    "term": "Transpersonal sociolinguistic inheritance",
-    "definition": "A cultural transmission system that exists beyond individual agency, wherein language, norms, and symbolic frameworks are passed across generations and shape meaning-making prior to and independent of any single person's construction."
-  },
-  {
-    "term": "transrational",
-    "definition": "A mode of understanding that integrates rational thought with dimensions beyond narrow rationalism, such as intuition, meaning, and complexity, rather than rejecting reason entirely."
-  },
-  {
-    "term": "transvaluation",
-    "definition": "A historical moment when the foundational assumptions and discourse of a civilization regarding the nature and sources of value undergo fundamental transformation, typically accompanied by social instability and cultural upheaval."
   }
 ]

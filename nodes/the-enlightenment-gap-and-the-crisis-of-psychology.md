@@ -13,8 +13,6 @@ edges:
     type: extends
   - target: metaphysical-architecture-for-the-psyche-in-crisis
     type: extends
-  - target: the-fragmented-architecture-of-human-psychology
-    type: exemplifies
   - target: a-unified-architecture-for-human-knowledge
     type: extends
 created_at: "2026-03-22"

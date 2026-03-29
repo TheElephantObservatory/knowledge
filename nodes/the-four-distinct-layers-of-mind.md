@@ -11,8 +11,6 @@ tags: [Philosophy of Mind, Consciousness Studies, UTOK, Phenomenology]
 edges:
   - target: four-distinct-modes-of-human-cognition
     type: extends
-  - target: the-fragmented-architecture-of-human-psychology
-    type: grounds
   - target: distinguishing-stages-stations-and-consciousness-phases
     type: extends
   - target: the-foundational-crisis-of-psychological-definition

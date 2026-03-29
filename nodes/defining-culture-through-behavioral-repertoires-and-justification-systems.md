@@ -17,8 +17,6 @@ edges:
     type: applies
   - target: mapping-reality-from-energy-to-culture
     type: grounds
-  - target: the-fragmented-architecture-of-human-psychology
-    type: grounds
 created_at: "2026-03-15"
 ---
 

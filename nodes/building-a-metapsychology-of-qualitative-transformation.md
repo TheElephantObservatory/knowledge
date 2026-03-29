@@ -17,8 +17,6 @@ edges:
     type: contrasts
   - target: integrating-objective-science-and-interior-wisdom
     type: extends
-  - target: the-fragmented-architecture-of-human-psychology
-    type: grounds
 created_at: "2026-03-15"
 ---
 

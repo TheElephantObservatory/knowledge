@@ -1530,11 +1530,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "metaphysical-architecture-for-the-psyche-in-crisis",
-    "target_slug": "the-fragmented-architecture-of-human-psychology",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "biological-vulnerability-and-the-modern-economic-trap",
     "target_slug": "reclaiming-agency-from-the-curated-information-environment",
     "relationship_type": "extends"
@@ -1945,11 +1940,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "the-fragmented-architecture-of-human-psychology",
-    "target_slug": "the-structural-unification-of-psychological-science",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "symbol-image-and-language-in-psychic-healing",
     "target_slug": "ethical-choice-in-the-mythic-present",
     "relationship_type": "exemplifies"
@@ -2120,19 +2110,9 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "the-four-distinct-layers-of-mind",
-    "target_slug": "the-fragmented-architecture-of-human-psychology",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "science-as-the-measurement-of-entity-field-relations",
     "target_slug": "the-periodic-architecture-of-scientific-dimensions",
     "relationship_type": "applies"
-  },
-  {
-    "source_slug": "building-a-metapsychology-of-qualitative-transformation",
-    "target_slug": "the-fragmented-architecture-of-human-psychology",
-    "relationship_type": "grounds"
   },
   {
     "source_slug": "three-pillars-of-a-new-enlightenment",
@@ -2210,11 +2190,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "defining-culture-through-behavioral-repertoires-and-justification-systems",
-    "target_slug": "the-fragmented-architecture-of-human-psychology",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "genetic-information-and-the-evolution-of-meaning",
     "target_slug": "the-transition-from-genetic-memory-to-neural-learning",
     "relationship_type": "extends"
@@ -2268,11 +2243,6 @@
     "source_slug": "the-invisible-apocalypse-of-attention-algorithms",
     "target_slug": "undue-influence-and-the-collapse-of-personal-autonomy",
     "relationship_type": "applies"
-  },
-  {
-    "source_slug": "defining-psychology-through-the-ontology-of-mind",
-    "target_slug": "the-fragmented-architecture-of-human-psychology",
-    "relationship_type": "extends"
   },
   {
     "source_slug": "reconciling-ancient-biology-with-god-like-technology",
@@ -3190,11 +3160,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "the-fragmented-architecture-of-human-psychology",
-    "target_slug": "the-foundational-crisis-of-psychological-definition",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "symbol-image-and-language-in-psychic-healing",
     "target_slug": "myth-as-a-long-term-survival-technology",
     "relationship_type": "applies"
@@ -3585,11 +3550,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "the-enlightenment-gap-and-the-crisis-of-psychology",
-    "target_slug": "the-fragmented-architecture-of-human-psychology",
-    "relationship_type": "exemplifies"
-  },
-  {
     "source_slug": "a-unified-architecture-for-human-knowledge",
     "target_slug": "integrating-objective-science-and-interior-wisdom",
     "relationship_type": "applies"
@@ -3758,11 +3718,6 @@
     "source_slug": "psychological-adaptation-and-the-crisis-of-personhood",
     "target_slug": "the-structural-inability-to-transmit-human-meaning",
     "relationship_type": "extends"
-  },
-  {
-    "source_slug": "psychological-adaptation-and-the-crisis-of-personhood",
-    "target_slug": "the-fragmented-architecture-of-human-psychology",
-    "relationship_type": "grounds"
   },
   {
     "source_slug": "the-structural-tension-of-global-coordination-systems",

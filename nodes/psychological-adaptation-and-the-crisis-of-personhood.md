@@ -17,8 +17,6 @@ edges:
     type: extends
   - target: the-structural-inability-to-transmit-human-meaning
     type: extends
-  - target: the-fragmented-architecture-of-human-psychology
-    type: grounds
 created_at: "2026-03-15"
 ---
 

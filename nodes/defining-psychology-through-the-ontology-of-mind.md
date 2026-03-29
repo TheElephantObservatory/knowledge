@@ -11,8 +11,6 @@ tags: [Philosophy of Mind, Ontological Design, Epistemology]
 edges:
   - target: the-four-distinct-layers-of-mind
     type: extends
-  - target: the-fragmented-architecture-of-human-psychology
-    type: extends
   - target: metaphysical-architecture-for-the-psyche-in-crisis
     type: grounds
 created_at: "2026-03-15"
