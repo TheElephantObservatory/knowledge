@@ -1270,6 +1270,16 @@
     "relationship_type": "extends"
   },
   {
+    "source_slug": "the-map-of-mind-a-multi-axis-framework-for-dissolving-the-minds-homonymy",
+    "target_slug": "the-four-distinct-layers-of-mind",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-map-of-mind-a-multi-axis-framework-for-dissolving-the-minds-homonymy",
+    "target_slug": "the-foundational-crisis-of-psychological-definition",
+    "relationship_type": "grounds"
+  },
+  {
     "source_slug": "communication-as-a-living-relational-ecosystem",
     "target_slug": "the-digital-arms-race-against-human-perception",
     "relationship_type": "exemplifies"
@@ -1680,6 +1690,11 @@
     "relationship_type": "grounds"
   },
   {
+    "source_slug": "the-map-of-mind-a-multi-axis-framework-for-dissolving-the-minds-homonymy",
+    "target_slug": "the-structural-unification-of-psychological-science",
+    "relationship_type": "exemplifies"
+  },
+  {
     "source_slug": "the-structural-trap-of-constant-problem-generation",
     "target_slug": "the-competitive-logic-of-technological-acceleration",
     "relationship_type": "grounds"
@@ -2065,6 +2080,11 @@
     "relationship_type": "applies"
   },
   {
+    "source_slug": "the-map-of-mind-a-multi-axis-framework-for-dissolving-the-minds-homonymy",
+    "target_slug": "four-distinct-modes-of-human-cognition",
+    "relationship_type": "extends"
+  },
+  {
     "source_slug": "the-structural-trap-of-constant-problem-generation",
     "target_slug": "escaping-the-twin-risks-of-catastrophe-and-dystopia",
     "relationship_type": "extends"
@@ -2447,6 +2467,11 @@
   {
     "source_slug": "integrating-subjective-experience-culture-and-science",
     "target_slug": "bridging-the-personal-self-and-objective-physical-reality",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-map-of-mind-a-multi-axis-framework-for-dissolving-the-minds-homonymy",
+    "target_slug": "integrating-development-ensoulment-and-transcendence",
     "relationship_type": "extends"
   },
   {

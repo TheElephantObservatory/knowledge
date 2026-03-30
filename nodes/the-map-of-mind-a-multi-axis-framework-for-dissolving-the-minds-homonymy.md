@@ -1,0 +1,69 @@
+---
+slug: the-map-of-mind-a-multi-axis-framework-for-dissolving-the-minds-homonymy
+title: "The Map of Mind: A Multi-Axis Framework for Dissolving the Mind's Homonymy"
+observer: "Gregg Henriques"
+observer_slug: gregg-henriques
+tags: [Philosophy of Mind, Consciousness Studies, UTOK, Epistemology]
+edges:
+  - target: the-four-distinct-layers-of-mind
+    type: extends
+  - target: the-foundational-crisis-of-psychological-definition
+    type: grounds
+  - target: the-structural-unification-of-psychological-science
+    type: exemplifies
+  - target: four-distinct-modes-of-human-cognition
+    type: extends
+  - target: integrating-development-ensoulment-and-transcendence
+    type: extends
+created_at: "2026-03-29"
+---
+
+# The Map of Mind: A Multi-Axis Framework for Dissolving the Mind's Homonymy
+
+> The word 'mind' secretly indexes at least four distinct phenomena, generating centuries of philosophical deadlock. UTOK's Map of Mind deploys three independent axes — evolutionary depth, interior-versus-exterior register, and epistemological direction — to give each referent a precise address and dissolve apparently intractable debates.
+
+A persistent source of theoretical deadlock in philosophy of mind and psychology is that the term 'mind' functions as a homonym, simultaneously indexing at least four distinct phenomena: behavioral dispositions, neuro-computational processing, phenomenal consciousness, and higher-order self-reflective cognition. Skinner's claim that 'the mind is what the body does' is not simply eliminativism — it is a coherent redefinition anchored to one legitimate referent. The cognitive revolution's input-output model, the hard problem of consciousness, and the Cartesian cogito each stake out a different referent. Gregg Henriques formalizes this as the BM3 problem: behavior plus three non-identical senses of mind, routinely conflated.
+
+The Unified Theory of Knowledge (UTOK) resolves the conflation through a tripartite architecture organized along three independent axes. The vertical axis tracks ontological and evolutionary complexity. Mind 1 encompasses the bio-physiological substrate — both neuro-informational processing (Mind 1a, the covert representations instantiated within the nervous system) and behavioral output (Mind 1b, the functional activities foregrounded by behaviorism). Mind 2 designates phenomenal consciousness: the irreducibly first-personal, interoceptively accessible domain of qualia and felt experience that constitutes the hard problem's explanandum. Mind 3 covers the intersubjective stratum of self-conscious reflection, propositional language, and normative justification — a domain that is not sealed inside the individual skull but flows through symbolic exchange and cultural scaffolding.
+
+The spatial axis subdivides each layer into an exterior behavioral register — the animal-environment interaction visible to a third-party observer — and an interior neurocognitive or experiential register hidden from direct view. This yields the A/B notation that runs through the framework.
+
+The third axis is epistemological and carries the framework's most consequential claim. Mind 2, subjective consciousness, is not merely difficult to observe from the outside — it is constituted by an interior, first-person epistemic vector. It arises from the inside out. Science as an institution is methodologically committed to systematic third-person empiricism, which means its vantage point is structurally misaligned with the domain it is trying to study when it turns to phenomenal experience. This misalignment is precisely what generates the hard problem of consciousness and Frank Jackson's knowledge argument. No accumulation of propositional, third-person data bridges the gap to perspectival, first-person knowing.
+
+A further clarificatory move separates 'mindedness' from 'consciousness.' Mindedness is structure-bound: it refers to capacities that emerge in complex active bodies equipped with nervous systems, operating through sensorimotor loops in three-dimensional behavioral space, anchored evolutionarily to the Cambrian explosion. Consciousness, by contrast, is treated as a family of abstract properties — functional awareness, subjective experience, and self-recursive awareness — that can be predicated without reference to any particular substrate. Virtually all empirical neuroscience investigates Mind 2 as it arises within minded, embodied animals, while much philosophical and physicalist debate concerns consciousness as an abstract property potentially untethered from biological organization. Conflating these registers produces debates that appear substantive but are partly terminological.
+
+The framework's value is coordinative rather than merely taxonomic. By assigning each major tradition its proper domain, it dissolves apparent contradictions: behaviorism and cognitive neuroscience both describe Mind 1; phenomenology and consciousness studies address Mind 2; hermeneutics, social epistemology, and much of philosophy address Mind 3. Researchers and philosophers can specify simultaneously which layer of complexity is under discussion, which spatial register is being probed, and which epistemological vector is operative. Confusions that have persisted for decades often dissolve once the relevant axes are made explicit, and the scientific question of how neural processes give rise to subjective experience is kept methodologically and ontologically distinct from the philosophical question of whether experiential properties could exist absent biological organization.
+
+## Apprentice
+
+For centuries, philosophers and scientists have argued about 'the mind' without realizing they are often talking about completely different things using the same word. Gregg Henriques identifies this as the BM3 problem — behavior plus three separate meanings of mind, all routinely mixed together.
+
+His framework, developed within the Unified Theory of Knowledge (UTOK), sorts these meanings into three layers. Mind 1 is the biological machinery: the brain's information processing (Mind 1a) and the body's observable behavior (Mind 1b). This is the territory of neuroscience and behaviorism. Mind 2 is subjective experience — what it actually feels like to see red, taste coffee, or feel pain. This is the domain that creates the famous 'hard problem of consciousness.' Mind 3 is self-reflective thought, language, and the shared world of culture and meaning-making — the kind of thinking where you think about your own thinking.
+
+Each layer can also be viewed from the outside (what an observer can see) or from the inside (what the person themselves experiences), creating a spatial dimension to the map. But the most important insight concerns how we know things. Science works by observing from the outside — third-person methods. Subjective experience, by its very nature, arises from the inside. This mismatch is not a failure of science but a structural feature of the territory, which is why consciousness has been so resistant to standard scientific explanation.
+
+Henriques also draws a crucial line between 'mindedness' — the capacities of biological creatures with nervous systems — and 'consciousness' as an abstract concept that philosophers debate without tying it to any particular physical structure. Most working scientists are actually studying mindedness in embodied animals, while many philosophers are debating something more abstract. Recognizing this distinction prevents people from talking past each other. The framework does not answer every question about the mind, but it gives each question a clear address so that genuine progress becomes possible.
+
+## Adept
+
+Gregg Henriques diagnoses a root cause of theoretical deadlock in philosophy of mind and psychology: the word 'mind' is a homonym that silently indexes at least four distinct phenomena — behavioral dispositions, neuro-computational processing, phenomenal consciousness, and self-reflective cognition. He formalizes this as the BM3 problem and argues that much of the field's apparent disagreement is actually people talking past each other because they have different referents in view.
+
+UTOK's Map of Mind resolves this through a three-axis coordinate system. The vertical axis tracks evolutionary and ontological complexity across three layers. Mind 1 encompasses the bio-physiological substrate, subdivided into covert neuro-informational processing (Mind 1a) and overt behavioral output (Mind 1b) — the respective territories of cognitive neuroscience and behaviorism. Mind 2 designates phenomenal consciousness: the irreducibly first-personal domain of qualia and felt experience. Mind 3 covers self-conscious reflection, propositional language, and normative justification — an intersubjective stratum that flows through symbolic exchange and cultural scaffolding rather than being sealed inside an individual skull.
+
+The spatial axis cross-cuts each layer into an exterior register (observable to third parties) and an interior register (hidden from direct external view), generating the A/B notation. The epistemological axis carries the framework's most consequential claim: Mind 2 is constituted by an interior, first-person epistemic vector. Science's institutional commitment to systematic third-person empiricism means its vantage point is structurally misaligned with phenomenal experience. This is not a contingent limitation but a principled one — it is precisely what generates the hard problem and Jackson's knowledge argument.
+
+A further clarificatory move separates 'mindedness' from 'consciousness.' Mindedness is structure-bound, anchored to complex active bodies with nervous systems and rooted in the Cambrian explosion. Consciousness is treated as a family of abstract properties — functional awareness, subjective experience, and self-recursive awareness — predicable without reference to any particular substrate. Most empirical neuroscience investigates Mind 2 within minded, embodied animals, while much philosophical debate concerns consciousness as an abstract property potentially untethered from biology. Conflating these registers produces debates that appear substantive but are partly terminological.
+
+The framework's power is coordinative: it allows any claim about the mind to be located on all three axes simultaneously, revealing when interlocutors are operating at different levels of analysis and transforming apparently intractable disagreements into navigable differences of domain.
+
+## Magus
+
+Gregg Henriques locates the deepest source of confusion in the mind sciences not in the difficulty of the subject matter per se, but in the unacknowledged homonymy of the word 'mind' itself. The term silently indexes behavioral dispositions, neuro-computational processing, phenomenal consciousness, and self-reflective cognition — four referents that have been systematically conflated since at least Descartes. Henriques formalizes this as the BM3 problem and constructs, within the Unified Theory of Knowledge (UTOK), a three-axis coordinate system — the Map of Mind — designed to give each referent a precise ontological and epistemological address.
+
+The vertical axis tracks evolutionary depth. Mind 1 is the bio-physiological substrate, internally differentiated into covert neuro-informational processing (Mind 1a) and overt minded behavior (Mind 1b). Mind 2 is phenomenal consciousness — the irreducibly first-personal domain of qualia, the hard problem's explanandum. Mind 3 is the intersubjective stratum of self-conscious reflection, propositional language, and normative justification, constituted not within a single skull but through symbolic exchange and cultural scaffolding. The spatial axis cross-cuts each layer into an exterior register accessible to third-person observation and an interior register hidden from it.
+
+The epistemological axis is where the framework does its most consequential philosophical work. Mind 2 is not merely difficult to observe from the outside; it is constituted by an interior, first-person epistemic vector — it arises from the inside out. Science's institutional commitment to systematic third-person empiricism creates a structural misalignment with this domain. No accumulation of propositional, third-person data bridges the gap to perspectival, first-person knowing. This is the principled ground of the hard problem and of Jackson's knowledge argument, and the Map of Mind renders it visible as a geometric feature of the epistemic landscape rather than a mysterious anomaly.
+
+A further distinction separates 'mindedness' from 'consciousness.' Mindedness is structure-bound — capacities of complex active bodies with nervous systems, anchored to the Cambrian explosion, operating through sensorimotor loops in three-dimensional behavioral space. Consciousness is treated as a family of abstract properties (functional awareness, subjective experience, self-recursive awareness) predicable without substrate commitment. This diagnostic cut reveals that virtually all empirical neuroscience investigates Mind 2 within minded, embodied animals, while much philosophical and physicalist debate concerns consciousness as an abstract property potentially untethered from biological organization. The conflation of these two projects generates debates that appear substantive but are partly terminological.
+
+The Map of Mind thus functions as a meta-theoretical instrument: it does not answer the hard problem but specifies exactly where and why it arises, dissolves pseudo-disagreements rooted in level-confusion, and provides a shared coordinate system within which behaviorists, cognitive neuroscientists, phenomenologists, and hermeneutic philosophers can each locate their claims without inadvertently colonizing one another's domains.
