@@ -2900,6 +2900,46 @@
     "relationship_type": "extends"
   },
   {
+    "source_slug": "self-evidencing-and-the-mathematical-pursuit-of-meaning",
+    "target_slug": "the-statistical-veil-between-self-and-world",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "pruning-mental-models-through-sleep-and-psychedelics",
+    "target_slug": "the-statistical-veil-between-self-and-world",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-statistical-veil-between-self-and-world",
+    "target_slug": "the-self-as-a-high-level-generative-model",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-self-as-a-high-level-generative-model",
+    "target_slug": "the-mathematical-logic-of-binary-social-conflict",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-mathematical-logic-of-binary-social-conflict",
+    "target_slug": "self-evidencing-and-the-mathematical-pursuit-of-meaning",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-mathematical-logic-of-binary-social-conflict",
+    "target_slug": "scaling-the-boundaries-of-human-cooperation",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-brain-s-balance-between-prediction-and-reality",
+    "target_slug": "the-self-as-a-high-level-generative-model",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-brain-s-balance-between-prediction-and-reality",
+    "target_slug": "the-neural-process-of-constructing-meaningful-worlds",
+    "relationship_type": "extends"
+  },
+  {
     "source_slug": "the-structural-trap-of-constant-problem-generation",
     "target_slug": "design-criteria-for-a-mature-global-civilization",
     "relationship_type": "extends"
@@ -3305,6 +3345,21 @@
     "relationship_type": "grounds"
   },
   {
+    "source_slug": "self-evidencing-and-the-mathematical-pursuit-of-meaning",
+    "target_slug": "the-statistical-process-of-constructing-reality",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "pruning-mental-models-through-sleep-and-psychedelics",
+    "target_slug": "the-self-as-a-high-level-generative-model",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-statistical-process-of-constructing-reality",
+    "target_slug": "pruning-mental-models-through-sleep-and-psychedelics",
+    "relationship_type": "applies"
+  },
+  {
     "source_slug": "reclaiming-human-presence-from-the-logic-of-escape",
     "target_slug": "shared-logic-across-religious-and-secular-raptures",
     "relationship_type": "extends"
@@ -3660,6 +3715,51 @@
     "relationship_type": "extends"
   },
   {
+    "source_slug": "self-evidencing-and-the-mathematical-pursuit-of-meaning",
+    "target_slug": "the-self-as-a-high-level-generative-model",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "self-evidencing-and-the-mathematical-pursuit-of-meaning",
+    "target_slug": "the-neural-process-of-constructing-meaningful-worlds",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "pruning-mental-models-through-sleep-and-psychedelics",
+    "target_slug": "self-evidencing-and-the-mathematical-pursuit-of-meaning",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "pruning-mental-models-through-sleep-and-psychedelics",
+    "target_slug": "reverse-engineering-peak-states-through-biological-hardware",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-statistical-veil-between-self-and-world",
+    "target_slug": "the-statistical-process-of-constructing-reality",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-self-as-a-high-level-generative-model",
+    "target_slug": "the-self-as-a-functional-navigation-process",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-self-as-a-high-level-generative-model",
+    "target_slug": "bridging-the-personal-self-and-objective-physical-reality",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-mathematical-logic-of-binary-social-conflict",
+    "target_slug": "how-algorithmic-curation-fragments-collective-sanity",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-brain-s-balance-between-prediction-and-reality",
+    "target_slug": "self-evidencing-and-the-mathematical-pursuit-of-meaning",
+    "relationship_type": "extends"
+  },
+  {
     "source_slug": "reclaiming-human-presence-from-the-logic-of-escape",
     "target_slug": "structural-failure-modes-of-collective-sensemaking",
     "relationship_type": "exemplifies"
@@ -3963,5 +4063,40 @@
     "source_slug": "three-foundations-of-individual-and-collective-wisdom",
     "target_slug": "scaling-collective-wisdom-for-unbounded-technological-power",
     "relationship_type": "applies"
+  },
+  {
+    "source_slug": "self-evidencing-and-the-mathematical-pursuit-of-meaning",
+    "target_slug": "mattering-as-a-structural-feature-of-life",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "pruning-mental-models-through-sleep-and-psychedelics",
+    "target_slug": "the-brain-s-balance-between-prediction-and-reality",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-statistical-veil-between-self-and-world",
+    "target_slug": "the-mathematical-logic-of-binary-social-conflict",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-statistical-veil-between-self-and-world",
+    "target_slug": "mattering-as-a-structural-feature-of-life",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-mathematical-logic-of-binary-social-conflict",
+    "target_slug": "synthesizing-opposing-values-for-civilizational-stability",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-statistical-process-of-constructing-reality",
+    "target_slug": "the-brain-s-balance-between-prediction-and-reality",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "the-statistical-process-of-constructing-reality",
+    "target_slug": "the-self-as-a-high-level-generative-model",
+    "relationship_type": "extends"
   }
 ]

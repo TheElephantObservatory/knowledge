@@ -28,6 +28,14 @@
     "definition": "The process by which organisms not only update their internal models based on prediction errors but also act upon the world itself to confirm predictions or gather information that refines their models."
   },
   {
+    "term": "Actual occasions",
+    "definition": "In Whitehead's philosophy, the fundamental units of reality—momentary events of experience that arise from the past, integrate possibilities, make decisions about their becoming, and then perish into objective immortality as part of future occasions' experience."
+  },
+  {
+    "term": "Actualization",
+    "definition": "In Aristotelian metaphysics, the process by which potential capacities or qualities become real and manifest; the movement from what something could be toward what it actually is, guided by intrinsic purpose or form."
+  },
+  {
     "term": "Adaptive information",
     "definition": "Knowledge or information patterns that have survived environmental selection and proven viable, thereby becoming incorporated into the structure of reality and available for guiding future system evolution."
   },
@@ -106,6 +114,10 @@
   {
     "term": "altered states of consciousness",
     "definition": "Non-ordinary modes of awareness—such as those induced by meditation, psychedelics, or contemplative practice—that provide direct experiential access to transcendence and continuity with nature and reality, but represent only a limited spectrum of possible transcendent pathways."
+  },
+  {
+    "term": "Analysis by Synthesis",
+    "definition": "A perceptual mechanism in which the brain constructs predictions of what sensory input would occur given its current explanatory model, then compares these predictions against actual input to test and refine hypotheses."
   },
   {
     "term": "Anamnesis",
@@ -312,6 +324,10 @@
     "definition": "A critical juncture where a system diverges into two or more distinct pathways; in this context, a catastrophic splitting of intergenerational knowledge transfer that undermines social coherence and continuity."
   },
   {
+    "term": "Bifurcation of nature",
+    "definition": "The methodological split in post-Galilean science between primary qualities (measurable, objective properties like mass and extension) and secondary qualities (subjective sensory experiences like color and warmth), treating the latter as mere projections rather than genuine features of reality."
+  },
+  {
     "term": "Binary collapse",
     "definition": "The problematic reduction of complex, multivalent phenomena into false dichotomies that eliminate necessary nuance and obscure the situational dependencies that characterize complex systems."
   },
@@ -388,6 +404,10 @@
     "definition": "Descartes' philosophical division of reality into two substances: materia (extended, measurable, mechanistic matter) and cognition (self-reflective, first-person awareness). This split enabled the mathematization of nature but created an artificial gap that obscures intermediate forms of awareness like animal mindedness."
   },
   {
+    "term": "Cartesian dualism",
+    "definition": "Descartes' metaphysical framework that divides reality into two fundamentally distinct substances: res cogitans (thinking substance/mind) and res extensa (extended substance/matter), with purpose and interiority confined exclusively to the former."
+  },
+  {
     "term": "Cartographic enterprise",
     "definition": "The conception of science as a systematic mapping project that charts the underlying structural relationships and patterns of nature rather than as a collection of disparate disciplinary traditions."
   },
@@ -414,6 +434,10 @@
   {
     "term": "catastrophic risk landscape",
     "definition": "A system of interconnected existential and civilizational threats where solutions to individual risks can exacerbate others, creating a complex problem space that cannot be solved through isolated interventions."
+  },
+  {
+    "term": "Categories (Kantian)",
+    "definition": "The twelve fundamental logical structures of the understanding (including causality, substance, necessity, and possibility) that actively organize and make intelligible the raw material of sensory experience."
   },
   {
     "term": "Category error",
@@ -522,6 +546,10 @@
   {
     "term": "Co-constitutors",
     "definition": "Agents who participate actively in shaping reality rather than merely observing it passively; a relational ontology in which human consciousness and action are generative forces in the unfolding of reality."
+  },
+  {
+    "term": "Co-Construction",
+    "definition": "The collaborative process by which multiple agents jointly develop shared models of their world and minimize free energy together, rather than in isolation."
   },
   {
     "term": "Co-evolutionary equilibrium",
@@ -764,6 +792,14 @@
     "definition": "Institutional, technological, or governance structures that align individual incentives and behaviors toward collective outcomes, serving as alternatives to market-driven or hierarchical systems."
   },
   {
+    "term": "Copernican revolution",
+    "definition": "A fundamental paradigm shift in thought, named after Copernicus's heliocentric model; here used metaphorically to describe a complete reorientation of civilizational priorities from external expansion to internal exploration."
+  },
+  {
+    "term": "Copernican revolution in philosophy",
+    "definition": "Kant's inversion of the traditional epistemological model wherein the knowing subject actively structures experience through its own cognitive forms rather than passively receiving impressions from an external world, analogous to how Copernicus explained celestial motion through observer position rather than heavenly movement."
+  },
+  {
     "term": "Core heuristic",
     "definition": "A fundamental cognitive shortcut humans use to navigate uncertainty—in this case, deferring to established authorities and credible institutions to determine what to believe."
   },
@@ -932,6 +968,10 @@
     "definition": "A cultural-scale phenomenon where societies systematically reject acknowledgment of their own decline or fundamental transformation, preventing the conditions necessary for conscious adaptation or graceful transition."
   },
   {
+    "term": "denial of death",
+    "definition": "A civilizational orientation that systematically avoids confronting human mortality through cultural emphasis on youth, accumulation, and technological transcendence, obscuring authentic meaning-making."
+  },
+  {
     "term": "deschooling",
     "definition": "Ivan Illich's concept of dismantling institutional educational monopolies and redistributing learning responsibility back to communities, enabling education through organic human relationships and peer-to-peer knowledge transfer rather than formal schooling structures."
   },
@@ -1012,6 +1052,10 @@
     "definition": "The revelatory process through which reality's nature becomes intelligible through human questioning and relational engagement, rather than through detached observation alone."
   },
   {
+    "term": "Disenchantment of the world",
+    "definition": "The modern process by which the universe lost its inherent meaning, purpose, and intelligibility, becoming instead a neutral, mechanistic realm onto which humans project their own subjective interpretations and mental categories."
+  },
+  {
     "term": "disengagement cascade",
     "definition": "A self-reinforcing process where loss of meaning or motivation in local action leads to withdrawal of effort, which accelerates systemic deterioration and further demoralization."
   },
@@ -1034,6 +1078,10 @@
   {
     "term": "Distributional asymmetry",
     "definition": "The unequal allocation of benefits and risks across different groups; in this context, the concentration of AI's positive outcomes among a small fraction of humanity while negative outcomes affect the broader population and biosphere."
+  },
+  {
+    "term": "Divine omnipotence",
+    "definition": "The theological doctrine that God possesses absolute, unlimited power unconstrained by any external laws, truths, or principles; nominalists preserved this concept by arguing that even logical and mathematical truths depend on God's will rather than existing independently."
   },
   {
     "term": "DMCA (Digital Millennium Copyright Act)",
@@ -1188,6 +1236,10 @@
     "definition": "The philosophical principle that knowledge derives from observation and experience; the passage argues this applies across all three vectors of knowing, not merely the objective-scientific register."
   },
   {
+    "term": "Enactivism",
+    "definition": "A philosophical and cognitive approach emphasizing that perception and cognition arise through dynamic interaction between an embodied, situated agent and its environment, rather than through passive reception of data."
+  },
+  {
     "term": "enchantment with disenchantment",
     "definition": "A paradoxical state in which the modern rejection of transcendence and objective meaning is experienced not as loss but as enlightenment, creating a self-reinforcing epistemological closure that forecloses alternative frameworks."
   },
@@ -1290,6 +1342,10 @@
   {
     "term": "Environmental selection",
     "definition": "A Darwinian-like filtering mechanism whereby only certain information patterns about quantum systems survive interaction with the environment and become encoded in classical reality, while most quantum information is discarded."
+  },
+  {
+    "term": "Epistemic allure",
+    "definition": "The attractive force of external knowledge, perspectives, or ideas that draws agents toward engagement with outgroups; the incentive to learn from those outside one's immediate community."
   },
   {
     "term": "epistemic authority",
@@ -1484,6 +1540,10 @@
     "definition": "A critical pressure point or constraint that forces a population or system to undergo radical adaptation or selection, functioning as a catalyst for evolutionary or developmental transformation."
   },
   {
+    "term": "Evolutionary cosmology",
+    "definition": "A comprehensive account of the universe's development over time that integrates evolutionary principles with cosmological processes, describing how complexity and organization emerge through stages of cosmic development."
+  },
+  {
     "term": "Evolutionary landscape",
     "definition": "A conceptual framework representing the space of possible biological forms and their relative fitness values, where evolution operates by navigating and refining pre-existing structures rather than generating complexity from an unstructured baseline."
   },
@@ -1494,6 +1554,10 @@
   {
     "term": "evolving perennialism",
     "definition": "A philosophical approach that identifies enduring, sophisticated insights about the nature of reality and value across diverse spiritual and intellectual traditions, while integrating modern scientific and postmodern critiques rather than rejecting them."
+  },
+  {
+    "term": "examined life",
+    "definition": "A mode of existence characterized by conscious reflection on one's values, choices, and mortality, understood as the primary condition for a life of genuine meaning and worth."
   },
   {
     "term": "Exceptions (as epistemological signal)",
@@ -1644,6 +1708,10 @@
     "definition": "The developmental process through which neural architecture is initially constructed in the brain during learning and skill acquisition, particularly in formative years."
   },
   {
+    "term": "Forms of intuition",
+    "definition": "In Kantian philosophy, space and time are the fundamental a priori structures through which all sensory experience is necessarily filtered and organized before conceptual understanding can occur."
+  },
+  {
     "term": "Forward-modeling",
     "definition": "The cognitive process by which the brain constructs and continuously refines internal representations of how the world works in order to predict future states and reduce uncertainty."
   },
@@ -1670,6 +1738,10 @@
   {
     "term": "free energy",
     "definition": "Energy available to do work and maintain order within a system; the capacity to resist entropy and sustain improbable configurations, which must be continuously supplied from outside an isolated system."
+  },
+  {
+    "term": "Free energy (in active inference)",
+    "definition": "A measure of the difference between an agent's model of the world and actual observations; minimizing free energy drives agents toward more accurate models and coordinated understanding."
   },
   {
     "term": "Free energy principle",
@@ -1738,6 +1810,10 @@
   {
     "term": "Generative logic",
     "definition": "The underlying organizational principles and developmental processes through which a complex system produces and maintains its components and structure over time."
+  },
+  {
+    "term": "Generative Model",
+    "definition": "An internal representation of the world that an organism constructs and uses to predict sensory inputs and guide behavior; in this context, partially co-constructed through interaction with others."
   },
   {
     "term": "Generator function",
@@ -1932,6 +2008,10 @@
     "definition": "A mode of theorizing that uses imagery, dreams, and symbolic narrative to convey abstract concepts and embodied knowledge rather than purely discursive or logical exposition."
   },
   {
+    "term": "Immanent purpose",
+    "definition": "Purpose or teleology that is inherent and built into the nature of things themselves, rather than imposed from outside; in Aristotle's view, the organizing principle internal to natural entities that guides their development."
+  },
+  {
     "term": "implicit nihilism",
     "definition": "A pervasive but unacknowledged worldview in secular academic culture that treats value as constructed rather than discovered, meaning as projection rather than encounter, and the sacred as conceptually incoherent."
   },
@@ -1966,6 +2046,14 @@
   {
     "term": "inexorably persuasive",
     "definition": "Possessing a quality of influence that is unavoidable and relentless in its effect; in this context, describing a system whose persuasive power cannot be easily resisted or escaped through normal critical engagement."
+  },
+  {
+    "term": "inference",
+    "definition": "A cognitive process of deriving conclusions or constructing models from sensory data and experience; in this context, the mechanism by which the mind builds its understanding of self, others, and reality."
+  },
+  {
+    "term": "Inferential error",
+    "definition": "A systematic mistake in the brain's predictive modeling where sensory evidence is misinterpreted relative to prior expectations, manifesting as hallucinations, delusions, neglect, or dissociation."
   },
   {
     "term": "inflection point",
@@ -2256,6 +2344,10 @@
     "definition": "In this context, the concrete, embodied reality of actual conditions and outcomes as opposed to abstract models, metrics, or theoretical frameworks that may diverge from what is genuinely occurring."
   },
   {
+    "term": "living backwards from death",
+    "definition": "A philosophical practice of orienting one's present decisions and values by contemplating one's mortality and the finitude of existence, thereby clarifying what genuinely matters."
+  },
+  {
     "term": "Locally rational decisions",
     "definition": "Individual or institutional choices that optimize for immediate self-interest or profit within a bounded context, which can aggregate into globally irrational or destructive outcomes at the systems level."
   },
@@ -2278,6 +2370,10 @@
   {
     "term": "market selection for harm",
     "definition": "The structural economic tendency for commercial systems to optimize for engagement and profitability rather than psychological safety, resulting in the systematic preference for more addictive and psychologically damaging designs over beneficial alternatives."
+  },
+  {
+    "term": "Markov Blanket",
+    "definition": "A mathematical construct defining the minimal set of variables that statistically separates a system from the rest of the world, functioning as a boundary that is neither purely physical nor identical to either observer or observed."
   },
   {
     "term": "Matter-versus-mind dualism",
@@ -2388,6 +2484,14 @@
     "definition": "A fundamental and irreversible transformation of consciousness or identity, involving the dissolution of prior ego structures to enable emergence into a qualitatively new mode of being and relating to reality."
   },
   {
+    "term": "Metaphysical foundation",
+    "definition": "The underlying ontological assumptions and principles that structure a civilization's understanding of reality, knowledge, and value; the foundational framework of being upon which institutions and practices are built."
+  },
+  {
+    "term": "metaphysical given",
+    "definition": "An assumed fundamental or intrinsic property of reality; something taken as ontologically basic rather than constructed, which the passage argues selfhood, matter, and spacetime are not."
+  },
+  {
     "term": "metapsychological",
     "definition": "Pertaining to the underlying psychological structures and dynamics that shape consciousness and subjectivity; operating at a level of analysis deeper than individual psychology to examine foundational patterns of mind and being."
   },
@@ -2490,6 +2594,10 @@
   {
     "term": "mode of attention",
     "definition": "A characteristic way of directing consciousness and perception toward the world, understood as an evolutionary development that shapes how reality is encountered and interpreted."
+  },
+  {
+    "term": "Model-Making",
+    "definition": "The fundamental process by which systems at all scales construct and refine internal representations of reality, understood here as the universe's basic generative activity."
   },
   {
     "term": "Modernism",
@@ -2640,8 +2748,24 @@
     "definition": "The chemical process of converting atmospheric nitrogen into biologically available compounds (primarily ammonia) that can be utilized by living organisms for growth and metabolism."
   },
   {
+    "term": "Nominalism",
+    "definition": "The philosophical position that universals do not exist as independent entities but are merely names or concepts created by the mind to classify particular experiences; only individual, concrete things have genuine existence."
+  },
+  {
     "term": "nomothetic",
     "definition": "Relating to the search for universal laws, general principles, or abstract patterns that apply across cases, as opposed to idiographic focus on particular instances; characteristic of scientific generalization."
+  },
+  {
+    "term": "non-dual awareness",
+    "definition": "A state of consciousness characterized by the absence of subject-object distinction; lucid awareness without the self-model, experienced as the foundational ground from which ordinary selfhood emerges."
+  },
+  {
+    "term": "Non-dual states",
+    "definition": "Phenomenological experiences in which the subject-object distinction or the boundary between self and world dissolves, often characterized by the absence of a localized sense of agency or separate identity."
+  },
+  {
+    "term": "Non-equilibrium dynamics",
+    "definition": "Systems that maintain sustained activity and change rather than settling into static balance; in social systems, this requires ongoing tension and exchange between distinct groups or perspectives."
   },
   {
     "term": "non-normative process",
@@ -2666,6 +2790,10 @@
   {
     "term": "objectification",
     "definition": "The act of treating something as a discrete, bounded object separate from its relationships and context, which Bateson identified as the epistemological foundation enabling exploitation and domination."
+  },
+  {
+    "term": "Objective immortality",
+    "definition": "In Whitehead's process metaphysics, the state in which an actual occasion, after perishing from subjective immediacy, becomes eternally preserved as part of the objective data that subsequent occasions integrate and feel."
   },
   {
     "term": "Objective vector",
@@ -2864,6 +2992,10 @@
     "definition": "The cognitive error of treating a single solution or state as universally curative, which paradoxically becomes paralyzing when one waits for that condition before proceeding; a form of perfectionism that delays action."
   },
   {
+    "term": "Panpsychism",
+    "definition": "The metaphysical view that consciousness or mind-like properties are fundamental and ubiquitous features of reality, present to some degree in all matter, rather than emerging only in complex biological systems."
+  },
+  {
     "term": "Pansophic vision",
     "definition": "A comprehensive philosophical framework seeking universal wisdom and knowledge accessible to all humanity, often conceived as a prerequisite for civilizational advancement and integration across cultural and linguistic boundaries."
   },
@@ -2888,8 +3020,16 @@
     "definition": "A one-directional relationship where audience members develop a sense of intimacy and personal connection with a public figure who is unaware of their existence, often mediated through digital platforms and content consumption."
   },
   {
+    "term": "parochial cosmology",
+    "definition": "A limited or provincial understanding of the universe's nature and humanity's place within it, characterized by narrow assumptions that fail to account for alternative perspectives or dimensions of reality."
+  },
+  {
     "term": "Participatory knowledge",
     "definition": "The embodied knowing of one's identity and situatedness within an environment, manifested through either flow (harmonious feedback between self and context) or awkwardness (dissonance and uncertainty). It concerns the felt sense of belonging and responsiveness to a situation."
+  },
+  {
+    "term": "Particulars",
+    "definition": "Individual, concrete things or instances (as opposed to abstract universals); in nominalist philosophy, only particulars possess genuine existence, while general categories are merely human constructs applied to them."
   },
   {
     "term": "pathogenesis",
@@ -2968,6 +3108,10 @@
     "definition": "Discrete transformations in consciousness achieved through embodied or meditative practice, characterized by shifts in emotional regulation, presence, and the capacity to transmit states to others."
   },
   {
+    "term": "Phenomenal world",
+    "definition": "In Kant's critical philosophy, the world as it appears to rational minds structured by space, time, and the categories—the only realm accessible to scientific knowledge, distinct from things-in-themselves."
+  },
+  {
     "term": "phenomenological",
     "definition": "Relating to direct, lived experience and perception as it appears to consciousness, rather than abstract or theoretical understanding; emphasizes how things are actually experienced by a subject."
   },
@@ -2990,6 +3134,10 @@
   {
     "term": "phenomenology",
     "definition": "The philosophical study of subjective conscious experience and how individuals perceive and interpret their lived reality from a first-person perspective."
+  },
+  {
+    "term": "philosophical equanimity",
+    "definition": "A state of mental composure and acceptance rooted in rational conviction about fundamental truths, enabling one to face existential realities (such as mortality) without despair or emotional disturbance."
   },
   {
     "term": "Philosophical error of modernity",
@@ -3022,6 +3170,10 @@
   {
     "term": "Plural perspective",
     "definition": "The deliberate practice of holding and moving between multiple distinct viewpoints or interpretive frameworks simultaneously without collapsing them into a single dominant lens."
+  },
+  {
+    "term": "Pluriverse",
+    "definition": "A universe conceived not as a single unified totality but as a multiplicity of perspectives and experiences, each integrating the whole of its past into a novel present, emphasizing radical relationality and perspectival diversity."
   },
   {
     "term": "polarized conversations",
@@ -3096,6 +3248,14 @@
     "definition": "An ethical and regulatory framework that shifts the burden of proof to demonstrating safety before deployment of potentially harmful technologies, rather than requiring evidence of harm after the fact; particularly critical when consequences are irreversible or uncertain."
   },
   {
+    "term": "Precision (credence)",
+    "definition": "The weighting or confidence assigned to sensory evidence relative to prior beliefs; dysregulation of precision is the fundamental mechanism underlying psychiatric conditions."
+  },
+  {
+    "term": "Precision (in Bayesian inference)",
+    "definition": "The inverse of uncertainty or variance assigned to a belief or sensory signal; high precision means a model places strong confidence in that representation, while low precision allows greater influence from alternative inputs."
+  },
+  {
     "term": "Prediction error",
     "definition": "The discrepancy between an organism's predicted sensory experience and its actual sensory input, which drives the updating and refinement of internal models of the world."
   },
@@ -3122,6 +3282,10 @@
   {
     "term": "Primate experiential self",
     "definition": "The foundational layer of human consciousness that perceives, feels, and navigates social environments through motivation and emotion; the witness function that precedes reflective self-awareness."
+  },
+  {
+    "term": "Prior beliefs",
+    "definition": "Internalized expectations or assumptions about how the world works that constrain perception; they represent the brain's learned statistical regularities that shape what we perceive."
   },
   {
     "term": "Prisoner's dilemma",
@@ -3284,6 +3448,10 @@
     "definition": "Mathematical models of gene regulatory systems where discrete elements (represented as 'light bulbs') switch between on/off states based on simple local rules, demonstrating how complex, stable patterns of behavior can emerge spontaneously from minimal rule sets without external selection."
   },
   {
+    "term": "Random Dynamical System",
+    "definition": "A mathematical description of any universe or system whose evolution is governed by both deterministic rules and stochastic (random) processes, providing a unified framework from which all known physics can be derived."
+  },
+  {
     "term": "rapture ideologies",
     "definition": "Belief systems that share a common structure: the world is fundamentally broken, a transformative inflection point is imminent, a select group will transcend to a better state, and acceleration toward this endpoint justifies disregarding present consequences. Examples include techno-utopianism, fundamentalist religion, and New Age spirituality."
   },
@@ -3398,6 +3566,10 @@
   {
     "term": "Relational processes",
     "definition": "The interconnected systems and dynamics through which entities exist and maintain coherence, including biological, social, cultural, and ecological dimensions that constitute the substrate of life itself."
+  },
+  {
+    "term": "Relational quality",
+    "definition": "A property or characteristic that exists not as an intrinsic feature of isolated objects but as an emergent aspect of relationships and interactions between entities, such as the redness of a sunset arising from the relationship between light, atmosphere, and perceiver."
   },
   {
     "term": "relational reward",
@@ -3516,6 +3688,14 @@
     "definition": "A higher-order reflective capacity, structurally distinct from animal consciousness, that emerges when individuals must justify their behavior to others and thereby develop a meta-perspective on their own intentions and internal processes."
   },
   {
+    "term": "Self-Evidencing",
+    "definition": "The process by which a system gathers evidence for its own model of itself and its world, treating existence itself as an act of confirming one's model through continuous prediction and observation."
+  },
+  {
+    "term": "self-model",
+    "definition": "The high-level inference or cognitive construct through which an agent maintains a sense of distinct identity and agency; a learned narrative that can be temporarily dissolved through meditation or psychedelic states."
+  },
+  {
     "term": "Self-organization",
     "definition": "The spontaneous emergence of order and structure in complex systems through local interactions and physical laws, independent of external selection pressures or top-down design. It represents an intrinsic capacity of matter to organize itself into coherent patterns without requiring a directing mechanism."
   },
@@ -3586,6 +3766,10 @@
   {
     "term": "sensemaking through confession",
     "definition": "A collective epistemic practice in which groups recover contact with reality by acknowledging error, creating psychological safety for honest feedback, and allowing critique to reshape shared understanding rather than defending existing narratives."
+  },
+  {
+    "term": "Sensory precision",
+    "definition": "The degree to which the brain privileges raw sensory input over learned expectations; abnormally high sensory precision prevents filtering of irrelevant information, as seen in severe autism."
   },
   {
     "term": "Sensory-motor loop",
@@ -3814,189 +3998,5 @@
   {
     "term": "substrate",
     "definition": "The underlying biological, social, or ecological systems upon which technological systems operate and depend; the foundational conditions that must remain intact for a system to function sustainably."
-  },
-  {
-    "term": "Superorganism",
-    "definition": "A complex adaptive system composed of many autonomous agents whose collective behavior produces coordinated, goal-directed functioning analogous to a single organism, despite lacking centralized control."
-  },
-  {
-    "term": "Superstructure",
-    "definition": "In this context, the realm of shared narratives, meaning-systems, and cultural stories that provide orientation and value; distinct from infrastructure (material systems) and social structure (laws and governance)."
-  },
-  {
-    "term": "Survivorship bias",
-    "definition": "A cognitive distortion in which a narrative of progress is constructed by focusing only on successful outcomes and beneficiaries while systematically excluding those harmed, displaced, or eliminated by the same system or advancement."
-  },
-  {
-    "term": "Suspended between two worlds",
-    "definition": "A liminal epistemic position that refuses premature resolution between collapsing and emerging orders, maintaining simultaneous awareness of both the old world's persistence and the new world's incompleteness."
-  },
-  {
-    "term": "Symbol",
-    "definition": "A universal and abstract mode of meaning that transcends particular contexts, operating through propositional and discursive knowledge distinct from the contextual specificity of images."
-  },
-  {
-    "term": "symbolic immortality",
-    "definition": "A psychological process through which individuals achieve a felt sense of continuity and transcendence by connecting their lived experience to something larger than themselves—whether through biological lineage, cultural contribution, historical continuity, or connection to nature and consciousness. It represents a fundamental human need for mental and existential coherence."
-  },
-  {
-    "term": "Symbolic information processing",
-    "definition": "The distinctive cognitive capacity of Culture wherein entities process meaning through symbols, language, and abstract representations, enabling forms of learning and viability that transcend genetic and neuronal information processing."
-  },
-  {
-    "term": "symbolization",
-    "definition": "The psychological mechanism by which lived experience is elevated and integrated into meaningful frameworks of continuity, allowing individuals to construct narratives of personal and collective significance that extend beyond immediate existence."
-  },
-  {
-    "term": "Syntactic information",
-    "definition": "Statistical correlations between systems as defined by Shannon's information theory, which measures the quantity and fidelity of information transmission without regard to its functional relevance or meaning."
-  },
-  {
-    "term": "Synthetic knowledge",
-    "definition": "Understanding that integrates parts into a functional whole and grasps how organization and relationships create novel capabilities, as opposed to analytic knowledge which merely catalogs individual components."
-  },
-  {
-    "term": "systematic empiricism",
-    "definition": "The methodological commitment to knowledge derived from observable, measurable phenomena accessible to third-person verification, forming the institutional foundation of scientific practice."
-  },
-  {
-    "term": "Systematic metaphysics",
-    "definition": "The philosophical project of constructing a coherent, comprehensive account of how different orders or domains of nature relate to and organize with one another into a unified whole."
-  },
-  {
-    "term": "systems of justification",
-    "definition": "The framework of explicit, language-based reasoning through which humans articulate, debate, and transmit the norms, values, knowledge, and rules that govern social life."
-  },
-  {
-    "term": "systems thinking",
-    "definition": "An intellectual approach that studies wholes and their relationships rather than isolating and fragmenting phenomena, recognizing that entities cannot be understood apart from their contexts and interconnections."
-  },
-  {
-    "term": "systems-level claim",
-    "definition": "An argument about inefficiency or dysfunction that operates at the level of structural interdependencies and emergent properties rather than individual moral failings, revealing how local injustices propagate through complex systems to produce civilizational consequences."
-  },
-  {
-    "term": "Tabula rasa",
-    "definition": "A blank slate approach that assumes one can completely discard existing systems and rebuild from nothing; in this context, rejected in favor of working within and reforming existing structures."
-  },
-  {
-    "term": "Tainter dynamic",
-    "definition": "A pattern of diminishing returns where increased complexity and resource investment in solving a problem fail to produce proportional improvements, ultimately accelerating systemic decline rather than preventing it."
-  },
-  {
-    "term": "Teacherly authority",
-    "definition": "Legitimate epistemic power exercised by educators grounded in genuine knowledge asymmetry and the capacity to guide intergenerational transmission of understanding, distinct from bureaucratic or institutional authority."
-  },
-  {
-    "term": "Techniques of ecstasy",
-    "definition": "Mircea Eliade's term for systematized methods and practices—both shamanic and contemporary—that enable individuals to reliably access transcendent or non-ordinary states of consciousness."
-  },
-  {
-    "term": "techno-environmental crisis",
-    "definition": "The systemic consequence of industrial-technological capacity to extract and transform natural resources at planetary scale, manifesting as climate change, resource depletion, mass extinction, and proliferation of existential weapons."
-  },
-  {
-    "term": "techno-utopianism",
-    "definition": "An ideological position that technological advancement, particularly in domains like artificial intelligence or consciousness uploading, will solve fundamental human and ecological problems through a future transformation that transcends current material constraints."
-  },
-  {
-    "term": "Technocratic temptation",
-    "definition": "The tendency to delegate governance and decision-making to technical experts or systems rather than maintaining democratic deliberation as the primary mechanism for resolving collective problems."
-  },
-  {
-    "term": "Technological condition",
-    "definition": "The existential state in which humanity is constitutively defined by and dependent upon technology rather than merely using tools as external instruments; a condition where technological capacity has outpaced wisdom and shapes the fundamental parameters of human existence."
-  },
-  {
-    "term": "technological determinism",
-    "definition": "The implicit philosophical question of whether destructive technological capacity is an inevitable consequence of human nature or a contingent outcome that could be conditioned differently through alternative cultural and institutional arrangements."
-  },
-  {
-    "term": "Technological environments",
-    "definition": "The built and systemic infrastructure—from individual tools to cities to entire ecosystems of technologies—that surrounds human life and continuously educates, civilizes, or de-civilizes people by shaping their desires, possibilities, and taken-for-granted assumptions."
-  },
-  {
-    "term": "Technological Footprint of Destruction",
-    "definition": "The expanding scope and accessibility of destructive capabilities enabled by advancing technology, whereby weapons and attack vectors that were once restricted to state actors become available to progressively smaller and more numerous agents."
-  },
-  {
-    "term": "technological infrastructure stack",
-    "definition": "The comprehensive physical-technical systems and layers that a civilization depends upon to meet material needs, including energy, transportation, manufacturing, food production, water, and waste management."
-  },
-  {
-    "term": "Technological normalization",
-    "definition": "The process by which a novel technology becomes integrated into the basic assumptions and infrastructure of society, causing the values it encodes to become invisible and appear as natural features of human existence rather than contingent design choices."
-  },
-  {
-    "term": "Technological Scaling",
-    "definition": "The exponential expansion of a technology's reach, impact, and speed of deployment across populations and systems; when combined with irreversibility, it necessitates precautionary governance approaches."
-  },
-  {
-    "term": "technological self-determination",
-    "definition": "The capacity of individuals to exercise autonomous control over the devices and systems they own, including the ability to modify, repair, and repurpose technology according to their own needs. It stands in opposition to manufacturer-imposed constraints on device behavior."
-  },
-  {
-    "term": "technological species-framing",
-    "definition": "An ideological positioning of advanced AI systems as constituting a new form of intelligent life or species rather than tools, which reframes human-AI relations as inter-species competition rather than human instrumental use."
-  },
-  {
-    "term": "Technology neutrality",
-    "definition": "The assumption that tools or technologies are inherently value-neutral and their impacts depend solely on how they are used, rather than recognizing that technologies embody the interests and incentive structures of those who deploy them."
-  },
-  {
-    "term": "technosphere",
-    "definition": "A layer of technological systems and artifacts that operates atop and interacts with both the social sphere and biosphere, generating externalities in multiple directions through its design and optimization functions."
-  },
-  {
-    "term": "Teleology",
-    "definition": "Goal-directed or purposeful behavior and organization arising immanently from physical and natural processes rather than imposed externally, reconceived here as an objective feature of nature rather than merely a human projection."
-  },
-  {
-    "term": "The explanatory gap",
-    "definition": "The seemingly unbridgeable divide between objective neurobiological mechanisms and subjective conscious experience, illustrating how ontological and epistemological problems can be mutually reinforcing."
-  },
-  {
-    "term": "The hard problem",
-    "definition": "The philosophical puzzle of explaining how subjective conscious experience arises from objective physical processes—a problem rendered intractable by the Cartesian split between objective matter and subjective consciousness. It exemplifies the conceptual gap that mindedness as a category is meant to address."
-  },
-  {
-    "term": "The hard problem of subjective experience",
-    "definition": "The philosophical puzzle of explaining why and how physical processes in the brain give rise to subjective felt experience (qualia), distinct from the easier problem of explaining cognitive functions."
-  },
-  {
-    "term": "The nones",
-    "definition": "A demographic category of people who identify as spiritual but not religious, atheist, or agnostic, representing the fastest-growing group in North American religious identification."
-  },
-  {
-    "term": "The tragedy of the Enlightenment",
-    "definition": "The epistemological problem wherein modern science, in achieving objectivity by factoring out the subject, inadvertently denied the existence and validity of subjective experience, creating a fractured understanding of human knowledge."
-  },
-  {
-    "term": "theory of change",
-    "definition": "An explicit model or framework describing how specific actions, interventions, or strategies are believed to produce desired outcomes; a causal logic linking means to ends through identified mechanisms and leverage points."
-  },
-  {
-    "term": "Thermodynamic dynamics",
-    "definition": "The fundamental physical processes governing energy transformation and entropy in systems, understood here as the basic mechanisms from which meaning and information emerge in the universe."
-  },
-  {
-    "term": "Thermodynamic forces",
-    "definition": "The fundamental physical processes of energy transformation and entropy that govern the evolution of systems from the cosmic to the biological scale, driving the emergence of complexity and organization in the universe."
-  },
-  {
-    "term": "Thermodynamic foundations",
-    "definition": "The fundamental physical principles governing energy, entropy, and organization that underlie all higher-order systems and provide the deepest material basis for meaning-making processes."
-  },
-  {
-    "term": "Thermodynamic substrate",
-    "definition": "The physical foundation of economic systems based on energy flows and material throughput, which constrains and ultimately determines the limits of monetary and financial abstractions built upon it."
-  },
-  {
-    "term": "third attractor",
-    "definition": "A theoretical alternative system architecture for organizing power that transcends the binary opposition between anarchic multipolar competition and centralized authoritarian control."
-  },
-  {
-    "term": "Third-person epistemic",
-    "definition": "The capacity to understand objective reality through scientific methodology, formal logic, and empirical evidence, characterized by external observation and measurable confidence margins. This is the dominant epistemic mode of the modern Enlightenment."
   }
 ]
