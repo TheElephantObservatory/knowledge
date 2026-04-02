@@ -7,7 +7,7 @@ observer_slug: brendan-graham-dempsey
 source_title: "Complexification and Learning: 3. Cognitive Learning | The Evolution of Meaning"
 source_url: "https://www.youtube.com/watch?v=ChTmQ4iTYpo"
 source_author: "Brendan Graham Dempsey"
-tags: [Evolutionary Biology, Philosophy of Mind, Cognitive Science, Systems Thinking]
+tags: [Philosophy of Mind, Systems Thinking, Evolutionary Biology, Cognitive Science]
 edges:
   - target: how-purpose-emerges-from-the-physics-of-absence
     type: grounds

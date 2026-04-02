@@ -7,7 +7,7 @@ observer_slug: forrest-landry
 source_title: "EP31 Forrest Landry on Building our Future"
 source_url: "https://www.youtube.com/watch?v=PYHrVH39XtY"
 source_author: "The Jim Rutt Show"
-tags: [Ethics, Information Theory, Epistemology, Systems Thinking]
+tags: [Systems Thinking, Ethics, Epistemology, Information Theory]
 edges:
   - target: the-category-error-of-machine-personhood
     type: applies

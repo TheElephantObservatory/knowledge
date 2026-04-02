@@ -7,7 +7,7 @@ observer_slug: tristan-harris
 source_title: "Tristan Harris: “Social Media: Bringing the Ring to Mordor” | The Great Simplification #16"
 source_url: "https://www.youtube.com/watch?v=3CdxIATnH_w"
 source_author: "Nate Hagens"
-tags: [Attention Economy, Sensemaking, Collective Intelligence, Meta-Crisis]
+tags: [Meta-Crisis, Attention Economy, Collective Intelligence, Sensemaking]
 edges:
   - target: reclaiming-agency-from-the-curated-information-environment
     type: extends

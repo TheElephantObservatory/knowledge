@@ -7,7 +7,7 @@ observer_slug: jamie-wheal
 source_title: "Recapture the Rapture, Jamie Wheal"
 source_url: "https://www.youtube.com/watch?v=Pbnn2X2fVvA"
 source_author: "Rebel Wisdom"
-tags: [Meaning Crisis, Cultural Evolution, Systems Thinking, Sacred Ecology]
+tags: [Sacred Ecology, Systems Thinking, Meaning Crisis, Cultural Evolution]
 edges:
   - target: structural-failure-modes-of-collective-sensemaking
     type: applies

@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "Mythos, Logos and Democracy: What just happened in America and what does it mean for the world?"
 source_url: "https://www.youtube.com/watch?v=jH-h3c-KOss"
 source_author: "PERSPECTIVA"
-tags: [Epistemology, Sensemaking, Meta-Crisis, Consciousness Studies]
+tags: [Consciousness Studies, Epistemology, Meta-Crisis, Sensemaking]
 edges:
   - target: the-four-interior-dimensions-of-the-meta-crisis
     type: extends

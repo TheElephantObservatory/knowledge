@@ -7,7 +7,7 @@ observer_slug: john-vervaeke
 source_title: "Metaphysics of Mattering | John Vervaeke on Life’s Deep Connections"
 source_url: "https://www.youtube.com/watch?v=AxLi96DkUsc"
 source_author: "John Vervaeke’s Lectern"
-tags: [Relevance Realization, Meaning Crisis, Systems Thinking, Embodied Cognition]
+tags: [Systems Thinking, Relevance Realization, Embodied Cognition, Meaning Crisis]
 edges:
   - target: the-developmental-origin-of-value-perception
     type: grounds

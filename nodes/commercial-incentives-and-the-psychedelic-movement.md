@@ -7,7 +7,7 @@ observer_slug: jamie-wheal
 source_title: "Endgame for the Psychedelic Renaissance? Jamie Wheal"
 source_url: "https://www.youtube.com/watch?v=EOXJOZK1ZNQ"
 source_author: "Rebel Wisdom"
-tags: [Game Theory, Systems Thinking, Social Technology, Meta-Crisis]
+tags: [Systems Thinking, Meta-Crisis, Game Theory, Social Technology]
 edges:
   - target: how-pluralistic-hesitation-enables-bad-faith-actors
     type: extends

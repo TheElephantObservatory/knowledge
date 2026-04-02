@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "Metamodern Spirituality | Nuancing the Stage Theory Discussion (w/ Zak Stein)"
 source_url: "https://www.youtube.com/watch?v=xNPHaPEyXfo"
 source_author: "Brendan Graham Dempsey"
-tags: [Developmental Psychology, Consciousness Studies, Philosophy of Mind, Contemplative Practice]
+tags: [Philosophy of Mind, Consciousness Studies, Developmental Psychology, Contemplative Practice]
 edges:
   - target: the-structural-integration-of-human-cognitive-skills
     type: exemplifies

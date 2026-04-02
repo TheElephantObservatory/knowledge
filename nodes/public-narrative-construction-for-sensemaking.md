@@ -7,7 +7,7 @@ observer_slug: cory-doctorow
 source_title: "EP4 Cory Doctorow – “Radicalized,” Race and Resilience"
 source_url: "https://www.youtube.com/watch?v=gfTq9qfRCgc"
 source_author: "The Jim Rutt Show"
-tags: [Sensemaking, Epistemology, Narrative and Myth, Systems Thinking]
+tags: [Narrative and Myth, Systems Thinking, Epistemology, Sensemaking]
 edges:
   - target: protecting-the-shared-foundations-of-truth
     type: applies

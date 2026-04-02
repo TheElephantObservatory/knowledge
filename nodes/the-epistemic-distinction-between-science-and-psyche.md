@@ -7,7 +7,7 @@ observer_slug: gregg-henriques
 source_title: "Now UTOKing |10 | Psyche"
 source_url: "https://www.youtube.com/watch?v=8cs4sBSOrIk"
 source_author: "UTOK | Unified Theory of Knowledge"
-tags: [Epistemology, Philosophy of Mind, Consciousness Studies, Wisdom Traditions]
+tags: [Philosophy of Mind, Consciousness Studies, Epistemology, Wisdom Traditions]
 edges:
   - target: distinguishing-what-we-know-from-what-exists
     type: grounds

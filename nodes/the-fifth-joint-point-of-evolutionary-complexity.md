@@ -7,7 +7,7 @@ observer_slug: gregg-henriques
 source_title: "Now UTOKing | 15 | Meta-crisis"
 source_url: "https://www.youtube.com/watch?v=Iyns_X8usiA"
 source_author: "UTOK | Unified Theory of Knowledge"
-tags: [Meta-Crisis, Complexity Science, Civilizational Risk, Systems Thinking]
+tags: [Systems Thinking, Meta-Crisis, Civilizational Risk, Complexity Science]
 edges:
   - target: the-periodic-architecture-of-scientific-dimensions
     type: extends

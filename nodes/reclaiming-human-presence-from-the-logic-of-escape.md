@@ -7,7 +7,7 @@ observer_slug: jamie-wheal
 source_title: "Flow & Transformation, Q&A with Jamie Wheal"
 source_url: "https://www.youtube.com/watch?v=ML8FxA0ClPE"
 source_author: "Rebel Wisdom"
-tags: [Narrative and Myth, Meta-Crisis, Meaning Crisis, Civilizational Risk]
+tags: [Narrative and Myth, Meaning Crisis, Meta-Crisis, Civilizational Risk]
 edges:
   - target: the-competitive-logic-of-technological-acceleration
     type: grounds

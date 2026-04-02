@@ -7,7 +7,7 @@ observer_slug: stephen-jenkinson
 source_title: "Myth, Wisdom & Pandemic, Stephen Jenkinson, Zak Stein & Charlotte Du Cann"
 source_url: "https://www.youtube.com/watch?v=m_c2-Bs1BqM"
 source_author: "Rebel Wisdom"
-tags: [Ethics, Epistemology, Civilizational Risk, Meaning Crisis]
+tags: [Ethics, Epistemology, Meaning Crisis, Civilizational Risk]
 edges:
   - target: ethical-choice-in-the-mythic-present
     type: applies

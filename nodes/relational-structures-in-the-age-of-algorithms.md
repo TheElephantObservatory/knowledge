@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "EP62 Zak Stein on Education, Tech & Religion"
 source_url: "https://www.youtube.com/watch?v=0Qma07i4Swo"
 source_author: "The Jim Rutt Show"
-tags: [Relational Ontology, Ontological Design, Sensemaking, Systems Thinking]
+tags: [Systems Thinking, Relational Ontology, Ontological Design, Sensemaking]
 edges:
   - target: the-structural-inability-to-transmit-human-meaning
     type: grounds

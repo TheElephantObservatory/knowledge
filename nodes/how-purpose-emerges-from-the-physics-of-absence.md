@@ -7,7 +7,7 @@ observer_slug: terrence-deacon
 source_title: "Complexification and Learning: 2. Genetic Learning | The Evolution of Meaning"
 source_url: "https://www.youtube.com/watch?v=OpgkPLi3Zww"
 source_author: "Brendan Graham Dempsey"
-tags: [Process Philosophy, Philosophy of Mind, Complexity Science, Embodied Cognition]
+tags: [Philosophy of Mind, Process Philosophy, Embodied Cognition, Complexity Science]
 edges:
   - target: the-continuity-of-meaning-from-matter-to-culture
     type: extends

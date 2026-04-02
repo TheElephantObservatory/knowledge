@@ -7,7 +7,7 @@ observer_slug: bret-weinstein
 source_title: "EP24 Bret Weinstein on Evolving Culture"
 source_url: "https://www.youtube.com/watch?v=4unnL_lflKY"
 source_author: "The Jim Rutt Show"
-tags: [Attention Economy, Artificial Intelligence, Existential Risk, Sensemaking]
+tags: [Artificial Intelligence, Existential Risk, Attention Economy, Sensemaking]
 edges:
   - target: protecting-the-shared-foundations-of-truth
     type: grounds

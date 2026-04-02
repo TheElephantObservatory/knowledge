@@ -7,7 +7,7 @@ observer_slug: gregg-henriques
 source_title: "Now UTOKing | 15 | Meta-crisis"
 source_url: "https://www.youtube.com/watch?v=Iyns_X8usiA"
 source_author: "UTOK | Unified Theory of Knowledge"
-tags: [Meta-Crisis, Sensemaking, Meaning Crisis, Systems Thinking]
+tags: [Systems Thinking, Meaning Crisis, Meta-Crisis, Sensemaking]
 edges:
   - target: the-fifth-joint-point-of-evolutionary-complexity
     type: extends

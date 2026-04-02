@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "Collective Sensemaking in an Age of Existential Risk, Jamie Wheal"
 source_url: "https://www.youtube.com/watch?v=0374g6vuGjg"
 source_author: "Rebel Wisdom"
-tags: [Embodied Cognition, Systems Thinking, Cognitive Science, Ontological Design]
+tags: [Systems Thinking, Embodied Cognition, Cognitive Science, Ontological Design]
 edges:
   - target: enlightenment-infrastructure-in-a-scaled-world
     type: extends

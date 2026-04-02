@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "Zak Stein: Education, AI & Personhood Conferral Problem. Keynote at Transformation & Metacrisis Conf"
 source_url: "https://www.youtube.com/watch?v=HNpB8RhM5Tk"
 source_author: "Life Itself"
-tags: [Philosophy of Mind, Developmental Psychology, Consciousness Studies, Epistemology]
+tags: [Philosophy of Mind, Consciousness Studies, Developmental Psychology, Epistemology]
 edges:
   - target: ai-mimicry-and-the-crisis-of-human-formation
     type: extends

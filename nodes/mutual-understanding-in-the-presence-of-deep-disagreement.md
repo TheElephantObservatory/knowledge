@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "Consilience Project: The Endgames of Bad Faith Communication w/ Zak Stein"
 source_url: "https://www.youtube.com/watch?v=V8qeN7mdLNM"
 source_author: "The Stoa"
-tags: [Hermeneutics, Political Philosophy, Epistemology, Dialogos]
+tags: [Political Philosophy, Hermeneutics, Epistemology, Dialogos]
 edges:
   - target: strategic-warfare-in-the-informational-commons
     type: contrasts

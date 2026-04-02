@@ -7,7 +7,7 @@ observer_slug: daniel-schmachtenberger
 source_title: "Health Index: A Hypothetical Index to Assess the Health of a Society w/ Daniel Schmachtenberger"
 source_url: "https://www.youtube.com/watch?v=Kr2nhiNCOXo"
 source_author: "The Stoa"
-tags: [Epistemology, Systems Thinking, Relevance Realization, Meta-Crisis]
+tags: [Systems Thinking, Relevance Realization, Epistemology, Meta-Crisis]
 edges:
   - target: the-misidentification-of-value-in-modern-civilization
     type: grounds

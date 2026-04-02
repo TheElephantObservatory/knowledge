@@ -7,7 +7,7 @@ observer_slug: gregg-henriques
 source_title: "Now UTOKing | 9 | Psychology"
 source_url: "https://www.youtube.com/watch?v=nTzkiYwKzXM"
 source_author: "UTOK | Unified Theory of Knowledge"
-tags: [Philosophy of Mind, Ontological Design, Epistemology]
+tags: [Philosophy of Mind, Epistemology, Ontological Design]
 edges:
   - target: the-four-distinct-layers-of-mind
     type: extends

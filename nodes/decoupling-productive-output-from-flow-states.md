@@ -7,7 +7,7 @@ observer_slug: jamie-wheal
 source_title: "EP27 Jamie Wheal on Flow & the Future of Culture"
 source_url: "https://www.youtube.com/watch?v=Q7mxNgxlsgo"
 source_author: "The Jim Rutt Show"
-tags: [Psychology, Phenomenology, Consciousness Studies, Embodied Cognition]
+tags: [Consciousness Studies, Embodied Cognition, Psychology, Phenomenology]
 edges:
   - target: four-distinct-modes-of-human-cognition
     type: grounds

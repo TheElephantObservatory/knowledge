@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "Metapsychology w/ Zak Stein. September 21, 2020"
 source_url: "https://www.youtube.com/watch?v=9f19SwwpCfY"
 source_author: "The Stoa"
-tags: [Symbolism, Meaning Crisis, Consciousness Studies, Civilizational Risk]
+tags: [Consciousness Studies, Symbolism, Meaning Crisis, Civilizational Risk]
 edges:
   - target: myth-as-a-long-term-survival-technology
     type: extends

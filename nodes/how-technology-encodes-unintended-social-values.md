@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "Currents 067: Zak Stein on Ending Nihilistic Design"
 source_url: "https://www.youtube.com/watch?v=UGE9c4d26CU"
 source_author: "The Jim Rutt Show"
-tags: [Ontological Design, Social Technology, Systems Thinking, Ethics]
+tags: [Systems Thinking, Ethics, Social Technology, Ontological Design]
 edges:
   - target: the-structural-incompleteness-of-optimization-metrics
     type: applies

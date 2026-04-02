@@ -7,7 +7,7 @@ observer_slug: daniel-schmachtenberger
 source_title: "Better Sensemaking, with Daniel Schmachtenberger, John Vervaeke & Sara Ness"
 source_url: "https://www.youtube.com/watch?v=dGW5J3EbOUY"
 source_author: "Rebel Wisdom"
-tags: [Attention Economy, Cognitive Science, Systems Thinking, Sensemaking]
+tags: [Systems Thinking, Cognitive Science, Attention Economy, Sensemaking]
 edges:
   - target: relevance-realization-and-the-optimal-grip
     type: grounds

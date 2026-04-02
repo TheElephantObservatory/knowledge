@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "Beyond the Meta-Crisis: Zak Stein's Vision for Human Development"
 source_url: "https://www.youtube.com/watch?v=xWpCoJDCgkU"
 source_author: "Life Itself"
-tags: [Meta-Crisis, Ontological Design, Wisdom Traditions, Meaning Crisis]
+tags: [Meaning Crisis, Meta-Crisis, Ontological Design, Wisdom Traditions]
 created_at: "2026-03-15"
 ---
 

@@ -7,10 +7,8 @@ observer_slug: stuart-kauffman
 source_title: "EP18 Stuart Kauffman on Complexity, Biology & T.A.P."
 source_url: "https://www.youtube.com/watch?v=sYNaYdmCC5Y"
 source_author: "The Jim Rutt Show"
-tags: [Evolutionary Biology, Complexity Science, Systems Thinking]
+tags: [Systems Thinking, Evolutionary Biology, Complexity Science]
 edges:
-  - target: bonnitta-roy-s-process-based-critique-of-complexity
-    type: contrasts
   - target: mapping-reality-from-energy-to-culture
     type: extends
 created_at: "2026-03-18"

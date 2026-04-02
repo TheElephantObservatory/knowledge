@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "Ep 8 | UTOKing with Zak Stein | Consilience Project and a Moving Coherent Philosophy for the Future"
 source_url: "https://www.youtube.com/watch?v=0I-pFcYkFZI"
 source_author: "UTOK | Unified Theory of Knowledge"
-tags: [Epistemology, Media Ecology, Civilizational Risk, Sensemaking]
+tags: [Media Ecology, Epistemology, Civilizational Risk, Sensemaking]
 edges:
   - target: undue-influence-and-the-collapse-of-personal-autonomy
     type: exemplifies

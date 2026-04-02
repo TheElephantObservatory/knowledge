@@ -7,7 +7,7 @@ observer_slug: jamie-wheal
 source_title: "Recapture the Rapture, Jamie Wheal"
 source_url: "https://www.youtube.com/watch?v=Pbnn2X2fVvA"
 source_author: "Rebel Wisdom"
-tags: [Existential Risk, Meaning Crisis, Systems Thinking]
+tags: [Systems Thinking, Meaning Crisis, Existential Risk]
 edges:
   - target: structural-failure-modes-of-collective-sensemaking
     type: applies

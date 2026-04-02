@@ -7,7 +7,7 @@ observer_slug: nate-hagens
 source_title: "Tarot of the Carbon Pulse - with Nate Hagens | Earth Day 2022"
 source_url: "https://www.youtube.com/watch?v=rpN-H68rmb4"
 source_author: "Nate Hagens"
-tags: [Systems Thinking, Civilizational Risk, Epistemology, Complexity Science]
+tags: [Systems Thinking, Epistemology, Civilizational Risk, Complexity Science]
 edges:
   - target: the-misidentification-of-value-in-modern-civilization
     type: grounds

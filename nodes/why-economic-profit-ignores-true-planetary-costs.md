@@ -7,7 +7,7 @@ observer_slug: daniel-schmachtenberger
 source_title: "Daniel Schmachtenberger: \"Modeling the Drivers of the Metacrisis” | The Great Simplification #42"
 source_url: "https://www.youtube.com/watch?v=tQkQrc3Ant4"
 source_author: "Nate Hagens"
-tags: [Political Philosophy, Complexity Science, Systems Thinking, Meta-Crisis]
+tags: [Political Philosophy, Systems Thinking, Meta-Crisis, Complexity Science]
 edges:
   - target: ai-acceleration-of-the-global-economic-superorganism
     type: extends

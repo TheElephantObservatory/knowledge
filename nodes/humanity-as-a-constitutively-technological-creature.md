@@ -7,7 +7,7 @@ observer_slug: alexander-bard
 source_title: "Game B Meets the Dark Renaissance w/ Jim Rutt, Zak Stein, Alexander Bard, and Cadell Last"
 source_url: "https://www.youtube.com/watch?v=byau1SegVqw"
 source_author: "The Stoa"
-tags: [Relational Ontology, Civilizational Risk, Systems Thinking, Cultural Evolution]
+tags: [Systems Thinking, Civilizational Risk, Relational Ontology, Cultural Evolution]
 edges:
   - target: myth-as-a-long-term-survival-technology
     type: grounds

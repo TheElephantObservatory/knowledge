@@ -7,7 +7,7 @@ observer_slug: marc-gafni
 source_title: "The Infinite Intimate: Dialoguing with Marc Gafni and Zak Stein"
 source_url: "https://www.youtube.com/watch?v=pLMTqNiTFQo"
 source_author: "Footnotes2Plato"
-tags: [Meta-Crisis, Systems Thinking, Sensemaking, Cultural Evolution]
+tags: [Systems Thinking, Meta-Crisis, Cultural Evolution, Sensemaking]
 edges:
   - target: the-structural-inability-to-transmit-human-meaning
     type: applies

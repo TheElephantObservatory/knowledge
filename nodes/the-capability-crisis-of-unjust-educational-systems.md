@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "EP60 Zak Stein on Educational Systems Collapse"
 source_url: "https://www.youtube.com/watch?v=DeNOLulwSeA"
 source_author: "The Jim Rutt Show"
-tags: [Ethics, Civilizational Risk, Systems Thinking, Existential Risk]
+tags: [Systems Thinking, Ethics, Existential Risk, Civilizational Risk]
 edges:
   - target: educational-skill-building-versus-ai-prosthetic-dependency
     type: applies

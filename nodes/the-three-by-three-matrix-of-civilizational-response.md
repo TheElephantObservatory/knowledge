@@ -7,7 +7,7 @@ observer_slug: daniel-schmachtenberger
 source_title: "Daniel Schmachtenberger: \"Bend Not Break Part 5\" | The Great Simplification #50"
 source_url: "https://www.youtube.com/watch?v=Kep8Fi_rUUI"
 source_author: "Nate Hagens"
-tags: [Systems Thinking, Civilizational Risk, Meta-Crisis, Sensemaking]
+tags: [Systems Thinking, Meta-Crisis, Civilizational Risk, Sensemaking]
 edges:
   - target: the-structural-tension-of-global-coordination-systems
     type: applies

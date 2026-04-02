@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "Education Must Make History Again, with Zak Stein(1): What matters most in a pre-figurative culture?"
 source_url: "https://www.youtube.com/watch?v=I8O0JnMG8pk"
 source_author: "PERSPECTIVA"
-tags: [Philosophy of Mind, Cultural Evolution, Systems Thinking, Civilizational Risk]
+tags: [Philosophy of Mind, Systems Thinking, Civilizational Risk, Cultural Evolution]
 edges:
   - target: the-structural-inability-to-transmit-human-meaning
     type: extends

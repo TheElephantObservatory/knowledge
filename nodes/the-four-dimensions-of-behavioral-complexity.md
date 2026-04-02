@@ -7,7 +7,7 @@ observer_slug: gregg-henriques
 source_title: "Now UTOKing | 2 | Behavior"
 source_url: "https://www.youtube.com/watch?v=GHz5oVpIWUQ"
 source_author: "UTOK | Unified Theory of Knowledge"
-tags: [UTOK, Systems Thinking, Philosophy of Mind, Epistemology]
+tags: [Philosophy of Mind, Systems Thinking, Epistemology, UTOK]
 edges:
   - target: the-structural-unification-of-psychological-science
     type: applies

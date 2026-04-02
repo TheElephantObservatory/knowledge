@@ -7,7 +7,7 @@ observer_slug: brendan-graham-dempsey
 source_title: "Energy and Information | The Evolution of Meaning"
 source_url: "https://www.youtube.com/watch?v=0JXmMQWeC2Y"
 source_author: "Brendan Graham Dempsey"
-tags: [Information Theory, Systems Thinking, Complexity Science]
+tags: [Systems Thinking, Complexity Science, Information Theory]
 edges:
   - target: from-thermodynamic-survival-to-cultural-meaning
     type: extends

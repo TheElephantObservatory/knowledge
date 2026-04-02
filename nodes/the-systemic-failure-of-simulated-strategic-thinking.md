@@ -7,7 +7,7 @@ observer_slug: jordan-hall
 source_title: "EP8 Jordan “Greenhall” Hall and Game B"
 source_url: "https://www.youtube.com/watch?v=trZPxcbZsHc"
 source_author: "The Jim Rutt Show"
-tags: [Systems Thinking, Consciousness Studies, Epistemology, Civilizational Risk]
+tags: [Consciousness Studies, Systems Thinking, Epistemology, Civilizational Risk]
 edges:
   - target: structural-educational-lag-and-civilizational-collapse
     type: grounds

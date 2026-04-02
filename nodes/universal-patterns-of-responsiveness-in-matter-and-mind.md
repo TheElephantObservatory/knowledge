@@ -7,7 +7,7 @@ observer_slug: marc-gafni
 source_title: "EP 314 Zak Stein and Marc Gafni on the Nature of Everything"
 source_url: "https://www.youtube.com/watch?v=9vFZcok3TLY"
 source_author: "The Jim Rutt Show"
-tags: [Ontological Design, Consciousness Studies, Process Philosophy, Philosophy of Mind]
+tags: [Philosophy of Mind, Consciousness Studies, Process Philosophy, Ontological Design]
 edges:
   - target: building-a-metapsychology-of-qualitative-transformation
     type: extends

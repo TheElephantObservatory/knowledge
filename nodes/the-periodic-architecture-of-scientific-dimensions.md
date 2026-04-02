@@ -7,7 +7,7 @@ observer_slug: gregg-henriques
 source_title: "Now UTOKing | 2 | Behavior"
 source_url: "https://www.youtube.com/watch?v=GHz5oVpIWUQ"
 source_author: "UTOK | Unified Theory of Knowledge"
-tags: [Systems Thinking, Epistemology, Complexity Science, Integral Theory]
+tags: [Systems Thinking, Epistemology, Integral Theory, Complexity Science]
 edges:
   - target: the-structural-integration-of-human-cognitive-skills
     type: applies

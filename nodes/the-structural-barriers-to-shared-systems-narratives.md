@@ -7,7 +7,7 @@ observer_slug: nate-hagens
 source_title: "Daniel Schmachtenberger: \"Sensemaking, Uncertainty, and Purpose” | The Great Simplification #31"
 source_url: "https://www.youtube.com/watch?v=kTFqnPEyweE"
 source_author: "Nate Hagens"
-tags: [Meta-Crisis, Systems Thinking, Sensemaking, Civilizational Risk]
+tags: [Systems Thinking, Meta-Crisis, Civilizational Risk, Sensemaking]
 edges:
   - target: the-path-from-na-ve-slogans-to-earned-clarity
     type: extends

@@ -7,7 +7,7 @@ observer_slug: lene-rachel-andersen
 source_title: "Now UTOKing | 14 | Metamodernism"
 source_url: "https://www.youtube.com/watch?v=jHnBFHTFRPg"
 source_author: "UTOK | Unified Theory of Knowledge"
-tags: [Metamodernism, Epistemology, Cultural Evolution, UTOK]
+tags: [Epistemology, UTOK, Metamodernism, Cultural Evolution]
 edges:
   - target: mapping-reality-from-energy-to-culture
     type: extends

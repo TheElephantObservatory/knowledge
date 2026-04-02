@@ -7,7 +7,7 @@ observer_slug: gregg-henriques
 source_title: "Now UTOKing | 1 | Introduction to the Series"
 source_url: "https://www.youtube.com/watch?v=7Dw9VsxeGYc"
 source_author: "UTOK | Unified Theory of Knowledge"
-tags: [UTOK, Ontological Design, Systems Thinking, Epistemology]
+tags: [Systems Thinking, Epistemology, UTOK, Ontological Design]
 edges:
   - target: universal-patterns-of-responsiveness-in-matter-and-mind
     type: extends

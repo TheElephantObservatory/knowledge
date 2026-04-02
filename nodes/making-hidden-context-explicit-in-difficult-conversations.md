@@ -7,7 +7,7 @@ observer_slug: sara-ness
 source_title: "Better Sensemaking, with Daniel Schmachtenberger, John Vervaeke & Sara Ness"
 source_url: "https://www.youtube.com/watch?v=dGW5J3EbOUY"
 source_author: "Rebel Wisdom"
-tags: [Hermeneutics, Sensemaking, Phenomenology, Relational Ontology]
+tags: [Hermeneutics, Relational Ontology, Phenomenology, Sensemaking]
 edges:
   - target: communication-as-a-living-relational-ecosystem
     type: extends

@@ -7,7 +7,7 @@ observer_slug: daniel-schmachtenberger
 source_title: "Daniel Schmachtenberger: \"Artificial Intelligence and The Superorganism\" | The Great Simplification"
 source_url: "https://www.youtube.com/watch?v=_P8PLHvZygo"
 source_author: "Nate Hagens"
-tags: [Civilizational Risk, Systems Thinking, Political Philosophy, Existential Risk]
+tags: [Political Philosophy, Systems Thinking, Existential Risk, Civilizational Risk]
 edges:
   - target: ai-acceleration-of-the-global-economic-superorganism
     type: extends

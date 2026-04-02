@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "Challenging Scientistism in Naturalistic Metanarrative (w/ Zak Stein)"
 source_url: "https://www.youtube.com/watch?v=nh7Gi4aqFww"
 source_author: "Brendan Graham Dempsey"
-tags: [Philosophy of Mind, Epistemology, Evolutionary Biology, Consciousness Studies]
+tags: [Philosophy of Mind, Consciousness Studies, Evolutionary Biology, Epistemology]
 edges:
   - target: the-category-error-of-machine-personhood
     type: applies

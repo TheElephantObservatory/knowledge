@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "Metapsychology w/ Zak Stein. September 28, 2020"
 source_url: "https://www.youtube.com/watch?v=IaYZY57hmQk"
 source_author: "The Stoa"
-tags: [Developmental Psychology, Relational Ontology, Meaning Crisis, Wisdom Traditions]
+tags: [Developmental Psychology, Meaning Crisis, Relational Ontology, Wisdom Traditions]
 edges:
   - target: ai-mimicry-and-the-crisis-of-human-formation
     type: applies

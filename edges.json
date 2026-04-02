@@ -25,11 +25,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "psychology-s-architecture-for-a-unified-knowledge-base",
-    "target_slug": "the-enlightenment-gap-and-the-crisis-of-psychology",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "structural-educational-lag-and-civilizational-collapse",
     "target_slug": "the-capability-crisis-of-unjust-educational-systems",
     "relationship_type": "extends"
@@ -43,11 +38,6 @@
     "source_slug": "the-four-quadrants-of-charismatic-authority",
     "target_slug": "shared-logic-across-religious-and-secular-raptures",
     "relationship_type": "extends"
-  },
-  {
-    "source_slug": "dimensional-jumps-in-the-architecture-of-reality",
-    "target_slug": "the-four-dimensions-of-behavioral-complexity",
-    "relationship_type": "exemplifies"
   },
   {
     "source_slug": "decoupling-technical-advancement-from-human-betterment",
@@ -125,16 +115,6 @@
     "relationship_type": "applies"
   },
   {
-    "source_slug": "how-complexity-science-synthesizes-whole-systems",
-    "target_slug": "how-whole-systems-generate-their-own-components",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "how-complexity-science-synthesizes-whole-systems",
-    "target_slug": "the-periodic-architecture-of-scientific-dimensions",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "synthesizing-opposing-values-for-civilizational-stability",
     "target_slug": "building-coordination-through-shared-value-stories",
     "relationship_type": "applies"
@@ -178,11 +158,6 @@
     "source_slug": "the-intergenerational-architecture-of-the-human-soul",
     "target_slug": "ai-mimicry-and-the-crisis-of-human-formation",
     "relationship_type": "applies"
-  },
-  {
-    "source_slug": "the-conceptual-architecture-of-human-knowledge",
-    "target_slug": "distinguishing-what-we-know-from-what-exists",
-    "relationship_type": "extends"
   },
   {
     "source_slug": "the-generative-dynamics-of-civilizational-self-termination",
@@ -300,11 +275,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "self-organization-and-the-spontaneous-origins-of-life",
-    "target_slug": "bonnitta-roy-s-process-based-critique-of-complexity",
-    "relationship_type": "contrasts"
-  },
-  {
     "source_slug": "comenius-and-the-global-framework-for-universal-wisdom",
     "target_slug": "the-structural-inability-to-transmit-human-meaning",
     "relationship_type": "contrasts"
@@ -340,31 +310,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "techno-environmental-loops-and-the-metacrisis-framework",
-    "target_slug": "four-crises-defining-the-digital-identity-problem",
-    "relationship_type": "exemplifies"
-  },
-  {
-    "source_slug": "the-enlightenment-gap-and-the-crisis-of-psychology",
-    "target_slug": "mapping-reality-from-energy-to-culture",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "a-unified-architecture-for-human-knowledge",
-    "target_slug": "mapping-reality-from-energy-to-culture",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "a-unified-architecture-for-human-knowledge",
-    "target_slug": "metaphysical-architecture-for-the-psyche-in-crisis",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-forgotten-dimension-of-animal-mindedness",
-    "target_slug": "the-four-dimensions-of-behavioral-complexity",
-    "relationship_type": "exemplifies"
-  },
-  {
     "source_slug": "designing-moral-rules-from-first-ethical-principles",
     "target_slug": "information-entropy-and-the-persistence-of-form",
     "relationship_type": "grounds"
@@ -373,36 +318,6 @@
     "source_slug": "mattering-as-a-structural-feature-of-life",
     "target_slug": "the-developmental-origin-of-value-perception",
     "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "the-nested-architecture-of-shared-cultural-beliefs",
-    "target_slug": "defining-culture-through-behavioral-repertoires-and-justification-systems",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "subjective-observation-and-the-limits-of-measurement",
-    "target_slug": "integrating-subjective-experience-culture-and-science",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "integrating-subjective-experience-culture-and-science",
-    "target_slug": "the-enlightenment-gap-and-the-crisis-of-psychology",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "three-foundations-of-individual-and-collective-wisdom",
-    "target_slug": "the-structural-incompleteness-of-optimization-metrics",
-    "relationship_type": "contrasts"
-  },
-  {
-    "source_slug": "addressing-the-underlying-worldview-driving-global-crises",
-    "target_slug": "the-misidentification-of-value-in-modern-civilization",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "information-technology-and-the-collapse-of-shared-truth",
-    "target_slug": "the-informational-war-against-shared-reality",
-    "relationship_type": "applies"
   },
   {
     "source_slug": "communication-as-a-living-relational-ecosystem",
@@ -418,11 +333,6 @@
     "source_slug": "why-economic-profit-ignores-true-planetary-costs",
     "target_slug": "the-blind-superorganism-of-global-economic-growth-1",
     "relationship_type": "extends"
-  },
-  {
-    "source_slug": "psychology-s-architecture-for-a-unified-knowledge-base",
-    "target_slug": "bridging-the-personal-self-and-objective-physical-reality",
-    "relationship_type": "applies"
   },
   {
     "source_slug": "structural-educational-lag-and-civilizational-collapse",
@@ -452,11 +362,6 @@
   {
     "source_slug": "addiction-rates-as-a-proxy-for-human-agency",
     "target_slug": "the-structural-incompleteness-of-optimization-metrics",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "dimensional-jumps-in-the-architecture-of-reality",
-    "target_slug": "mapping-reality-from-energy-to-culture",
     "relationship_type": "grounds"
   },
   {
@@ -545,16 +450,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "the-iquad-coin-and-unique-personal-experience",
-    "target_slug": "the-epistemic-distinction-between-science-and-psyche",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "how-complexity-science-synthesizes-whole-systems",
-    "target_slug": "bonnitta-roy-s-process-based-critique-of-complexity",
-    "relationship_type": "contrasts"
-  },
-  {
     "source_slug": "synthesizing-opposing-values-for-civilizational-stability",
     "target_slug": "integrating-war-into-a-mature-philosophy-of-love",
     "relationship_type": "extends"
@@ -610,11 +505,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "the-conceptual-architecture-of-human-knowledge",
-    "target_slug": "the-missing-ontological-foundation-of-psychological-science",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "mattering-as-a-structural-feature-of-life",
     "target_slug": "recovering-the-singular-source-of-human-value",
     "relationship_type": "extends"
@@ -628,11 +518,6 @@
     "source_slug": "the-systemic-failure-of-simulated-strategic-thinking",
     "target_slug": "educational-skill-building-versus-ai-prosthetic-dependency",
     "relationship_type": "exemplifies"
-  },
-  {
-    "source_slug": "managing-systemic-drift-through-continuous-autonomous-correction",
-    "target_slug": "mapping-systemic-constraints-via-the-cynefin-framework",
-    "relationship_type": "applies"
   },
   {
     "source_slug": "sapience-as-autonomy-beyond-mere-biological-agency",
@@ -800,53 +685,8 @@
     "relationship_type": "exemplifies"
   },
   {
-    "source_slug": "techno-environmental-loops-and-the-metacrisis-framework",
-    "target_slug": "the-fifth-joint-point-of-evolutionary-complexity",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-enlightenment-gap-and-the-crisis-of-psychology",
-    "target_slug": "metaphysical-architecture-for-the-psyche-in-crisis",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-forgotten-dimension-of-animal-mindedness",
-    "target_slug": "the-enlightenment-gap-and-the-crisis-of-psychology",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "educational-undomestication-through-a-dyslexia-diagnosis",
     "target_slug": "open-sourcing-ecstasy-against-institutional-gatekeeping",
-    "relationship_type": "exemplifies"
-  },
-  {
-    "source_slug": "the-nested-architecture-of-shared-cultural-beliefs",
-    "target_slug": "mapping-reality-from-energy-to-culture",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "subjective-observation-and-the-limits-of-measurement",
-    "target_slug": "bridging-the-personal-self-and-objective-physical-reality",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "integrating-subjective-experience-culture-and-science",
-    "target_slug": "integrating-objective-science-and-interior-wisdom",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "addressing-the-underlying-worldview-driving-global-crises",
-    "target_slug": "the-structural-breakdown-of-our-meaning-making-systems",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "scaling-the-boundaries-of-human-cooperation",
-    "target_slug": "myth-as-a-long-term-survival-technology",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "information-technology-and-the-collapse-of-shared-truth",
-    "target_slug": "how-algorithmic-curation-fragments-collective-sanity",
     "relationship_type": "exemplifies"
   },
   {
@@ -873,16 +713,6 @@
     "source_slug": "why-economic-profit-ignores-true-planetary-costs",
     "target_slug": "design-criteria-for-a-mature-global-civilization",
     "relationship_type": "applies"
-  },
-  {
-    "source_slug": "psychology-s-architecture-for-a-unified-knowledge-base",
-    "target_slug": "a-unified-architecture-for-human-knowledge",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "psychology-s-architecture-for-a-unified-knowledge-base",
-    "target_slug": "metaphysical-architecture-for-the-psyche-in-crisis",
-    "relationship_type": "extends"
   },
   {
     "source_slug": "structural-educational-lag-and-civilizational-collapse",
@@ -915,24 +745,9 @@
     "relationship_type": "exemplifies"
   },
   {
-    "source_slug": "dimensional-jumps-in-the-architecture-of-reality",
-    "target_slug": "universal-patterns-of-responsiveness-in-matter-and-mind",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "decoupling-technical-advancement-from-human-betterment",
     "target_slug": "binary-logic-and-the-practice-of-contextualism",
     "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "science-as-the-measurement-of-entity-field-relations",
-    "target_slug": "the-missing-ontological-foundation-of-psychological-science",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "science-as-the-measurement-of-entity-field-relations",
-    "target_slug": "the-four-dimensions-of-behavioral-complexity",
-    "relationship_type": "exemplifies"
   },
   {
     "source_slug": "building-a-metapsychology-of-qualitative-transformation",
@@ -960,16 +775,6 @@
     "relationship_type": "applies"
   },
   {
-    "source_slug": "how-whole-systems-generate-their-own-components",
-    "target_slug": "bonnitta-roy-s-process-based-critique-of-complexity",
-    "relationship_type": "contrasts"
-  },
-  {
-    "source_slug": "how-whole-systems-generate-their-own-components",
-    "target_slug": "distinguishing-human-complexity-from-biological-systems",
-    "relationship_type": "contrasts"
-  },
-  {
     "source_slug": "mutual-understanding-in-the-presence-of-deep-disagreement",
     "target_slug": "strategic-warfare-in-the-informational-commons",
     "relationship_type": "contrasts"
@@ -978,11 +783,6 @@
     "source_slug": "structural-failure-modes-of-collective-sensemaking",
     "target_slug": "from-tribal-intimacy-to-global-institutional-systems",
     "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "mapping-systemic-constraints-via-the-cynefin-framework",
-    "target_slug": "why-adaptive-agents-define-genuine-complex-systems",
-    "relationship_type": "extends"
   },
   {
     "source_slug": "the-epistemic-distinction-between-science-and-psyche",
@@ -997,16 +797,6 @@
   {
     "source_slug": "how-purpose-emerges-from-the-physics-of-absence",
     "target_slug": "the-continuity-of-meaning-from-matter-to-culture",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "biological-cooperation-and-the-myth-of-perpetual-growth",
-    "target_slug": "how-technology-breaks-the-symmetry-of-co-evolution",
-    "relationship_type": "contrasts"
-  },
-  {
-    "source_slug": "biological-cooperation-and-the-myth-of-perpetual-growth",
-    "target_slug": "william-bateson-s-scientific-resistance-to-eugenics",
     "relationship_type": "extends"
   },
   {
@@ -1058,11 +848,6 @@
     "source_slug": "the-systemic-failure-of-simulated-strategic-thinking",
     "target_slug": "the-structural-integration-of-human-cognitive-skills",
     "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "managing-systemic-drift-through-continuous-autonomous-correction",
-    "target_slug": "how-whole-systems-generate-their-own-components",
-    "relationship_type": "extends"
   },
   {
     "source_slug": "metaphysical-architecture-for-the-psyche-in-crisis",
@@ -1235,51 +1020,6 @@
     "relationship_type": "exemplifies"
   },
   {
-    "source_slug": "the-nested-architecture-of-shared-cultural-beliefs",
-    "target_slug": "the-linguistic-architecture-of-human-self-consciousness",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "subjective-observation-and-the-limits-of-measurement",
-    "target_slug": "a-unified-architecture-for-human-knowledge",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "integrating-subjective-experience-culture-and-science",
-    "target_slug": "four-distinct-modes-of-human-cognition",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "addressing-the-underlying-worldview-driving-global-crises",
-    "target_slug": "the-spiritual-crisis-beneath-our-global-breakdown",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "scaling-the-boundaries-of-human-cooperation",
-    "target_slug": "building-coordination-through-shared-value-stories",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "information-technology-and-the-collapse-of-shared-truth",
-    "target_slug": "navigating-the-irreversible-collapse-of-collective-sensemaking",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "information-technology-and-the-collapse-of-shared-truth",
-    "target_slug": "protecting-the-shared-foundations-of-truth",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-map-of-mind-a-multi-axis-framework-for-dissolving-the-minds-homonymy",
-    "target_slug": "the-four-distinct-layers-of-mind",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-map-of-mind-a-multi-axis-framework-for-dissolving-the-minds-homonymy",
-    "target_slug": "the-foundational-crisis-of-psychological-definition",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "communication-as-a-living-relational-ecosystem",
     "target_slug": "the-digital-arms-race-against-human-perception",
     "relationship_type": "exemplifies"
@@ -1308,11 +1048,6 @@
     "source_slug": "why-economic-profit-ignores-true-planetary-costs",
     "target_slug": "encoding-values-into-organizational-governance-and-capital",
     "relationship_type": "applies"
-  },
-  {
-    "source_slug": "psychology-s-architecture-for-a-unified-knowledge-base",
-    "target_slug": "the-missing-ontological-foundation-of-psychological-science",
-    "relationship_type": "grounds"
   },
   {
     "source_slug": "structural-educational-lag-and-civilizational-collapse",
@@ -1345,16 +1080,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "dimensional-jumps-in-the-architecture-of-reality",
-    "target_slug": "the-periodic-architecture-of-scientific-dimensions",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "dimensional-jumps-in-the-architecture-of-reality",
-    "target_slug": "bridging-the-personal-self-and-objective-physical-reality",
-    "relationship_type": "applies"
-  },
-  {
     "source_slug": "how-technology-encodes-unintended-social-values",
     "target_slug": "the-misidentification-of-value-in-modern-civilization",
     "relationship_type": "grounds"
@@ -1368,11 +1093,6 @@
     "source_slug": "decoupling-technical-advancement-from-human-betterment",
     "target_slug": "mandating-safety-proofs-for-irreversible-technologies",
     "relationship_type": "applies"
-  },
-  {
-    "source_slug": "science-as-the-measurement-of-entity-field-relations",
-    "target_slug": "mapping-reality-from-energy-to-culture",
-    "relationship_type": "extends"
   },
   {
     "source_slug": "recovering-the-singular-source-of-human-value",
@@ -1410,11 +1130,6 @@
     "relationship_type": "contrasts"
   },
   {
-    "source_slug": "how-whole-systems-generate-their-own-components",
-    "target_slug": "self-organization-and-the-spontaneous-origins-of-life",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "mutual-understanding-in-the-presence-of-deep-disagreement",
     "target_slug": "communication-as-a-living-relational-ecosystem",
     "relationship_type": "extends"
@@ -1445,16 +1160,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "mapping-systemic-constraints-via-the-cynefin-framework",
-    "target_slug": "distinguishing-human-complexity-from-biological-systems",
-    "relationship_type": "contrasts"
-  },
-  {
-    "source_slug": "mapping-systemic-constraints-via-the-cynefin-framework",
-    "target_slug": "three-distinct-levels-of-emergent-complexity",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "the-epistemic-distinction-between-science-and-psyche",
     "target_slug": "defining-psychology-through-the-ontology-of-mind",
     "relationship_type": "extends"
@@ -1463,11 +1168,6 @@
     "source_slug": "how-purpose-emerges-from-the-physics-of-absence",
     "target_slug": "relevance-realization-and-the-optimal-grip",
     "relationship_type": "applies"
-  },
-  {
-    "source_slug": "biological-cooperation-and-the-myth-of-perpetual-growth",
-    "target_slug": "the-competitive-logic-of-existential-risk",
-    "relationship_type": "contrasts"
   },
   {
     "source_slug": "defining-culture-through-behavioral-repertoires-and-justification-systems",
@@ -1500,11 +1200,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "optimal-adaptation-at-the-edge-of-chaos",
-    "target_slug": "three-distinct-levels-of-emergent-complexity",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "the-tripartite-map-of-human-consciousness",
     "target_slug": "the-self-as-a-functional-navigation-process",
     "relationship_type": "extends"
@@ -1528,11 +1223,6 @@
     "source_slug": "the-systemic-failure-of-simulated-strategic-thinking",
     "target_slug": "the-structural-breakdown-of-our-meaning-making-systems",
     "relationship_type": "extends"
-  },
-  {
-    "source_slug": "managing-systemic-drift-through-continuous-autonomous-correction",
-    "target_slug": "bonnitta-roy-s-process-based-critique-of-complexity",
-    "relationship_type": "contrasts"
   },
   {
     "source_slug": "metaphysical-architecture-for-the-psyche-in-crisis",
@@ -1650,11 +1340,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "the-anti-fascist-origins-of-systems-thinking",
-    "target_slug": "distinguishing-human-complexity-from-biological-systems",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "digital-market-incentives-and-the-new-intellectuals",
     "target_slug": "open-sourcing-ecstasy-against-institutional-gatekeeping",
     "relationship_type": "extends"
@@ -1666,31 +1351,6 @@
   },
   {
     "source_slug": "distinguishing-what-we-know-from-what-exists",
-    "target_slug": "the-structural-unification-of-psychological-science",
-    "relationship_type": "exemplifies"
-  },
-  {
-    "source_slug": "the-nested-architecture-of-shared-cultural-beliefs",
-    "target_slug": "integrating-subjective-experience-culture-and-science",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "subjective-observation-and-the-limits-of-measurement",
-    "target_slug": "integrating-objective-science-and-interior-wisdom",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "addressing-the-underlying-worldview-driving-global-crises",
-    "target_slug": "the-fifth-joint-point-of-evolutionary-complexity",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "scaling-the-boundaries-of-human-cooperation",
-    "target_slug": "the-nested-architecture-of-shared-cultural-beliefs",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "the-map-of-mind-a-multi-axis-framework-for-dissolving-the-minds-homonymy",
     "target_slug": "the-structural-unification-of-psychological-science",
     "relationship_type": "exemplifies"
   },
@@ -1755,11 +1415,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "science-as-the-measurement-of-entity-field-relations",
-    "target_slug": "the-conceptual-architecture-of-human-knowledge",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "recovering-the-singular-source-of-human-value",
     "target_slug": "the-structural-inability-to-transmit-human-meaning",
     "relationship_type": "applies"
@@ -1778,11 +1433,6 @@
     "source_slug": "binary-logic-and-the-practice-of-contextualism",
     "target_slug": "the-structural-barriers-to-shared-systems-narratives",
     "relationship_type": "applies"
-  },
-  {
-    "source_slug": "how-whole-systems-generate-their-own-components",
-    "target_slug": "three-distinct-levels-of-emergent-complexity",
-    "relationship_type": "extends"
   },
   {
     "source_slug": "mutual-understanding-in-the-presence-of-deep-disagreement",
@@ -1810,11 +1460,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "mapping-systemic-constraints-via-the-cynefin-framework",
-    "target_slug": "bonnitta-roy-s-process-based-critique-of-complexity",
-    "relationship_type": "contrasts"
-  },
-  {
     "source_slug": "the-epistemic-distinction-between-science-and-psyche",
     "target_slug": "metaphysical-architecture-for-the-psyche-in-crisis",
     "relationship_type": "extends"
@@ -1827,11 +1472,6 @@
   {
     "source_slug": "how-purpose-emerges-from-the-physics-of-absence",
     "target_slug": "genetic-information-and-the-evolution-of-meaning",
-    "relationship_type": "exemplifies"
-  },
-  {
-    "source_slug": "biological-cooperation-and-the-myth-of-perpetual-growth",
-    "target_slug": "decoupling-human-population-from-natural-nitrogen-cycles",
     "relationship_type": "exemplifies"
   },
   {
@@ -1910,11 +1550,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "why-adaptive-agents-define-genuine-complex-systems",
-    "target_slug": "how-whole-systems-generate-their-own-components",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "the-shark-and-pocketknife-repositioning-the-meta-crisis",
     "target_slug": "psychological-adaptation-and-the-crisis-of-personhood",
     "relationship_type": "extends"
@@ -1928,16 +1563,6 @@
     "source_slug": "ethical-choice-in-the-mythic-present",
     "target_slug": "myth-as-a-long-term-survival-technology",
     "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "how-registered-reports-decouple-results-from-rewards",
-    "target_slug": "the-missing-ontological-foundation-of-psychological-science",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "bonnitta-roy-s-process-based-critique-of-complexity",
-    "target_slug": "the-shark-and-pocketknife-repositioning-the-meta-crisis",
-    "relationship_type": "applies"
   },
   {
     "source_slug": "the-structural-integration-of-human-cognitive-skills",
@@ -2000,91 +1625,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "the-breakdown-of-embodied-intergenerational-socialization",
-    "target_slug": "ai-mimicry-and-the-crisis-of-human-formation",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-breakdown-of-embodied-intergenerational-socialization",
-    "target_slug": "how-ai-captures-the-childs-sense-of-truth",
-    "relationship_type": "exemplifies"
-  },
-  {
-    "source_slug": "the-displacement-of-human-connection-by-ai",
-    "target_slug": "clinical-divergence-in-ai-attention-and-attachment",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "separating-biological-mindedness-from-abstract-consciousness",
-    "target_slug": "the-tripartite-map-of-human-consciousness",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "separating-biological-mindedness-from-abstract-consciousness",
-    "target_slug": "a-three-dimensional-map-of-the-mind",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "the-linguistic-architecture-of-human-self-consciousness",
-    "target_slug": "the-four-distinct-layers-of-mind",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "the-linguistic-architecture-of-human-self-consciousness",
-    "target_slug": "sapience-as-autonomy-beyond-mere-biological-agency",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "a-three-dimensional-map-of-the-mind",
-    "target_slug": "the-four-distinct-layers-of-mind",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "how-algorithmic-curation-fragments-collective-sanity",
-    "target_slug": "navigating-the-irreversible-collapse-of-collective-sensemaking",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "neurological-atrophy-and-the-erosion-of-civilizational-literacy",
-    "target_slug": "educational-skill-building-versus-ai-prosthetic-dependency",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "neurological-atrophy-and-the-erosion-of-civilizational-literacy",
-    "target_slug": "how-ai-captures-the-childs-sense-of-truth",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "neurological-atrophy-and-the-erosion-of-civilizational-literacy",
-    "target_slug": "the-ai-resource-curse-and-human-devaluation",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-neurological-hijacking-of-human-attachment",
-    "target_slug": "ai-and-the-simulation-of-perfect-parental-care",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-neurological-hijacking-of-human-attachment",
-    "target_slug": "how-ai-replaces-primary-human-relationships",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-neurological-hijacking-of-human-attachment",
-    "target_slug": "separating-cognitive-scaffolding-from-relational-reward",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "the-nested-architecture-of-shared-cultural-beliefs",
-    "target_slug": "navigating-the-irreversible-collapse-of-collective-sensemaking",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "the-map-of-mind-a-multi-axis-framework-for-dissolving-the-minds-homonymy",
-    "target_slug": "four-distinct-modes-of-human-cognition",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "the-structural-trap-of-constant-problem-generation",
     "target_slug": "escaping-the-twin-risks-of-catastrophe-and-dystopia",
     "relationship_type": "extends"
@@ -2130,11 +1670,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "science-as-the-measurement-of-entity-field-relations",
-    "target_slug": "the-periodic-architecture-of-scientific-dimensions",
-    "relationship_type": "applies"
-  },
-  {
     "source_slug": "three-pillars-of-a-new-enlightenment",
     "target_slug": "the-simultaneous-collapse-of-sacred-and-secular-authority",
     "relationship_type": "grounds"
@@ -2142,11 +1677,6 @@
   {
     "source_slug": "binary-logic-and-the-practice-of-contextualism",
     "target_slug": "the-path-from-na-ve-slogans-to-earned-clarity",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "how-whole-systems-generate-their-own-components",
-    "target_slug": "building-a-metapsychology-of-qualitative-transformation",
     "relationship_type": "extends"
   },
   {
@@ -2185,11 +1715,6 @@
     "relationship_type": "applies"
   },
   {
-    "source_slug": "mapping-systemic-constraints-via-the-cynefin-framework",
-    "target_slug": "the-fifth-joint-point-of-evolutionary-complexity",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "the-epistemic-distinction-between-science-and-psyche",
     "target_slug": "integrating-objective-science-and-interior-wisdom",
     "relationship_type": "extends"
@@ -2198,11 +1723,6 @@
     "source_slug": "how-purpose-emerges-from-the-physics-of-absence",
     "target_slug": "from-thermodynamic-survival-to-cultural-meaning",
     "relationship_type": "extends"
-  },
-  {
-    "source_slug": "biological-cooperation-and-the-myth-of-perpetual-growth",
-    "target_slug": "optimal-adaptation-at-the-edge-of-chaos",
-    "relationship_type": "grounds"
   },
   {
     "source_slug": "defining-culture-through-behavioral-repertoires-and-justification-systems",
@@ -2235,11 +1755,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "optimal-adaptation-at-the-edge-of-chaos",
-    "target_slug": "how-complexity-science-synthesizes-whole-systems",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "the-tripartite-map-of-human-consciousness",
     "target_slug": "integrating-development-ensoulment-and-transcendence",
     "relationship_type": "extends"
@@ -2270,11 +1785,6 @@
     "relationship_type": "applies"
   },
   {
-    "source_slug": "why-adaptive-agents-define-genuine-complex-systems",
-    "target_slug": "bonnitta-roy-s-process-based-critique-of-complexity",
-    "relationship_type": "contrasts"
-  },
-  {
     "source_slug": "the-shark-and-pocketknife-repositioning-the-meta-crisis",
     "target_slug": "myth-as-a-long-term-survival-technology",
     "relationship_type": "exemplifies"
@@ -2287,11 +1797,6 @@
   {
     "source_slug": "ethical-choice-in-the-mythic-present",
     "target_slug": "shared-cosmic-narratives-and-civilizational-value",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "how-registered-reports-decouple-results-from-rewards",
-    "target_slug": "distinguishing-what-we-know-from-what-exists",
     "relationship_type": "extends"
   },
   {
@@ -2368,111 +1873,6 @@
     "source_slug": "propositional-grammar-and-the-evolution-of-personhood",
     "target_slug": "from-thermodynamic-survival-to-cultural-meaning",
     "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "how-universal-ai-automation-breaks-the-global-economy",
-    "target_slug": "the-ai-resource-curse-and-human-devaluation",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "how-universal-ai-automation-breaks-the-global-economy",
-    "target_slug": "defection-logic-in-the-ai-arms-race",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "the-ai-resource-curse-and-human-devaluation",
-    "target_slug": "the-fossil-labor-subsidy-of-modern-economics",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "how-ai-replaces-primary-human-relationships",
-    "target_slug": "ai-mimicry-and-the-crisis-of-human-formation",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "defection-logic-in-the-ai-arms-race",
-    "target_slug": "the-shared-structural-drivers-of-civilizational-risk",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "scaling-collective-wisdom-for-unbounded-technological-power",
-    "target_slug": "the-competitive-logic-of-existential-risk",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "the-asymmetric-logic-of-ai-risk-and-reward",
-    "target_slug": "synthesizing-opposing-values-for-civilizational-stability",
-    "relationship_type": "contrasts"
-  },
-  {
-    "source_slug": "the-breakdown-of-embodied-intergenerational-socialization",
-    "target_slug": "the-intergenerational-architecture-of-the-human-soul",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "the-breakdown-of-embodied-intergenerational-socialization",
-    "target_slug": "the-category-error-of-machine-personhood",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "separating-biological-mindedness-from-abstract-consciousness",
-    "target_slug": "the-four-distinct-layers-of-mind",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "the-structural-evolution-of-subjective-awareness",
-    "target_slug": "the-tripartite-map-of-human-consciousness",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-structural-evolution-of-subjective-awareness",
-    "target_slug": "the-neural-process-of-constructing-meaningful-worlds",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "the-linguistic-architecture-of-human-self-consciousness",
-    "target_slug": "the-three-layered-architecture-of-human-self-consciousness",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-linguistic-architecture-of-human-self-consciousness",
-    "target_slug": "the-tripartite-map-of-human-consciousness",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-linguistic-architecture-of-human-self-consciousness",
-    "target_slug": "symbol-image-and-language-in-psychic-healing",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "a-three-dimensional-map-of-the-mind",
-    "target_slug": "the-tripartite-map-of-human-consciousness",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "a-three-dimensional-map-of-the-mind",
-    "target_slug": "mapping-reality-from-energy-to-culture",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "a-three-dimensional-map-of-the-mind",
-    "target_slug": "the-linguistic-architecture-of-human-self-consciousness",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "subjective-observation-and-the-limits-of-measurement",
-    "target_slug": "the-epistemic-distinction-between-science-and-psyche",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "integrating-subjective-experience-culture-and-science",
-    "target_slug": "bridging-the-personal-self-and-objective-physical-reality",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-map-of-mind-a-multi-axis-framework-for-dissolving-the-minds-homonymy",
-    "target_slug": "integrating-development-ensoulment-and-transcendence",
-    "relationship_type": "extends"
   },
   {
     "source_slug": "the-structural-trap-of-constant-problem-generation",
@@ -2575,24 +1975,9 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "the-corporate-capture-of-the-participatory-web",
-    "target_slug": "corporate-authority-and-the-loss-of-ownership",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-corporate-capture-of-the-participatory-web",
-    "target_slug": "undue-influence-and-the-collapse-of-personal-autonomy",
-    "relationship_type": "applies"
-  },
-  {
     "source_slug": "exponential-financial-systems-within-finite-physical-realities",
     "target_slug": "energy-infrastructure-and-the-material-foundations-of-society",
     "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "how-propositional-language-created-the-justifying-animal",
-    "target_slug": "the-self-as-a-functional-navigation-process",
-    "relationship_type": "applies"
   },
   {
     "source_slug": "the-periodic-architecture-of-scientific-dimensions",
@@ -2610,11 +1995,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "finding-the-simple-core-of-complexity",
-    "target_slug": "bonnitta-roy-s-process-based-critique-of-complexity",
-    "relationship_type": "contrasts"
-  },
-  {
     "source_slug": "the-digital-arms-race-against-human-perception",
     "target_slug": "reclaiming-agency-from-the-curated-information-environment",
     "relationship_type": "extends"
@@ -2630,18 +2010,8 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "distinguishing-human-complexity-from-biological-systems",
-    "target_slug": "mapping-reality-from-energy-to-culture",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "from-thermodynamic-survival-to-cultural-meaning",
     "target_slug": "the-continuity-of-meaning-from-matter-to-culture",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-missing-ontological-foundation-of-psychological-science",
-    "target_slug": "the-structural-unification-of-psychological-science",
     "relationship_type": "extends"
   },
   {
@@ -2675,16 +2045,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "bridging-the-personal-self-and-objective-physical-reality",
-    "target_slug": "a-unified-architecture-for-human-knowledge",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "bridging-the-personal-self-and-objective-physical-reality",
-    "target_slug": "integrating-objective-science-and-interior-wisdom",
-    "relationship_type": "applies"
-  },
-  {
     "source_slug": "commercial-incentives-and-the-psychedelic-movement",
     "target_slug": "how-pluralistic-hesitation-enables-bad-faith-actors",
     "relationship_type": "extends"
@@ -2710,11 +2070,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "the-shared-structural-drivers-of-civilizational-risk",
-    "target_slug": "techno-environmental-loops-and-the-metacrisis-framework",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "how-ai-captures-the-childs-sense-of-truth",
     "target_slug": "ai-mimicry-and-the-crisis-of-human-formation",
     "relationship_type": "extends"
@@ -2728,11 +2083,6 @@
     "source_slug": "reconciling-ancient-biology-with-god-like-technology",
     "target_slug": "the-generative-dynamics-of-civilizational-self-termination",
     "relationship_type": "extends"
-  },
-  {
-    "source_slug": "why-adaptive-agents-define-genuine-complex-systems",
-    "target_slug": "optimal-adaptation-at-the-edge-of-chaos",
-    "relationship_type": "exemplifies"
   },
   {
     "source_slug": "the-shark-and-pocketknife-repositioning-the-meta-crisis",
@@ -2755,18 +2105,8 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "how-registered-reports-decouple-results-from-rewards",
-    "target_slug": "the-enlightenment-gap-and-the-crisis-of-psychology",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "four-crises-defining-the-digital-identity-problem",
     "target_slug": "the-fifth-joint-point-of-evolutionary-complexity",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "bonnitta-roy-s-process-based-critique-of-complexity",
-    "target_slug": "the-neural-process-of-constructing-meaningful-worlds",
     "relationship_type": "extends"
   },
   {
@@ -2827,116 +2167,6 @@
   {
     "source_slug": "the-transition-from-genetic-memory-to-neural-learning",
     "target_slug": "propositional-grammar-and-the-evolution-of-personhood",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "how-universal-ai-automation-breaks-the-global-economy",
-    "target_slug": "the-fossil-labor-subsidy-of-modern-economics",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "the-ai-resource-curse-and-human-devaluation",
-    "target_slug": "the-capability-crisis-of-unjust-educational-systems",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "defection-logic-in-the-ai-arms-race",
-    "target_slug": "biological-cooperation-and-the-myth-of-perpetual-growth",
-    "relationship_type": "contrasts"
-  },
-  {
-    "source_slug": "scaling-collective-wisdom-for-unbounded-technological-power",
-    "target_slug": "the-structural-incompleteness-of-optimization-metrics",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "scaling-collective-wisdom-for-unbounded-technological-power",
-    "target_slug": "psychological-adaptation-and-the-crisis-of-personhood",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-asymmetric-logic-of-ai-risk-and-reward",
-    "target_slug": "the-competitive-logic-of-existential-risk",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "the-breakdown-of-embodied-intergenerational-socialization",
-    "target_slug": "the-displacement-of-human-connection-by-ai",
-    "relationship_type": "exemplifies"
-  },
-  {
-    "source_slug": "separating-cognitive-scaffolding-from-relational-reward",
-    "target_slug": "ai-orchestration-of-human-to-human-educational-networks",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "separating-cognitive-scaffolding-from-relational-reward",
-    "target_slug": "how-ai-replaces-primary-human-relationships",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "the-displacement-of-human-connection-by-ai",
-    "target_slug": "the-category-error-of-machine-personhood",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "clinical-divergence-in-ai-attention-and-attachment",
-    "target_slug": "how-ai-replaces-primary-human-relationships",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-structural-evolution-of-subjective-awareness",
-    "target_slug": "the-four-distinct-layers-of-mind",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "ai-and-the-simulation-of-perfect-parental-care",
-    "target_slug": "clinical-divergence-in-ai-attention-and-attachment",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "integrating-subjective-experience-culture-and-science",
-    "target_slug": "a-unified-architecture-for-human-knowledge",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "self-evidencing-and-the-mathematical-pursuit-of-meaning",
-    "target_slug": "the-statistical-veil-between-self-and-world",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "pruning-mental-models-through-sleep-and-psychedelics",
-    "target_slug": "the-statistical-veil-between-self-and-world",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "the-statistical-veil-between-self-and-world",
-    "target_slug": "the-self-as-a-high-level-generative-model",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-self-as-a-high-level-generative-model",
-    "target_slug": "the-mathematical-logic-of-binary-social-conflict",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-mathematical-logic-of-binary-social-conflict",
-    "target_slug": "self-evidencing-and-the-mathematical-pursuit-of-meaning",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "the-mathematical-logic-of-binary-social-conflict",
-    "target_slug": "scaling-the-boundaries-of-human-cooperation",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-brain-s-balance-between-prediction-and-reality",
-    "target_slug": "the-self-as-a-high-level-generative-model",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-brain-s-balance-between-prediction-and-reality",
-    "target_slug": "the-neural-process-of-constructing-meaningful-worlds",
     "relationship_type": "extends"
   },
   {
@@ -3030,16 +2260,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "the-corporate-capture-of-the-participatory-web",
-    "target_slug": "how-technology-encodes-unintended-social-values",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "how-propositional-language-created-the-justifying-animal",
-    "target_slug": "mapping-reality-from-energy-to-culture",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "the-periodic-architecture-of-scientific-dimensions",
     "target_slug": "mapping-reality-from-energy-to-culture",
     "relationship_type": "grounds"
@@ -3055,24 +2275,9 @@
     "relationship_type": "applies"
   },
   {
-    "source_slug": "finding-the-simple-core-of-complexity",
-    "target_slug": "mapping-systemic-constraints-via-the-cynefin-framework",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "distinguishing-human-complexity-from-biological-systems",
-    "target_slug": "sapience-as-autonomy-beyond-mere-biological-agency",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "reverse-engineering-peak-states-through-biological-hardware",
     "target_slug": "the-neural-process-of-constructing-meaningful-worlds",
     "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "the-missing-ontological-foundation-of-psychological-science",
-    "target_slug": "the-enlightenment-gap-and-the-crisis-of-psychology",
-    "relationship_type": "extends"
   },
   {
     "source_slug": "protecting-the-shared-foundations-of-truth",
@@ -3097,16 +2302,6 @@
   {
     "source_slug": "information-as-the-mechanism-of-physical-existence",
     "target_slug": "the-continuity-of-meaning-from-matter-to-culture",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "bridging-the-personal-self-and-objective-physical-reality",
-    "target_slug": "the-epistemic-distinction-between-science-and-psyche",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "bridging-the-personal-self-and-objective-physical-reality",
-    "target_slug": "the-neural-process-of-constructing-meaningful-worlds",
     "relationship_type": "extends"
   },
   {
@@ -3155,16 +2350,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "why-adaptive-agents-define-genuine-complex-systems",
-    "target_slug": "distinguishing-human-complexity-from-biological-systems",
-    "relationship_type": "contrasts"
-  },
-  {
-    "source_slug": "why-adaptive-agents-define-genuine-complex-systems",
-    "target_slug": "sapience-as-autonomy-beyond-mere-biological-agency",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "the-shark-and-pocketknife-repositioning-the-meta-crisis",
     "target_slug": "integrating-development-ensoulment-and-transcendence",
     "relationship_type": "extends"
@@ -3180,11 +2365,6 @@
     "relationship_type": "applies"
   },
   {
-    "source_slug": "how-registered-reports-decouple-results-from-rewards",
-    "target_slug": "distinguishing-speculative-ideas-from-systematic-metaphysics",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "four-cultural-epochs-integrated-within-metamodern-sensibility",
     "target_slug": "the-fifth-joint-point-of-evolutionary-complexity",
     "relationship_type": "extends"
@@ -3193,11 +2373,6 @@
     "source_slug": "a-decentralized-toolkit-for-designing-new-communities",
     "target_slug": "the-structural-architecture-of-cultic-emergence",
     "relationship_type": "applies"
-  },
-  {
-    "source_slug": "bonnitta-roy-s-process-based-critique-of-complexity",
-    "target_slug": "building-a-metapsychology-of-qualitative-transformation",
-    "relationship_type": "extends"
   },
   {
     "source_slug": "distinguishing-speculative-ideas-from-systematic-metaphysics",
@@ -3262,101 +2437,6 @@
   {
     "source_slug": "propositional-grammar-and-the-evolution-of-personhood",
     "target_slug": "three-pillars-of-a-new-enlightenment",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "how-universal-ai-automation-breaks-the-global-economy",
-    "target_slug": "the-inseparable-trinity-of-economic-expansion",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "the-ai-resource-curse-and-human-devaluation",
-    "target_slug": "ai-mimicry-and-the-crisis-of-human-formation",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "how-ai-replaces-primary-human-relationships",
-    "target_slug": "the-category-error-of-machine-personhood",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "defection-logic-in-the-ai-arms-race",
-    "target_slug": "the-fifth-joint-point-of-evolutionary-complexity",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "scaling-collective-wisdom-for-unbounded-technological-power",
-    "target_slug": "navigating-the-irreversible-collapse-of-collective-sensemaking",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-asymmetric-logic-of-ai-risk-and-reward",
-    "target_slug": "the-structural-incompleteness-of-optimization-metrics",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "separating-cognitive-scaffolding-from-relational-reward",
-    "target_slug": "educational-skill-building-versus-ai-prosthetic-dependency",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "separating-cognitive-scaffolding-from-relational-reward",
-    "target_slug": "clinical-divergence-in-ai-attention-and-attachment",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "separating-cognitive-scaffolding-from-relational-reward",
-    "target_slug": "the-displacement-of-human-connection-by-ai",
-    "relationship_type": "exemplifies"
-  },
-  {
-    "source_slug": "the-displacement-of-human-connection-by-ai",
-    "target_slug": "how-ai-replaces-primary-human-relationships",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "separating-biological-mindedness-from-abstract-consciousness",
-    "target_slug": "bridging-the-personal-self-and-objective-physical-reality",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "ai-as-the-peak-of-industrial-reductionism",
-    "target_slug": "the-structural-incompleteness-of-optimization-metrics",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "ai-as-the-peak-of-industrial-reductionism",
-    "target_slug": "distinguishing-human-complexity-from-biological-systems",
-    "relationship_type": "exemplifies"
-  },
-  {
-    "source_slug": "ai-as-the-peak-of-industrial-reductionism",
-    "target_slug": "how-ai-captures-the-childs-sense-of-truth",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "three-foundations-of-individual-and-collective-wisdom",
-    "target_slug": "integrating-objective-science-and-interior-wisdom",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "information-technology-and-the-collapse-of-shared-truth",
-    "target_slug": "structural-educational-lag-and-civilizational-collapse",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "self-evidencing-and-the-mathematical-pursuit-of-meaning",
-    "target_slug": "the-statistical-process-of-constructing-reality",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "pruning-mental-models-through-sleep-and-psychedelics",
-    "target_slug": "the-self-as-a-high-level-generative-model",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-statistical-process-of-constructing-reality",
-    "target_slug": "pruning-mental-models-through-sleep-and-psychedelics",
     "relationship_type": "applies"
   },
   {
@@ -3430,16 +2510,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "the-iquad-coin-and-unique-personal-experience",
-    "target_slug": "bridging-the-personal-self-and-objective-physical-reality",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "how-complexity-science-synthesizes-whole-systems",
-    "target_slug": "self-organization-and-the-spontaneous-origins-of-life",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "synthesizing-opposing-values-for-civilizational-stability",
     "target_slug": "recovering-the-singular-source-of-human-value",
     "relationship_type": "grounds"
@@ -3475,11 +2545,6 @@
     "relationship_type": "exemplifies"
   },
   {
-    "source_slug": "the-conceptual-architecture-of-human-knowledge",
-    "target_slug": "metaphysical-architecture-for-the-psyche-in-crisis",
-    "relationship_type": "applies"
-  },
-  {
     "source_slug": "the-self-as-a-functional-navigation-process",
     "target_slug": "integrating-objective-science-and-interior-wisdom",
     "relationship_type": "applies"
@@ -3495,29 +2560,9 @@
     "relationship_type": "exemplifies"
   },
   {
-    "source_slug": "the-corporate-capture-of-the-participatory-web",
-    "target_slug": "the-invisible-apocalypse-of-attention-algorithms",
-    "relationship_type": "exemplifies"
-  },
-  {
-    "source_slug": "how-propositional-language-created-the-justifying-animal",
-    "target_slug": "defining-culture-through-behavioral-repertoires-and-justification-systems",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "how-propositional-language-created-the-justifying-animal",
-    "target_slug": "distinguishing-human-complexity-from-biological-systems",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "decoupling-productive-output-from-flow-states",
     "target_slug": "educational-skill-building-versus-ai-prosthetic-dependency",
     "relationship_type": "applies"
-  },
-  {
-    "source_slug": "william-bateson-s-scientific-resistance-to-eugenics",
-    "target_slug": "bonnitta-roy-s-process-based-critique-of-complexity",
-    "relationship_type": "extends"
   },
   {
     "source_slug": "four-distinct-modes-of-human-cognition",
@@ -3550,24 +2595,9 @@
     "relationship_type": "applies"
   },
   {
-    "source_slug": "distinguishing-human-complexity-from-biological-systems",
-    "target_slug": "the-four-dimensions-of-behavioral-complexity",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "reverse-engineering-peak-states-through-biological-hardware",
     "target_slug": "four-distinct-modes-of-human-cognition",
     "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "the-missing-ontological-foundation-of-psychological-science",
-    "target_slug": "defining-psychology-through-the-ontology-of-mind",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-missing-ontological-foundation-of-psychological-science",
-    "target_slug": "metaphysical-architecture-for-the-psyche-in-crisis",
-    "relationship_type": "extends"
   },
   {
     "source_slug": "protecting-the-shared-foundations-of-truth",
@@ -3622,141 +2652,6 @@
   {
     "source_slug": "the-continuity-of-meaning-from-matter-to-culture",
     "target_slug": "the-transition-from-genetic-memory-to-neural-learning",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "three-distinct-levels-of-emergent-complexity",
-    "target_slug": "the-periodic-architecture-of-scientific-dimensions",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "a-unified-architecture-for-human-knowledge",
-    "target_slug": "integrating-objective-science-and-interior-wisdom",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "how-universal-ai-automation-breaks-the-global-economy",
-    "target_slug": "the-fifth-joint-point-of-evolutionary-complexity",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-ai-resource-curse-and-human-devaluation",
-    "target_slug": "the-competitive-logic-of-existential-risk",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "how-ai-replaces-primary-human-relationships",
-    "target_slug": "how-ai-captures-the-childs-sense-of-truth",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "defection-logic-in-the-ai-arms-race",
-    "target_slug": "the-competitive-logic-of-existential-risk",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "defection-logic-in-the-ai-arms-race",
-    "target_slug": "the-asymmetric-logic-of-ai-risk-and-reward",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "scaling-collective-wisdom-for-unbounded-technological-power",
-    "target_slug": "how-ai-replaces-primary-human-relationships",
-    "relationship_type": "exemplifies"
-  },
-  {
-    "source_slug": "the-asymmetric-logic-of-ai-risk-and-reward",
-    "target_slug": "the-shared-structural-drivers-of-civilizational-risk",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "clinical-divergence-in-ai-attention-and-attachment",
-    "target_slug": "the-category-error-of-machine-personhood",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "separating-biological-mindedness-from-abstract-consciousness",
-    "target_slug": "the-forgotten-dimension-of-animal-mindedness",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-structural-evolution-of-subjective-awareness",
-    "target_slug": "the-three-layered-architecture-of-human-self-consciousness",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "ai-and-the-simulation-of-perfect-parental-care",
-    "target_slug": "the-displacement-of-human-connection-by-ai",
-    "relationship_type": "exemplifies"
-  },
-  {
-    "source_slug": "ai-and-the-simulation-of-perfect-parental-care",
-    "target_slug": "separating-cognitive-scaffolding-from-relational-reward",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "three-foundations-of-individual-and-collective-wisdom",
-    "target_slug": "recovering-the-singular-source-of-human-value",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "three-foundations-of-individual-and-collective-wisdom",
-    "target_slug": "integrating-development-ensoulment-and-transcendence",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "addressing-the-underlying-worldview-driving-global-crises",
-    "target_slug": "the-shared-structural-drivers-of-civilizational-risk",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "scaling-the-boundaries-of-human-cooperation",
-    "target_slug": "shared-cosmic-narratives-and-civilizational-value",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "self-evidencing-and-the-mathematical-pursuit-of-meaning",
-    "target_slug": "the-self-as-a-high-level-generative-model",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "self-evidencing-and-the-mathematical-pursuit-of-meaning",
-    "target_slug": "the-neural-process-of-constructing-meaningful-worlds",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "pruning-mental-models-through-sleep-and-psychedelics",
-    "target_slug": "self-evidencing-and-the-mathematical-pursuit-of-meaning",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "pruning-mental-models-through-sleep-and-psychedelics",
-    "target_slug": "reverse-engineering-peak-states-through-biological-hardware",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "the-statistical-veil-between-self-and-world",
-    "target_slug": "the-statistical-process-of-constructing-reality",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "the-self-as-a-high-level-generative-model",
-    "target_slug": "the-self-as-a-functional-navigation-process",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-self-as-a-high-level-generative-model",
-    "target_slug": "bridging-the-personal-self-and-objective-physical-reality",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-mathematical-logic-of-binary-social-conflict",
-    "target_slug": "how-algorithmic-curation-fragments-collective-sanity",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "the-brain-s-balance-between-prediction-and-reality",
-    "target_slug": "self-evidencing-and-the-mathematical-pursuit-of-meaning",
     "relationship_type": "extends"
   },
   {
@@ -3820,16 +2715,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "the-iquad-coin-and-unique-personal-experience",
-    "target_slug": "four-distinct-modes-of-human-cognition",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "how-complexity-science-synthesizes-whole-systems",
-    "target_slug": "three-distinct-levels-of-emergent-complexity",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "synthesizing-opposing-values-for-civilizational-stability",
     "target_slug": "the-misidentification-of-value-in-modern-civilization",
     "relationship_type": "extends"
@@ -3875,23 +2760,8 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "the-conceptual-architecture-of-human-knowledge",
-    "target_slug": "distinguishing-speculative-ideas-from-systematic-metaphysics",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-conceptual-architecture-of-human-knowledge",
-    "target_slug": "building-a-metapsychology-of-qualitative-transformation",
-    "relationship_type": "applies"
-  },
-  {
     "source_slug": "exponential-financial-systems-within-finite-physical-realities",
     "target_slug": "the-blind-superorganism-of-global-economic-growth-1",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "how-propositional-language-created-the-justifying-animal",
-    "target_slug": "sapience-as-autonomy-beyond-mere-biological-agency",
     "relationship_type": "extends"
   },
   {
@@ -3910,11 +2780,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "finding-the-simple-core-of-complexity",
-    "target_slug": "how-complexity-science-synthesizes-whole-systems",
-    "relationship_type": "contrasts"
-  },
-  {
     "source_slug": "the-digital-arms-race-against-human-perception",
     "target_slug": "biological-vulnerability-and-the-modern-economic-trap",
     "relationship_type": "exemplifies"
@@ -3930,24 +2795,9 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "distinguishing-human-complexity-from-biological-systems",
-    "target_slug": "bonnitta-roy-s-process-based-critique-of-complexity",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "distinguishing-human-complexity-from-biological-systems",
-    "target_slug": "three-distinct-levels-of-emergent-complexity",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "reverse-engineering-peak-states-through-biological-hardware",
     "target_slug": "integrating-objective-science-and-interior-wisdom",
     "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-missing-ontological-foundation-of-psychological-science",
-    "target_slug": "the-foundational-crisis-of-psychological-definition",
-    "relationship_type": "exemplifies"
   },
   {
     "source_slug": "protecting-the-shared-foundations-of-truth",
@@ -3995,26 +2845,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "three-distinct-levels-of-emergent-complexity",
-    "target_slug": "the-four-dimensions-of-behavioral-complexity",
-    "relationship_type": "exemplifies"
-  },
-  {
-    "source_slug": "the-enlightenment-gap-and-the-crisis-of-psychology",
-    "target_slug": "a-unified-architecture-for-human-knowledge",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-forgotten-dimension-of-animal-mindedness",
-    "target_slug": "the-four-distinct-layers-of-mind",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "science-as-the-measurement-of-entity-field-relations",
-    "target_slug": "the-energetic-cost-of-ordered-existence",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "mattering-as-a-structural-feature-of-life",
     "target_slug": "the-neural-process-of-constructing-meaningful-worlds",
     "relationship_type": "extends"
@@ -4023,80 +2853,5 @@
     "source_slug": "mattering-as-a-structural-feature-of-life",
     "target_slug": "the-misidentification-of-value-in-modern-civilization",
     "relationship_type": "contrasts"
-  },
-  {
-    "source_slug": "clinical-divergence-in-ai-attention-and-attachment",
-    "target_slug": "undue-influence-and-the-collapse-of-personal-autonomy",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "neurological-atrophy-and-the-erosion-of-civilizational-literacy",
-    "target_slug": "ai-mimicry-and-the-crisis-of-human-formation",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "neurological-atrophy-and-the-erosion-of-civilizational-literacy",
-    "target_slug": "the-breakdown-of-embodied-intergenerational-socialization",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "the-neurological-hijacking-of-human-attachment",
-    "target_slug": "the-displacement-of-human-connection-by-ai",
-    "relationship_type": "exemplifies"
-  },
-  {
-    "source_slug": "the-neurological-hijacking-of-human-attachment",
-    "target_slug": "clinical-divergence-in-ai-attention-and-attachment",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "ai-as-the-peak-of-industrial-reductionism",
-    "target_slug": "bonnitta-roy-s-process-based-critique-of-complexity",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "ai-as-the-peak-of-industrial-reductionism",
-    "target_slug": "the-category-error-of-machine-personhood",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "three-foundations-of-individual-and-collective-wisdom",
-    "target_slug": "scaling-collective-wisdom-for-unbounded-technological-power",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "self-evidencing-and-the-mathematical-pursuit-of-meaning",
-    "target_slug": "mattering-as-a-structural-feature-of-life",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "pruning-mental-models-through-sleep-and-psychedelics",
-    "target_slug": "the-brain-s-balance-between-prediction-and-reality",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-statistical-veil-between-self-and-world",
-    "target_slug": "the-mathematical-logic-of-binary-social-conflict",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "the-statistical-veil-between-self-and-world",
-    "target_slug": "mattering-as-a-structural-feature-of-life",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "the-mathematical-logic-of-binary-social-conflict",
-    "target_slug": "synthesizing-opposing-values-for-civilizational-stability",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "the-statistical-process-of-constructing-reality",
-    "target_slug": "the-brain-s-balance-between-prediction-and-reality",
-    "relationship_type": "exemplifies"
-  },
-  {
-    "source_slug": "the-statistical-process-of-constructing-reality",
-    "target_slug": "the-self-as-a-high-level-generative-model",
-    "relationship_type": "extends"
   }
 ]

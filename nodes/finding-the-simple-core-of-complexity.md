@@ -7,16 +7,10 @@ observer_slug: mark-burgess
 source_title: "EP28 Mark Burgess on Promise Theory, AI & Spacetime"
 source_url: "https://www.youtube.com/watch?v=jOZzi1Wj0ks"
 source_author: "The Jim Rutt Show"
-tags: [Epistemology, Complexity Science, Systems Thinking]
+tags: [Systems Thinking, Epistemology, Complexity Science]
 edges:
-  - target: bonnitta-roy-s-process-based-critique-of-complexity
-    type: contrasts
-  - target: mapping-systemic-constraints-via-the-cynefin-framework
-    type: applies
   - target: managing-systemic-drift-through-continuous-autonomous-correction
     type: exemplifies
-  - target: how-complexity-science-synthesizes-whole-systems
-    type: contrasts
 created_at: "2026-03-18"
 ---
 

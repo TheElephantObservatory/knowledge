@@ -7,7 +7,7 @@ observer_slug: nate-hagens
 source_title: "Tarot of the Carbon Pulse - with Nate Hagens | Earth Day 2022"
 source_url: "https://www.youtube.com/watch?v=rpN-H68rmb4"
 source_author: "Nate Hagens"
-tags: [Systems Thinking, Complexity Science, Political Philosophy, Meta-Crisis]
+tags: [Political Philosophy, Systems Thinking, Meta-Crisis, Complexity Science]
 edges:
   - target: the-structural-incompleteness-of-optimization-metrics
     type: extends

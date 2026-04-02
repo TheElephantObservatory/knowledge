@@ -7,7 +7,7 @@ observer_slug: daniel-schmachtenberger
 source_title: "In Search of the Third Attractor, Daniel Schmachtenberger (part 2)"
 source_url: "https://www.youtube.com/watch?v=ZCOfUYrZJMQ"
 source_author: "Rebel Wisdom"
-tags: [Game Theory, Political Philosophy, Systems Thinking, Civilizational Risk]
+tags: [Political Philosophy, Systems Thinking, Game Theory, Civilizational Risk]
 edges:
   - target: from-tribal-intimacy-to-global-institutional-systems
     type: grounds

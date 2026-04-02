@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "How Artificial Intelligence Could Harm Future Generations with Zak Stein | TGS 180"
 source_url: "https://www.youtube.com/watch?v=Ydv9SmVvpV8"
 source_author: "Nate Hagens"
-tags: [Philosophy of Mind, Embodied Cognition, Developmental Psychology, Meaning Crisis]
+tags: [Philosophy of Mind, Developmental Psychology, Embodied Cognition, Meaning Crisis]
 edges:
   - target: educational-skill-building-versus-ai-prosthetic-dependency
     type: applies

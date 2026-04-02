@@ -7,7 +7,7 @@ observer_slug: jordan-hall
 source_title: "EP26 Jordan Hall on the Game B Emergence"
 source_url: "https://www.youtube.com/watch?v=a2mZqs3g5ks"
 source_author: "The Jim Rutt Show"
-tags: [Game Theory, Existential Risk, Systems Thinking, Civilizational Risk]
+tags: [Systems Thinking, Game Theory, Existential Risk, Civilizational Risk]
 edges:
   - target: the-structural-incompleteness-of-optimization-metrics
     type: extends

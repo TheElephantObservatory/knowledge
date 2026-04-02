@@ -7,7 +7,7 @@ observer_slug: artemy-kolchinsky
 source_title: "Information and Meaning | The Evolution of Meaning"
 source_url: "https://www.youtube.com/watch?v=duLh2ZCBkeM"
 source_author: "Brendan Graham Dempsey"
-tags: [Information Theory, Complexity Science, Relevance Realization]
+tags: [Relevance Realization, Complexity Science, Information Theory]
 edges:
   - target: from-thermodynamic-survival-to-cultural-meaning
     type: extends

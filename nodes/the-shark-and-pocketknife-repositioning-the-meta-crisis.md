@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "Metaphors for Metacrisis: The Shark, The Boat, and The Pickle"
 source_url: "https://www.youtube.com/watch?v=F3qCtw7MPR0"
 source_author: "PERSPECTIVA"
-tags: [Meta-Crisis, Phenomenology, Relational Ontology, Sensemaking]
+tags: [Meta-Crisis, Relational Ontology, Phenomenology, Sensemaking]
 edges:
   - target: psychological-adaptation-and-the-crisis-of-personhood
     type: extends

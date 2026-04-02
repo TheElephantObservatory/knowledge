@@ -7,7 +7,7 @@ observer_slug: daniel-schmachtenberger
 source_title: "Daniel Schmachtenberger “Bend Not Break Part 1: Energy Blindness” | The Great Simplification #05"
 source_url: "https://www.youtube.com/watch?v=3bxzo79SjpE"
 source_author: "Nate Hagens"
-tags: [Meta-Crisis, Systems Thinking, Civilizational Risk, Ontological Design]
+tags: [Systems Thinking, Meta-Crisis, Civilizational Risk, Ontological Design]
 edges:
   - target: reconciling-ancient-biology-with-god-like-technology
     type: grounds

@@ -7,7 +7,7 @@ observer_slug: daniel-schmachtenberger
 source_title: "Body and Soul #4 - Where Do We Go From Here  We, I, and It w/ Daniel Schmachtenberger and Zak Stein"
 source_url: "https://www.youtube.com/watch?v=-mNP6pQcH88"
 source_author: "UTOK | Unified Theory of Knowledge"
-tags: [Epistemology, Civilizational Risk, Collective Intelligence, Systems Thinking]
+tags: [Systems Thinking, Epistemology, Civilizational Risk, Collective Intelligence]
 edges:
   - target: the-three-by-three-matrix-of-civilizational-response
     type: extends

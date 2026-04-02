@@ -7,7 +7,7 @@ observer_slug: jamie-wheal
 source_title: "Recapture the Rapture w/ Jamie Wheal"
 source_url: "https://www.youtube.com/watch?v=RLZgfzq2dP4"
 source_author: "The Stoa"
-tags: [Phenomenology, Civilizational Risk, Cultural Evolution, Meaning Crisis]
+tags: [Meaning Crisis, Civilizational Risk, Phenomenology, Cultural Evolution]
 edges:
   - target: the-simultaneous-collapse-of-sacred-and-secular-authority
     type: extends

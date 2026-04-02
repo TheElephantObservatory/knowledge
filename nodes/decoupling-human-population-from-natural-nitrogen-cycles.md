@@ -7,7 +7,7 @@ observer_slug: bret-weinstein
 source_title: "EP24 Bret Weinstein on Evolving Culture"
 source_url: "https://www.youtube.com/watch?v=4unnL_lflKY"
 source_author: "The Jim Rutt Show"
-tags: [Ecology, Civilizational Risk, Systems Thinking, Meta-Crisis]
+tags: [Systems Thinking, Ecology, Meta-Crisis, Civilizational Risk]
 edges:
   - target: how-technology-breaks-the-symmetry-of-co-evolution
     type: extends

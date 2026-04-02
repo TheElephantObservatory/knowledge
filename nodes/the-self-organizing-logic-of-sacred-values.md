@@ -7,7 +7,7 @@ observer_slug: brendan-graham-dempsey
 source_title: "The Sacred | The Evolution of Meaning"
 source_url: "https://www.youtube.com/watch?v=mP1bf2lyYcQ"
 source_author: "Brendan Graham Dempsey"
-tags: [Information Theory, Complexity Science, Symbolism, Cultural Evolution]
+tags: [Symbolism, Complexity Science, Information Theory, Cultural Evolution]
 edges:
   - target: how-purpose-emerges-from-the-physics-of-absence
     type: grounds

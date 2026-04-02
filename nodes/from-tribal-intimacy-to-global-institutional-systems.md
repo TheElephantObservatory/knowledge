@@ -7,7 +7,7 @@ observer_slug: jordan-hall
 source_title: "Making Sense of Sensemaking: Daniel Schmachtenberger, Jamie Wheal, Jordan Hall"
 source_url: "https://www.youtube.com/watch?v=8Es_WTEgZHE"
 source_author: "Rebel Wisdom"
-tags: [Systems Thinking, Civilizational Risk, Game B, Cultural Evolution]
+tags: [Systems Thinking, Game B, Civilizational Risk, Cultural Evolution]
 edges:
   - target: shared-sensemaking-as-the-foundation-for-global-action
     type: extends

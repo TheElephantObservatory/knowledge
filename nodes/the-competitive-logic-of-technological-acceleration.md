@@ -7,7 +7,7 @@ observer_slug: daniel-schmachtenberger
 source_title: "Daniel Schmachtenberger: \"Modeling the Drivers of the Metacrisis” | The Great Simplification #42"
 source_url: "https://www.youtube.com/watch?v=tQkQrc3Ant4"
 source_author: "Nate Hagens"
-tags: [Civilizational Risk, Game Theory, Systems Thinking, Political Philosophy]
+tags: [Political Philosophy, Systems Thinking, Game Theory, Civilizational Risk]
 edges:
   - target: mandating-safety-proofs-for-irreversible-technologies
     type: applies

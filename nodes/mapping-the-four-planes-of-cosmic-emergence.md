@@ -7,7 +7,7 @@ observer_slug: brendan-graham-dempsey
 source_title: "Meaning and Complexification | The Evolution of Meaning"
 source_url: "https://www.youtube.com/watch?v=LeaFCcJNCTI"
 source_author: "Brendan Graham Dempsey"
-tags: [UTOK, Systems Thinking, Epistemology, Information Theory]
+tags: [Systems Thinking, Epistemology, UTOK, Information Theory]
 edges:
   - target: from-thermodynamic-survival-to-cultural-meaning
     type: extends

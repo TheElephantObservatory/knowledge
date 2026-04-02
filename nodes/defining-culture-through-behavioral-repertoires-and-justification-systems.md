@@ -7,7 +7,7 @@ observer_slug: gregg-henriques
 source_title: "Now UTOKing | 8 | Culture"
 source_url: "https://www.youtube.com/watch?v=7Sh2nphhSVo"
 source_author: "UTOK | Unified Theory of Knowledge"
-tags: [Ontological Design, Systems Thinking, Cultural Evolution, Hermeneutics]
+tags: [Hermeneutics, Systems Thinking, Ontological Design, Cultural Evolution]
 edges:
   - target: the-periodic-architecture-of-scientific-dimensions
     type: extends

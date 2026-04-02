@@ -7,7 +7,7 @@ observer_slug: jamie-wheal
 source_title: "Recapture the Rapture w/ Jamie Wheal"
 source_url: "https://www.youtube.com/watch?v=RLZgfzq2dP4"
 source_author: "The Stoa"
-tags: [Epistemology, Wisdom Traditions, Embodied Cognition, Consciousness Studies]
+tags: [Consciousness Studies, Epistemology, Embodied Cognition, Wisdom Traditions]
 edges:
   - target: the-four-quadrants-of-charismatic-authority
     type: contrasts

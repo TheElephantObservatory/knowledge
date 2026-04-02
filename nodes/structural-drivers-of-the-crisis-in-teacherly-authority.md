@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "A Time Between Worlds, Zak Stein"
 source_url: "https://www.youtube.com/watch?v=qD5pnsyIYvQ"
 source_author: "Rebel Wisdom"
-tags: [Epistemology, Meta-Crisis, Cultural Evolution, Systems Thinking]
+tags: [Systems Thinking, Epistemology, Meta-Crisis, Cultural Evolution]
 edges:
   - target: comenius-and-the-civilizational-function-of-education
     type: exemplifies

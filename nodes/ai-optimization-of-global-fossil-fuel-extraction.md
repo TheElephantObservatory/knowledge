@@ -7,7 +7,7 @@ observer_slug: daniel-schmachtenberger
 source_title: "The Wide Boundary Impacts of AI with Daniel Schmachtenberger | TGS 132"
 source_url: "https://www.youtube.com/watch?v=1NFuddEAi5s"
 source_author: "Nate Hagens"
-tags: [Epistemology, Systems Thinking, Meta-Crisis, Political Philosophy]
+tags: [Political Philosophy, Systems Thinking, Epistemology, Meta-Crisis]
 edges:
   - target: exponential-financial-systems-within-finite-physical-realities
     type: grounds

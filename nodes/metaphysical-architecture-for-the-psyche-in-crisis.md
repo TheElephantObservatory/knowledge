@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "Metapsychology w/ Zak Stein. September 7th, 2020"
 source_url: "https://www.youtube.com/watch?v=PZNDhdKekjg"
 source_author: "The Stoa"
-tags: [Psychology, Existential Risk, Integral Theory]
+tags: [Integral Theory, Psychology, Existential Risk]
 edges:
   - target: integrating-development-ensoulment-and-transcendence
     type: extends

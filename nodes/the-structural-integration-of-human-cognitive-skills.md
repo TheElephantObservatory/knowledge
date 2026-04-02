@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "EP113 Zak Stein on Hierarchical Complexity"
 source_url: "https://www.youtube.com/watch?v=Oka3XTDxbqY"
 source_author: "The Jim Rutt Show"
-tags: [Developmental Psychology, Cognitive Science, Systems Thinking, Epistemology]
+tags: [Systems Thinking, Developmental Psychology, Epistemology, Cognitive Science]
 edges:
   - target: the-fifth-joint-point-of-evolutionary-complexity
     type: extends

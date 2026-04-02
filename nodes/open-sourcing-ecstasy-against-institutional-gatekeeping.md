@@ -7,7 +7,7 @@ observer_slug: jamie-wheal
 source_title: "Jamie Wheal: “Neuro-anthropology and Culture Architecture” | The Great Simplification #13"
 source_url: "https://www.youtube.com/watch?v=HSV_GzIeeS4"
 source_author: "Nate Hagens"
-tags: [Wisdom Traditions, Consciousness Studies, Cultural Evolution, Civilizational Risk]
+tags: [Consciousness Studies, Civilizational Risk, Cultural Evolution, Wisdom Traditions]
 edges:
   - target: locating-the-wrong-turn-in-western-history
     type: grounds

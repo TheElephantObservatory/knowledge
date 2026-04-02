@@ -7,7 +7,7 @@ observer_slug: gregg-henriques
 source_title: "Now UTOKing | 6 | Self"
 source_url: "https://www.youtube.com/watch?v=D6m0p_yF8dE"
 source_author: "UTOK | Unified Theory of Knowledge"
-tags: [Philosophy of Mind, Phenomenology, Evolutionary Biology, Systems Thinking]
+tags: [Philosophy of Mind, Systems Thinking, Evolutionary Biology, Phenomenology]
 edges:
   - target: the-neural-process-of-constructing-meaningful-worlds
     type: extends

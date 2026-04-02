@@ -7,7 +7,7 @@ observer_slug: iain-mcgilchrist
 source_title: "Is Value fundamental to the cosmos? Iain McGilchrist in conversation with Zak Stein"
 source_url: "https://www.youtube.com/watch?v=8vceeE4YYrI"
 source_author: "PERSPECTIVA"
-tags: [Developmental Psychology, Philosophy of Mind, Phenomenology, Neuroscience]
+tags: [Philosophy of Mind, Developmental Psychology, Neuroscience, Phenomenology]
 edges:
   - target: integrating-development-ensoulment-and-transcendence
     type: extends

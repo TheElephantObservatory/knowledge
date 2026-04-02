@@ -7,7 +7,7 @@ observer_slug: nora-bateson
 source_title: "Moving Beyond Polarization in Service of Life | Reality Roundtable 10"
 source_url: "https://www.youtube.com/watch?v=MDtn0eEas7c"
 source_author: "Nate Hagens"
-tags: [Systems Thinking, Media Ecology, Sensemaking, Meta-Crisis]
+tags: [Systems Thinking, Media Ecology, Meta-Crisis, Sensemaking]
 edges:
   - target: strategic-warfare-in-the-informational-commons
     type: exemplifies

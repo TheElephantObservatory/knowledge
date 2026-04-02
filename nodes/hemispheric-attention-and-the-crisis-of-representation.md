@@ -7,7 +7,7 @@ observer_slug: iain-mcgilchrist
 source_title: "The Psychological Drivers of the Metacrisis John Vervaeke Iain McGilchrist Daniel Schmachtenberger"
 source_url: "https://www.youtube.com/watch?v=P7i1ughRGcQ"
 source_author: "John Vervaeke’s Lectern"
-tags: [Philosophy of Mind, Neuroscience, Meaning Crisis, Sensemaking]
+tags: [Philosophy of Mind, Meaning Crisis, Neuroscience, Sensemaking]
 edges:
   - target: propositional-grammar-and-the-evolution-of-personhood
     type: extends

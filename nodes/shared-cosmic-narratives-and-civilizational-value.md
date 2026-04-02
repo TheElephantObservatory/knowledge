@@ -7,7 +7,7 @@ observer_slug: marc-gafni
 source_title: "Cosmo-Erotic Humanism: First Principles and Values w/ Zak Stein and Marc Gafni"
 source_url: "https://www.youtube.com/watch?v=7MZ7X6cBPnM"
 source_author: "The Stoa"
-tags: [Meaning Crisis, Narrative and Myth, Meta-Crisis, Wisdom Traditions]
+tags: [Narrative and Myth, Meaning Crisis, Meta-Crisis, Wisdom Traditions]
 edges:
   - target: the-misidentification-of-value-in-modern-civilization
     type: grounds

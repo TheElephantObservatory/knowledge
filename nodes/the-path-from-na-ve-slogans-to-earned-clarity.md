@@ -7,7 +7,7 @@ observer_slug: jamie-wheal
 source_title: "Collective Sensemaking in an Age of Existential Risk, Jamie Wheal"
 source_url: "https://www.youtube.com/watch?v=0374g6vuGjg"
 source_author: "Rebel Wisdom"
-tags: [Epistemology, Complexity Science, Sensemaking, Integral Theory]
+tags: [Epistemology, Integral Theory, Complexity Science, Sensemaking]
 edges:
   - target: the-three-by-three-matrix-of-civilizational-response
     type: applies

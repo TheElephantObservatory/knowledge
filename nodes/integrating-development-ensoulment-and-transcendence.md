@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "Metapsychology w/ Zak Stein. September 14th, 2020"
 source_url: "https://www.youtube.com/watch?v=ZzpOUf8OTAA"
 source_author: "The Stoa"
-tags: [Developmental Psychology, Consciousness Studies, Integral Theory, Wisdom Traditions]
+tags: [Consciousness Studies, Developmental Psychology, Integral Theory, Wisdom Traditions]
 edges:
   - target: the-structural-unification-of-psychological-science
     type: extends

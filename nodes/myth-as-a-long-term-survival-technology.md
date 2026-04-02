@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "Myth, Wisdom & Pandemic, Stephen Jenkinson, Zak Stein & Charlotte Du Cann"
 source_url: "https://www.youtube.com/watch?v=m_c2-Bs1BqM"
 source_author: "Rebel Wisdom"
-tags: [Narrative and Myth, Sensemaking, Cultural Evolution, Wisdom Traditions]
+tags: [Narrative and Myth, Cultural Evolution, Wisdom Traditions, Sensemaking]
 created_at: "2026-03-15"
 ---
 

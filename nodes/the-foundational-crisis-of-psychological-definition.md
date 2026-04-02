@@ -7,7 +7,7 @@ observer_slug: gregg-henriques
 source_title: "A 21st Century Vision of Wisdom w/Gregg Henriques feat.  Zak Stein and Jordan Hall @TheStoa #3"
 source_url: "https://www.youtube.com/watch?v=xnfuMFL4B54"
 source_author: "UTOK | Unified Theory of Knowledge"
-tags: [Epistemology, Philosophy of Mind, Psychology, Consciousness Studies]
+tags: [Philosophy of Mind, Consciousness Studies, Epistemology, Psychology]
 edges:
   - target: integrating-objective-science-and-interior-wisdom
     type: applies

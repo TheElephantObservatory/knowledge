@@ -7,7 +7,7 @@ observer_slug: eric-chaisson
 source_title: "Meaning and Complexification | The Evolution of Meaning"
 source_url: "https://www.youtube.com/watch?v=LeaFCcJNCTI"
 source_author: "Brendan Graham Dempsey"
-tags: [Complexity Science, Information Theory, Systems Thinking]
+tags: [Systems Thinking, Complexity Science, Information Theory]
 edges:
   - target: the-continuity-of-meaning-from-matter-to-culture
     type: extends

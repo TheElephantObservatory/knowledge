@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "EP57 Zak Stein on Education in a Time Between Worlds"
 source_url: "https://www.youtube.com/watch?v=KUAZ3wVLgQ0"
 source_author: "The Jim Rutt Show"
-tags: [Meta-Crisis, Meaning Crisis, Sensemaking, Epistemology]
+tags: [Epistemology, Meaning Crisis, Meta-Crisis, Sensemaking]
 edges:
   - target: the-spiritual-crisis-beneath-our-global-breakdown
     type: grounds

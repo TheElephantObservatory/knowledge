@@ -7,7 +7,7 @@ observer_slug: daniel-schmachtenberger
 source_title: "The Wide Boundary Impacts of AI with Daniel Schmachtenberger | TGS 132"
 source_url: "https://www.youtube.com/watch?v=1NFuddEAi5s"
 source_author: "Nate Hagens"
-tags: [Civilizational Risk, Political Philosophy, Existential Risk, Systems Thinking]
+tags: [Political Philosophy, Systems Thinking, Existential Risk, Civilizational Risk]
 edges:
   - target: the-structural-tension-of-global-coordination-systems
     type: extends

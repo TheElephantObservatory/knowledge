@@ -7,7 +7,7 @@ observer_slug: daniel-schmachtenberger
 source_title: "Daniel Schmachtenberger: Bend not Break: Maximum Power & Hyper Agents | The Great Simplification #20"
 source_url: "https://www.youtube.com/watch?v=Nkv5mpBA8o4"
 source_author: "Nate Hagens"
-tags: [Systems Thinking, Political Philosophy, Civilizational Risk, Meta-Crisis]
+tags: [Political Philosophy, Systems Thinking, Meta-Crisis, Civilizational Risk]
 edges:
   - target: energy-infrastructure-and-the-material-foundations-of-society
     type: grounds

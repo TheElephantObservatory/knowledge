@@ -7,7 +7,7 @@ observer_slug: gregg-henriques
 source_title: "Now UTOKing | 12 | Metaphysics"
 source_url: "https://www.youtube.com/watch?v=uezaTXQBePE"
 source_author: "UTOK | Unified Theory of Knowledge"
-tags: [Epistemology, Ontological Design, Systems Thinking]
+tags: [Systems Thinking, Epistemology, Ontological Design]
 edges:
   - target: the-foundational-crisis-of-psychological-definition
     type: extends

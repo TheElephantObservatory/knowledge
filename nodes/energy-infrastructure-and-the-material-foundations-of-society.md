@@ -7,7 +7,7 @@ observer_slug: nate-hagens
 source_title: "Daniel Schmachtenberger “Bend Not Break Part 1: Energy Blindness” | The Great Simplification #05"
 source_url: "https://www.youtube.com/watch?v=3bxzo79SjpE"
 source_author: "Nate Hagens"
-tags: [Systems Thinking, Civilizational Risk, Cultural Evolution, Meta-Crisis]
+tags: [Systems Thinking, Meta-Crisis, Civilizational Risk, Cultural Evolution]
 edges:
   - target: the-blind-superorganism-of-global-economic-growth-1
     type: extends

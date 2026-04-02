@@ -7,16 +7,10 @@ observer_slug: mark-burgess
 source_title: "EP28 Mark Burgess on Promise Theory, AI & Spacetime"
 source_url: "https://www.youtube.com/watch?v=jOZzi1Wj0ks"
 source_author: "The Jim Rutt Show"
-tags: [Systems Thinking, Complexity Science, Process Philosophy]
+tags: [Systems Thinking, Process Philosophy, Complexity Science]
 edges:
   - target: optimal-adaptation-at-the-edge-of-chaos
     type: extends
-  - target: mapping-systemic-constraints-via-the-cynefin-framework
-    type: applies
-  - target: how-whole-systems-generate-their-own-components
-    type: extends
-  - target: bonnitta-roy-s-process-based-critique-of-complexity
-    type: contrasts
 created_at: "2026-03-18"
 ---
 

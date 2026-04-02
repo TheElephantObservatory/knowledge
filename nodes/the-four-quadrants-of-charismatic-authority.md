@@ -7,7 +7,7 @@ observer_slug: jamie-wheal
 source_title: "Wisdom Cults or Wisdom Commons w/ Jamie Wheal, Dave Snowden, Bonnitta Roy, and Jill Nephew"
 source_url: "https://www.youtube.com/watch?v=Ul4fnQxhrFE"
 source_author: "The Stoa"
-tags: [Psychology, Consciousness Studies, Systems Thinking, Collective Intelligence]
+tags: [Consciousness Studies, Systems Thinking, Psychology, Collective Intelligence]
 edges:
   - target: shared-logic-across-religious-and-secular-raptures
     type: extends

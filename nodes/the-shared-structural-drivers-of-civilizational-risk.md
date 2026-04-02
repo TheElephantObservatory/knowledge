@@ -7,12 +7,10 @@ observer_slug: daniel-schmachtenberger
 source_title: "EP7 Daniel Schmachtenberger and the Evolution of Technology"
 source_url: "https://www.youtube.com/watch?v=9psdN65IzOw"
 source_author: "The Jim Rutt Show"
-tags: [Civilizational Risk, Systems Thinking, Existential Risk, Meta-Crisis]
+tags: [Systems Thinking, Meta-Crisis, Existential Risk, Civilizational Risk]
 edges:
   - target: the-structural-incompleteness-of-optimization-metrics
     type: grounds
-  - target: techno-environmental-loops-and-the-metacrisis-framework
-    type: extends
   - target: the-fifth-joint-point-of-evolutionary-complexity
     type: extends
   - target: the-structural-breakdown-of-our-meaning-making-systems

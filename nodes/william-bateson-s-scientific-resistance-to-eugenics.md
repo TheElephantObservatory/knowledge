@@ -7,11 +7,9 @@ observer_slug: william-bateson
 source_title: "EP30 Nora Bateson on Complexity & the Transcontextual"
 source_url: "https://www.youtube.com/watch?v=EGryvLGLiME"
 source_author: "The Jim Rutt Show"
-tags: [Epistemology, Evolutionary Biology, Ethics, Systems Thinking]
+tags: [Systems Thinking, Ethics, Evolutionary Biology, Epistemology]
 edges:
   - target: the-anti-fascist-origins-of-systems-thinking
-    type: extends
-  - target: bonnitta-roy-s-process-based-critique-of-complexity
     type: extends
   - target: self-organization-and-the-spontaneous-origins-of-life
     type: grounds

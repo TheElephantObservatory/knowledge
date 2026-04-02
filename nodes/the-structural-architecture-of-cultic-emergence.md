@@ -7,7 +7,7 @@ observer_slug: jamie-wheal
 source_title: "Wisdom Cults or Wisdom Commons w/ Jamie Wheal, Dave Snowden, Bonnitta Roy, and Jill Nephew"
 source_url: "https://www.youtube.com/watch?v=Ul4fnQxhrFE"
 source_author: "The Stoa"
-tags: [Epistemology, Systems Thinking, Ontological Design, Collective Intelligence]
+tags: [Systems Thinking, Epistemology, Collective Intelligence, Ontological Design]
 edges:
   - target: digital-market-incentives-and-the-new-intellectuals
     type: grounds

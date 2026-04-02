@@ -7,7 +7,7 @@ observer_slug: gregg-henriques
 source_title: "Now UTOKing | 5 | Consciousness"
 source_url: "https://www.youtube.com/watch?v=FxmvAIMd3-I"
 source_author: "UTOK | Unified Theory of Knowledge"
-tags: [Consciousness Studies, Philosophy of Mind, UTOK, Systems Thinking]
+tags: [Philosophy of Mind, Consciousness Studies, Systems Thinking, UTOK]
 edges:
   - target: the-epistemic-distinction-between-science-and-psyche
     type: grounds

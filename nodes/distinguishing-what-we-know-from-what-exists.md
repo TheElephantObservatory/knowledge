@@ -7,7 +7,7 @@ observer_slug: gregg-henriques
 source_title: "Now UTOKing | 13 | Ontology & Epistemology"
 source_url: "https://www.youtube.com/watch?v=DX4HP__49NA"
 source_author: "UTOK | Unified Theory of Knowledge"
-tags: [Epistemology, Philosophy of Mind, Ontological Design]
+tags: [Philosophy of Mind, Epistemology, Ontological Design]
 edges:
   - target: mapping-reality-from-energy-to-culture
     type: grounds

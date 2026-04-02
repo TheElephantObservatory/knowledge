@@ -7,7 +7,7 @@ observer_slug: jamie-wheal
 source_title: "Body and Soul #5 - Giving Birth to an Emergent Wisdom Commons w/ Jordan Hall, Zak Stein, Jamie Wheal"
 source_url: "https://www.youtube.com/watch?v=stLFyCOEJP0"
 source_author: "UTOK | Unified Theory of Knowledge"
-tags: [Cultural Evolution, Collective Intelligence, Wisdom Traditions, Sensemaking]
+tags: [Collective Intelligence, Cultural Evolution, Wisdom Traditions, Sensemaking]
 edges:
   - target: open-sourcing-ecstasy-against-institutional-gatekeeping
     type: exemplifies

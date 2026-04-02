@@ -7,7 +7,7 @@ observer_slug: daniel-schmachtenberger
 source_title: "EP7 Daniel Schmachtenberger and the Evolution of Technology"
 source_url: "https://www.youtube.com/watch?v=9psdN65IzOw"
 source_author: "The Jim Rutt Show"
-tags: [Evolutionary Biology, Systems Thinking, Civilizational Risk, Complexity Science]
+tags: [Systems Thinking, Evolutionary Biology, Civilizational Risk, Complexity Science]
 edges:
   - target: the-fifth-joint-point-of-evolutionary-complexity
     type: grounds

@@ -7,7 +7,7 @@ observer_slug: daniel-schmachtenberger
 source_title: "Daniel Schmachtenberger: \"Bend Not Break Part 5\" | The Great Simplification #50"
 source_url: "https://www.youtube.com/watch?v=Kep8Fi_rUUI"
 source_author: "Nate Hagens"
-tags: [Sensemaking, Meta-Crisis, Relevance Realization, Systems Thinking]
+tags: [Systems Thinking, Relevance Realization, Meta-Crisis, Sensemaking]
 edges:
   - target: reclaiming-agency-from-the-curated-information-environment
     type: applies

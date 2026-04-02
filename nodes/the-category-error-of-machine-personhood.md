@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "Zak Stein: Education, AI & Personhood Conferral Problem. Keynote at Transformation & Metacrisis Conf"
 source_url: "https://www.youtube.com/watch?v=HNpB8RhM5Tk"
 source_author: "Life Itself"
-tags: [Ontological Design, Developmental Psychology, Ethics, Philosophy of Mind]
+tags: [Philosophy of Mind, Developmental Psychology, Ethics, Ontological Design]
 edges:
   - target: mapping-reality-from-energy-to-culture
     type: grounds

@@ -7,7 +7,7 @@ observer_slug: jamie-wheal
 source_title: "DarkHorse Podcast with Jamie Wheal & Bret Weinstein"
 source_url: "https://www.youtube.com/watch?v=yxtTUsew0L0"
 source_author: "Bret Weinstein"
-tags: [Epistemology, Systems Thinking, Relevance Realization, Complexity Science]
+tags: [Systems Thinking, Relevance Realization, Epistemology, Complexity Science]
 edges:
   - target: validating-local-action-during-global-crisis
     type: applies

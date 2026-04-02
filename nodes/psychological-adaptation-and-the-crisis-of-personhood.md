@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "A Time Between Worlds, Zak Stein"
 source_url: "https://www.youtube.com/watch?v=qD5pnsyIYvQ"
 source_author: "Rebel Wisdom"
-tags: [Meta-Crisis, Developmental Psychology, Sensemaking, Civilizational Risk]
+tags: [Developmental Psychology, Meta-Crisis, Civilizational Risk, Sensemaking]
 edges:
   - target: building-a-metapsychology-of-qualitative-transformation
     type: extends

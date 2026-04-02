@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "Religious life after the Death of the Invisible Hand (and Zak Stein's \"A War Broke Out in Heaven\")"
 source_url: "https://www.youtube.com/watch?v=4OYGvtz0pEU"
 source_author: "Footnotes2Plato"
-tags: [Meaning Crisis, Existential Risk, Consciousness Studies, Wisdom Traditions]
+tags: [Consciousness Studies, Meaning Crisis, Existential Risk, Wisdom Traditions]
 edges:
   - target: the-misidentification-of-value-in-modern-civilization
     type: grounds

@@ -7,12 +7,10 @@ observer_slug: gregory-bateson
 source_title: "EP30 Nora Bateson on Complexity & the Transcontextual"
 source_url: "https://www.youtube.com/watch?v=EGryvLGLiME"
 source_author: "The Jim Rutt Show"
-tags: [Systems Thinking, Epistemology, Ethics, Political Philosophy]
+tags: [Political Philosophy, Systems Thinking, Ethics, Epistemology]
 edges:
   - target: how-technology-encodes-unintended-social-values
     type: applies
-  - target: distinguishing-human-complexity-from-biological-systems
-    type: extends
 created_at: "2026-03-18"
 ---
 

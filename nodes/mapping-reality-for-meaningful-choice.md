@@ -7,7 +7,7 @@ observer_slug: daniel-schmachtenberger
 source_title: "Making Sense of Sensemaking: Daniel Schmachtenberger, Jamie Wheal, Jordan Hall"
 source_url: "https://www.youtube.com/watch?v=8Es_WTEgZHE"
 source_author: "Rebel Wisdom"
-tags: [Epistemology, Sensemaking, Systems Thinking, Collective Intelligence]
+tags: [Systems Thinking, Epistemology, Collective Intelligence, Sensemaking]
 edges:
   - target: the-necessary-uncertainty-of-genuine-expertise
     type: grounds

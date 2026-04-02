@@ -7,7 +7,7 @@ observer_slug: gregg-henriques
 source_title: "Now UTOKing | 7 | Ego & Persona"
 source_url: "https://www.youtube.com/watch?v=eA2JK8hN1ek"
 source_author: "UTOK | Unified Theory of Knowledge"
-tags: [Phenomenology, Philosophy of Mind, Consciousness Studies, Embodied Cognition]
+tags: [Philosophy of Mind, Consciousness Studies, Embodied Cognition, Phenomenology]
 edges:
   - target: four-distinct-modes-of-human-cognition
     type: contrasts

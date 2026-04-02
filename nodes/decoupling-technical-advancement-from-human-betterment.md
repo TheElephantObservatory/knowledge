@@ -7,7 +7,7 @@ observer_slug: daniel-schmachtenberger
 source_title: "Daniel Schmachtenberger: \"A Vision for Betterment\" | The Great Simplification 126"
 source_url: "https://www.youtube.com/watch?v=tmusbHBKW84"
 source_author: "Nate Hagens"
-tags: [Ethics, Epistemology, Systems Thinking, Meta-Crisis]
+tags: [Systems Thinking, Ethics, Epistemology, Meta-Crisis]
 edges:
   - target: ai-optimization-of-global-fossil-fuel-extraction
     type: exemplifies

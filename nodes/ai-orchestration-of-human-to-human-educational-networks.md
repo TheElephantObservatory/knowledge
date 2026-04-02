@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "How Artificial Intelligence Could Harm Future Generations with Zak Stein | TGS 180"
 source_url: "https://www.youtube.com/watch?v=Ydv9SmVvpV8"
 source_author: "Nate Hagens"
-tags: [Social Technology, Systems Thinking, Attention Economy, Collective Intelligence]
+tags: [Systems Thinking, Social Technology, Attention Economy, Collective Intelligence]
 edges:
   - target: how-ai-captures-the-childs-sense-of-truth
     type: contrasts

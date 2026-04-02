@@ -7,7 +7,7 @@ observer_slug: cory-doctorow
 source_title: "EP4 Cory Doctorow – “Radicalized,” Race and Resilience"
 source_url: "https://www.youtube.com/watch?v=gfTq9qfRCgc"
 source_author: "The Jim Rutt Show"
-tags: [Sovereignty, Political Philosophy, Ontological Design, Systems Thinking]
+tags: [Political Philosophy, Systems Thinking, Sovereignty, Ontological Design]
 edges:
   - target: the-invisible-apocalypse-of-attention-algorithms
     type: extends

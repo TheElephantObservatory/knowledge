@@ -7,7 +7,7 @@ observer_slug: daniel-schmachtenberger
 source_title: "Daniel Schmachtenberger: Bend not Break: Maximum Power & Hyper Agents | The Great Simplification #20"
 source_url: "https://www.youtube.com/watch?v=Nkv5mpBA8o4"
 source_author: "Nate Hagens"
-tags: [Civilizational Risk, Systems Thinking, Meta-Crisis, Existential Risk]
+tags: [Systems Thinking, Meta-Crisis, Existential Risk, Civilizational Risk]
 edges:
   - target: the-structural-trap-of-constant-problem-generation
     type: grounds

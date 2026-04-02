@@ -7,7 +7,7 @@ observer_slug: brendan-graham-dempsey
 source_title: "Meaning Across Scales | The Evolution of Meaning"
 source_url: "https://www.youtube.com/watch?v=-Ew6nRTLFlU"
 source_author: "Brendan Graham Dempsey"
-tags: [Epistemology, Complexity Science, Evolutionary Biology, Systems Thinking]
+tags: [Systems Thinking, Evolutionary Biology, Epistemology, Complexity Science]
 edges:
   - target: the-continuity-of-meaning-from-matter-to-culture
     type: extends

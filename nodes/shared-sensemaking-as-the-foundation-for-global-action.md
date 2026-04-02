@@ -7,7 +7,7 @@ observer_slug: daniel-schmachtenberger
 source_title: "In Search of the Third Attractor, Daniel Schmachtenberger (part 1)"
 source_url: "https://www.youtube.com/watch?v=8XCXvzQdcug"
 source_author: "Rebel Wisdom"
-tags: [Meta-Crisis, Sensemaking, Systems Thinking, Collective Intelligence]
+tags: [Systems Thinking, Meta-Crisis, Collective Intelligence, Sensemaking]
 edges:
   - target: structural-failure-modes-of-collective-sensemaking
     type: applies

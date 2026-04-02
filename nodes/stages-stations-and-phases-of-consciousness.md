@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "Metapsychology w/ Zak Stein. September 21, 2020"
 source_url: "https://www.youtube.com/watch?v=9f19SwwpCfY"
 source_author: "The Stoa"
-tags: [Developmental Psychology, Consciousness Studies, Complexity Science, Contemplative Practice]
+tags: [Consciousness Studies, Developmental Psychology, Contemplative Practice, Complexity Science]
 edges:
   - target: the-structural-integration-of-human-cognitive-skills
     type: exemplifies

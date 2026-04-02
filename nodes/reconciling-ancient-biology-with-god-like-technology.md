@@ -7,7 +7,7 @@ observer_slug: jamie-wheal
 source_title: "Recapture the Rapture, Jamie Wheal"
 source_url: "https://www.youtube.com/watch?v=Pbnn2X2fVvA"
 source_author: "Rebel Wisdom"
-tags: [Systems Thinking, Meta-Crisis, Epistemology, Meaning Crisis]
+tags: [Systems Thinking, Epistemology, Meaning Crisis, Meta-Crisis]
 edges:
   - target: human-nature-and-the-architecture-of-global-risk
     type: grounds

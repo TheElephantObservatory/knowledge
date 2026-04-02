@@ -7,7 +7,7 @@ observer_slug: daniel-schmachtenberger
 source_title: "Psychological Pitfalls of Engaging With X-Risks & Civilization Redesign w/ Daniel Schmachtenberger"
 source_url: "https://www.youtube.com/watch?v=SkItTnRJ_1M"
 source_author: "The Stoa"
-tags: [Psychology, Existential Risk, Consciousness Studies, Systems Thinking]
+tags: [Consciousness Studies, Systems Thinking, Psychology, Existential Risk]
 edges:
   - target: psychological-adaptation-and-the-crisis-of-personhood
     type: extends

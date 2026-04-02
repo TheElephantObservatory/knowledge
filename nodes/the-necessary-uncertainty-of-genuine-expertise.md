@@ -7,7 +7,7 @@ observer_slug: jamie-wheal
 source_title: "DarkHorse Podcast with Jamie Wheal & Bret Weinstein"
 source_url: "https://www.youtube.com/watch?v=yxtTUsew0L0"
 source_author: "Bret Weinstein"
-tags: [Epistemology, Complexity Science, Sensemaking, Meta-Crisis]
+tags: [Epistemology, Meta-Crisis, Complexity Science, Sensemaking]
 edges:
   - target: the-structural-barriers-to-shared-systems-narratives
     type: exemplifies

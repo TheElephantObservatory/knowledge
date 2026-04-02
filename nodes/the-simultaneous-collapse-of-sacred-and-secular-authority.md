@@ -7,7 +7,7 @@ observer_slug: jamie-wheal
 source_title: "EP123 Jamie Wheal on Recapturing the Rapture"
 source_url: "https://www.youtube.com/watch?v=4iTdV2Tnr8U"
 source_author: "The Jim Rutt Show"
-tags: [Meaning Crisis, Meta-Crisis, Epistemology, Sensemaking]
+tags: [Epistemology, Meaning Crisis, Meta-Crisis, Sensemaking]
 edges:
   - target: a-decentralized-toolkit-for-designing-new-communities
     type: extends

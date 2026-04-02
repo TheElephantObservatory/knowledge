@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "Zak Stein & Daniel Thorson: Recentering Value in Education"
 source_url: "https://www.youtube.com/watch?v=TtCFfEGjfW0"
 source_author: "Life Itself"
-tags: [Meta-Crisis, Epistemology, Meaning Crisis, Cultural Evolution]
+tags: [Epistemology, Meaning Crisis, Meta-Crisis, Cultural Evolution]
 edges:
   - target: ai-mimicry-and-the-crisis-of-human-formation
     type: exemplifies

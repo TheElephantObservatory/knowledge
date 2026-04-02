@@ -7,7 +7,7 @@ observer_slug: john-vervaeke
 source_title: "Now UTOKing | 4 | Cognition"
 source_url: "https://www.youtube.com/watch?v=CuvDsGXFtho"
 source_author: "UTOK | Unified Theory of Knowledge"
-tags: [Epistemology, Cognitive Science, Phenomenology, Relevance Realization]
+tags: [Relevance Realization, Epistemology, Cognitive Science, Phenomenology]
 edges:
   - target: the-neural-process-of-constructing-meaningful-worlds
     type: grounds

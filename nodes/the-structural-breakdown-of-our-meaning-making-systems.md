@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "Metaphors for Metacrisis: The Shark, The Boat, and The Pickle"
 source_url: "https://www.youtube.com/watch?v=F3qCtw7MPR0"
 source_author: "PERSPECTIVA"
-tags: [Meta-Crisis, Epistemology, Meaning Crisis, Sensemaking]
+tags: [Epistemology, Meaning Crisis, Meta-Crisis, Sensemaking]
 edges:
   - target: the-structural-inability-to-transmit-human-meaning
     type: applies

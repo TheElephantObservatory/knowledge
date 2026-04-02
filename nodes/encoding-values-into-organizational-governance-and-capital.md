@@ -7,7 +7,7 @@ observer_slug: jamie-wheal
 source_title: "Rebooting the Psychedelic Renaissance with Jamie Wheal"
 source_url: "https://www.youtube.com/watch?v=hZrjJLwjpto"
 source_author: "Rebel Wisdom"
-tags: [Ontological Design, Systems Thinking, Social Technology]
+tags: [Systems Thinking, Social Technology, Ontological Design]
 edges:
   - target: exponential-financial-systems-within-finite-physical-realities
     type: grounds

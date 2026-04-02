@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "Metapsychology w/ Zak Stein. September 7th, 2020"
 source_url: "https://www.youtube.com/watch?v=PZNDhdKekjg"
 source_author: "The Stoa"
-tags: [Symbolism, Psychology, Hermeneutics, Narrative and Myth]
+tags: [Hermeneutics, Symbolism, Narrative and Myth, Psychology]
 edges:
   - target: ethical-choice-in-the-mythic-present
     type: exemplifies

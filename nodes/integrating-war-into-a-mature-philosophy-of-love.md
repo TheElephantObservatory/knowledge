@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "The Infinite Intimate: Dialoguing with Marc Gafni and Zak Stein"
 source_url: "https://www.youtube.com/watch?v=pLMTqNiTFQo"
 source_author: "Footnotes2Plato"
-tags: [Integral Theory, Philosophy of Mind, Relational Ontology, Wisdom Traditions]
+tags: [Philosophy of Mind, Integral Theory, Relational Ontology, Wisdom Traditions]
 edges:
   - target: ethical-choice-in-the-mythic-present
     type: applies

@@ -7,7 +7,7 @@ observer_slug: gregg-henriques
 source_title: "Now UTOKing | 9 | Psychology"
 source_url: "https://www.youtube.com/watch?v=nTzkiYwKzXM"
 source_author: "UTOK | Unified Theory of Knowledge"
-tags: [Epistemology, Philosophy of Mind, Systems Thinking, Integral Theory]
+tags: [Philosophy of Mind, Systems Thinking, Epistemology, Integral Theory]
 edges:
   - target: defining-psychology-through-the-ontology-of-mind
     type: grounds

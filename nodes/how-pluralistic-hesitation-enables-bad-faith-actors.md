@@ -7,7 +7,7 @@ observer_slug: jamie-wheal
 source_title: "Rebooting the Psychedelic Renaissance with Jamie Wheal"
 source_url: "https://www.youtube.com/watch?v=hZrjJLwjpto"
 source_author: "Rebel Wisdom"
-tags: [Ethics, Game Theory, Epistemology, Systems Thinking]
+tags: [Systems Thinking, Ethics, Epistemology, Game Theory]
 edges:
   - target: the-structural-architecture-of-cultic-emergence
     type: extends

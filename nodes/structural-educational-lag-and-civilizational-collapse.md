@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "Zak Stein: \"Values, Education, AI and the Metacrisis” | The Great Simplification 122"
 source_url: "https://www.youtube.com/watch?v=zFVoearUvP8"
 source_author: "Nate Hagens"
-tags: [Meta-Crisis, Civilizational Risk, Systems Thinking, Cultural Evolution]
+tags: [Systems Thinking, Meta-Crisis, Civilizational Risk, Cultural Evolution]
 edges:
   - target: the-capability-crisis-of-unjust-educational-systems
     type: extends

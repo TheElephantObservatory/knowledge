@@ -7,7 +7,7 @@ observer_slug: daniel-schmachtenberger
 source_title: "In Search of the Third Attractor, Daniel Schmachtenberger (part 1)"
 source_url: "https://www.youtube.com/watch?v=8XCXvzQdcug"
 source_author: "Rebel Wisdom"
-tags: [Civilizational Risk, Systems Thinking, Existential Risk, Meta-Crisis]
+tags: [Systems Thinking, Meta-Crisis, Existential Risk, Civilizational Risk]
 edges:
   - target: the-structural-tension-of-global-coordination-systems
     type: extends

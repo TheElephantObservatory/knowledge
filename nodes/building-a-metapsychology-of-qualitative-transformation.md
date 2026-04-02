@@ -7,7 +7,7 @@ observer_slug: zak-stein
 source_title: "Towards a Metapsychology that is True to Transformation w/ Johnny V, Double G, and Zak Stein"
 source_url: "https://www.youtube.com/watch?v=CCU0UJ_2G6E"
 source_author: "The Stoa"
-tags: [Philosophy of Mind, Developmental Psychology, Process Philosophy, Systems Thinking]
+tags: [Philosophy of Mind, Systems Thinking, Process Philosophy, Developmental Psychology]
 edges:
   - target: the-structural-unification-of-psychological-science
     type: extends
