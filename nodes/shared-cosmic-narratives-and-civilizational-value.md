@@ -9,16 +9,12 @@ source_url: "https://www.youtube.com/watch?v=7MZ7X6cBPnM"
 source_author: "The Stoa"
 tags: [Narrative and Myth, Meaning Crisis, Meta-Crisis, Wisdom Traditions]
 edges:
+  - target: the-spiritual-crisis-beneath-our-global-breakdown
+    type: extends
+  - target: recovering-the-singular-source-of-human-value
+    type: grounds
   - target: the-misidentification-of-value-in-modern-civilization
     type: grounds
-  - target: recovering-the-singular-source-of-human-value
-    type: extends
-  - target: myth-as-a-long-term-survival-technology
-    type: extends
-  - target: the-spiritual-crisis-beneath-our-global-breakdown
-    type: grounds
-  - target: building-coordination-through-shared-value-stories
-    type: applies
 created_at: "2026-03-15"
 ---
 

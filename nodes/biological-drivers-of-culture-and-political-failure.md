@@ -7,16 +7,16 @@ observer_slug: jamie-wheal
 source_title: "Jamie Wheal: “Neuro-anthropology and Culture Architecture” | The Great Simplification #13"
 source_url: "https://www.youtube.com/watch?v=HSV_GzIeeS4"
 source_author: "Nate Hagens"
-tags: [Philosophy of Mind, Systems Thinking, Evolutionary Biology, Civilizational Risk]
+tags: [Political Philosophy, Systems Thinking, Evolutionary Biology, Civilizational Risk]
 edges:
-  - target: reconciling-ancient-biology-with-god-like-technology
-    type: grounds
-  - target: from-tribal-intimacy-to-global-institutional-systems
-    type: grounds
   - target: biological-vulnerability-and-the-modern-economic-trap
-    type: exemplifies
-  - target: binary-logic-and-the-practice-of-contextualism
     type: extends
+  - target: reconciling-ancient-biology-with-god-like-technology
+    type: extends
+  - target: from-tribal-intimacy-to-global-institutional-systems
+    type: extends
+  - target: enlightenment-infrastructure-in-a-scaled-world
+    type: contrasts
 created_at: "2026-03-08"
 ---
 

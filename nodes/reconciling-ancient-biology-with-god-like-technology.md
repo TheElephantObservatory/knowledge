@@ -7,16 +7,12 @@ observer_slug: jamie-wheal
 source_title: "Recapture the Rapture, Jamie Wheal"
 source_url: "https://www.youtube.com/watch?v=Pbnn2X2fVvA"
 source_author: "Rebel Wisdom"
-tags: [Systems Thinking, Epistemology, Meaning Crisis, Meta-Crisis]
+tags: [Systems Thinking, Meta-Crisis, Civilizational Risk, Sensemaking]
 edges:
   - target: human-nature-and-the-architecture-of-global-risk
     type: grounds
-  - target: the-structural-trap-of-constant-problem-generation
-    type: applies
-  - target: the-generative-dynamics-of-civilizational-self-termination
-    type: extends
-  - target: shared-sensemaking-as-the-foundation-for-global-action
-    type: extends
+  - target: the-competitive-logic-of-technological-acceleration
+    type: exemplifies
 created_at: "2026-03-08"
 ---
 

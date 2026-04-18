@@ -7,11 +7,17 @@ observer_slug: zak-stein
 source_title: "Currents 067: Zak Stein on Ending Nihilistic Design"
 source_url: "https://www.youtube.com/watch?v=UGE9c4d26CU"
 source_author: "The Jim Rutt Show"
-tags: [Systems Thinking, Ethics, Social Technology, Ontological Design]
+tags: [Systems Thinking, Ethics, Media Ecology, Ontological Design]
 edges:
-  - target: the-structural-incompleteness-of-optimization-metrics
-    type: applies
-  - target: the-misidentification-of-value-in-modern-civilization
+  - target: how-value-blind-technology-design-degrades-human-attention
+    type: extends
+  - target: how-separating-facts-from-values-left-ethics-illiterate
+    type: grounds
+  - target: how-technology-breaks-the-symmetry-of-co-evolution
+    type: extends
+  - target: the-invisible-apocalypse-of-attention-algorithms
+    type: exemplifies
+  - target: structural-educational-lag-and-civilizational-collapse
     type: grounds
 created_at: "2026-03-15"
 ---

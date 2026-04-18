@@ -9,16 +9,14 @@ source_url: "https://www.youtube.com/watch?v=SkItTnRJ_1M"
 source_author: "The Stoa"
 tags: [Consciousness Studies, Systems Thinking, Psychology, Existential Risk]
 edges:
+  - target: the-competitive-logic-of-existential-risk
+    type: exemplifies
+  - target: the-metacrisis-unfolds-over-centuries-not-moments
+    type: extends
   - target: psychological-adaptation-and-the-crisis-of-personhood
     type: extends
   - target: historical-trauma-and-the-loss-of-symbolic-immortality
-    type: exemplifies
-  - target: metaphysical-architecture-for-the-psyche-in-crisis
     type: grounds
-  - target: building-a-metapsychology-of-qualitative-transformation
-    type: grounds
-  - target: the-spiritual-crisis-beneath-our-global-breakdown
-    type: extends
 created_at: "2026-03-15"
 ---
 

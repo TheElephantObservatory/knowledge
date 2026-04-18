@@ -2,20 +2,20 @@
 slug: reality-as-a-quantum-learning-process
 title: "Reality as a Quantum Learning Process"
 subtitle: "The universe remembers itself into existence"
-observer: "John Campbell"
+observer: "John Angus Campbell"
 observer_slug: john-campbell
 source_title: "Complexification and Learning: 1. Structural Learning | The Evolution of Meaning"
 source_url: "https://www.youtube.com/watch?v=tkwgDtTWfcU"
 source_author: "Brendan Graham Dempsey"
-tags: [Evolutionary Biology, Epistemology, Complexity Science, Information Theory]
+tags: [Epistemology, Complexity Science, Relational Ontology, Information Theory]
 edges:
-  - target: the-transition-from-genetic-memory-to-neural-learning
-    type: extends
-  - target: from-thermodynamic-survival-to-cultural-meaning
-    type: extends
   - target: how-purpose-emerges-from-the-physics-of-absence
-    type: grounds
+    type: contrasts
   - target: the-continuity-of-meaning-from-matter-to-culture
+    type: extends
+  - target: information-entropy-and-the-persistence-of-form
+    type: grounds
+  - target: relevance-realization-and-the-optimal-grip
     type: extends
   - target: information-as-the-mechanism-of-physical-existence
     type: contrasts

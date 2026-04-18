@@ -8,13 +8,6 @@ source_title: "EP27 Jamie Wheal on Flow & the Future of Culture"
 source_url: "https://www.youtube.com/watch?v=Q7mxNgxlsgo"
 source_author: "The Jim Rutt Show"
 tags: [Consciousness Studies, Embodied Cognition, Psychology, Phenomenology]
-edges:
-  - target: four-distinct-modes-of-human-cognition
-    type: grounds
-  - target: educational-skill-building-versus-ai-prosthetic-dependency
-    type: applies
-  - target: reverse-engineering-peak-states-through-biological-hardware
-    type: contrasts
 created_at: "2026-03-18"
 ---
 

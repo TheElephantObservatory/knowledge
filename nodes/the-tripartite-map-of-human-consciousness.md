@@ -7,16 +7,16 @@ observer_slug: gregg-henriques
 source_title: "Now UTOKing | 5 | Consciousness"
 source_url: "https://www.youtube.com/watch?v=FxmvAIMd3-I"
 source_author: "UTOK | Unified Theory of Knowledge"
-tags: [Philosophy of Mind, Consciousness Studies, Systems Thinking, UTOK]
+tags: [Philosophy of Mind, Consciousness Studies, UTOK, Phenomenology]
 edges:
-  - target: the-epistemic-distinction-between-science-and-psyche
+  - target: how-the-brain-builds-a-unified-field-of-conscious-experience
+    type: exemplifies
+  - target: three-axes-of-mind-layers-location-and-epistemic-access
+    type: extends
+  - target: the-three-layered-architecture-of-human-self-consciousness
+    type: extends
+  - target: separating-consciousness-as-property-from-mindedness-as-structure
     type: grounds
-  - target: the-self-as-a-functional-navigation-process
-    type: extends
-  - target: four-distinct-modes-of-human-cognition
-    type: contrasts
-  - target: integrating-development-ensoulment-and-transcendence
-    type: extends
 created_at: "2026-03-15"
 ---
 

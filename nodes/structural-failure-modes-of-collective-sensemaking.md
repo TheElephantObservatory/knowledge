@@ -7,18 +7,16 @@ observer_slug: jamie-wheal
 source_title: "Making Sense of Sensemaking: Daniel Schmachtenberger, Jamie Wheal, Jordan Hall"
 source_url: "https://www.youtube.com/watch?v=8Es_WTEgZHE"
 source_author: "Rebel Wisdom"
-tags: [Systems Thinking, Meta-Crisis, Game B, Collective Intelligence]
+tags: [Systems Thinking, Meta-Crisis, Collective Intelligence, Sensemaking]
 edges:
-  - target: from-tribal-intimacy-to-global-institutional-systems
-    type: grounds
+  - target: shared-sensemaking-as-the-foundation-for-global-action
+    type: contrasts
   - target: the-structural-barriers-to-shared-systems-narratives
     type: extends
-  - target: cultural-continuity-strategies-for-prosocial-communities
-    type: extends
+  - target: from-tribal-intimacy-to-global-institutional-systems
+    type: grounds
   - target: the-structural-architecture-of-cultic-emergence
     type: exemplifies
-  - target: three-pillars-of-a-new-enlightenment
-    type: applies
 created_at: "2026-03-08"
 ---
 

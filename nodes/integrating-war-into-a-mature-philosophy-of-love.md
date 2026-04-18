@@ -9,12 +9,14 @@ source_url: "https://www.youtube.com/watch?v=pLMTqNiTFQo"
 source_author: "Footnotes2Plato"
 tags: [Philosophy of Mind, Integral Theory, Relational Ontology, Wisdom Traditions]
 edges:
-  - target: ethical-choice-in-the-mythic-present
-    type: applies
-  - target: myth-as-a-long-term-survival-technology
-    type: extends
-  - target: the-spiritual-crisis-beneath-our-global-breakdown
+  - target: why-abstract-philosophy-has-become-an-urgent-survival-skill
     type: grounds
+  - target: whiteheads-dipolar-god-eros-agape-and-co-creative-theology
+    type: contrasts
+  - target: synthesizing-opposing-values-for-civilizational-stability
+    type: extends
+  - target: civilizational-awakening-requires-immanent-transcendence-not-a-magic-moment
+    type: extends
 created_at: "2026-03-15"
 ---
 

@@ -9,16 +9,18 @@ source_url: "https://www.youtube.com/watch?v=GHz5oVpIWUQ"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Philosophy of Mind, Systems Thinking, Epistemology, UTOK]
 edges:
-  - target: the-structural-unification-of-psychological-science
-    type: applies
-  - target: the-periodic-architecture-of-scientific-dimensions
-    type: extends
   - target: the-four-distinct-layers-of-mind
     type: extends
-  - target: mapping-reality-from-energy-to-culture
-    type: grounds
-  - target: the-structural-integration-of-human-cognitive-skills
+  - target: how-the-tree-of-knowledge-reveals-psychologys-hidden-category-errors
     type: extends
+  - target: why-behaviorism-cognitive-psychology-and-ethology-study-the-same-thing
+    type: applies
+  - target: the-structural-unification-of-psychological-science
+    type: grounds
+  - target: why-behaviorism-and-integral-theory-both-collapse-reality-into-one-substance
+    type: contrasts
+  - target: the-tree-of-knowledge-mapping-realitys-four-planes-of-complexity
+    type: grounds
 created_at: "2026-03-15"
 ---
 

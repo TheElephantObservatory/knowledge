@@ -10,15 +10,13 @@ source_author: "The Jim Rutt Show"
 tags: [Systems Thinking, Ecology, Meta-Crisis, Civilizational Risk]
 edges:
   - target: how-technology-breaks-the-symmetry-of-co-evolution
-    type: extends
-  - target: the-inseparable-trinity-of-economic-expansion
-    type: grounds
-  - target: the-fifth-joint-point-of-evolutionary-complexity
     type: grounds
   - target: the-shared-structural-drivers-of-civilizational-risk
-    type: extends
-  - target: the-fossil-labor-subsidy-of-modern-economics
     type: exemplifies
+  - target: the-structural-incompleteness-of-optimization-metrics
+    type: exemplifies
+  - target: the-fifth-joint-point-of-evolutionary-complexity
+    type: extends
 created_at: "2026-03-18"
 ---
 

@@ -9,14 +9,14 @@ source_url: "https://www.youtube.com/watch?v=Ul4fnQxhrFE"
 source_author: "The Stoa"
 tags: [Consciousness Studies, Systems Thinking, Psychology, Collective Intelligence]
 edges:
-  - target: shared-logic-across-religious-and-secular-raptures
-    type: extends
   - target: structural-failure-modes-of-collective-sensemaking
     type: applies
-  - target: the-structural-architecture-of-cultic-emergence
-    type: extends
-  - target: digital-market-incentives-and-the-new-intellectuals
+  - target: biological-vulnerability-and-the-modern-economic-trap
     type: grounds
+  - target: the-structural-architecture-of-cultic-emergence
+    type: applies
+  - target: digital-market-incentives-and-the-new-intellectuals
+    type: extends
 created_at: "2026-03-08"
 ---
 

@@ -7,12 +7,12 @@ observer_slug: brendan-graham-dempsey
 source_title: "Complexification and Learning: 3. Cognitive Learning | The Evolution of Meaning"
 source_url: "https://www.youtube.com/watch?v=ChTmQ4iTYpo"
 source_author: "Brendan Graham Dempsey"
-tags: [Consciousness Studies, Systems Thinking, Relevance Realization, Embodied Cognition]
+tags: [Systems Thinking, Relevance Realization, Cognitive Science, Relational Ontology]
 edges:
-  - target: genetic-information-and-the-evolution-of-meaning
-    type: grounds
+  - target: how-purpose-emerges-from-the-physics-of-absence
+    type: contrasts
   - target: the-transition-from-genetic-memory-to-neural-learning
-    type: extends
+    type: grounds
 created_at: "2026-03-07"
 ---
 

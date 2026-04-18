@@ -9,8 +9,10 @@ source_url: "https://www.youtube.com/watch?v=KUAZ3wVLgQ0"
 source_author: "The Jim Rutt Show"
 tags: [Epistemology, Meaning Crisis, Meta-Crisis, Sensemaking]
 edges:
+  - target: four-interlocking-crises-that-constitute-the-metacrisis
+    type: contrasts
   - target: the-spiritual-crisis-beneath-our-global-breakdown
-    type: grounds
+    type: exemplifies
   - target: psychological-adaptation-and-the-crisis-of-personhood
     type: extends
 created_at: "2026-03-15"

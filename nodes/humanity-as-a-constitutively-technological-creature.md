@@ -7,15 +7,17 @@ observer_slug: alexander-bard
 source_title: "Game B Meets the Dark Renaissance w/ Jim Rutt, Zak Stein, Alexander Bard, and Cadell Last"
 source_url: "https://www.youtube.com/watch?v=byau1SegVqw"
 source_author: "The Stoa"
-tags: [Systems Thinking, Civilizational Risk, Relational Ontology, Cultural Evolution]
+tags: [Systems Thinking, Civilizational Risk, Ontological Design, Cultural Evolution]
 edges:
-  - target: myth-as-a-long-term-survival-technology
-    type: grounds
-  - target: the-fifth-joint-point-of-evolutionary-complexity
-    type: extends
-  - target: structural-educational-lag-and-civilizational-collapse
-    type: extends
   - target: how-technology-encodes-unintended-social-values
+    type: grounds
+  - target: ai-accelerates-the-system-that-produces-it-making-it-uniquely-dangerous
+    type: exemplifies
+  - target: technology-as-a-fifth-dimension-of-evolutionary-complexification
+    type: extends
+  - target: the-shared-structural-drivers-of-civilizational-risk
+    type: grounds
+  - target: how-technology-breaks-the-symmetry-of-co-evolution
     type: extends
 created_at: "2026-03-15"
 ---

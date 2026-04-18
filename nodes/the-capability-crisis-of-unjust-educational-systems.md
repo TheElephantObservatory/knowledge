@@ -9,12 +9,12 @@ source_url: "https://www.youtube.com/watch?v=DeNOLulwSeA"
 source_author: "The Jim Rutt Show"
 tags: [Systems Thinking, Ethics, Existential Risk, Civilizational Risk]
 edges:
-  - target: educational-skill-building-versus-ai-prosthetic-dependency
-    type: applies
-  - target: the-structural-inability-to-transmit-human-meaning
+  - target: the-shared-structural-drivers-of-civilizational-risk
+    type: grounds
+  - target: the-intelligence-curse-when-ai-makes-human-development-an-inefficiency
     type: extends
-  - target: how-ai-captures-the-childs-sense-of-truth
-    type: extends
+  - target: cultural-transmission-as-autopoietic-process-why-civilization-must-reproduce-itself
+    type: grounds
 created_at: "2026-03-15"
 ---
 

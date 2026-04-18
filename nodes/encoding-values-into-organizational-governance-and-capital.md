@@ -9,13 +9,15 @@ source_url: "https://www.youtube.com/watch?v=hZrjJLwjpto"
 source_author: "Rebel Wisdom"
 tags: [Systems Thinking, Social Technology, Ontological Design]
 edges:
-  - target: exponential-financial-systems-within-finite-physical-realities
-    type: grounds
+  - target: why-economic-profit-ignores-true-planetary-costs
+    type: contrasts
+  - target: enlightenment-infrastructure-in-a-scaled-world
+    type: applies
   - target: commercial-incentives-and-the-psychedelic-movement
-    type: exemplifies
-  - target: decoupling-technical-advancement-from-human-betterment
-    type: extends
-  - target: the-structural-architecture-of-cultic-emergence
+    type: grounds
+  - target: exponential-financial-systems-within-finite-physical-realities
+    type: contrasts
+  - target: the-three-by-three-matrix-of-civilizational-response
     type: applies
 created_at: "2026-03-08"
 ---

@@ -8,13 +8,6 @@ source_title: "Now UTOKing | 12 | Metaphysics"
 source_url: "https://www.youtube.com/watch?v=uezaTXQBePE"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Systems Thinking, Epistemology, Ontological Design]
-edges:
-  - target: the-foundational-crisis-of-psychological-definition
-    type: extends
-  - target: metaphysical-architecture-for-the-psyche-in-crisis
-    type: grounds
-  - target: universal-patterns-of-responsiveness-in-matter-and-mind
-    type: extends
 created_at: "2026-03-15"
 ---
 

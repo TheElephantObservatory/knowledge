@@ -9,16 +9,28 @@ source_url: "https://www.youtube.com/watch?v=zFVoearUvP8"
 source_author: "Nate Hagens"
 tags: [Systems Thinking, Meta-Crisis, Civilizational Risk, Cultural Evolution]
 edges:
-  - target: the-capability-crisis-of-unjust-educational-systems
-    type: extends
-  - target: the-structural-inability-to-transmit-human-meaning
-    type: extends
-  - target: the-fifth-joint-point-of-evolutionary-complexity
-    type: grounds
-  - target: structural-drivers-of-the-crisis-in-teacherly-authority
-    type: grounds
   - target: comenius-and-the-civilizational-function-of-education
     type: exemplifies
+  - target: the-capability-crisis-of-unjust-educational-systems
+    type: extends
+  - target: the-shared-structural-drivers-of-civilizational-risk
+    type: grounds
+  - target: the-informational-war-against-shared-reality
+    type: extends
+  - target: cultural-transmission-as-autopoietic-process-why-civilization-must-reproduce-itself
+    type: grounds
+  - target: liquid-democracy-and-continuous-accountability-as-structural-escapes-from-representative-government
+    type: contrasts
+  - target: leadership-requires-both-framework-and-embodied-presence
+    type: extends
+  - target: the-structural-breakdown-of-our-meaning-making-systems
+    type: exemplifies
+  - target: why-hypocrisy-served-as-a-brake-on-power
+    type: extends
+  - target: mapping-the-shape-of-a-childs-mind-through-expressive-output
+    type: extends
+  - target: psychological-adaptation-and-the-crisis-of-personhood
+    type: extends
 created_at: "2026-03-15"
 ---
 

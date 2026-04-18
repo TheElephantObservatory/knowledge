@@ -9,16 +9,14 @@ source_url: "https://www.youtube.com/watch?v=4unnL_lflKY"
 source_author: "The Jim Rutt Show"
 tags: [Artificial Intelligence, Existential Risk, Attention Economy, Sensemaking]
 edges:
-  - target: protecting-the-shared-foundations-of-truth
-    type: grounds
-  - target: the-informational-war-against-shared-reality
-    type: extends
-  - target: navigating-the-irreversible-collapse-of-collective-sensemaking
+  - target: how-facebooks-ai-suppresses-novel-thinking-by-mistaking-it-for-danger
+    type: exemplifies
+  - target: ai-accelerates-the-system-that-produces-it-making-it-uniquely-dangerous
     type: extends
   - target: undue-influence-and-the-collapse-of-personal-autonomy
     type: applies
-  - target: the-structural-incompleteness-of-optimization-metrics
-    type: grounds
+  - target: social-medias-structural-bias-toward-primitive-emotional-triggers
+    type: extends
 created_at: "2026-03-18"
 ---
 

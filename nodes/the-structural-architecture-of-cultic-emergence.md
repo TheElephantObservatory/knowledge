@@ -9,12 +9,10 @@ source_url: "https://www.youtube.com/watch?v=Ul4fnQxhrFE"
 source_author: "The Stoa"
 tags: [Systems Thinking, Epistemology, Collective Intelligence, Ontological Design]
 edges:
+  - target: human-nature-and-the-failure-of-developmental-conditioning
+    type: grounds
   - target: digital-market-incentives-and-the-new-intellectuals
-    type: grounds
-  - target: the-self-organizing-logic-of-sacred-values
-    type: grounds
-  - target: shared-logic-across-religious-and-secular-raptures
-    type: extends
+    type: applies
 created_at: "2026-03-08"
 ---
 

@@ -9,16 +9,16 @@ source_url: "https://www.youtube.com/watch?v=V8qeN7mdLNM"
 source_author: "The Stoa"
 tags: [Political Philosophy, Hermeneutics, Epistemology, Dialogos]
 edges:
-  - target: strategic-warfare-in-the-informational-commons
-    type: contrasts
-  - target: communication-as-a-living-relational-ecosystem
-    type: extends
-  - target: making-hidden-context-explicit-in-difficult-conversations
-    type: applies
-  - target: the-path-from-na-ve-slogans-to-earned-clarity
-    type: extends
-  - target: binary-logic-and-the-practice-of-contextualism
+  - target: the-mutual-dependence-of-liberty-and-equality
     type: grounds
+  - target: strategic-warfare-in-the-informational-commons
+    type: grounds
+  - target: how-pluralistic-hesitation-enables-bad-faith-actors
+    type: exemplifies
+  - target: making-hidden-context-explicit-in-difficult-conversations
+    type: extends
+  - target: communication-as-a-living-relational-ecosystem
+    type: contrasts
 created_at: "2026-03-07"
 ---
 

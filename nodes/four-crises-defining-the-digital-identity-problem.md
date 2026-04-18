@@ -9,8 +9,14 @@ source_url: "https://www.youtube.com/watch?v=Iyns_X8usiA"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Systems Thinking, Meaning Crisis, Meta-Crisis, Sensemaking]
 edges:
-  - target: the-fifth-joint-point-of-evolutionary-complexity
+  - target: four-interlocking-crises-that-constitute-the-metacrisis
     type: extends
+  - target: four-interlocking-crises-that-compound-into-one-metacrisis
+    type: extends
+  - target: the-four-interior-dimensions-of-the-meta-crisis
+    type: contrasts
+  - target: polycrisis-vs-metacrisis-symptoms-versus-civilizational-root-causes
+    type: grounds
 created_at: "2026-03-15"
 ---
 

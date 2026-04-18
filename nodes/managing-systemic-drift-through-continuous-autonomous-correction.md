@@ -9,8 +9,14 @@ source_url: "https://www.youtube.com/watch?v=jOZzi1Wj0ks"
 source_author: "The Jim Rutt Show"
 tags: [Systems Thinking, Process Philosophy, Complexity Science]
 edges:
-  - target: optimal-adaptation-at-the-edge-of-chaos
+  - target: the-free-energy-principle-existence-as-surprise-minimization
+    type: grounds
+  - target: maintaining-systems-before-optimizing-them-the-ethics-of-keeping-things-working
     type: extends
+  - target: two-arrows-of-time-entropy-and-evolution-in-complex-systems
+    type: grounds
+  - target: chaos-theorys-true-legacy-epistemic-humility-in-complex-systems
+    type: grounds
 created_at: "2026-03-18"
 ---
 

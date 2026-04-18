@@ -9,8 +9,10 @@ source_url: "https://www.youtube.com/watch?v=PZNDhdKekjg"
 source_author: "The Stoa"
 tags: [Integral Theory, Psychology, Existential Risk]
 edges:
-  - target: integrating-development-ensoulment-and-transcendence
-    type: extends
+  - target: psychologys-three-layer-crisis-fragmentation-misidentity-and-self-concealment
+    type: contrasts
+  - target: the-missing-architecture-between-newtonian-matter-and-kantian-mind
+    type: grounds
   - target: integrating-objective-science-and-interior-wisdom
     type: extends
 created_at: "2026-03-15"

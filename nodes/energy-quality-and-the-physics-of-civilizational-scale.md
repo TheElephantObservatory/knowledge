@@ -9,9 +9,9 @@ source_url: "https://www.youtube.com/watch?v=rpN-H68rmb4"
 source_author: "Nate Hagens"
 tags: [Systems Thinking, Civilizational Risk, Complexity Science]
 edges:
+  - target: decoupling-human-population-from-natural-nitrogen-cycles
+    type: exemplifies
   - target: the-fifth-joint-point-of-evolutionary-complexity
-    type: grounds
-  - target: mapping-reality-from-energy-to-culture
     type: grounds
 created_at: "2026-03-15"
 ---

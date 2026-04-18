@@ -7,12 +7,16 @@ observer_slug: iain-mcgilchrist
 source_title: "Is Value fundamental to the cosmos? Iain McGilchrist in conversation with Zak Stein"
 source_url: "https://www.youtube.com/watch?v=8vceeE4YYrI"
 source_author: "PERSPECTIVA"
-tags: [Ethics, Epistemology, Meaning Crisis, Sensemaking]
+tags: [Ethics, Epistemology, Meaning Crisis, Ontological Design]
 edges:
+  - target: value-is-not-arbitrary-its-thermodynamic-roots-in-existence-itself
+    type: extends
+  - target: how-separating-facts-from-values-left-ethics-illiterate
+    type: contrasts
+  - target: truth-and-goodness-share-a-common-root
+    type: grounds
   - target: the-misidentification-of-value-in-modern-civilization
     type: extends
-  - target: the-structural-inability-to-transmit-human-meaning
-    type: applies
 created_at: "2026-03-15"
 ---
 

@@ -9,14 +9,8 @@ source_url: "https://www.youtube.com/watch?v=stLFyCOEJP0"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Collective Intelligence, Cultural Evolution, Wisdom Traditions, Sensemaking]
 edges:
-  - target: open-sourcing-ecstasy-against-institutional-gatekeeping
-    type: exemplifies
-  - target: cultural-continuity-strategies-for-prosocial-communities
-    type: extends
-  - target: validating-local-action-during-global-crisis
-    type: applies
-  - target: from-tribal-intimacy-to-global-institutional-systems
-    type: grounds
+  - target: the-four-quadrants-of-charismatic-authority
+    type: contrasts
 created_at: "2026-03-08"
 ---
 

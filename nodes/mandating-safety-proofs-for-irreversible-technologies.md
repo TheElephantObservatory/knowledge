@@ -9,14 +9,8 @@ source_url: "https://www.youtube.com/watch?v=1NFuddEAi5s"
 source_author: "Nate Hagens"
 tags: [Political Philosophy, Systems Thinking, Existential Risk, Civilizational Risk]
 edges:
-  - target: the-structural-tension-of-global-coordination-systems
+  - target: decoupling-technical-advancement-from-human-betterment
     type: extends
-  - target: reconciling-ancient-biology-with-god-like-technology
-    type: grounds
-  - target: ai-acceleration-of-the-global-economic-superorganism
-    type: grounds
-  - target: competitive-acceleration-and-ai-governance-lag
-    type: exemplifies
 created_at: "2026-03-07"
 ---
 

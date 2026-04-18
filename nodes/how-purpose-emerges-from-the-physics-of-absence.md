@@ -11,14 +11,10 @@ tags: [Philosophy of Mind, Process Philosophy, Embodied Cognition, Complexity Sc
 edges:
   - target: the-continuity-of-meaning-from-matter-to-culture
     type: extends
-  - target: relevance-realization-and-the-optimal-grip
-    type: applies
-  - target: information-as-the-mechanism-of-physical-existence
-    type: contrasts
-  - target: genetic-information-and-the-evolution-of-meaning
-    type: exemplifies
   - target: from-thermodynamic-survival-to-cultural-meaning
     type: extends
+  - target: genetic-information-and-the-evolution-of-meaning
+    type: exemplifies
 created_at: "2026-03-07"
 ---
 

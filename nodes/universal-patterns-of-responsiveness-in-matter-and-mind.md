@@ -9,14 +9,14 @@ source_url: "https://www.youtube.com/watch?v=9vFZcok3TLY"
 source_author: "The Jim Rutt Show"
 tags: [Philosophy of Mind, Consciousness Studies, Process Philosophy, Ontological Design]
 edges:
-  - target: building-a-metapsychology-of-qualitative-transformation
-    type: extends
-  - target: mattering-as-a-structural-feature-of-life
-    type: grounds
-  - target: the-four-distinct-layers-of-mind
-    type: exemplifies
-  - target: the-neural-process-of-constructing-meaningful-worlds
+  - target: surplus-coherence-how-meaning-emerges-across-all-scales-of-existence
     type: applies
+  - target: emergence-vs-panexperientialism-where-does-experience-begin
+    type: contrasts
+  - target: transcendental-emergentism-rejecting-reduction-and-pan-psychism-for-layered-reality
+    type: extends
+  - target: how-the-vitalism-debate-was-dissolved-not-won-and-what-this-means-for-consciousness
+    type: exemplifies
 created_at: "2026-03-15"
 ---
 

@@ -9,14 +9,14 @@ source_url: "https://www.youtube.com/watch?v=trZPxcbZsHc"
 source_author: "The Jim Rutt Show"
 tags: [Consciousness Studies, Systems Thinking, Epistemology, Civilizational Risk]
 edges:
-  - target: structural-educational-lag-and-civilizational-collapse
-    type: grounds
-  - target: educational-skill-building-versus-ai-prosthetic-dependency
+  - target: how-automation-gradually-erases-civilizational-knowledge
     type: exemplifies
-  - target: the-structural-integration-of-human-cognitive-skills
-    type: grounds
-  - target: the-structural-breakdown-of-our-meaning-making-systems
+  - target: structural-educational-lag-and-civilizational-collapse
+    type: applies
+  - target: ai-mimicry-and-the-crisis-of-human-formation
     type: extends
+  - target: how-attention-gets-hijacked-before-you-notice-its-gone
+    type: grounds
 created_at: "2026-03-18"
 ---
 

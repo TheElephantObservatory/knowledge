@@ -9,7 +9,13 @@ source_url: "https://www.youtube.com/watch?v=sYNaYdmCC5Y"
 source_author: "The Jim Rutt Show"
 tags: [Systems Thinking, Evolutionary Biology, Complexity Science]
 edges:
-  - target: mapping-reality-from-energy-to-culture
+  - target: lifes-metabolic-core-predates-genes-and-arose-inevitably
+    type: exemplifies
+  - target: constraint-closure-how-living-systems-build-their-own-boundary-conditions
+    type: extends
+  - target: the-origin-of-life-as-a-planetary-phase-transition-in-chemical-space
+    type: extends
+  - target: particle-physics-is-autocatalytic-a-cosmological-implication
     type: extends
 created_at: "2026-03-18"
 ---

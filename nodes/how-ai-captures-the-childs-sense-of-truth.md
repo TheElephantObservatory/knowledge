@@ -9,12 +9,14 @@ source_url: "https://www.youtube.com/watch?v=HNpB8RhM5Tk"
 source_author: "Life Itself"
 tags: [Philosophy of Mind, Consciousness Studies, Developmental Psychology, Epistemology]
 edges:
-  - target: ai-mimicry-and-the-crisis-of-human-formation
+  - target: how-ai-mirrors-erode-epistemological-self-awareness
     type: extends
   - target: the-category-error-of-machine-personhood
     type: grounds
-  - target: the-developmental-origin-of-value-perception
-    type: grounds
+  - target: teacherly-authority-as-civilizational-mechanism-for-human-development
+    type: contrasts
+  - target: ai-socialization-and-the-breaking-of-intergenerational-moral-transmission
+    type: extends
 created_at: "2026-03-15"
 ---
 

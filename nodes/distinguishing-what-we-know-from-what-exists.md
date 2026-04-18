@@ -9,16 +9,14 @@ source_url: "https://www.youtube.com/watch?v=DX4HP__49NA"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Philosophy of Mind, Epistemology, Ontological Design]
 edges:
-  - target: mapping-reality-from-energy-to-culture
-    type: grounds
-  - target: the-four-distinct-layers-of-mind
+  - target: conflating-how-we-know-with-what-exists-psychologys-foundational-error
     type: exemplifies
-  - target: distinguishing-speculative-ideas-from-systematic-metaphysics
+  - target: why-science-cannot-fully-map-subjective-experience
     type: extends
-  - target: the-foundational-crisis-of-psychological-definition
-    type: exemplifies
-  - target: the-structural-unification-of-psychological-science
-    type: exemplifies
+  - target: how-the-tree-of-knowledge-reveals-psychologys-hidden-category-errors
+    type: applies
+  - target: psychologys-missing-foundation-defining-what-the-discipline-actually-studies
+    type: grounds
 created_at: "2026-03-15"
 ---
 

@@ -9,11 +9,11 @@ source_url: "https://www.youtube.com/watch?v=a2mZqs3g5ks"
 source_author: "The Jim Rutt Show"
 tags: [Systems Thinking, Game Theory, Existential Risk, Civilizational Risk]
 edges:
-  - target: the-structural-incompleteness-of-optimization-metrics
+  - target: mammon-and-moloch-the-twin-forces-governing-humanitys-ai-encounter
+    type: grounds
+  - target: the-ai-race-as-a-self-fulfilling-collective-action-trap
     type: extends
   - target: the-shared-structural-drivers-of-civilizational-risk
-    type: grounds
-  - target: the-fifth-joint-point-of-evolutionary-complexity
     type: grounds
 created_at: "2026-03-18"
 ---

@@ -8,13 +8,6 @@ source_title: "Now UTOKing | 4 | Cognition"
 source_url: "https://www.youtube.com/watch?v=CuvDsGXFtho"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Relevance Realization, Epistemology, Cognitive Science, Phenomenology]
-edges:
-  - target: the-neural-process-of-constructing-meaningful-worlds
-    type: grounds
-  - target: integrating-objective-science-and-interior-wisdom
-    type: applies
-  - target: the-structural-unification-of-psychological-science
-    type: extends
 created_at: "2026-03-15"
 ---
 

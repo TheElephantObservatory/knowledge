@@ -7,18 +7,16 @@ observer_slug: jamie-wheal
 source_title: "EP123 Jamie Wheal on Recapturing the Rapture"
 source_url: "https://www.youtube.com/watch?v=4iTdV2Tnr8U"
 source_author: "The Jim Rutt Show"
-tags: [Systems Thinking, Epistemology, Meta-Crisis, Cultural Evolution]
+tags: [Systems Thinking, Epistemology, Meaning Crisis, Civilizational Risk]
 edges:
+  - target: cultural-continuity-strategies-for-prosocial-communities
+    type: grounds
   - target: three-pillars-of-a-new-enlightenment
     type: extends
+  - target: from-tribal-intimacy-to-global-institutional-systems
+    type: grounds
   - target: the-simultaneous-collapse-of-sacred-and-secular-authority
-    type: extends
-  - target: decoupling-technical-advancement-from-human-betterment
     type: contrasts
-  - target: biological-drivers-of-culture-and-political-failure
-    type: contrasts
-  - target: a-decentralized-toolkit-for-designing-new-communities
-    type: extends
 created_at: "2026-03-08"
 ---
 

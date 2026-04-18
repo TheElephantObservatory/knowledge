@@ -9,8 +9,10 @@ source_url: "https://www.youtube.com/watch?v=Pbnn2X2fVvA"
 source_author: "Rebel Wisdom"
 tags: [Systems Thinking, Meaning Crisis, Existential Risk]
 edges:
-  - target: structural-failure-modes-of-collective-sensemaking
-    type: applies
+  - target: human-nature-and-the-architecture-of-global-risk
+    type: grounds
+  - target: the-simultaneous-collapse-of-sacred-and-secular-authority
+    type: grounds
   - target: open-sourcing-ecstasy-against-institutional-gatekeeping
     type: contrasts
 created_at: "2026-03-08"

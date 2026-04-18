@@ -7,18 +7,18 @@ observer_slug: jamie-wheal
 source_title: "Flow & Transformation, Q&A with Jamie Wheal"
 source_url: "https://www.youtube.com/watch?v=ML8FxA0ClPE"
 source_author: "Rebel Wisdom"
-tags: [Narrative and Myth, Meaning Crisis, Meta-Crisis, Civilizational Risk]
+tags: [Narrative and Myth, Contemplative Practice, Meaning Crisis, Civilizational Risk]
 edges:
-  - target: the-competitive-logic-of-technological-acceleration
+  - target: the-three-by-three-matrix-of-civilizational-response
     type: grounds
-  - target: ai-acceleration-of-the-global-economic-superorganism
+  - target: reconciling-ancient-biology-with-god-like-technology
+    type: grounds
+  - target: decoupling-technical-advancement-from-human-betterment
+    type: contrasts
+  - target: the-simultaneous-collapse-of-sacred-and-secular-authority
     type: grounds
   - target: shared-logic-across-religious-and-secular-raptures
     type: extends
-  - target: open-sourcing-ecstasy-against-institutional-gatekeeping
-    type: extends
-  - target: structural-failure-modes-of-collective-sensemaking
-    type: exemplifies
 created_at: "2026-03-08"
 ---
 

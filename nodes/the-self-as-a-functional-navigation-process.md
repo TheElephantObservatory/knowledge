@@ -9,12 +9,12 @@ source_url: "https://www.youtube.com/watch?v=D6m0p_yF8dE"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Philosophy of Mind, Systems Thinking, Evolutionary Biology, Phenomenology]
 edges:
-  - target: the-neural-process-of-constructing-meaningful-worlds
+  - target: the-tripartite-map-of-human-consciousness
+    type: grounds
+  - target: no-self-theories-presuppose-the-self-they-deny
+    type: contrasts
+  - target: the-self-as-a-coordination-solution-for-an-efficient-brain
     type: extends
-  - target: the-epistemic-distinction-between-science-and-psyche
-    type: extends
-  - target: integrating-objective-science-and-interior-wisdom
-    type: applies
 created_at: "2026-03-15"
 ---
 

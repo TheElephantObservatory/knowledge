@@ -8,9 +8,6 @@ source_title: "Daniel Schmachtenberger: \"Modeling the Drivers of the Metacrisis
 source_url: "https://www.youtube.com/watch?v=tQkQrc3Ant4"
 source_author: "Nate Hagens"
 tags: [Political Philosophy, Systems Thinking, Civilizational Risk, Complexity Science]
-edges:
-  - target: the-generative-dynamics-of-civilizational-self-termination
-    type: extends
 created_at: "2026-03-07"
 ---
 

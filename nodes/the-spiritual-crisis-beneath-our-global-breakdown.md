@@ -11,6 +11,8 @@ tags: [Consciousness Studies, Meaning Crisis, Existential Risk, Wisdom Tradition
 edges:
   - target: the-misidentification-of-value-in-modern-civilization
     type: grounds
+  - target: historical-trauma-and-the-loss-of-symbolic-immortality
+    type: exemplifies
 created_at: "2026-03-15"
 ---
 

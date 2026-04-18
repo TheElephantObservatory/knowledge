@@ -7,14 +7,16 @@ observer_slug: jamie-wheal
 source_title: "Collective Sensemaking in an Age of Existential Risk, Jamie Wheal"
 source_url: "https://www.youtube.com/watch?v=0374g6vuGjg"
 source_author: "Rebel Wisdom"
-tags: [Systems Thinking, Meta-Crisis, Civilizational Risk, Cultural Evolution]
+tags: [Systems Thinking, Social Technology, Civilizational Risk, Cultural Evolution]
 edges:
-  - target: biological-drivers-of-culture-and-political-failure
-    type: grounds
-  - target: from-tribal-intimacy-to-global-institutional-systems
+  - target: structural-failure-modes-of-collective-sensemaking
     type: grounds
   - target: the-three-by-three-matrix-of-civilizational-response
     type: extends
+  - target: a-decentralized-toolkit-for-designing-new-communities
+    type: applies
+  - target: from-tribal-intimacy-to-global-institutional-systems
+    type: grounds
 created_at: "2026-03-08"
 ---
 

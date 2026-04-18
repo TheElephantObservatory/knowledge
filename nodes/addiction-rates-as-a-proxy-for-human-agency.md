@@ -11,12 +11,12 @@ tags: [Systems Thinking, Psychology, Sovereignty, Attention Economy]
 edges:
   - target: undue-influence-and-the-collapse-of-personal-autonomy
     type: extends
-  - target: the-structural-incompleteness-of-optimization-metrics
-    type: grounds
-  - target: mattering-as-a-structural-feature-of-life
-    type: grounds
+  - target: the-shared-structural-drivers-of-civilizational-risk
+    type: applies
   - target: psychological-adaptation-and-the-crisis-of-personhood
-    type: extends
+    type: grounds
+  - target: the-invisible-apocalypse-of-attention-algorithms
+    type: exemplifies
 created_at: "2026-03-15"
 ---
 

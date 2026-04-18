@@ -9,12 +9,14 @@ source_url: "https://www.youtube.com/watch?v=7Dw9VsxeGYc"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Systems Thinking, Epistemology, UTOK, Ontological Design]
 edges:
-  - target: universal-patterns-of-responsiveness-in-matter-and-mind
+  - target: conflating-how-we-know-with-what-exists-psychologys-foundational-error
+    type: contrasts
+  - target: utoks-unified-framework-marrying-subjective-experience-to-scientific-reality
     type: extends
-  - target: distinguishing-speculative-ideas-from-systematic-metaphysics
-    type: grounds
-  - target: integrating-objective-science-and-interior-wisdom
+  - target: how-propositional-language-created-a-new-plane-of-human-existence
     type: applies
+  - target: the-tree-of-knowledge-mapping-realitys-four-planes-of-complexity
+    type: exemplifies
 created_at: "2026-03-15"
 ---
 

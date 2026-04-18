@@ -9,13 +9,13 @@ source_url: "https://www.youtube.com/watch?v=8vceeE4YYrI"
 source_author: "PERSPECTIVA"
 tags: [Philosophy of Mind, Developmental Psychology, Neuroscience, Phenomenology]
 edges:
-  - target: integrating-development-ensoulment-and-transcendence
-    type: extends
-  - target: the-misidentification-of-value-in-modern-civilization
-    type: extends
-  - target: the-neural-process-of-constructing-meaningful-worlds
-    type: extends
   - target: recovering-the-singular-source-of-human-value
+    type: grounds
+  - target: cognitive-stages-constrain-which-ideas-can-be-genuinely-understood
+    type: extends
+  - target: mattering-as-a-structural-feature-of-life
+    type: grounds
+  - target: how-western-modernity-overloaded-the-analytical-mind-at-the-expense-of-participatory-knowing
     type: extends
 created_at: "2026-03-15"
 ---

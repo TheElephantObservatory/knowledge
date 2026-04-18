@@ -7,11 +7,11 @@ observer_slug: iain-mcgilchrist
 source_title: "The Psychological Drivers of the Metacrisis John Vervaeke Iain McGilchrist Daniel Schmachtenberger"
 source_url: "https://www.youtube.com/watch?v=P7i1ughRGcQ"
 source_author: "John Vervaeke’s Lectern"
-tags: [Systems Thinking, Meta-Crisis, Existential Risk, Civilizational Risk]
+tags: [Philosophy of Mind, Systems Thinking, Meta-Crisis, Civilizational Risk]
 edges:
-  - target: escaping-the-twin-risks-of-catastrophe-and-dystopia
+  - target: the-generative-dynamics-of-civilizational-self-termination
     type: extends
-  - target: design-criteria-for-a-mature-global-civilization
+  - target: escaping-the-twin-risks-of-catastrophe-and-dystopia
     type: extends
 created_at: "2026-03-07"
 ---

@@ -10,14 +10,12 @@ source_author: "PERSPECTIVA"
 tags: [Meta-Crisis, Relational Ontology, Phenomenology, Sensemaking]
 edges:
   - target: psychological-adaptation-and-the-crisis-of-personhood
+    type: contrasts
+  - target: imaginal-enactment-as-a-tool-for-navigating-irreversible-life-decisions
     type: extends
-  - target: myth-as-a-long-term-survival-technology
-    type: exemplifies
+  - target: the-imaginal-as-bridge-between-bodily-experience-and-propositional-thought
+    type: grounds
   - target: ethical-choice-in-the-mythic-present
-    type: extends
-  - target: shared-cosmic-narratives-and-civilizational-value
-    type: extends
-  - target: integrating-development-ensoulment-and-transcendence
     type: extends
 created_at: "2026-03-15"
 ---

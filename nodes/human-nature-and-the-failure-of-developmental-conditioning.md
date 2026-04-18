@@ -7,18 +7,18 @@ observer_slug: daniel-schmachtenberger
 source_title: "Daniel Schmachtenberger: \"Sensemaking, Uncertainty, and Purpose” | The Great Simplification #31"
 source_url: "https://www.youtube.com/watch?v=kTFqnPEyweE"
 source_author: "Nate Hagens"
-tags: [Developmental Psychology, Evolutionary Biology, Ontological Design, Cultural Evolution]
+tags: [Developmental Psychology, Evolutionary Biology, Epistemology, Cultural Evolution]
 edges:
-  - target: biological-vulnerability-and-the-modern-economic-trap
-    type: applies
-  - target: the-formation-of-persons-through-cultural-inheritance
+  - target: shared-sensemaking-as-the-foundation-for-global-action
     type: grounds
-  - target: reclaiming-agency-from-the-curated-information-environment
-    type: exemplifies
   - target: biological-drivers-of-culture-and-political-failure
     type: extends
-  - target: from-material-universe-to-the-meaningful-cosmos
+  - target: from-tribal-intimacy-to-global-institutional-systems
     type: grounds
+  - target: biological-vulnerability-and-the-modern-economic-trap
+    type: exemplifies
+  - target: the-formation-of-persons-through-cultural-inheritance
+    type: contrasts
 created_at: "2026-03-07"
 ---
 

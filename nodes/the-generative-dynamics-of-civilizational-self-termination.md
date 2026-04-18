@@ -8,13 +8,6 @@ source_title: "Daniel Schmachtenberger: Bend not Break: Maximum Power & Hyper Ag
 source_url: "https://www.youtube.com/watch?v=Nkv5mpBA8o4"
 source_author: "Nate Hagens"
 tags: [Systems Thinking, Meta-Crisis, Existential Risk, Civilizational Risk]
-edges:
-  - target: the-structural-trap-of-constant-problem-generation
-    type: grounds
-  - target: design-criteria-for-a-mature-global-civilization
-    type: extends
-  - target: human-nature-and-the-architecture-of-global-risk
-    type: extends
 created_at: "2026-03-07"
 ---
 

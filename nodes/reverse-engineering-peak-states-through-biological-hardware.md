@@ -9,12 +9,16 @@ source_url: "https://www.youtube.com/watch?v=Q7mxNgxlsgo"
 source_author: "The Jim Rutt Show"
 tags: [Consciousness Studies, Epistemology, Embodied Cognition, Neuroscience]
 edges:
-  - target: the-neural-process-of-constructing-meaningful-worlds
+  - target: how-mystical-states-reverse-the-standard-of-what-is-real
+    type: contrasts
+  - target: leadership-requires-both-framework-and-embodied-presence
     type: grounds
-  - target: four-distinct-modes-of-human-cognition
-    type: grounds
+  - target: self-transformation-as-access-to-higher-ontological-truths
+    type: contrasts
   - target: integrating-objective-science-and-interior-wisdom
     type: extends
+  - target: mystical-brain-states-are-real-but-not-revelatory
+    type: contrasts
 created_at: "2026-03-18"
 ---
 

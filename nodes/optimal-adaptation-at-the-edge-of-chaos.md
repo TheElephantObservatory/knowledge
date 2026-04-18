@@ -8,13 +8,6 @@ source_title: "EP18 Stuart Kauffman on Complexity, Biology & T.A.P."
 source_url: "https://www.youtube.com/watch?v=sYNaYdmCC5Y"
 source_author: "The Jim Rutt Show"
 tags: [Consciousness Studies, Systems Thinking, Evolutionary Biology, Complexity Science]
-edges:
-  - target: the-fifth-joint-point-of-evolutionary-complexity
-    type: applies
-  - target: the-neural-process-of-constructing-meaningful-worlds
-    type: extends
-  - target: self-organization-and-the-spontaneous-origins-of-life
-    type: grounds
 created_at: "2026-03-18"
 ---
 

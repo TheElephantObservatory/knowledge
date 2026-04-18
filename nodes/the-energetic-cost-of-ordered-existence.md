@@ -9,16 +9,18 @@ source_url: "https://www.youtube.com/watch?v=0JXmMQWeC2Y"
 source_author: "Brendan Graham Dempsey"
 tags: [Systems Thinking, Complexity Science, Information Theory]
 edges:
-  - target: from-thermodynamic-survival-to-cultural-meaning
-    type: extends
+  - target: energy-infrastructure-and-the-material-foundations-of-society
+    type: applies
   - target: energy-information-and-the-growth-of-complexity
     type: extends
-  - target: genetic-information-and-the-evolution-of-meaning
-    type: exemplifies
-  - target: information-entropy-and-the-persistence-of-form
-    type: extends
   - target: how-purpose-emerges-from-the-physics-of-absence
+    type: contrasts
+  - target: the-self-organizing-logic-of-sacred-values
+    type: grounds
+  - target: from-thermodynamic-survival-to-cultural-meaning
     type: extends
+  - target: why-economic-profit-ignores-true-planetary-costs
+    type: grounds
 created_at: "2026-03-07"
 ---
 

@@ -7,18 +7,7 @@ observer_slug: daniel-schmachtenberger
 source_title: "Health Index: A Hypothetical Index to Assess the Health of a Society w/ Daniel Schmachtenberger"
 source_url: "https://www.youtube.com/watch?v=Kr2nhiNCOXo"
 source_author: "The Stoa"
-tags: [Political Philosophy, Systems Thinking, Relational Ontology, Sensemaking]
-edges:
-  - target: building-coordination-through-shared-value-stories
-    type: applies
-  - target: integrating-war-into-a-mature-philosophy-of-love
-    type: extends
-  - target: recovering-the-singular-source-of-human-value
-    type: grounds
-  - target: the-structural-incompleteness-of-optimization-metrics
-    type: grounds
-  - target: the-misidentification-of-value-in-modern-civilization
-    type: extends
+tags: [Political Philosophy, Systems Thinking, Civilizational Risk]
 created_at: "2026-03-15"
 ---
 

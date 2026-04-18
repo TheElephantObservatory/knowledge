@@ -9,14 +9,14 @@ source_url: "https://www.youtube.com/watch?v=7Sh2nphhSVo"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Hermeneutics, Systems Thinking, Ontological Design, Cultural Evolution]
 edges:
-  - target: the-periodic-architecture-of-scientific-dimensions
+  - target: how-the-tree-of-knowledge-reveals-psychologys-hidden-category-errors
     type: extends
-  - target: the-four-distinct-layers-of-mind
-    type: extends
-  - target: four-cultural-epochs-integrated-within-metamodern-sensibility
-    type: applies
-  - target: mapping-reality-from-energy-to-culture
+  - target: how-propositional-language-made-humans-justifying-primates
     type: grounds
+  - target: the-four-dimensions-of-behavioral-complexity
+    type: grounds
+  - target: human-beings-as-justifying-animals-language-ego-and-culture
+    type: extends
 created_at: "2026-03-15"
 ---
 

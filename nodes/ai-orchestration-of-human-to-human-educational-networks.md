@@ -9,12 +9,14 @@ source_url: "https://www.youtube.com/watch?v=Ydv9SmVvpV8"
 source_author: "Nate Hagens"
 tags: [Systems Thinking, Social Technology, Attention Economy, Collective Intelligence]
 edges:
-  - target: how-ai-captures-the-childs-sense-of-truth
-    type: contrasts
-  - target: ai-mimicry-and-the-crisis-of-human-formation
-    type: extends
+  - target: structural-educational-lag-and-civilizational-collapse
+    type: applies
   - target: educational-skill-building-versus-ai-prosthetic-dependency
-    type: extends
+    type: contrasts
+  - target: the-capability-crisis-of-unjust-educational-systems
+    type: applies
+  - target: humane-ai-should-strengthen-human-relationships-not-substitute-for-them
+    type: grounds
 created_at: "2026-03-15"
 ---
 

@@ -9,14 +9,12 @@ source_url: "https://www.youtube.com/watch?v=I8O0JnMG8pk"
 source_author: "PERSPECTIVA"
 tags: [Philosophy of Mind, Systems Thinking, Civilizational Risk, Cultural Evolution]
 edges:
-  - target: the-structural-inability-to-transmit-human-meaning
-    type: extends
-  - target: the-fifth-joint-point-of-evolutionary-complexity
-    type: grounds
   - target: comenius-and-the-global-framework-for-universal-wisdom
-    type: exemplifies
-  - target: the-capability-crisis-of-unjust-educational-systems
     type: extends
+  - target: cultural-transmission-as-autopoietic-process-why-civilization-must-reproduce-itself
+    type: grounds
+  - target: waldorf-education-reimagined-for-a-post-materialist-age
+    type: exemplifies
 created_at: "2026-03-15"
 ---
 

@@ -9,13 +9,21 @@ source_url: "https://www.youtube.com/watch?v=CCU0UJ_2G6E"
 source_author: "The Stoa"
 tags: [Philosophy of Mind, Systems Thinking, Process Philosophy, Developmental Psychology]
 edges:
-  - target: the-structural-unification-of-psychological-science
-    type: extends
-  - target: metaphysical-architecture-for-the-psyche-in-crisis
-    type: grounds
-  - target: defining-psychology-through-the-ontology-of-mind
+  - target: decoupling-productive-output-from-flow-states
     type: contrasts
-  - target: integrating-objective-science-and-interior-wisdom
+  - target: integrating-war-into-a-mature-philosophy-of-love
+    type: extends
+  - target: stages-stations-and-phases-of-consciousness
+    type: grounds
+  - target: distinguishing-stages-stations-and-consciousness-phases
+    type: extends
+  - target: how-measurement-locked-psychology-into-a-static-view-of-human-nature
+    type: grounds
+  - target: why-logical-minds-cannot-grow-fodors-challenge-and-the-organismic-response
+    type: exemplifies
+  - target: metaphysical-architecture-for-the-psyche-in-crisis
+    type: extends
+  - target: personal-transformation-as-a-condition-for-accessing-certain-truths
     type: extends
 created_at: "2026-03-15"
 ---

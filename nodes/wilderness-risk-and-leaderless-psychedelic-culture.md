@@ -7,16 +7,14 @@ observer_slug: jamie-wheal
 source_title: "Recapture the Rapture w/ Jamie Wheal"
 source_url: "https://www.youtube.com/watch?v=RLZgfzq2dP4"
 source_author: "The Stoa"
-tags: [Consciousness Studies, Epistemology, Embodied Cognition, Wisdom Traditions]
+tags: [Sacred Ecology, Systems Thinking, Cultural Evolution, Sensemaking]
 edges:
-  - target: the-four-quadrants-of-charismatic-authority
-    type: contrasts
-  - target: open-sourcing-ecstasy-against-institutional-gatekeeping
-    type: exemplifies
   - target: the-structural-architecture-of-cultic-emergence
-    type: extends
+    type: contrasts
+  - target: a-decentralized-toolkit-for-designing-new-communities
+    type: grounds
   - target: structural-failure-modes-of-collective-sensemaking
-    type: extends
+    type: contrasts
 created_at: "2026-03-08"
 ---
 

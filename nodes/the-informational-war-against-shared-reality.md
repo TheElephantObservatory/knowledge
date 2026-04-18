@@ -11,14 +11,12 @@ tags: [Epistemology, Meta-Crisis, Information Theory]
 edges:
   - target: undue-influence-and-the-collapse-of-personal-autonomy
     type: extends
-  - target: addiction-rates-as-a-proxy-for-human-agency
-    type: applies
-  - target: how-ai-captures-the-childs-sense-of-truth
-    type: exemplifies
-  - target: the-structural-inability-to-transmit-human-meaning
-    type: grounds
-  - target: navigating-the-irreversible-collapse-of-collective-sensemaking
+  - target: protecting-the-shared-foundations-of-truth
     type: extends
+  - target: navigating-the-irreversible-collapse-of-collective-sensemaking
+    type: grounds
+  - target: the-invisible-apocalypse-of-attention-algorithms
+    type: exemplifies
 created_at: "2026-03-15"
 ---
 

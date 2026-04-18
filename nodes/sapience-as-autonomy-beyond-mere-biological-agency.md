@@ -9,10 +9,16 @@ source_url: "https://www.youtube.com/watch?v=nh7Gi4aqFww"
 source_author: "Brendan Graham Dempsey"
 tags: [Philosophy of Mind, Consciousness Studies, Evolutionary Biology, Epistemology]
 edges:
-  - target: the-category-error-of-machine-personhood
-    type: applies
-  - target: mattering-as-a-structural-feature-of-life
+  - target: why-complexity-of-thought-is-not-a-measure-of-wisdom
     type: grounds
+  - target: building-a-metapsychology-of-qualitative-transformation
+    type: grounds
+  - target: human-beings-as-justifying-animals-language-ego-and-culture
+    type: extends
+  - target: why-psychology-cannot-be-reduced-to-causal-science
+    type: grounds
+  - target: why-logical-minds-cannot-grow-fodors-challenge-and-the-organismic-response
+    type: contrasts
 created_at: "2026-03-15"
 ---
 

@@ -9,14 +9,16 @@ source_url: "https://www.youtube.com/watch?v=0374g6vuGjg"
 source_author: "Rebel Wisdom"
 tags: [Systems Thinking, Embodied Cognition, Cognitive Science, Ontological Design]
 edges:
-  - target: enlightenment-infrastructure-in-a-scaled-world
+  - target: ai-acceleration-of-the-global-economic-superorganism
     type: extends
-  - target: reclaiming-agency-from-the-curated-information-environment
-    type: applies
-  - target: the-continuity-of-meaning-from-matter-to-culture
-    type: grounds
   - target: three-pillars-of-a-new-enlightenment
     type: extends
+  - target: the-transition-from-genetic-memory-to-neural-learning
+    type: grounds
+  - target: shared-sensemaking-as-the-foundation-for-global-action
+    type: applies
+  - target: decoupling-technical-advancement-from-human-betterment
+    type: grounds
 created_at: "2026-03-08"
 ---
 

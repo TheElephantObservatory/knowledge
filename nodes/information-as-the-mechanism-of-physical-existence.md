@@ -9,14 +9,10 @@ source_url: "https://www.youtube.com/watch?v=duLh2ZCBkeM"
 source_author: "Brendan Graham Dempsey"
 tags: [Relevance Realization, Complexity Science, Information Theory]
 edges:
-  - target: from-thermodynamic-survival-to-cultural-meaning
-    type: extends
   - target: the-continuity-of-meaning-from-matter-to-culture
     type: extends
-  - target: genetic-information-and-the-evolution-of-meaning
-    type: exemplifies
   - target: relevance-realization-and-the-optimal-grip
-    type: applies
+    type: contrasts
 created_at: "2026-03-07"
 ---
 

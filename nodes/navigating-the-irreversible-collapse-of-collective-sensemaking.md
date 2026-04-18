@@ -7,16 +7,16 @@ observer_slug: zak-stein
 source_title: "Mythos, Logos and Democracy: What just happened in America and what does it mean for the world?"
 source_url: "https://www.youtube.com/watch?v=jH-h3c-KOss"
 source_author: "PERSPECTIVA"
-tags: [Consciousness Studies, Epistemology, Meta-Crisis, Sensemaking]
+tags: [Epistemology, Meaning Crisis, Meta-Crisis, Sensemaking]
 edges:
-  - target: the-four-interior-dimensions-of-the-meta-crisis
-    type: extends
-  - target: the-neural-process-of-constructing-meaningful-worlds
+  - target: how-digital-information-overload-is-breaking-collective-decision-making
+    type: grounds
+  - target: shared-cosmic-narratives-and-civilizational-value
     type: grounds
   - target: the-structural-breakdown-of-our-meaning-making-systems
-    type: grounds
-  - target: the-fifth-joint-point-of-evolutionary-complexity
     type: extends
+  - target: the-second-collapse-of-epistemic-authority-in-western-history
+    type: exemplifies
 created_at: "2026-03-15"
 ---
 

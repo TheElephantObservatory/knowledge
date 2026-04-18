@@ -9,14 +9,14 @@ source_url: "https://www.youtube.com/watch?v=gfTq9qfRCgc"
 source_author: "The Jim Rutt Show"
 tags: [Political Philosophy, Systems Thinking, Sovereignty, Ontological Design]
 edges:
-  - target: the-invisible-apocalypse-of-attention-algorithms
+  - target: large-platforms-as-public-infrastructure-the-case-for-common-carrier-regulation
     type: extends
-  - target: how-technology-encodes-unintended-social-values
-    type: applies
-  - target: how-ai-captures-the-childs-sense-of-truth
-    type: exemplifies
   - target: undue-influence-and-the-collapse-of-personal-autonomy
     type: extends
+  - target: how-technology-encodes-unintended-social-values
+    type: grounds
+  - target: how-institutions-reverse-to-consume-the-people-they-were-built-to-serve
+    type: grounds
 created_at: "2026-03-18"
 ---
 

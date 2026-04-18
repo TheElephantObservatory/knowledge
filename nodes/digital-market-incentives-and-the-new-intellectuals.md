@@ -7,14 +7,14 @@ observer_slug: jamie-wheal
 source_title: "Wisdom Cults or Wisdom Commons w/ Jamie Wheal, Dave Snowden, Bonnitta Roy, and Jill Nephew"
 source_url: "https://www.youtube.com/watch?v=Ul4fnQxhrFE"
 source_author: "The Stoa"
-tags: [Epistemology, Attention Economy, Cultural Evolution, Sensemaking]
+tags: [Meta-Crisis, Attention Economy, Cultural Evolution, Sensemaking]
 edges:
+  - target: the-necessary-uncertainty-of-genuine-expertise
+    type: contrasts
+  - target: the-digital-arms-race-against-human-perception
+    type: extends
   - target: the-simultaneous-collapse-of-sacred-and-secular-authority
     type: grounds
-  - target: reclaiming-agency-from-the-curated-information-environment
-    type: applies
-  - target: open-sourcing-ecstasy-against-institutional-gatekeeping
-    type: extends
 created_at: "2026-03-08"
 ---
 

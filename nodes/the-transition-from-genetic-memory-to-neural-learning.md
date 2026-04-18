@@ -7,14 +7,12 @@ observer_slug: brendan-graham-dempsey
 source_title: "Complexification and Learning: 3. Cognitive Learning | The Evolution of Meaning"
 source_url: "https://www.youtube.com/watch?v=ChTmQ4iTYpo"
 source_author: "Brendan Graham Dempsey"
-tags: [Philosophy of Mind, Evolutionary Biology, Embodied Cognition, Complexity Science]
+tags: [Systems Thinking, Evolutionary Biology, Cognitive Science, Information Theory]
 edges:
-  - target: how-purpose-emerges-from-the-physics-of-absence
-    type: grounds
-  - target: propositional-grammar-and-the-evolution-of-personhood
-    type: extends
   - target: from-thermodynamic-survival-to-cultural-meaning
-    type: extends
+    type: exemplifies
+  - target: the-continuity-of-meaning-from-matter-to-culture
+    type: grounds
 created_at: "2026-03-07"
 ---
 

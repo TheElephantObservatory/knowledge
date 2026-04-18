@@ -11,6 +11,10 @@ tags: [Systems Thinking, Evolutionary Biology, Epistemology, Complexity Science]
 edges:
   - target: the-continuity-of-meaning-from-matter-to-culture
     type: extends
+  - target: genetic-information-and-the-evolution-of-meaning
+    type: exemplifies
+  - target: propositional-grammar-and-the-evolution-of-personhood
+    type: extends
 created_at: "2026-03-07"
 ---
 

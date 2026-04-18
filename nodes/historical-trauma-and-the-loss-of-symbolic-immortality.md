@@ -9,12 +9,14 @@ source_url: "https://www.youtube.com/watch?v=9f19SwwpCfY"
 source_author: "The Stoa"
 tags: [Consciousness Studies, Symbolism, Meaning Crisis, Civilizational Risk]
 edges:
-  - target: myth-as-a-long-term-survival-technology
+  - target: confronting-death-as-the-foundation-of-meaningful-life
+    type: grounds
+  - target: psychological-adaptation-and-the-crisis-of-personhood
     type: extends
   - target: shared-cosmic-narratives-and-civilizational-value
     type: extends
-  - target: the-spiritual-crisis-beneath-our-global-breakdown
-    type: grounds
+  - target: how-religious-imagination-differs-from-reality-severing-simulation
+    type: extends
 created_at: "2026-03-15"
 ---
 

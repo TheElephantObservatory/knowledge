@@ -9,11 +9,13 @@ source_url: "https://www.youtube.com/watch?v=GHz5oVpIWUQ"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Systems Thinking, Epistemology, Integral Theory, Complexity Science]
 edges:
-  - target: the-structural-integration-of-human-cognitive-skills
-    type: applies
-  - target: mapping-reality-from-energy-to-culture
+  - target: natures-primary-units-atoms-cells-animals-persons
+    type: exemplifies
+  - target: why-big-history-needs-four-dimensions-not-one
     type: grounds
-  - target: universal-patterns-of-responsiveness-in-matter-and-mind
+  - target: three-kinds-of-emergence-that-complexity-theory-usually-conflates
+    type: extends
+  - target: primary-units-of-organization-across-matter-life-mind-and-culture
     type: extends
 created_at: "2026-03-15"
 ---

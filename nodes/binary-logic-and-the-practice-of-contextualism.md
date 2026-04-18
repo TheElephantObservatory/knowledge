@@ -7,13 +7,9 @@ observer_slug: jamie-wheal
 source_title: "DarkHorse Podcast with Jamie Wheal & Bret Weinstein"
 source_url: "https://www.youtube.com/watch?v=yxtTUsew0L0"
 source_author: "Bret Weinstein"
-tags: [Systems Thinking, Relevance Realization, Epistemology, Complexity Science]
+tags: [Systems Thinking, Relevance Realization, Epistemology, Sensemaking]
 edges:
-  - target: validating-local-action-during-global-crisis
-    type: applies
-  - target: the-three-by-three-matrix-of-civilizational-response
-    type: contrasts
-  - target: the-structural-barriers-to-shared-systems-narratives
+  - target: how-pluralistic-hesitation-enables-bad-faith-actors
     type: applies
   - target: the-path-from-na-ve-slogans-to-earned-clarity
     type: extends

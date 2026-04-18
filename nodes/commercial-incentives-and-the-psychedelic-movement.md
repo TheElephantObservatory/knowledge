@@ -9,9 +9,11 @@ source_url: "https://www.youtube.com/watch?v=EOXJOZK1ZNQ"
 source_author: "Rebel Wisdom"
 tags: [Systems Thinking, Meta-Crisis, Game Theory, Social Technology]
 edges:
-  - target: how-pluralistic-hesitation-enables-bad-faith-actors
+  - target: the-competitive-logic-of-technological-acceleration
+    type: grounds
+  - target: open-sourcing-ecstasy-against-institutional-gatekeeping
     type: extends
-  - target: the-structural-architecture-of-cultic-emergence
+  - target: how-pluralistic-hesitation-enables-bad-faith-actors
     type: extends
 created_at: "2026-03-08"
 ---

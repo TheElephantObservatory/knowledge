@@ -9,16 +9,14 @@ source_url: "https://www.youtube.com/watch?v=mP1bf2lyYcQ"
 source_author: "Brendan Graham Dempsey"
 tags: [Symbolism, Complexity Science, Information Theory, Cultural Evolution]
 edges:
-  - target: how-purpose-emerges-from-the-physics-of-absence
-    type: grounds
+  - target: a-decentralized-toolkit-for-designing-new-communities
+    type: contrasts
   - target: relevance-realization-and-the-optimal-grip
-    type: extends
+    type: grounds
   - target: from-thermodynamic-survival-to-cultural-meaning
     type: grounds
-  - target: information-as-the-mechanism-of-physical-existence
-    type: contrasts
   - target: the-formation-of-persons-through-cultural-inheritance
-    type: applies
+    type: extends
 created_at: "2026-03-07"
 ---
 

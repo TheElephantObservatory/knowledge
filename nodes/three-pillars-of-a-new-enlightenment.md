@@ -9,13 +9,15 @@ source_url: "https://www.youtube.com/watch?v=-mNP6pQcH88"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Systems Thinking, Epistemology, Civilizational Risk, Collective Intelligence]
 edges:
-  - target: the-three-by-three-matrix-of-civilizational-response
-    type: extends
-  - target: a-decentralized-toolkit-for-designing-new-communities
+  - target: mutual-understanding-in-the-presence-of-deep-disagreement
+    type: applies
+  - target: structural-failure-modes-of-collective-sensemaking
+    type: contrasts
+  - target: binary-logic-and-the-practice-of-contextualism
     type: grounds
-  - target: mapping-reality-for-meaningful-choice
-    type: extends
   - target: the-simultaneous-collapse-of-sacred-and-secular-authority
+    type: grounds
+  - target: locating-the-wrong-turn-in-western-history
     type: grounds
 created_at: "2026-03-08"
 ---

@@ -9,14 +9,20 @@ source_url: "https://www.youtube.com/watch?v=0JXmMQWeC2Y"
 source_author: "Brendan Graham Dempsey"
 tags: [Systems Thinking, Complexity Science, Information Theory]
 edges:
-  - target: information-as-the-mechanism-of-physical-existence
-    type: contrasts
-  - target: relevance-realization-and-the-optimal-grip
-    type: applies
-  - target: genetic-information-and-the-evolution-of-meaning
-    type: extends
+  - target: the-evolution-of-brains-as-predictive-models
+    type: grounds
+  - target: mapping-the-four-planes-of-cosmic-emergence
+    type: grounds
+  - target: the-energetic-cost-of-ordered-existence
+    type: grounds
   - target: energy-information-and-the-growth-of-complexity
     type: extends
+  - target: information-as-the-mechanism-of-physical-existence
+    type: contrasts
+  - target: how-purpose-emerges-from-the-physics-of-absence
+    type: extends
+  - target: genetic-information-and-the-evolution-of-meaning
+    type: grounds
 created_at: "2026-03-07"
 ---
 

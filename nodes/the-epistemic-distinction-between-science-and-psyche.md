@@ -9,15 +9,13 @@ source_url: "https://www.youtube.com/watch?v=8cs4sBSOrIk"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Philosophy of Mind, Consciousness Studies, Epistemology, Wisdom Traditions]
 edges:
-  - target: distinguishing-what-we-know-from-what-exists
-    type: grounds
-  - target: the-foundational-crisis-of-psychological-definition
-    type: grounds
-  - target: defining-psychology-through-the-ontology-of-mind
+  - target: why-science-cannot-explain-your-specific-existence
     type: extends
-  - target: metaphysical-architecture-for-the-psyche-in-crisis
+  - target: two-modes-of-knowing-objective-science-and-irreducible-personal-experience
+    type: grounds
+  - target: why-science-cannot-capture-the-individual-psyche
     type: extends
-  - target: integrating-objective-science-and-interior-wisdom
+  - target: why-science-cannot-capture-the-individual-life-from-the-inside
     type: extends
 created_at: "2026-03-15"
 ---

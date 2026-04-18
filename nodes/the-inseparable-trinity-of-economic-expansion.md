@@ -9,16 +9,16 @@ source_url: "https://www.youtube.com/watch?v=rpN-H68rmb4"
 source_author: "Nate Hagens"
 tags: [Political Philosophy, Systems Thinking, Meta-Crisis, Complexity Science]
 edges:
-  - target: the-structural-incompleteness-of-optimization-metrics
-    type: extends
-  - target: the-fifth-joint-point-of-evolutionary-complexity
-    type: extends
-  - target: the-fossil-labor-subsidy-of-modern-economics
-    type: exemplifies
-  - target: the-misidentification-of-value-in-modern-civilization
-    type: contrasts
   - target: energy-quality-and-the-physics-of-civilizational-scale
     type: grounds
+  - target: structural-educational-lag-and-civilizational-collapse
+    type: grounds
+  - target: the-fossil-labor-subsidy-of-modern-economics
+    type: exemplifies
+  - target: decoupling-human-population-from-natural-nitrogen-cycles
+    type: exemplifies
+  - target: the-fifth-joint-point-of-evolutionary-complexity
+    type: extends
 created_at: "2026-03-15"
 ---
 

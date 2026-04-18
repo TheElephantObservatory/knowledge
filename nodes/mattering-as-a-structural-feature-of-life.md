@@ -9,16 +9,26 @@ source_url: "https://www.youtube.com/watch?v=AxLi96DkUsc"
 source_author: "John Vervaeke’s Lectern"
 tags: [Systems Thinking, Relevance Realization, Embodied Cognition, Meaning Crisis]
 edges:
-  - target: the-developmental-origin-of-value-perception
+  - target: communication-as-a-living-relational-ecosystem
     type: grounds
-  - target: recovering-the-singular-source-of-human-value
-    type: extends
-  - target: mapping-reality-from-energy-to-culture
-    type: grounds
-  - target: the-neural-process-of-constructing-meaningful-worlds
-    type: extends
-  - target: the-misidentification-of-value-in-modern-civilization
+  - target: why-behaviorism-and-integral-theory-both-collapse-reality-into-one-substance
     type: contrasts
+  - target: structural-educational-lag-and-civilizational-collapse
+    type: grounds
+  - target: addiction-rates-as-a-proxy-for-human-agency
+    type: grounds
+  - target: value-is-not-arbitrary-its-thermodynamic-roots-in-existence-itself
+    type: extends
+  - target: relevance-only-exists-for-agents-that-care-about-themselves
+    type: grounds
+  - target: relevance-bridges-the-gap-between-fact-and-value
+    type: extends
+  - target: meaning-as-a-structural-feature-of-reality-not-human-projection
+    type: extends
+  - target: a-secular-structure-for-the-sacred-mattering-love-and-ultimacy
+    type: extends
+  - target: four-distinct-modes-of-human-cognition
+    type: grounds
 created_at: "2026-03-15"
 ---
 

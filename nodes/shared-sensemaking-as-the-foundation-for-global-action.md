@@ -9,16 +9,24 @@ source_url: "https://www.youtube.com/watch?v=8XCXvzQdcug"
 source_author: "Rebel Wisdom"
 tags: [Systems Thinking, Meta-Crisis, Collective Intelligence, Sensemaking]
 edges:
-  - target: structural-failure-modes-of-collective-sensemaking
-    type: applies
-  - target: design-criteria-for-a-mature-global-civilization
-    type: extends
-  - target: the-structural-barriers-to-shared-systems-narratives
+  - target: the-three-by-three-matrix-of-civilizational-response
     type: grounds
+  - target: validating-local-action-during-global-crisis
+    type: grounds
+  - target: design-criteria-for-a-mature-global-civilization
+    type: grounds
+  - target: mapping-reality-for-meaningful-choice
+    type: grounds
+  - target: the-structural-barriers-to-shared-systems-narratives
+    type: exemplifies
   - target: the-generative-dynamics-of-civilizational-self-termination
     type: extends
   - target: human-nature-and-the-architecture-of-global-risk
-    type: extends
+    type: grounds
+  - target: three-pillars-of-a-new-enlightenment
+    type: grounds
+  - target: the-digital-arms-race-against-human-perception
+    type: contrasts
 created_at: "2026-03-07"
 ---
 

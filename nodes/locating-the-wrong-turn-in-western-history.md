@@ -7,16 +7,14 @@ observer_slug: jamie-wheal
 source_title: "Recapture the Rapture w/ Jamie Wheal"
 source_url: "https://www.youtube.com/watch?v=RLZgfzq2dP4"
 source_author: "The Stoa"
-tags: [Meaning Crisis, Civilizational Risk, Phenomenology, Cultural Evolution]
+tags: [Hermeneutics, Meaning Crisis, Civilizational Risk, Cultural Evolution]
 edges:
-  - target: the-simultaneous-collapse-of-sacred-and-secular-authority
-    type: extends
-  - target: a-decentralized-toolkit-for-designing-new-communities
-    type: extends
-  - target: the-structural-trap-of-constant-problem-generation
-    type: extends
-  - target: reconciling-ancient-biology-with-god-like-technology
+  - target: enlightenment-infrastructure-in-a-scaled-world
+    type: contrasts
+  - target: from-tribal-intimacy-to-global-institutional-systems
     type: grounds
+  - target: open-sourcing-ecstasy-against-institutional-gatekeeping
+    type: extends
 created_at: "2026-03-08"
 ---
 

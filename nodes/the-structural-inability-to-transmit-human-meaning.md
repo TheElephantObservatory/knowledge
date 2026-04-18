@@ -9,8 +9,12 @@ source_url: "https://www.youtube.com/watch?v=TtCFfEGjfW0"
 source_author: "Life Itself"
 tags: [Epistemology, Meaning Crisis, Meta-Crisis, Cultural Evolution]
 edges:
-  - target: ai-mimicry-and-the-crisis-of-human-formation
-    type: exemplifies
+  - target: structural-drivers-of-the-crisis-in-teacherly-authority
+    type: extends
+  - target: structural-educational-lag-and-civilizational-collapse
+    type: extends
+  - target: ai-socialization-and-the-breaking-of-intergenerational-moral-transmission
+    type: extends
   - target: the-misidentification-of-value-in-modern-civilization
     type: grounds
 created_at: "2026-03-15"

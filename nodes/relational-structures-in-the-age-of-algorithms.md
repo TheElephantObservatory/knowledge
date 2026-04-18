@@ -10,15 +10,13 @@ source_author: "The Jim Rutt Show"
 tags: [Systems Thinking, Relational Ontology, Ontological Design, Sensemaking]
 edges:
   - target: the-structural-inability-to-transmit-human-meaning
+    type: extends
+  - target: teacherly-authority-as-civilizational-mechanism-for-human-development
     type: grounds
   - target: ai-orchestration-of-human-to-human-educational-networks
-    type: extends
-  - target: ai-mimicry-and-the-crisis-of-human-formation
-    type: extends
-  - target: how-ai-captures-the-childs-sense-of-truth
-    type: extends
+    type: contrasts
   - target: educational-skill-building-versus-ai-prosthetic-dependency
-    type: applies
+    type: extends
 created_at: "2026-03-15"
 ---
 

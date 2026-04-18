@@ -9,11 +9,13 @@ source_url: "https://www.youtube.com/watch?v=ZzpOUf8OTAA"
 source_author: "The Stoa"
 tags: [Consciousness Studies, Developmental Psychology, Integral Theory, Wisdom Traditions]
 edges:
-  - target: the-structural-unification-of-psychological-science
+  - target: building-a-metapsychology-of-qualitative-transformation
+    type: grounds
+  - target: stages-stations-and-phases-of-consciousness
     type: extends
+  - target: soul-and-spirit-as-distinct-dimensions-of-selfhood
+    type: exemplifies
   - target: symbol-image-and-language-in-psychic-healing
-    type: extends
-  - target: the-spiritual-crisis-beneath-our-global-breakdown
     type: grounds
 created_at: "2026-03-15"
 ---

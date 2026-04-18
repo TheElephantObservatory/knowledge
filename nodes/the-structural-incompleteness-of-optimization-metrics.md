@@ -9,13 +9,15 @@ source_url: "https://www.youtube.com/watch?v=Kr2nhiNCOXo"
 source_author: "The Stoa"
 tags: [Systems Thinking, Relevance Realization, Epistemology, Meta-Crisis]
 edges:
-  - target: the-misidentification-of-value-in-modern-civilization
-    type: grounds
-  - target: recovering-the-singular-source-of-human-value
-    type: extends
-  - target: mattering-as-a-structural-feature-of-life
+  - target: replacing-economic-return-with-human-flourishing-as-societys-core-metric
+    type: exemplifies
+  - target: the-invisible-apocalypse-of-attention-algorithms
+    type: applies
+  - target: wisdom-as-a-three-part-structure-sensing-discerning-and-acting-toward-the-good
     type: contrasts
-  - target: the-neural-process-of-constructing-meaningful-worlds
+  - target: the-metacrisis-as-systemic-failure-of-civilizations-operating-system
+    type: extends
+  - target: synthesizing-opposing-values-for-civilizational-stability
     type: grounds
 created_at: "2026-03-15"
 ---

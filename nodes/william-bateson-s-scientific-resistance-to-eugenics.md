@@ -9,10 +9,12 @@ source_url: "https://www.youtube.com/watch?v=EGryvLGLiME"
 source_author: "The Jim Rutt Show"
 tags: [Systems Thinking, Ethics, Evolutionary Biology, Epistemology]
 edges:
-  - target: the-anti-fascist-origins-of-systems-thinking
-    type: extends
+  - target: how-technology-breaks-the-symmetry-of-co-evolution
+    type: contrasts
   - target: self-organization-and-the-spontaneous-origins-of-life
     type: grounds
+  - target: the-anti-fascist-origins-of-systems-thinking
+    type: extends
 created_at: "2026-03-18"
 ---
 

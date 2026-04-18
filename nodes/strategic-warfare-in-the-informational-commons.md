@@ -7,13 +7,11 @@ observer_slug: zak-stein
 source_title: "Consilience Project: The Endgames of Bad Faith Communication w/ Zak Stein"
 source_url: "https://www.youtube.com/watch?v=V8qeN7mdLNM"
 source_author: "The Stoa"
-tags: [Hermeneutics, Media Ecology, Meta-Crisis, Sensemaking]
+tags: [Systems Thinking, Media Ecology, Meta-Crisis, Sensemaking]
 edges:
   - target: the-digital-arms-race-against-human-perception
-    type: exemplifies
-  - target: shared-sensemaking-as-the-foundation-for-global-action
-    type: grounds
-  - target: the-structural-barriers-to-shared-systems-narratives
+    type: extends
+  - target: digital-market-incentives-and-the-new-intellectuals
     type: extends
 created_at: "2026-03-07"
 ---

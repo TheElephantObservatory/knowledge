@@ -9,14 +9,12 @@ source_url: "https://www.youtube.com/watch?v=PZNDhdKekjg"
 source_author: "The Stoa"
 tags: [Hermeneutics, Symbolism, Narrative and Myth, Psychology]
 edges:
-  - target: ethical-choice-in-the-mythic-present
-    type: exemplifies
-  - target: the-structural-unification-of-psychological-science
-    type: grounds
-  - target: four-distinct-modes-of-human-cognition
-    type: extends
-  - target: myth-as-a-long-term-survival-technology
+  - target: how-propositional-language-created-the-need-for-the-ego
+    type: contrasts
+  - target: soul-and-spirit-as-distinct-dimensions-of-selfhood
     type: applies
+  - target: the-imaginal-as-bridge-between-bodily-experience-and-propositional-thought
+    type: extends
 created_at: "2026-03-15"
 ---
 

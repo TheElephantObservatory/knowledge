@@ -9,16 +9,14 @@ source_url: "https://www.youtube.com/watch?v=F3qCtw7MPR0"
 source_author: "PERSPECTIVA"
 tags: [Epistemology, Meaning Crisis, Meta-Crisis, Sensemaking]
 edges:
-  - target: the-structural-inability-to-transmit-human-meaning
-    type: applies
   - target: the-misidentification-of-value-in-modern-civilization
-    type: extends
+    type: grounds
   - target: the-four-interior-dimensions-of-the-meta-crisis
     type: extends
-  - target: shared-cosmic-narratives-and-civilizational-value
-    type: extends
+  - target: polycrisis-vs-metacrisis-symptoms-versus-civilizational-root-causes
+    type: contrasts
   - target: psychological-adaptation-and-the-crisis-of-personhood
-    type: extends
+    type: applies
 created_at: "2026-03-15"
 ---
 

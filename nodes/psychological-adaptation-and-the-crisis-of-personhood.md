@@ -7,15 +7,17 @@ observer_slug: zak-stein
 source_title: "A Time Between Worlds, Zak Stein"
 source_url: "https://www.youtube.com/watch?v=qD5pnsyIYvQ"
 source_author: "Rebel Wisdom"
-tags: [Developmental Psychology, Meta-Crisis, Civilizational Risk, Sensemaking]
+tags: [Systems Thinking, Developmental Psychology, Psychology, Meta-Crisis]
 edges:
+  - target: the-fifth-joint-point-of-evolutionary-complexity
+    type: applies
+  - target: the-structural-inability-to-transmit-human-meaning
+    type: applies
+  - target: metaphysical-architecture-for-the-psyche-in-crisis
+    type: extends
   - target: building-a-metapsychology-of-qualitative-transformation
     type: extends
-  - target: metaphysical-architecture-for-the-psyche-in-crisis
-    type: grounds
   - target: the-spiritual-crisis-beneath-our-global-breakdown
-    type: extends
-  - target: the-structural-inability-to-transmit-human-meaning
     type: extends
 created_at: "2026-03-15"
 ---

@@ -7,15 +7,13 @@ observer_slug: brendan-graham-dempsey
 source_title: "Complexification and Learning: 2. Genetic Learning | The Evolution of Meaning"
 source_url: "https://www.youtube.com/watch?v=OpgkPLi3Zww"
 source_author: "Brendan Graham Dempsey"
-tags: [Evolutionary Biology, Embodied Cognition, Ecology, Information Theory]
+tags: [Evolutionary Biology, Epistemology, Relational Ontology, Information Theory]
 edges:
-  - target: from-thermodynamic-survival-to-cultural-meaning
+  - target: the-transition-from-genetic-memory-to-neural-learning
     type: extends
   - target: the-continuity-of-meaning-from-matter-to-culture
     type: extends
-  - target: the-transition-from-genetic-memory-to-neural-learning
-    type: extends
-  - target: energy-information-and-the-growth-of-complexity
+  - target: information-as-the-mechanism-of-physical-existence
     type: grounds
 created_at: "2026-03-07"
 ---

@@ -9,14 +9,14 @@ source_url: "https://www.youtube.com/watch?v=eA2JK8hN1ek"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Philosophy of Mind, Consciousness Studies, Embodied Cognition, Phenomenology]
 edges:
-  - target: four-distinct-modes-of-human-cognition
-    type: contrasts
-  - target: the-four-distinct-layers-of-mind
-    type: extends
-  - target: the-tripartite-map-of-human-consciousness
+  - target: human-beings-as-justifying-animals-language-ego-and-culture
     type: grounds
+  - target: the-narrative-self-indispensable-storyteller-unreliable-witness
+    type: exemplifies
   - target: the-self-as-a-functional-navigation-process
     type: extends
+  - target: how-propositional-language-created-the-need-for-the-ego
+    type: grounds
 created_at: "2026-03-15"
 ---
 

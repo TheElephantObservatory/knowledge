@@ -9,13 +9,9 @@ source_url: "https://www.youtube.com/watch?v=4OYGvtz0pEU"
 source_author: "Footnotes2Plato"
 tags: [Political Philosophy, Narrative and Myth, Meaning Crisis]
 edges:
-  - target: building-coordination-through-shared-value-stories
+  - target: universal-humanism-uprooted-people-by-erasing-local-belonging
     type: extends
   - target: shared-cosmic-narratives-and-civilizational-value
-    type: extends
-  - target: the-spiritual-crisis-beneath-our-global-breakdown
-    type: grounds
-  - target: the-structural-inability-to-transmit-human-meaning
     type: grounds
   - target: the-misidentification-of-value-in-modern-civilization
     type: grounds

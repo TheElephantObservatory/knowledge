@@ -11,6 +11,12 @@ tags: [Philosophy of Mind, Developmental Psychology, Embodied Cognition, Meaning
 edges:
   - target: educational-skill-building-versus-ai-prosthetic-dependency
     type: applies
+  - target: ai-socialization-and-the-breaking-of-intergenerational-moral-transmission
+    type: extends
+  - target: ai-chatbots-hack-attachment-not-just-attention
+    type: grounds
+  - target: the-structural-inability-to-transmit-human-meaning
+    type: extends
 created_at: "2026-03-15"
 ---
 

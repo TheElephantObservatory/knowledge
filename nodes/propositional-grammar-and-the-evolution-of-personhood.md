@@ -7,12 +7,12 @@ observer_slug: gregg-henriques
 source_title: "Complexification and Learning: 4. Symbolic Learning | The Evolution of Meaning"
 source_url: "https://www.youtube.com/watch?v=UkZighcMjwU"
 source_author: "Brendan Graham Dempsey"
-tags: [Philosophy of Mind, Hermeneutics, Epistemology, Embodied Cognition]
+tags: [Philosophy of Mind, Consciousness Studies, Epistemology, Cultural Evolution]
 edges:
-  - target: from-thermodynamic-survival-to-cultural-meaning
+  - target: from-tribal-intimacy-to-global-institutional-systems
+    type: extends
+  - target: the-transition-from-genetic-memory-to-neural-learning
     type: grounds
-  - target: three-pillars-of-a-new-enlightenment
-    type: applies
 created_at: "2026-03-07"
 ---
 

@@ -7,10 +7,14 @@ observer_slug: zak-stein
 source_title: "Towards a Metapsychology that is True to Transformation w/ Johnny V, Double G, and Zak Stein"
 source_url: "https://www.youtube.com/watch?v=CCU0UJ_2G6E"
 source_author: "The Stoa"
-tags: [Consciousness Studies, Epistemology, Integral Theory, Wisdom Traditions]
+tags: [Consciousness Studies, Epistemology, Integral Theory, Phenomenology]
 edges:
-  - target: the-structural-unification-of-psychological-science
+  - target: personal-transformation-as-a-condition-for-accessing-certain-truths
     type: extends
+  - target: science-as-inter-subjective-practice-not-pure-objectivity
+    type: extends
+  - target: aurobindo-wilber-and-the-legitimacy-of-interior-science-as-rigorous-inquiry
+    type: exemplifies
 created_at: "2026-03-15"
 ---
 

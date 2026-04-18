@@ -9,10 +9,10 @@ source_url: "https://www.youtube.com/watch?v=LeaFCcJNCTI"
 source_author: "Brendan Graham Dempsey"
 tags: [Systems Thinking, Complexity Science, Information Theory]
 edges:
-  - target: the-continuity-of-meaning-from-matter-to-culture
+  - target: mapping-the-four-planes-of-cosmic-emergence
     type: extends
-  - target: from-thermodynamic-survival-to-cultural-meaning
-    type: extends
+  - target: genetic-information-and-the-evolution-of-meaning
+    type: exemplifies
 created_at: "2026-03-07"
 ---
 

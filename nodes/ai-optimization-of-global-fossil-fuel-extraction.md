@@ -7,14 +7,16 @@ observer_slug: daniel-schmachtenberger
 source_title: "The Wide Boundary Impacts of AI with Daniel Schmachtenberger | TGS 132"
 source_url: "https://www.youtube.com/watch?v=1NFuddEAi5s"
 source_author: "Nate Hagens"
-tags: [Political Philosophy, Systems Thinking, Epistemology, Meta-Crisis]
+tags: [Systems Thinking, Epistemology, Meta-Crisis, Sensemaking]
 edges:
-  - target: exponential-financial-systems-within-finite-physical-realities
-    type: grounds
-  - target: the-structural-trap-of-constant-problem-generation
-    type: exemplifies
-  - target: why-economic-profit-ignores-true-planetary-costs
+  - target: ai-acceleration-of-the-global-economic-superorganism
     type: extends
+  - target: the-blind-superorganism-of-global-economic-growth-1
+    type: grounds
+  - target: why-economic-profit-ignores-true-planetary-costs
+    type: grounds
+  - target: the-competitive-logic-of-technological-acceleration
+    type: exemplifies
 created_at: "2026-03-07"
 ---
 

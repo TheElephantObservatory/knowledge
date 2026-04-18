@@ -9,12 +9,12 @@ source_url: "https://www.youtube.com/watch?v=Pbnn2X2fVvA"
 source_author: "Rebel Wisdom"
 tags: [Sacred Ecology, Systems Thinking, Meaning Crisis, Cultural Evolution]
 edges:
+  - target: three-pillars-of-a-new-enlightenment
+    type: extends
   - target: structural-failure-modes-of-collective-sensemaking
-    type: applies
-  - target: validating-local-action-during-global-crisis
-    type: applies
-  - target: the-structural-architecture-of-cultic-emergence
-    type: applies
+    type: grounds
+  - target: reclaiming-human-presence-from-the-logic-of-escape
+    type: contrasts
 created_at: "2026-03-08"
 ---
 

@@ -13,12 +13,8 @@ edges:
     type: extends
   - target: design-criteria-for-a-mature-global-civilization
     type: extends
-  - target: reconciling-ancient-biology-with-god-like-technology
-    type: grounds
   - target: the-generative-dynamics-of-civilizational-self-termination
-    type: exemplifies
-  - target: three-pillars-of-a-new-enlightenment
-    type: applies
+    type: grounds
 created_at: "2026-03-07"
 ---
 

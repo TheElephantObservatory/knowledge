@@ -7,15 +7,13 @@ observer_slug: gregg-henriques
 source_title: "Complexification and Learning: 4. Symbolic Learning | The Evolution of Meaning"
 source_url: "https://www.youtube.com/watch?v=UkZighcMjwU"
 source_author: "Brendan Graham Dempsey"
-tags: [Hermeneutics, Symbolism, Developmental Psychology, Cultural Evolution]
+tags: [Hermeneutics, Developmental Psychology, Relational Ontology, Cultural Evolution]
 edges:
   - target: propositional-grammar-and-the-evolution-of-personhood
     type: extends
-  - target: mapping-the-four-planes-of-cosmic-emergence
-    type: grounds
-  - target: biological-drivers-of-culture-and-political-failure
-    type: contrasts
   - target: from-thermodynamic-survival-to-cultural-meaning
+    type: grounds
+  - target: the-transition-from-genetic-memory-to-neural-learning
     type: grounds
 created_at: "2026-03-07"
 ---

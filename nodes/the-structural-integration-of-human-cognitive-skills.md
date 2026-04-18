@@ -9,12 +9,14 @@ source_url: "https://www.youtube.com/watch?v=Oka3XTDxbqY"
 source_author: "The Jim Rutt Show"
 tags: [Systems Thinking, Developmental Psychology, Epistemology, Cognitive Science]
 edges:
-  - target: the-fifth-joint-point-of-evolutionary-complexity
-    type: extends
-  - target: four-distinct-modes-of-human-cognition
-    type: applies
-  - target: the-neural-process-of-constructing-meaningful-worlds
+  - target: how-rival-developmental-theories-were-measuring-the-same-thing
     type: grounds
+  - target: lectical-scale-measuring-cognitive-complexity-across-developmental-stages
+    type: applies
+  - target: cognitive-stages-constrain-which-ideas-can-be-genuinely-understood
+    type: extends
+  - target: why-logical-minds-cannot-grow-fodors-challenge-and-the-organismic-response
+    type: contrasts
 created_at: "2026-03-15"
 ---
 

@@ -9,10 +9,12 @@ source_url: "https://www.youtube.com/watch?v=nTzkiYwKzXM"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Philosophy of Mind, Epistemology, Ontological Design]
 edges:
-  - target: the-four-distinct-layers-of-mind
+  - target: how-the-tree-of-knowledge-reveals-psychologys-hidden-category-errors
     type: extends
-  - target: metaphysical-architecture-for-the-psyche-in-crisis
-    type: grounds
+  - target: how-psychology-buried-its-foundational-question-under-methods
+    type: extends
+  - target: conflating-how-we-know-with-what-exists-psychologys-foundational-error
+    type: exemplifies
 created_at: "2026-03-15"
 ---
 

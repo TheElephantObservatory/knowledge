@@ -10,15 +10,11 @@ source_author: "Nate Hagens"
 tags: [Systems Thinking, Relevance Realization, Meta-Crisis, Sensemaking]
 edges:
   - target: reclaiming-agency-from-the-curated-information-environment
-    type: applies
-  - target: design-criteria-for-a-mature-global-civilization
     type: grounds
-  - target: mapping-reality-for-meaningful-choice
-    type: grounds
-  - target: the-necessary-uncertainty-of-genuine-expertise
-    type: extends
   - target: the-three-by-three-matrix-of-civilizational-response
     type: extends
+  - target: mapping-reality-for-meaningful-choice
+    type: grounds
 created_at: "2026-03-07"
 ---
 

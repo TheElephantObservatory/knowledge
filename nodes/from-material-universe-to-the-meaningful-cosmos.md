@@ -7,17 +7,17 @@ observer_slug: john-vervaeke
 source_title: "Deep Dive: Race, Culture, Jazz, and Democracy #4 with Greg Thomas"
 source_url: "https://www.youtube.com/watch?v=ZuCieejIEbI"
 source_author: "John Vervaeke’s Lectern"
-tags: [Narrative and Myth, Meaning Crisis, Relational Ontology, Ontological Design]
+tags: [Participatory Epistemology, Meaning Crisis, Relational Ontology, Ontological Design]
 edges:
-  - target: from-thermodynamic-survival-to-cultural-meaning
-    type: extends
-  - target: propositional-grammar-and-the-evolution-of-personhood
-    type: extends
-  - target: mapping-reality-for-meaningful-choice
-    type: applies
   - target: the-continuity-of-meaning-from-matter-to-culture
     type: extends
-  - target: relevance-realization-and-the-optimal-grip
+  - target: enlightenment-infrastructure-in-a-scaled-world
+    type: grounds
+  - target: mapping-the-four-planes-of-cosmic-emergence
+    type: grounds
+  - target: locating-the-wrong-turn-in-western-history
+    type: contrasts
+  - target: from-thermodynamic-survival-to-cultural-meaning
     type: grounds
 created_at: "2026-03-08"
 ---

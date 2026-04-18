@@ -7,18 +7,22 @@ observer_slug: nora-bateson
 source_title: "Moving Beyond Polarization in Service of Life | Reality Roundtable 10"
 source_url: "https://www.youtube.com/watch?v=MDtn0eEas7c"
 source_author: "Nate Hagens"
-tags: [Systems Thinking, Media Ecology, Meta-Crisis, Sensemaking]
+tags: [Systems Thinking, Meta-Crisis, Collective Intelligence, Sensemaking]
 edges:
-  - target: strategic-warfare-in-the-informational-commons
+  - target: reality-as-a-quantum-learning-process
+    type: extends
+  - target: living-wisdom-in-the-american-folk-tradition
     type: exemplifies
-  - target: the-necessary-uncertainty-of-genuine-expertise
-    type: grounds
+  - target: why-economic-profit-ignores-true-planetary-costs
+    type: contrasts
   - target: the-structural-barriers-to-shared-systems-narratives
     type: extends
+  - target: strategic-warfare-in-the-informational-commons
+    type: contrasts
   - target: structural-failure-modes-of-collective-sensemaking
-    type: extends
-  - target: the-digital-arms-race-against-human-perception
     type: exemplifies
+  - target: making-hidden-context-explicit-in-difficult-conversations
+    type: applies
 created_at: "2026-03-07"
 ---
 

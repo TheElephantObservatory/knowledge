@@ -8,6 +8,11 @@ source_title: "Beyond the Meta-Crisis: Zak Stein's Vision for Human Development"
 source_url: "https://www.youtube.com/watch?v=xWpCoJDCgkU"
 source_author: "Life Itself"
 tags: [Meaning Crisis, Meta-Crisis, Ontological Design, Wisdom Traditions]
+edges:
+  - target: value-is-not-arbitrary-its-thermodynamic-roots-in-existence-itself
+    type: extends
+  - target: the-missing-architecture-between-newtonian-matter-and-kantian-mind
+    type: extends
 created_at: "2026-03-15"
 ---
 

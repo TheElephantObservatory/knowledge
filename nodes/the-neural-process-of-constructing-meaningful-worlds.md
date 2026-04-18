@@ -8,6 +8,17 @@ source_title: "Now UTOKing | 4 | Cognition"
 source_url: "https://www.youtube.com/watch?v=CuvDsGXFtho"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Systems Thinking, Relevance Realization, Embodied Cognition, Cognitive Science]
+edges:
+  - target: relevance-only-exists-for-agents-that-care-about-themselves
+    type: extends
+  - target: intelligence-rationality-and-wisdom-as-nested-self-transcending-capacities
+    type: extends
+  - target: mattering-as-a-structural-feature-of-life
+    type: grounds
+  - target: rationality-requires-meaning-how-agents-construct-relevant-worlds
+    type: extends
+  - target: relevance-bridges-the-gap-between-fact-and-value
+    type: grounds
 created_at: "2026-03-15"
 ---
 

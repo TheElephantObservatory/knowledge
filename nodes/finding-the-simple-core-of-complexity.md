@@ -9,8 +9,20 @@ source_url: "https://www.youtube.com/watch?v=jOZzi1Wj0ks"
 source_author: "The Jim Rutt Show"
 tags: [Systems Thinking, Epistemology, Complexity Science]
 edges:
-  - target: managing-systemic-drift-through-continuous-autonomous-correction
+  - target: the-four-dimensions-of-behavioral-complexity
+    type: applies
+  - target: public-narrative-construction-for-sensemaking
+    type: applies
+  - target: why-complicated-systems-have-short-theories-and-complex-systems-do-not
+    type: extends
+  - target: chaos-theorys-true-legacy-epistemic-humility-in-complex-systems
+    type: contrasts
+  - target: assembly-theory-grounds-complexity-in-physical-structure-not-observer-labels
+    type: extends
+  - target: three-axioms-required-before-science-can-begin
     type: exemplifies
+  - target: optimal-adaptation-at-the-edge-of-chaos
+    type: applies
 created_at: "2026-03-18"
 ---
 

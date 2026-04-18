@@ -13,10 +13,6 @@ edges:
     type: extends
   - target: shared-sensemaking-as-the-foundation-for-global-action
     type: grounds
-  - target: reclaiming-human-presence-from-the-logic-of-escape
-    type: extends
-  - target: shared-logic-across-religious-and-secular-raptures
-    type: exemplifies
 created_at: "2026-03-08"
 ---
 

@@ -9,11 +9,11 @@ source_url: "https://www.youtube.com/watch?v=xnfuMFL4B54"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Philosophy of Mind, Consciousness Studies, Epistemology, Psychology]
 edges:
-  - target: integrating-objective-science-and-interior-wisdom
-    type: applies
-  - target: the-structural-unification-of-psychological-science
+  - target: how-psychology-buried-its-foundational-question-under-methods
     type: extends
-  - target: metaphysical-architecture-for-the-psyche-in-crisis
+  - target: psychologys-three-layer-crisis-fragmentation-misidentity-and-self-concealment
+    type: extends
+  - target: the-enlightenment-gap-why-psychology-has-no-unified-paradigm
     type: grounds
   - target: defining-psychology-through-the-ontology-of-mind
     type: extends

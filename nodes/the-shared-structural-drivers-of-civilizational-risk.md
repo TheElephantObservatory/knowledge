@@ -9,11 +9,11 @@ source_url: "https://www.youtube.com/watch?v=9psdN65IzOw"
 source_author: "The Jim Rutt Show"
 tags: [Systems Thinking, Meta-Crisis, Existential Risk, Civilizational Risk]
 edges:
-  - target: the-structural-incompleteness-of-optimization-metrics
+  - target: polycrisis-vs-metacrisis-symptoms-versus-civilizational-root-causes
     type: grounds
-  - target: the-fifth-joint-point-of-evolutionary-complexity
+  - target: four-interlocking-crises-that-compound-into-one-metacrisis
     type: extends
-  - target: the-structural-breakdown-of-our-meaning-making-systems
+  - target: the-metacrisis-as-systemic-failure-of-civilizations-operating-system
     type: extends
 created_at: "2026-03-18"
 ---

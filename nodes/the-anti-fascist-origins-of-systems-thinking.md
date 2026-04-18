@@ -9,8 +9,12 @@ source_url: "https://www.youtube.com/watch?v=EGryvLGLiME"
 source_author: "The Jim Rutt Show"
 tags: [Political Philosophy, Systems Thinking, Ethics, Epistemology]
 edges:
-  - target: how-technology-encodes-unintended-social-values
-    type: applies
+  - target: three-ways-relationships-destroy-themselves-and-what-keeps-them-alive
+    type: extends
+  - target: how-urgency-destroys-the-complexity-needed-to-address-crisis
+    type: extends
+  - target: fascism-and-decadence-as-mirror-failures-of-meaning-making
+    type: contrasts
 created_at: "2026-03-18"
 ---
 

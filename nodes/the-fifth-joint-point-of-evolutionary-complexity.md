@@ -9,16 +9,14 @@ source_url: "https://www.youtube.com/watch?v=Iyns_X8usiA"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Systems Thinking, Meta-Crisis, Civilizational Risk, Complexity Science]
 edges:
-  - target: the-periodic-architecture-of-scientific-dimensions
+  - target: the-fifth-joint-point-humanitys-transition-into-a-global-digital-plane
     type: extends
-  - target: the-four-dimensions-of-behavioral-complexity
+  - target: the-fifth-joint-point-humanitys-next-civilizational-phase-transition
     type: extends
-  - target: mapping-reality-from-energy-to-culture
-    type: grounds
-  - target: the-structural-breakdown-of-our-meaning-making-systems
+  - target: technology-as-a-fifth-dimension-of-evolutionary-complexification
+    type: contrasts
+  - target: ai-and-the-internet-as-a-fifth-major-leap-in-evolutionary-complexity
     type: extends
-  - target: psychological-adaptation-and-the-crisis-of-personhood
-    type: applies
 created_at: "2026-03-15"
 ---
 

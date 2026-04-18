@@ -9,13 +9,15 @@ source_url: "https://www.youtube.com/watch?v=nTzkiYwKzXM"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Philosophy of Mind, Systems Thinking, Epistemology, Integral Theory]
 edges:
-  - target: defining-psychology-through-the-ontology-of-mind
+  - target: the-foundational-crisis-of-psychological-definition
     type: grounds
-  - target: mapping-reality-from-energy-to-culture
+  - target: why-psychology-has-no-unified-foundation-and-what-utok-does-about-it
     type: extends
-  - target: the-four-distinct-layers-of-mind
-    type: extends
-  - target: metaphysical-architecture-for-the-psyche-in-crisis
+  - target: psychologys-three-layer-crisis-fragmentation-misidentity-and-self-concealment
+    type: exemplifies
+  - target: the-periodic-architecture-of-scientific-dimensions
+    type: applies
+  - target: defining-psychology-through-the-ontology-of-mind
     type: grounds
 created_at: "2026-03-15"
 ---

@@ -7,18 +7,16 @@ observer_slug: daniel-schmachtenberger
 source_title: "Making Sense of Sensemaking: Daniel Schmachtenberger, Jamie Wheal, Jordan Hall"
 source_url: "https://www.youtube.com/watch?v=8Es_WTEgZHE"
 source_author: "Rebel Wisdom"
-tags: [Systems Thinking, Epistemology, Collective Intelligence, Sensemaking]
+tags: [Systems Thinking, Epistemology, Relational Ontology, Sensemaking]
 edges:
-  - target: the-necessary-uncertainty-of-genuine-expertise
+  - target: from-thermodynamic-survival-to-cultural-meaning
     type: grounds
   - target: structural-failure-modes-of-collective-sensemaking
     type: extends
-  - target: the-path-from-na-ve-slogans-to-earned-clarity
-    type: extends
   - target: reclaiming-agency-from-the-curated-information-environment
-    type: applies
-  - target: shared-sensemaking-as-the-foundation-for-global-action
-    type: extends
+    type: contrasts
+  - target: information-as-the-mechanism-of-physical-existence
+    type: grounds
 created_at: "2026-03-08"
 ---
 

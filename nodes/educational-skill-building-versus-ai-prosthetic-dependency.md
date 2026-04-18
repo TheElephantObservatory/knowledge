@@ -9,10 +9,14 @@ source_url: "https://www.youtube.com/watch?v=3Cw-g1-0nD8"
 source_author: "The Jim Rutt Show"
 tags: [Developmental Psychology, Epistemology, Embodied Cognition]
 edges:
-  - target: four-distinct-modes-of-human-cognition
+  - target: how-technology-atrophies-the-cognitive-functions-it-replaces
     type: grounds
-  - target: how-ai-captures-the-childs-sense-of-truth
+  - target: how-automation-gradually-erases-civilizational-knowledge
     type: extends
+  - target: why-human-flourishing-requires-genuine-learning-not-its-simulation
+    type: grounds
+  - target: humane-ai-should-strengthen-human-relationships-not-substitute-for-them
+    type: contrasts
 created_at: "2026-03-15"
 ---
 

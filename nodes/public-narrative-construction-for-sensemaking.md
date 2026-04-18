@@ -7,18 +7,16 @@ observer_slug: cory-doctorow
 source_title: "EP4 Cory Doctorow – “Radicalized,” Race and Resilience"
 source_url: "https://www.youtube.com/watch?v=gfTq9qfRCgc"
 source_author: "The Jim Rutt Show"
-tags: [Narrative and Myth, Systems Thinking, Epistemology, Sensemaking]
+tags: [Narrative and Myth, Epistemology, Collective Intelligence, Sensemaking]
 edges:
-  - target: protecting-the-shared-foundations-of-truth
-    type: applies
-  - target: finding-the-simple-core-of-complexity
-    type: extends
   - target: navigating-the-irreversible-collapse-of-collective-sensemaking
+    type: applies
+  - target: how-interrupt-frequency-not-content-breaks-human-sensemaking
+    type: contrasts
+  - target: how-digital-information-overload-is-breaking-collective-decision-making
     type: grounds
-  - target: the-anti-fascist-origins-of-systems-thinking
-    type: grounds
-  - target: the-structural-breakdown-of-our-meaning-making-systems
-    type: extends
+  - target: self-interpreted-micro-narratives-as-an-alternative-to-traditional-surveys
+    type: contrasts
 created_at: "2026-03-18"
 ---
 

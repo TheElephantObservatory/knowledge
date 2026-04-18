@@ -9,16 +9,14 @@ source_url: "https://www.youtube.com/watch?v=m_c2-Bs1BqM"
 source_author: "Rebel Wisdom"
 tags: [Ethics, Epistemology, Meaning Crisis, Civilizational Risk]
 edges:
-  - target: ethical-choice-in-the-mythic-present
+  - target: the-shared-structural-drivers-of-civilizational-risk
     type: applies
-  - target: navigating-the-irreversible-collapse-of-collective-sensemaking
-    type: extends
+  - target: why-deconstruction-cannot-build-a-society-the-collapse-of-moral-language
+    type: contrasts
   - target: the-spiritual-crisis-beneath-our-global-breakdown
-    type: grounds
-  - target: historical-trauma-and-the-loss-of-symbolic-immortality
-    type: grounds
-  - target: psychological-adaptation-and-the-crisis-of-personhood
     type: extends
+  - target: confronting-death-as-the-foundation-of-meaningful-life
+    type: grounds
 created_at: "2026-03-15"
 ---
 

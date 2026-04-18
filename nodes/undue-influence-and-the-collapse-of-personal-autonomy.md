@@ -9,12 +9,10 @@ source_url: "https://www.youtube.com/watch?v=QVx7PABM6x4"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Epistemology, Psychology, Attention Economy, Sensemaking]
 edges:
-  - target: how-ai-captures-the-childs-sense-of-truth
+  - target: ai-companions-hijack-the-brains-attachment-and-reality-testing-systems
+    type: extends
+  - target: ai-chatbots-hack-attachment-not-just-attention
     type: exemplifies
-  - target: educational-skill-building-versus-ai-prosthetic-dependency
-    type: applies
-  - target: psychological-adaptation-and-the-crisis-of-personhood
-    type: grounds
 created_at: "2026-03-15"
 ---
 

@@ -9,16 +9,18 @@ source_url: "https://www.youtube.com/watch?v=tmusbHBKW84"
 source_author: "Nate Hagens"
 tags: [Systems Thinking, Epistemology, Meta-Crisis, Civilizational Risk]
 edges:
-  - target: the-competitive-logic-of-technological-acceleration
-    type: grounds
-  - target: escaping-the-twin-risks-of-catastrophe-and-dystopia
-    type: extends
-  - target: human-nature-and-the-architecture-of-global-risk
-    type: grounds
   - target: design-criteria-for-a-mature-global-civilization
     type: extends
+  - target: the-competitive-logic-of-technological-acceleration
+    type: grounds
   - target: mandating-safety-proofs-for-irreversible-technologies
+    type: applies
+  - target: the-necessary-uncertainty-of-genuine-expertise
+    type: grounds
+  - target: ai-acceleration-of-the-global-economic-superorganism
     type: exemplifies
+  - target: the-three-by-three-matrix-of-civilizational-response
+    type: grounds
 created_at: "2026-03-07"
 ---
 

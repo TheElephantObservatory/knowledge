@@ -9,18 +9,12 @@ source_url: "https://www.youtube.com/watch?v=PYHrVH39XtY"
 source_author: "The Jim Rutt Show"
 tags: [Systems Thinking, Ethics, Epistemology, Information Theory]
 edges:
-  - target: the-category-error-of-machine-personhood
-    type: applies
-  - target: information-entropy-and-the-persistence-of-form
+  - target: how-separating-facts-from-values-left-ethics-illiterate
     type: grounds
-  - target: recovering-the-singular-source-of-human-value
+  - target: why-impartial-ethics-requires-a-god-you-cannot-be
+    type: contrasts
+  - target: why-deconstruction-cannot-build-a-society-the-collapse-of-moral-language
     type: grounds
-  - target: how-technology-encodes-unintended-social-values
-    type: exemplifies
-  - target: synthesizing-opposing-values-for-civilizational-stability
-    type: applies
-  - target: the-structural-incompleteness-of-optimization-metrics
-    type: extends
 created_at: "2026-03-18"
 ---
 

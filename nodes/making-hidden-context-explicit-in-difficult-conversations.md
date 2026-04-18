@@ -9,14 +9,10 @@ source_url: "https://www.youtube.com/watch?v=dGW5J3EbOUY"
 source_author: "Rebel Wisdom"
 tags: [Hermeneutics, Relational Ontology, Phenomenology, Sensemaking]
 edges:
-  - target: communication-as-a-living-relational-ecosystem
-    type: extends
-  - target: three-pillars-of-a-new-enlightenment
-    type: extends
-  - target: strategic-warfare-in-the-informational-commons
-    type: applies
   - target: binary-logic-and-the-practice-of-contextualism
-    type: grounds
+    type: contrasts
+  - target: strategic-warfare-in-the-informational-commons
+    type: contrasts
 created_at: "2026-03-07"
 ---
 

@@ -9,10 +9,12 @@ source_url: "https://www.youtube.com/watch?v=8Es_WTEgZHE"
 source_author: "Rebel Wisdom"
 tags: [Systems Thinking, Game B, Civilizational Risk, Cultural Evolution]
 edges:
-  - target: shared-sensemaking-as-the-foundation-for-global-action
-    type: extends
-  - target: enlightenment-infrastructure-in-a-scaled-world
+  - target: the-generative-dynamics-of-civilizational-self-termination
     type: grounds
+  - target: human-nature-and-the-architecture-of-global-risk
+    type: extends
+  - target: the-structural-tension-of-global-coordination-systems
+    type: extends
 created_at: "2026-03-08"
 ---
 

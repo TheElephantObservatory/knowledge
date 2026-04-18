@@ -9,12 +9,12 @@ source_url: "https://www.youtube.com/watch?v=hZrjJLwjpto"
 source_author: "Rebel Wisdom"
 tags: [Systems Thinking, Ethics, Epistemology, Game Theory]
 edges:
-  - target: the-structural-architecture-of-cultic-emergence
+  - target: the-necessary-uncertainty-of-genuine-expertise
+    type: grounds
+  - target: strategic-warfare-in-the-informational-commons
     type: extends
   - target: structural-failure-modes-of-collective-sensemaking
-    type: grounds
-  - target: binary-logic-and-the-practice-of-contextualism
-    type: grounds
+    type: extends
 created_at: "2026-03-08"
 ---
 

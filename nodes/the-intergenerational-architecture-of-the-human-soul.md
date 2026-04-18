@@ -9,14 +9,16 @@ source_url: "https://www.youtube.com/watch?v=IaYZY57hmQk"
 source_author: "The Stoa"
 tags: [Developmental Psychology, Meaning Crisis, Relational Ontology, Wisdom Traditions]
 edges:
+  - target: psychological-adaptation-and-the-crisis-of-personhood
+    type: grounds
+  - target: soul-and-spirit-as-distinct-dimensions-of-selfhood
+    type: grounds
+  - target: ai-socialization-and-the-breaking-of-intergenerational-moral-transmission
+    type: contrasts
   - target: ai-mimicry-and-the-crisis-of-human-formation
-    type: applies
+    type: contrasts
   - target: integrating-development-ensoulment-and-transcendence
     type: extends
-  - target: metaphysical-architecture-for-the-psyche-in-crisis
-    type: grounds
-  - target: mattering-as-a-structural-feature-of-life
-    type: grounds
 created_at: "2026-03-15"
 ---
 

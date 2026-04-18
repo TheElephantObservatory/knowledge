@@ -9,14 +9,14 @@ source_url: "https://www.youtube.com/watch?v=9psdN65IzOw"
 source_author: "The Jim Rutt Show"
 tags: [Systems Thinking, Evolutionary Biology, Civilizational Risk, Complexity Science]
 edges:
-  - target: the-fifth-joint-point-of-evolutionary-complexity
-    type: grounds
-  - target: the-competitive-logic-of-existential-risk
-    type: extends
-  - target: humanity-as-a-constitutively-technological-creature
-    type: extends
-  - target: the-structural-incompleteness-of-optimization-metrics
+  - target: ais-benefits-and-harms-are-not-symmetrically-distributed-or-reversible
     type: applies
+  - target: the-competitive-logic-of-existential-risk
+    type: grounds
+  - target: technology-as-a-fifth-dimension-of-evolutionary-complexification
+    type: extends
+  - target: ai-accelerates-the-system-that-produces-it-making-it-uniquely-dangerous
+    type: exemplifies
 created_at: "2026-03-18"
 ---
 

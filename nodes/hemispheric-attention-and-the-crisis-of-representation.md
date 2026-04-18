@@ -9,16 +9,16 @@ source_url: "https://www.youtube.com/watch?v=P7i1ughRGcQ"
 source_author: "John Vervaeke’s Lectern"
 tags: [Philosophy of Mind, Meaning Crisis, Neuroscience, Sensemaking]
 edges:
-  - target: propositional-grammar-and-the-evolution-of-personhood
-    type: extends
-  - target: relevance-realization-and-the-optimal-grip
-    type: extends
-  - target: the-evolution-of-brains-as-predictive-models
-    type: contrasts
-  - target: reclaiming-agency-from-the-curated-information-environment
+  - target: reclaiming-human-presence-from-the-logic-of-escape
+    type: grounds
+  - target: mapping-reality-for-meaningful-choice
     type: applies
   - target: biological-drivers-of-culture-and-political-failure
     type: grounds
+  - target: binary-logic-and-the-practice-of-contextualism
+    type: contrasts
+  - target: locating-the-wrong-turn-in-western-history
+    type: extends
 created_at: "2026-03-07"
 ---
 

@@ -7,9 +7,11 @@ observer_slug: brendan-graham-dempsey
 source_title: "Complexification and Learning: 1. Structural Learning | The Evolution of Meaning"
 source_url: "https://www.youtube.com/watch?v=tkwgDtTWfcU"
 source_author: "Brendan Graham Dempsey"
-tags: [Systems Thinking, Complexity Science, Relational Ontology, Information Theory]
+tags: [Process Philosophy, Complexity Science, Relational Ontology, Information Theory]
 edges:
-  - target: the-transition-from-genetic-memory-to-neural-learning
+  - target: mapping-the-four-planes-of-cosmic-emergence
+    type: exemplifies
+  - target: propositional-grammar-and-the-evolution-of-personhood
     type: extends
 created_at: "2026-03-07"
 ---

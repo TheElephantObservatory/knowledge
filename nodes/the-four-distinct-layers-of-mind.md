@@ -9,12 +9,28 @@ source_url: "https://www.youtube.com/watch?v=90D8quVS2tE"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Philosophy of Mind, Consciousness Studies, UTOK, Phenomenology]
 edges:
-  - target: four-distinct-modes-of-human-cognition
-    type: extends
-  - target: distinguishing-stages-stations-and-consciousness-phases
-    type: extends
-  - target: the-foundational-crisis-of-psychological-definition
+  - target: the-epistemic-distinction-between-science-and-psyche
     type: grounds
+  - target: the-self-as-a-functional-navigation-process
+    type: grounds
+  - target: mapping-reality-from-energy-to-culture
+    type: applies
+  - target: distinguishing-what-we-know-from-what-exists
+    type: applies
+  - target: how-language-crosses-the-boundary-between-private-and-shared-minds
+    type: grounds
+  - target: the-tripartite-map-of-human-consciousness
+    type: contrasts
+  - target: why-neuroscience-and-philosophy-talk-past-each-other-on-consciousness
+    type: extends
+  - target: why-consciousness-research-forgot-the-talking-self
+    type: applies
+  - target: three-axes-of-mind-layers-location-and-epistemic-access
+    type: extends
+  - target: the-three-layered-architecture-of-human-self-consciousness
+    type: extends
+  - target: the-narrative-self-indispensable-storyteller-unreliable-witness
+    type: extends
 created_at: "2026-03-15"
 ---
 

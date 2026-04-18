@@ -9,12 +9,18 @@ source_url: "https://www.youtube.com/watch?v=HSV_GzIeeS4"
 source_author: "Nate Hagens"
 tags: [Consciousness Studies, Civilizational Risk, Cultural Evolution, Wisdom Traditions]
 edges:
-  - target: locating-the-wrong-turn-in-western-history
-    type: grounds
-  - target: structural-failure-modes-of-collective-sensemaking
-    type: extends
   - target: how-pluralistic-hesitation-enables-bad-faith-actors
-    type: applies
+    type: contrasts
+  - target: digital-market-incentives-and-the-new-intellectuals
+    type: contrasts
+  - target: wilderness-risk-and-leaderless-psychedelic-culture
+    type: exemplifies
+  - target: living-wisdom-in-the-american-folk-tradition
+    type: contrasts
+  - target: reclaiming-human-presence-from-the-logic-of-escape
+    type: extends
+  - target: the-simultaneous-collapse-of-sacred-and-secular-authority
+    type: grounds
 created_at: "2026-03-08"
 ---
 

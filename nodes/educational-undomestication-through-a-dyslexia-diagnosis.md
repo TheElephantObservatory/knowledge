@@ -9,18 +9,16 @@ source_url: "https://www.youtube.com/watch?v=1Fv3S8T2nVE"
 source_author: "Life Itself"
 tags: [Developmental Psychology, Epistemology, Psychology]
 edges:
-  - target: the-capability-crisis-of-unjust-educational-systems
+  - target: why-educational-reform-requires-decentralization-not-optimization
     type: extends
-  - target: integrating-development-ensoulment-and-transcendence
+  - target: mapping-the-shape-of-a-childs-mind-through-expressive-output
+    type: contrasts
+  - target: why-human-flourishing-requires-genuine-learning-not-its-simulation
     type: extends
-  - target: open-sourcing-ecstasy-against-institutional-gatekeeping
+  - target: the-structural-inability-to-transmit-human-meaning
+    type: grounds
+  - target: structural-educational-lag-and-civilizational-collapse
     type: exemplifies
-  - target: psychological-adaptation-and-the-crisis-of-personhood
-    type: extends
-  - target: the-structural-integration-of-human-cognitive-skills
-    type: grounds
-  - target: the-developmental-origin-of-value-perception
-    type: grounds
 created_at: "2026-03-15"
 ---
 

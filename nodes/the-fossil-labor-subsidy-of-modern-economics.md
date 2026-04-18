@@ -9,10 +9,12 @@ source_url: "https://www.youtube.com/watch?v=rpN-H68rmb4"
 source_author: "Nate Hagens"
 tags: [Systems Thinking, Epistemology, Civilizational Risk, Complexity Science]
 edges:
-  - target: the-misidentification-of-value-in-modern-civilization
-    type: grounds
+  - target: decoupling-human-population-from-natural-nitrogen-cycles
+    type: exemplifies
   - target: energy-quality-and-the-physics-of-civilizational-scale
-    type: extends
+    type: grounds
+  - target: ai-as-universal-labor-displacement-why-historical-reassurances-no-longer-apply
+    type: contrasts
 created_at: "2026-03-15"
 ---
 

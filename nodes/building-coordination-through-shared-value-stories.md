@@ -9,11 +9,11 @@ source_url: "https://www.youtube.com/watch?v=pLMTqNiTFQo"
 source_author: "Footnotes2Plato"
 tags: [Systems Thinking, Meta-Crisis, Cultural Evolution, Sensemaking]
 edges:
-  - target: the-structural-inability-to-transmit-human-meaning
-    type: applies
-  - target: recovering-the-singular-source-of-human-value
-    type: extends
   - target: myth-as-a-long-term-survival-technology
+    type: applies
+  - target: shared-cosmic-narratives-and-civilizational-value
+    type: grounds
+  - target: the-shared-structural-drivers-of-civilizational-risk
     type: extends
   - target: the-misidentification-of-value-in-modern-civilization
     type: grounds

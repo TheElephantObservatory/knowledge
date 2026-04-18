@@ -9,12 +9,12 @@ source_url: "https://www.youtube.com/watch?v=ZCOfUYrZJMQ"
 source_author: "Rebel Wisdom"
 tags: [Political Philosophy, Systems Thinking, Game Theory, Civilizational Risk]
 edges:
-  - target: from-tribal-intimacy-to-global-institutional-systems
+  - target: the-generative-dynamics-of-civilizational-self-termination
     type: grounds
-  - target: three-pillars-of-a-new-enlightenment
+  - target: the-three-by-three-matrix-of-civilizational-response
+    type: applies
+  - target: human-nature-and-the-architecture-of-global-risk
     type: grounds
-  - target: ai-acceleration-of-the-global-economic-superorganism
-    type: exemplifies
 created_at: "2026-03-07"
 ---
 

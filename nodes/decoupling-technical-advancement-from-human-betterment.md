@@ -9,16 +9,16 @@ source_url: "https://www.youtube.com/watch?v=tmusbHBKW84"
 source_author: "Nate Hagens"
 tags: [Systems Thinking, Ethics, Epistemology, Meta-Crisis]
 edges:
+  - target: reconciling-ancient-biology-with-god-like-technology
+    type: exemplifies
+  - target: the-structural-trap-of-constant-problem-generation
+    type: exemplifies
+  - target: enlightenment-infrastructure-in-a-scaled-world
+    type: contrasts
+  - target: locating-the-wrong-turn-in-western-history
+    type: grounds
   - target: ai-optimization-of-global-fossil-fuel-extraction
     type: exemplifies
-  - target: the-digital-arms-race-against-human-perception
-    type: exemplifies
-  - target: binary-logic-and-the-practice-of-contextualism
-    type: grounds
-  - target: reconciling-ancient-biology-with-god-like-technology
-    type: grounds
-  - target: mandating-safety-proofs-for-irreversible-technologies
-    type: applies
 created_at: "2026-03-07"
 ---
 

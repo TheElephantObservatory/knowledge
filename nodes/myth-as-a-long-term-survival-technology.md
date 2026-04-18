@@ -7,7 +7,16 @@ observer_slug: zak-stein
 source_title: "Myth, Wisdom & Pandemic, Stephen Jenkinson, Zak Stein & Charlotte Du Cann"
 source_url: "https://www.youtube.com/watch?v=m_c2-Bs1BqM"
 source_author: "Rebel Wisdom"
-tags: [Narrative and Myth, Cultural Evolution, Wisdom Traditions, Sensemaking]
+tags: [Narrative and Myth, Systems Thinking, Wisdom Traditions, Sensemaking]
+edges:
+  - target: shared-cosmic-narratives-and-civilizational-value
+    type: applies
+  - target: myth-as-encoded-wisdom-hero-narratives-and-the-edge-of-chaos
+    type: extends
+  - target: mythology-and-chaos-theory-describe-the-same-underlying-reality
+    type: grounds
+  - target: how-civilizations-encode-the-sacred-at-each-stage-of-symbolic-complexity
+    type: exemplifies
 created_at: "2026-03-15"
 ---
 

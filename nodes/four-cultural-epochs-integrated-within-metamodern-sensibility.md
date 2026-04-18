@@ -9,11 +9,13 @@ source_url: "https://www.youtube.com/watch?v=jHnBFHTFRPg"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Epistemology, UTOK, Metamodernism, Cultural Evolution]
 edges:
-  - target: mapping-reality-from-energy-to-culture
-    type: extends
-  - target: myth-as-a-long-term-survival-technology
-    type: applies
-  - target: the-fifth-joint-point-of-evolutionary-complexity
+  - target: cultural-value-is-revised-by-later-epochs-not-fixed-by-its-own
+    type: exemplifies
+  - target: two-metamodernisms-aesthetic-category-vs-developmental-theory
+    type: contrasts
+  - target: how-civilizations-encode-the-sacred-at-each-stage-of-symbolic-complexity
+    type: grounds
+  - target: five-economic-layers-that-coexist-beneath-capitalisms-surface
     type: extends
 created_at: "2026-03-15"
 ---

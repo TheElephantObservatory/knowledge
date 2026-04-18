@@ -9,8 +9,14 @@ source_url: "https://www.youtube.com/watch?v=HNpB8RhM5Tk"
 source_author: "Life Itself"
 tags: [Philosophy of Mind, Developmental Psychology, Ethics, Ontological Design]
 edges:
-  - target: mapping-reality-from-energy-to-culture
-    type: grounds
+  - target: ai-companions-hijack-the-brains-attachment-and-reality-testing-systems
+    type: applies
+  - target: why-artificial-intelligence-is-a-category-error-about-the-nature-of-mind
+    type: extends
+  - target: ai-attachment-systems-are-replacing-human-developmental-bonds
+    type: applies
+  - target: ai-alignment-requires-individual-souls-not-societal-abstractions
+    type: extends
 created_at: "2026-03-15"
 ---
 
