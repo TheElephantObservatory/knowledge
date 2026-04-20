@@ -9,8 +9,6 @@ source_url: "https://www.youtube.com/watch?v=trZPxcbZsHc"
 source_author: "The Jim Rutt Show"
 tags: [Consciousness Studies, Systems Thinking, Epistemology, Civilizational Risk]
 edges:
-  - target: how-automation-gradually-erases-civilizational-knowledge
-    type: exemplifies
   - target: structural-educational-lag-and-civilizational-collapse
     type: applies
   - target: ai-mimicry-and-the-crisis-of-human-formation

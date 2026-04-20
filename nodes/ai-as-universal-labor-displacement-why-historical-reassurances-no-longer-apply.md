@@ -9,10 +9,6 @@ source_url: "https://www.youtube.com/watch?v=r0JVbEmZt6I"
 source_author: "Nate Hagens"
 tags: [Political Philosophy, Systems Thinking, Existential Risk, Civilizational Risk]
 edges:
-  - target: how-automation-gradually-erases-civilizational-knowledge
-    type: extends
-  - target: when-costs-collapse-does-demand-explode-ai-and-the-future-of-creative-labor
-    type: contrasts
   - target: ais-benefits-and-harms-are-not-symmetrically-distributed-or-reversible
     type: extends
 created_at: "2026-04-01"

@@ -11,8 +11,6 @@ tags: [Systems Thinking, Ontological Design, Information Theory]
 edges:
   - target: three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence
     type: grounds
-  - target: human-creativity-and-language-models-share-an-uncomfortable-architecture
-    type: grounds
   - target: why-artificial-intelligence-is-a-category-error-about-the-nature-of-mind
     type: extends
   - target: ai-models-converge-on-shared-representations-of-reality

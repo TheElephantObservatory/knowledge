@@ -4,4 +4,4 @@ slug: sara-ness
 website: "https://www.authrev.org/"
 ---
 
-Sara Ness is the founder and CEO of Authentic Revolution, widely credited with bringing Authentic Relating to a global audience. Beginning at age 20, she created the Authentic Relating Games Manual and has since trained more than 1,000 facilitators, seeding AR communities on every continent, and working with organizations including Google, Dell, and Mindvalley.
+Sara Ness is the founder of Authentic Revolution, an organization dedicated to advancing the practice and culture of authentic relating (AR) globally. She has trained thousands of practitioners, led international gatherings, and developed training curricula that bridge relational practices with community-building and personal development.

@@ -15,8 +15,6 @@ edges:
     type: extends
   - target: coherence-vs-exploration-why-game-b-communities-collapse-without-institutional-architecture
     type: exemplifies
-  - target: epistemic-decay-selects-for-sociopaths-and-disables-collective-recovery
-    type: extends
 created_at: "2026-04-05"
 ---
 

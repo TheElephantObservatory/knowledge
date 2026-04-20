@@ -4,4 +4,4 @@ slug: brad-kershner
 website: "https://integratedemergence.substack.com/"
 ---
 
-Educator and independent scholar whose work applies Ken Wilber's integral theory and Robert Kegan's developmental psychology to school leadership and institutional complexity. His book Understanding Educational Complexity (2021) synthesizes integral philosophy with complexity science to reimagine how leaders and schools can navigate 21st-century challenges. He is Head of School at Kimberton Waldorf School and a longtime Buddhist practitioner who writes on education, culture, and human development.
+Brad Kershner is an educator and philosopher based in Vermont whose work integrates integral theory, developmental psychology, and complexity science in the context of higher education. He has been deeply influenced by the work of Jean Gebser and Ken Wilber and teaches courses on consciousness, leadership, and transformative education. Kershner is known for weaving together diverse epistemological traditions to help students navigate an increasingly complex world.

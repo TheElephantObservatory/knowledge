@@ -8,6 +8,15 @@ source_title: "Escaping an Anti-Human Future: A Conversation with Tristan Harris
 source_url: "https://www.youtube.com/watch?v=90irsXaKxZA"
 source_author: "Sam Harris"
 tags: [Political Philosophy, Systems Thinking, Existential Risk, Civilizational Risk]
+edges:
+  - target: the-ai-race-as-a-self-fulfilling-collective-action-trap
+    type: extends
+  - target: the-competitive-logic-of-existential-risk
+    type: grounds
+  - target: mammon-and-moloch-the-twin-forces-governing-humanitys-ai-encounter
+    type: grounds
+  - target: why-ai-builders-may-have-already-accepted-catastrophe
+    type: extends
 created_at: "2026-04-12"
 ---
 

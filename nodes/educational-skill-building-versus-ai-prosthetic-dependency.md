@@ -11,8 +11,6 @@ tags: [Developmental Psychology, Epistemology, Embodied Cognition]
 edges:
   - target: how-technology-atrophies-the-cognitive-functions-it-replaces
     type: grounds
-  - target: how-automation-gradually-erases-civilizational-knowledge
-    type: extends
   - target: why-human-flourishing-requires-genuine-learning-not-its-simulation
     type: grounds
   - target: humane-ai-should-strengthen-human-relationships-not-substitute-for-them

@@ -11,8 +11,6 @@ tags: [Systems Thinking, Meta-Crisis, Civilizational Risk, Sensemaking]
 edges:
   - target: the-second-collapse-of-epistemic-authority-in-western-history
     type: exemplifies
-  - target: ai-accelerates-civilizational-collapse-by-compressing-transition-time
-    type: contrasts
   - target: civilizational-awakening-requires-immanent-transcendence-not-a-magic-moment
     type: extends
 created_at: "2026-04-05"

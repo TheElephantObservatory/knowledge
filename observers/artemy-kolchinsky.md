@@ -4,4 +4,4 @@ slug: artemy-kolchinsky
 website: "https://artemyk.github.io/"
 ---
 
-Artemy Kolchinsky is a physicist whose research sits at the intersection of information theory, nonequilibrium thermodynamics, and complex systems, with a particular focus on the physical and energetic costs of computation and biological information processing. He has established fundamental thermodynamic bounds on processes ranging from Turing machines to intracellular signaling, and has held positions at the Santa Fe Institute and the Universal Biology Institute at the University of Tokyo.
+Artemy Kolchinsky is a researcher at the Santa Fe Institute working at the intersection of thermodynamics, information theory, and the origins of life. His work develops rigorous mathematical frameworks linking non-equilibrium physics, semantic information, and the physical conditions that give rise to biological organization and purpose.

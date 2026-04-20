@@ -11,8 +11,6 @@ tags: [Political Philosophy, Systems Thinking, Ethics, Existential Risk]
 edges:
   - target: why-new-technologies-arm-attackers-before-defending-users
     type: exemplifies
-  - target: ai-accelerates-civilizational-collapse-by-compressing-transition-time
-    type: extends
   - target: ai-accelerates-the-system-that-produces-it-making-it-uniquely-dangerous
     type: extends
 created_at: "2026-04-01"

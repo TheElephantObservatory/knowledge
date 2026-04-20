@@ -13,8 +13,6 @@ edges:
     type: extends
   - target: ai-socialization-and-the-breaking-of-intergenerational-moral-transmission
     type: exemplifies
-  - target: how-automation-gradually-erases-civilizational-knowledge
-    type: exemplifies
   - target: teacherly-authority-as-civilizational-mechanism-for-human-development
     type: applies
 created_at: "2026-04-05"

@@ -5,4 +5,4 @@ website: "http://www.cfa.harvard.edu/~ejchaisson"
 wikipedia: "https://en.wikipedia.org/wiki/Eric_Chaisson"
 ---
 
-Eric Chaisson is an astrophysicist at the Harvard-Smithsonian Center for Astrophysics best known for developing the interdisciplinary science of cosmic evolution — a unified account of complexity from the Big Bang through galaxies, stars, planets, life, and culture. His signature contribution is the concept of energy rate density as a single thermodynamic metric for comparing the rise of complexity across all natural systems, explored in his award-winning books Cosmic Dawn and Cosmic Evolution.
+Eric Chaisson is an astrophysicist and cosmologist at Harvard University who developed the framework of Cosmic Evolution, tracing the emergence of complexity from the Big Bang through galaxies, life, culture, and technology using energy rate density as the unifying metric. He is the author of numerous books and a pioneering educator dedicated to making the full sweep of cosmic history accessible to broad audiences.

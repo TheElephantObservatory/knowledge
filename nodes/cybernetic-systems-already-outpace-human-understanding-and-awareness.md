@@ -9,11 +9,7 @@ source_url: "https://www.youtube.com/watch?v=_77LaCvto5Q"
 source_author: "The Jim Rutt Show"
 tags: [Consciousness Studies, Systems Thinking, Epistemology, Civilizational Risk]
 edges:
-  - target: how-automation-gradually-erases-civilizational-knowledge
-    type: exemplifies
   - target: ai-accelerates-the-system-that-produces-it-making-it-uniquely-dangerous
-    type: extends
-  - target: ai-accelerates-civilizational-collapse-by-compressing-transition-time
     type: extends
   - target: the-metacrisis-as-systemic-failure-of-civilizations-operating-system
     type: grounds

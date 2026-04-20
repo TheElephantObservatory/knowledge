@@ -9,8 +9,6 @@ source_url: "https://www.youtube.com/watch?v=JDZbH9w8QiQ"
 source_author: "The Jim Rutt Show"
 tags: [Systems Thinking, Media Ecology, Attention Economy]
 edges:
-  - target: epistemic-decay-selects-for-sociopaths-and-disables-collective-recovery
-    type: extends
   - target: how-attention-gets-hijacked-before-you-notice-its-gone
     type: grounds
 created_at: "2026-04-01"

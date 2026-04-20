@@ -8,6 +8,13 @@ source_title: "Now UTOKing | 12 | Metaphysics"
 source_url: "https://www.youtube.com/watch?v=uezaTXQBePE"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Systems Thinking, Epistemology, Ontological Design]
+edges:
+  - target: distinguishing-what-we-know-from-what-exists
+    type: extends
+  - target: conflating-how-we-know-with-what-exists-psychologys-foundational-error
+    type: exemplifies
+  - target: how-the-tree-of-knowledge-reveals-psychologys-hidden-category-errors
+    type: applies
 created_at: "2026-03-15"
 ---
 

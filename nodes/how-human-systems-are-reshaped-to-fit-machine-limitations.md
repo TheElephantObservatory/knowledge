@@ -9,8 +9,6 @@ source_url: "https://www.youtube.com/watch?v=YW2F3JbP2uo"
 source_author: "Artem Zen"
 tags: [Systems Thinking, Meta-Crisis, Civilizational Risk, Ontological Design]
 edges:
-  - target: how-automation-gradually-erases-civilizational-knowledge
-    type: extends
   - target: realized-vs-generative-complexity-why-foundations-outweigh-surfaces
     type: grounds
   - target: how-technology-encodes-unintended-social-values

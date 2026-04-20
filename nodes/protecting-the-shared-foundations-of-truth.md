@@ -11,8 +11,6 @@ tags: [Media Ecology, Epistemology, Attention Economy, Sensemaking]
 edges:
   - target: undue-influence-and-the-collapse-of-personal-autonomy
     type: applies
-  - target: epistemic-decay-selects-for-sociopaths-and-disables-collective-recovery
-    type: extends
   - target: the-second-collapse-of-epistemic-authority-in-western-history
     type: grounds
 created_at: "2026-03-15"

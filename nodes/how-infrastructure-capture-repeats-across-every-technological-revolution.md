@@ -11,8 +11,6 @@ tags: [Political Philosophy, Systems Thinking, Existential Risk, Civilizational 
 edges:
   - target: large-platforms-as-public-infrastructure-the-case-for-common-carrier-regulation
     type: extends
-  - target: ai-accelerates-civilizational-collapse-by-compressing-transition-time
-    type: applies
   - target: how-institutions-reverse-to-consume-the-people-they-were-built-to-serve
     type: exemplifies
   - target: mammon-and-moloch-the-twin-forces-governing-humanitys-ai-encounter
