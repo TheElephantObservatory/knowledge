@@ -15,8 +15,6 @@ edges:
     type: extends
   - target: chaos-theorys-true-legacy-epistemic-humility-in-complex-systems
     type: extends
-  - target: three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence
-    type: grounds
 created_at: "2026-04-01"
 ---
 

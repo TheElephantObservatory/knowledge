@@ -9,8 +9,6 @@ source_url: "https://www.youtube.com/watch?v=rU3mfFXhEPk"
 source_author: "The Jim Rutt Show"
 tags: [Systems Thinking, Process Philosophy, Complexity Science, Relational Ontology]
 edges:
-  - target: three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence
-    type: extends
   - target: relationship-is-more-primitive-than-the-object
     type: grounds
 created_at: "2026-04-01"

@@ -11,8 +11,6 @@ tags: [Systems Thinking, Relevance Realization, Complexity Science, Ontological 
 edges:
   - target: organization-not-composition-how-complex-systems-produce-themselves
     type: grounds
-  - target: three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence
-    type: extends
   - target: complex-objects-carry-their-causal-history-as-physical-size-in-time
     type: extends
 created_at: "2026-04-01"

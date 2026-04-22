@@ -9,8 +9,6 @@ source_url: "https://www.youtube.com/watch?v=TwuB7pZf6s0"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Systems Thinking, Epistemology, Complexity Science, Ontological Design]
 edges:
-  - target: three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence
-    type: extends
   - target: why-big-history-needs-four-dimensions-not-one
     type: grounds
   - target: the-fifth-joint-point-humanitys-next-civilizational-phase-transition

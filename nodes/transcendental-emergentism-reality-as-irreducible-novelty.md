@@ -11,8 +11,6 @@ tags: [Systems Thinking, Process Philosophy, Epistemology, Ontological Design]
 edges:
   - target: transcendental-emergentism-rejecting-reduction-and-pan-psychism-for-layered-reality
     type: extends
-  - target: three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence
-    type: grounds
   - target: process-philosophy-replaces-spatial-hierarchy-with-temporal-duration
     type: extends
   - target: the-missing-architecture-between-newtonian-matter-and-kantian-mind

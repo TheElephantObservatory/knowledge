@@ -15,8 +15,6 @@ edges:
     type: contrasts
   - target: kegans-five-orders-how-the-self-grows-in-complexity
     type: contrasts
-  - target: three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence
-    type: grounds
 created_at: "2026-04-05"
 ---
 

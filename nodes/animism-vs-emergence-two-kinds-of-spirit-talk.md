@@ -15,8 +15,6 @@ edges:
     type: extends
   - target: aboriginal-spirit-as-the-signal-network-of-living-systems
     type: contrasts
-  - target: three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence
-    type: grounds
 created_at: "2026-04-05"
 ---
 

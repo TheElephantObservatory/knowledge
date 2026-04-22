@@ -9,8 +9,6 @@ source_url: "https://www.youtube.com/watch?v=TwuB7pZf6s0"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Systems Thinking, Complexity Science, Relational Ontology, Ontological Design]
 edges:
-  - target: three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence
-    type: grounds
   - target: primary-units-of-organization-across-matter-life-mind-and-culture
     type: extends
   - target: the-tree-of-knowledge-mapping-realitys-four-planes-of-complexity

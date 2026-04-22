@@ -15,8 +15,6 @@ edges:
     type: contrasts
   - target: meaning-as-a-structural-feature-of-reality-not-human-projection
     type: extends
-  - target: three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence
-    type: grounds
 created_at: "2026-04-05"
 ---
 

@@ -13,8 +13,6 @@ edges:
     type: grounds
   - target: ai-and-the-internet-as-a-fifth-major-leap-in-evolutionary-complexity
     type: extends
-  - target: three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence
-    type: grounds
 created_at: "2026-04-05"
 ---
 

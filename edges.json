@@ -705,11 +705,6 @@
     "relationship_type": "exemplifies"
   },
   {
-    "source_slug": "realized-vs-generative-complexity-why-foundations-outweigh-surfaces",
-    "target_slug": "three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "the-humanities-are-thriving-outside-the-university",
     "target_slug": "the-commons-as-church-humanitys-forgotten-third-mode-of-organization",
     "relationship_type": "extends"
@@ -2700,11 +2695,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "transcendental-emergentism-reality-as-irreducible-novelty",
-    "target_slug": "three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "why-complexity-of-thought-is-not-a-measure-of-wisdom",
     "target_slug": "cognitive-stages-constrain-which-ideas-can-be-genuinely-understood",
     "relationship_type": "grounds"
@@ -3393,11 +3383,6 @@
     "source_slug": "the-fifth-joint-point-humanitys-next-civilizational-phase-transition",
     "target_slug": "ai-and-the-internet-as-a-fifth-major-leap-in-evolutionary-complexity",
     "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-fifth-joint-point-humanitys-next-civilizational-phase-transition",
-    "target_slug": "three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence",
-    "relationship_type": "grounds"
   },
   {
     "source_slug": "building-a-fifth-attractor-before-civilizational-collapse-occurs",
@@ -4383,11 +4368,6 @@
     "source_slug": "how-ritual-was-misclassified-as-irrationality-and-why-that-error-costs-us",
     "target_slug": "naturalizing-the-sacred-without-evacuating-its-meaning",
     "relationship_type": "extends"
-  },
-  {
-    "source_slug": "why-copyright-cannot-govern-ais-extraction-of-creative-essence",
-    "target_slug": "three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence",
-    "relationship_type": "grounds"
   },
   {
     "source_slug": "civilizational-awakening-requires-immanent-transcendence-not-a-magic-moment",
@@ -8940,11 +8920,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "natures-primary-units-atoms-cells-animals-persons",
-    "target_slug": "three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "how-higher-level-organization-causally-shapes-its-own-components",
     "target_slug": "science-undermines-itself-when-it-denies-higher-levels-of-reality",
     "relationship_type": "extends"
@@ -10040,11 +10015,6 @@
     "relationship_type": "exemplifies"
   },
   {
-    "source_slug": "how-recognition-transforms-latent-potential-into-historical-consequence",
-    "target_slug": "three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence",
-    "relationship_type": "exemplifies"
-  },
-  {
     "source_slug": "how-identity-is-layered-across-scales-of-belonging",
     "target_slug": "human-beings-as-justifying-animals-language-ego-and-culture",
     "relationship_type": "grounds"
@@ -10078,11 +10048,6 @@
     "source_slug": "boundaries-are-artifacts-of-scale-not-features-of-reality",
     "target_slug": "whiteheads-scale-free-ontology-same-being-increasing-complexity",
     "relationship_type": "contrasts"
-  },
-  {
-    "source_slug": "organization-not-composition-how-complex-systems-produce-themselves",
-    "target_slug": "three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence",
-    "relationship_type": "extends"
   },
   {
     "source_slug": "the-enlightenment-gap-why-psychology-has-no-unified-paradigm",
@@ -10455,11 +10420,6 @@
     "relationship_type": "contrasts"
   },
   {
-    "source_slug": "surplus-coherence-how-meaning-emerges-across-all-scales-of-existence",
-    "target_slug": "three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "psychologys-three-layer-crisis-fragmentation-misidentity-and-self-concealment",
     "target_slug": "why-psychotherapy-has-schools-instead-of-science",
     "relationship_type": "exemplifies"
@@ -10598,11 +10558,6 @@
     "source_slug": "the-enlightenment-gap-why-psychology-has-no-unified-paradigm",
     "target_slug": "how-psychology-buried-its-foundational-question-under-methods",
     "relationship_type": "exemplifies"
-  },
-  {
-    "source_slug": "the-fifth-joint-point-humanitys-transition-into-a-global-digital-plane",
-    "target_slug": "three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence",
-    "relationship_type": "grounds"
   },
   {
     "source_slug": "how-genuine-knowledge-systems-outgrow-their-institutional-containers",
@@ -10980,11 +10935,6 @@
     "relationship_type": "contrasts"
   },
   {
-    "source_slug": "three-kinds-of-emergence-that-complexity-theory-usually-conflates",
-    "target_slug": "three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "why-psychotherapy-has-schools-instead-of-science",
     "target_slug": "the-enlightenment-gap-why-psychology-has-no-unified-paradigm",
     "relationship_type": "grounds"
@@ -11240,11 +11190,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "animism-vs-emergence-two-kinds-of-spirit-talk",
-    "target_slug": "three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "collapse-follows-power-laws-not-bell-curves-calibrating-realistic-resilience",
     "target_slug": "chaos-theorys-true-legacy-epistemic-humility-in-complex-systems",
     "relationship_type": "grounds"
@@ -11460,11 +11405,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "complicated-vs-complex-why-the-distinction-changes-how-you-act",
-    "target_slug": "three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "how-objective-science-grew-from-subjective-and-cultural-knowing",
     "target_slug": "utok-maps-the-ontological-origins-of-epistemology-itself",
     "relationship_type": "extends"
@@ -11533,11 +11473,6 @@
     "source_slug": "how-psychology-buried-its-foundational-question-under-methods",
     "target_slug": "conflating-how-we-know-with-what-exists-psychologys-foundational-error",
     "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence",
-    "target_slug": "transcendental-emergentism-rejecting-reduction-and-pan-psychism-for-layered-reality",
-    "relationship_type": "contrasts"
   },
   {
     "source_slug": "why-brains-and-bodies-create-a-different-kind-of-intelligence-than-cells-do",
@@ -12590,11 +12525,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence",
-    "target_slug": "three-distinct-types-of-emergence-that-structure-how-complexity-builds",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "ai-as-universal-labor-displacement-why-historical-reassurances-no-longer-apply",
     "target_slug": "ais-benefits-and-harms-are-not-symmetrically-distributed-or-reversible",
     "relationship_type": "extends"
@@ -13015,11 +12945,6 @@
     "relationship_type": "applies"
   },
   {
-    "source_slug": "why-logical-minds-cannot-grow-fodors-challenge-and-the-organismic-response",
-    "target_slug": "three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "transformation-as-a-prerequisite-for-accessing-deep-reality",
     "target_slug": "why-knowledge-alone-cannot-produce-wisdom",
     "relationship_type": "grounds"
@@ -13082,11 +13007,6 @@
   {
     "source_slug": "wisdom-as-a-three-part-structure-sensing-discerning-and-acting-toward-the-good",
     "target_slug": "the-metacrisis-as-systemic-failure-of-civilizations-operating-system",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "radical-uncertainty-as-a-structural-feature-of-complexifying-reality",
-    "target_slug": "three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence",
     "relationship_type": "grounds"
   },
   {

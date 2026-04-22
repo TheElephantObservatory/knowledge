@@ -15,8 +15,6 @@ edges:
     type: grounds
   - target: the-tree-of-knowledge-mapping-realitys-four-planes-of-complexity
     type: grounds
-  - target: three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence
-    type: grounds
 created_at: "2026-04-01"
 ---
 

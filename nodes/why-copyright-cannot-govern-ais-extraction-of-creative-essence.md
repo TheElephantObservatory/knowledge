@@ -9,8 +9,6 @@ source_url: "https://www.youtube.com/watch?v=_77LaCvto5Q"
 source_author: "The Jim Rutt Show"
 tags: [Systems Thinking, Ontological Design, Information Theory]
 edges:
-  - target: three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence
-    type: grounds
   - target: why-artificial-intelligence-is-a-category-error-about-the-nature-of-mind
     type: extends
   - target: ai-models-converge-on-shared-representations-of-reality

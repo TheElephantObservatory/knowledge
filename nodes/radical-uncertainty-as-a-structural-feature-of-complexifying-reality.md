@@ -15,8 +15,6 @@ edges:
     type: grounds
   - target: why-rational-decision-making-fails-at-lifes-biggest-choices
     type: exemplifies
-  - target: three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence
-    type: grounds
 created_at: "2026-04-05"
 ---
 

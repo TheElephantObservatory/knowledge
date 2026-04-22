@@ -13,8 +13,6 @@ edges:
     type: grounds
   - target: surplus-coherence-how-meaning-emerges-across-all-scales-of-existence
     type: extends
-  - target: three-kinds-of-emergence-from-simple-aggregation-to-new-planes-of-existence
-    type: exemplifies
 created_at: "2026-04-05"
 ---
 
