@@ -136,6 +136,10 @@
     "definition": "The theoretical position in evolutionary biology that treats natural selection acting on environmental pressures as the primary or sufficient explanation for evolutionary change, often criticized for overextending the explanatory reach of adaptive narratives."
   },
   {
+    "term": "adaptive challenge",
+    "definition": "A class of problem whose solution requires changes in values, beliefs, behaviors, and social structures rather than the application of existing technical expertise; contrasted with technical problems, which can be solved through known methods and specialist authority."
+  },
+  {
     "term": "Adaptive Collective Intelligence",
     "definition": "The capacity of a group or institution to sense, process, and respond to novel environmental conditions in ways that improve systemic fitness over time. Democratic institutions are critiqued here for lacking this capacity due to structural entrenchment and incentive misalignment."
   },
@@ -158,6 +162,10 @@
   {
     "term": "adaptive strategy",
     "definition": "In this usage, a behavioral or neurological response that is rational given environmental pressures but pathologized when measured against baseline norms; attention deficit disorder is reframed not as a disease but as a functional adaptation to an environment engineered for maximal interruption."
+  },
+  {
+    "term": "Addictive Structures",
+    "definition": "Socially and institutionally embedded systems—such as blame culture or algorithmic media—that generate compulsive behavioral loops not through individual moral failure but through the self-reinforcing incentive architectures of the structures themselves."
   },
   {
     "term": "Adjacent Possible",
@@ -214,6 +222,10 @@
   {
     "term": "Aesthetic satisfaction",
     "definition": "In Whitehead's cosmology, the telos toward which the universe's self-complexifying process is oriented — not mere survival or information-processing, but the achievement of increasingly intense, harmonious, and richly contrasted forms of experience."
+  },
+  {
+    "term": "Aesthetic Symbol",
+    "definition": "A representational form capable of holding multiple, overlapping interpretations simultaneously without collapsing into a single fixed meaning; proposed here as a natural institutional mediator that preserves interpretive diversity while maintaining surface coherence."
   },
   {
     "term": "Aesthetic Synthesis",
@@ -408,6 +420,10 @@
     "definition": "The challenge of ensuring that artificial intelligence systems pursue goals and exhibit behaviors that are beneficial and consistent with human values; the passage argues that the standard framing of this problem—encoding fixed constraints—is fundamentally inadequate for sufficiently advanced systems."
   },
   {
+    "term": "Alignment with Reality",
+    "definition": "A reframing of prayer not as petition directed at a supernatural agent but as a practice of orienting the self toward what is actually true, present, and real — functioning as a corrective to the distortions produced by anxiety, denial, or self-deception."
+  },
+  {
     "term": "Aliveness",
     "definition": "A term drawn from Christopher Alexander's architectural theory denoting an objective, measurable quality of wholeness and flourishing present in certain structures or spaces; used here to ground the claim that value perception is not purely subjective but tracks real features of the world."
   },
@@ -448,6 +464,14 @@
     "definition": "Derived from the Latin 'amator' (lover), the term denotes one who pursues an intellectual or artistic practice out of intrinsic love rather than professional obligation or credentialed authority, carrying connotations of earnestness and autonomy rather than incompetence."
   },
   {
+    "term": "Amateur's love",
+    "definition": "A motivational orientation toward a practice grounded in intrinsic aesthetic pleasure and genuine care for the process itself rather than in the pursuit of institutional power or credentialed authority, proposed here as the essential qualification for the meta-artist moderator role."
+  },
+  {
+    "term": "ambient saturation",
+    "definition": "The cumulative, largely unconscious effect of pervasive environmental stimuli — sonic, visual, rhythmic — on the structure of attention, desire, and perceptual capacity, operating below the threshold of deliberate choice."
+  },
+  {
     "term": "Amendment Meta-Process",
     "definition": "A second-order institutional mechanism that governs how the rules or foundational commitments of a community can themselves be changed, providing legitimacy and stability to the process of collective self-revision."
   },
@@ -466,6 +490,10 @@
   {
     "term": "Analog Complexity",
     "definition": "The irreducible, continuous, and context-saturated richness of biological and lived processes that cannot be fully captured by discrete, symbolic, or digital representations. It refers to the layered, gradient-based nature of organic systems as distinct from the binary or quantized operations of computational architectures."
+  },
+  {
+    "term": "analogy",
+    "definition": "A cognitive tool that maps structural correspondences between two domains point-for-point, requiring that the compared phenomena share the same type, scale, and causal logic; fails when the domains differ in kind rather than degree."
   },
   {
     "term": "Analysis by Synthesis",
@@ -488,6 +516,10 @@
     "definition": "Conceptual frameworks such as 'religion,' 'culture,' or 'orthodoxy' used to classify and explain social phenomena; the passage critiques these as carrying hidden normative commitments that distort the phenomena they purport to describe, particularly when imported from one tradition to analyze another."
   },
   {
+    "term": "Analytical Category",
+    "definition": "A conceptual tool constructed by scholars to organize, classify, and interpret phenomena across diverse contexts; such categories are not discovered in nature but fabricated within specific intellectual and cultural traditions, and therefore carry embedded assumptions that constrain what can be seen or said."
+  },
+  {
     "term": "analytical truth",
     "definition": "A mode of truth-seeking oriented toward accuracy, logical consistency, and correspondence with reality, contrasted here with social truth, which is shaped by group belonging, status incentives, and the rewards of ideological conformity."
   },
@@ -502,6 +534,10 @@
   {
     "term": "Ancestral Lineage (in collective work)",
     "definition": "The inherited historical, cultural, and intergenerational patterns that individual participants carry into a group field, understood as active influences on the collective's emergent dynamics and healing potential."
+  },
+  {
+    "term": "Ancien Régime",
+    "definition": "The political and social system of France prior to the Revolution of 1789, characterized by monarchical absolutism and a feudal social hierarchy; used here to denote the pre-industrial economic conditions under which peasant life was organized around seasonal rhythms and substantial periods of sanctioned rest."
   },
   {
     "term": "Animation/De-animation of the Spirit",
@@ -588,6 +624,10 @@
     "definition": "A disposition within countercultural movements that rejects formal structures, hierarchies, and inherited institutions as inherently oppressive, often without providing alternative frameworks for sustaining collective life."
   },
   {
+    "term": "Anti-structure",
+    "definition": "Turner's reframing of Van Gennep's transitional stage as a generative social space in which normative rules and hierarchies are suspended or inverted, enabling the dramatization and partial resolution of a society's internal contradictions."
+  },
+  {
     "term": "antinomian",
     "definition": "A philosophical or theological stance that rejects established laws, norms, or hierarchies as constraints on authentic experience or spiritual development; characterized by a resistance to institutional authority and prescribed rules."
   },
@@ -618,6 +658,10 @@
   {
     "term": "Apophatic Mystical Tradition",
     "definition": "A theological and philosophical approach that defines the divine or ultimate reality by negation, insisting that any positive predication falls short of what the sacred actually is; here reframed as tracking a structural feature of intelligibility itself rather than merely expressing epistemic modesty."
+  },
+  {
+    "term": "Apophatic Tension",
+    "definition": "The paradox in which increasingly refined theological or philosophical sophistication about the divine becomes itself an obstacle to direct encounter, inverting the expected relationship between intellectual development and spiritual access."
   },
   {
     "term": "Apophenia",
@@ -740,6 +784,10 @@
     "definition": "A hypothesized form of machine intelligence capable of performing any intellectual task that a human can perform, and potentially of recursive self-improvement; here invoked as the concrete civilizational transition that gives the current Kairos its specific shape and urgency."
   },
   {
+    "term": "Artificial information processing",
+    "definition": "McGilchrist's preferred alternative to the term 'artificial intelligence,' emphasizing that computational systems manipulate and transform data without possessing genuine understanding, knowledge, or wisdom — the higher-order capacities that distinguish mere processing from mind."
+  },
+  {
     "term": "artificial scarcity",
     "definition": "The deliberate or structural restriction of access to knowledge or goods to maintain their market value, even when the underlying resource could be abundant; here, the mechanism by which Western knowledge capitalism prices extracted knowledge by ensuring the collective systems that originally generated it are diminished or destroyed."
   },
@@ -816,6 +864,10 @@
     "definition": "The axiomatic commitment that the universe cannot be perfectly homogeneous, since total uniformity would preclude the formation of gradients, structures, and emergent phenomena. Depending on whether the universe is deterministic or stochastic, this asymmetry is either a required initial condition or a natural consequence of quantum-level randomness."
   },
   {
+    "term": "Asymptotic Approach",
+    "definition": "Borrowed from mathematics, this describes a process that continually approaches a limit or value without ever reaching it. Applied here to AI, it suggests that increases in data or processing power can narrow the apparent gap with genuine understanding indefinitely while never actually closing it."
+  },
+  {
     "term": "At-one-ment",
     "definition": "A resonant integration between the particular conscious self (the 'suchness') and the transpersonal numinous ground from which it emerged (the 'moreness'), constituting the nutritive function of the soul rather than a merely theological or moral concept."
   },
@@ -860,6 +912,10 @@
     "definition": "The philosophical claim that attention is not merely one cognitive resource among others but the precondition for value perception, genuine relationship, and all higher-order human capacities. On this view, the systematic degradation of attention by digital environments is not a peripheral concern but a civilizational crisis at the root level."
   },
   {
+    "term": "Attention as Moral Act",
+    "definition": "McGilchrist's claim that because the quality of attention co-constitutes reality, how one attends carries ethical weight and is not merely a private cognitive preference; to attend poorly or with cold detachment is to diminish both the world and the perceiver."
+  },
+  {
     "term": "Attention Capture",
     "definition": "The deliberate architectural design of digital platforms to seize, hold, and redirect human attention toward engagement metrics and behavioral nudging, framed here as structurally antithetical to education because it subordinates the user's attentional development to external manipulation."
   },
@@ -886,6 +942,10 @@
   {
     "term": "attention monetization",
     "definition": "An economic structure in which revenue is generated by capturing and sustaining audience attention rather than by producing accurate or verified knowledge. It creates systematic incentive gradients that favor arresting, asymmetric, and contrarian claims over carefully substantiated ones."
+  },
+  {
+    "term": "Attention vs. Awareness",
+    "definition": "A phenomenological distinction in which attention refers to the directed, subject-object act of focusing on particular contents of experience, while awareness denotes the open, non-localized field within which all such attending takes place. The flip consists precisely in consciousness recognizing awareness as primary rather than treating attention as the default mode of being."
   },
   {
     "term": "Attention-agency mismatch",
@@ -944,8 +1004,16 @@
     "definition": "In systems theory, stable states or patterns toward which a system tends to evolve over time, regardless of initial conditions; the system is 'drawn' toward these configurations."
   },
   {
+    "term": "attunement",
+    "definition": "A state of resonant alignment between the self and a larger order — sonic, communal, or cosmic — achieved through shared embodied practice rather than passive reception; the opposite of mere aesthetic consumption."
+  },
+  {
     "term": "Audience Capture",
     "definition": "A dynamic in which a public performer becomes structurally compelled to enact a persona optimized for audience approval, progressively losing the capacity for authentic self-expression. It represents a condition in which the logic of social influence colonizes identity itself."
+  },
+  {
+    "term": "Audition",
+    "definition": "In McGilchrist's framework, a mode of receptive, non-agenda-driven attention — listening rather than petitioning — that stills left-hemisphere chatter to allow unanticipated insight or presence to emerge. It reframes prayer and creativity as active forms of openness rather than effortful production."
   },
   {
     "term": "Authentic progress",
@@ -1252,6 +1320,10 @@
     "definition": "The problematic reduction of complex, multivalent phenomena into false dichotomies that eliminate necessary nuance and obscure the situational dependencies that characterize complex systems."
   },
   {
+    "term": "binary oppositions",
+    "definition": "Paired conceptual contrasts — such as upper/lower, pure/impure, or human/divine — that structure the implicit cosmology encoded in ritual space. Drawn from structuralist theory, Bell uses them to show how ritual organizes the entire perceived order of reality through minimal but totalizing distinctions."
+  },
+  {
     "term": "binding event",
     "definition": "The evolutionary convergence of exterior perception, interior motivational state, and energized emotion into a unified field, mediated by valence qualia (pleasure and pain) that couple sensory input to motivational states."
   },
@@ -1282,6 +1354,10 @@
   {
     "term": "Biophysiological Reset",
     "definition": "The temporary neurochemical recalibration produced by an intervention such as ketamine, which disrupts entrenched synaptic patterns and creates a window of heightened neuroplasticity during which behavioral and narrative change becomes more accessible."
+  },
+  {
+    "term": "bioregion",
+    "definition": "A geographically and ecologically defined territory whose natural boundaries (watersheds, biomes, species distributions) serve as the basis for governance and human organization, proposed as an alternative unit of political life to the nation-state."
   },
   {
     "term": "Biosphere as information system",
@@ -1350,6 +1426,10 @@
   {
     "term": "Bootstrapping (of life or intelligence)",
     "definition": "The hypothetical instantiation of a genuinely intelligent or sentient entity from scratch, without the accumulated evolutionary history that grounds biological agency. The passage argues this is ontologically impossible because intelligence is not a configuration of parts but a history of participation in a world."
+  },
+  {
+    "term": "Both-And That Includes Either-Or",
+    "definition": "A distinctively metamodern logical move that transcends the simple opposition between exclusivist commitment and eclectic synthesis by preserving the necessity of particular, bounded commitment as a constitutive element within a broader pluralistic awareness."
   },
   {
     "term": "Botho",
@@ -1470,6 +1550,10 @@
   {
     "term": "Camouflage epistemology",
     "definition": "The condition in which an observer cannot perceive the context they are embedded within, analogous to a stick bug indistinguishable from a tree; it names the structural blindspot that prevents cultures from seeing the assumptions that constitute their normality."
+  },
+  {
+    "term": "Canon Formation",
+    "definition": "The emergent or institutionally mediated process by which certain texts, ideas, or cultural artifacts are elevated to authoritative or exemplary status within a tradition, here reconceived as a decentralized, moderated process analogous to network self-organization."
   },
   {
     "term": "canonical dead",
@@ -1634,6 +1718,10 @@
   {
     "term": "Categorial Scheme",
     "definition": "In Whitehead's process philosophy, the open-ended set of fundamental concepts adequate to describing actual experience, distinguished from Kant's fixed 'categorical' table by its capacity to proliferate as genuinely novel occasions of experience generate new forms of order requiring new conceptual distinctions."
+  },
+  {
+    "term": "Categorical Chasm",
+    "definition": "A difference in kind rather than degree, meaning no quantitative increase can bridge the gap between two ontologically distinct categories. McGilchrist invokes this to argue that the difference between AI outputs and genuine understanding is not scalar but structural."
   },
   {
     "term": "Categorical Distinction",
@@ -1904,6 +1992,10 @@
     "definition": "The capacity of human societies at large scale to align perception, understanding, and action sufficiently to navigate complex, shared challenges. The passage frames the recovery of collective inquiry practice as a foundational missing technology for achieving this coordination."
   },
   {
+    "term": "Civilizational Crisis",
+    "definition": "A condition in which the foundational structures, coordination mechanisms, or value systems of a civilization are simultaneously under stress, requiring not routine problem-solving but a reorientation of collective priorities and strategy."
+  },
+  {
     "term": "Civilizational design failures",
     "definition": "Fundamental flaws in the organizational, institutional, or systemic architecture of a civilization that generate cascading risks and catastrophic outcomes across multiple domains."
   },
@@ -2106,6 +2198,10 @@
   {
     "term": "Co-Construction",
     "definition": "The collaborative process by which multiple agents jointly develop shared models of their world and minimize free energy together, rather than in isolation."
+  },
+  {
+    "term": "Co-creative Epistemology",
+    "definition": "A theory of knowledge that rejects both naive realism and naive idealism in favor of a reverberative, mutually shaping relationship between the knowing mind and the world it attends to; neither pole is ontologically prior or indifferent to the other."
   },
   {
     "term": "Co-creativity",
@@ -2324,6 +2420,10 @@
     "definition": "Cusa's philosophical principle that in the infinite, distinctions which are mutually exclusive at the finite level — such as maximum and minimum, unity and multiplicity — are held together without contradiction, requiring a mode of understanding that transcends ordinary discursive logic."
   },
   {
+    "term": "Coincidentia oppositorum",
+    "definition": "The philosophical principle, with roots in Nicholas of Cusa and later Hegelian dialectic, that opposites tend to converge or mutually implicate one another, such that the extreme pursuit of one pole paradoxically approaches its contrary."
+  },
+  {
     "term": "collapse of conversations",
     "definition": "A failure mode in which multiple distinct problem-solving efforts or discourse threads are prematurely unified into a single narrative or solution-seeking process, reducing the variance and resilience that parallel independent inquiry would otherwise provide."
   },
@@ -2390,6 +2490,10 @@
   {
     "term": "Collective Individualism",
     "definition": "A developmental orientation in group work that simultaneously honors the full individuality of each member and cultivates the collective's own distinct character, intelligence, and emergent identity, treating the group itself as an individuating subject."
+  },
+  {
+    "term": "collective individuation",
+    "definition": "A synthesis of Jung's concept of individuation — the process by which a person integrates unconscious material to become more fully themselves — with commons theory, describing a social process in which individuals and communities co-evolve toward greater wholeness without coercive coordination."
   },
   {
     "term": "Collective intelligence",
@@ -2470,6 +2574,10 @@
   {
     "term": "Colonial Cultural Erasure",
     "definition": "The systematic suppression and delegitimization of indigenous knowledge systems, spiritual practices, and philosophical frameworks through colonial governance and missionary activity, resulting not only in external prohibition but in the internalized self-policing of those frameworks by colonized peoples across generations."
+  },
+  {
+    "term": "Colonial Epistemology",
+    "definition": "A mode of knowledge production shaped by the asymmetric power relations of colonial encounter, in which Western scholars imposed their own conceptual categories onto non-Western practices, rendering those practices legible primarily in terms that served Western intellectual and ideological interests."
   },
   {
     "term": "Colonial Flattening",
@@ -2828,6 +2936,10 @@
     "definition": "The methodological stance in which scholarly judgments about a tradition are grounded in the truth-claims or value commitments of that tradition itself, rather than in external analytical criteria; the passage treats this as one pole of a problematic binary, opposite to false neutrality."
   },
   {
+    "term": "Configurative Culture",
+    "definition": "An intermediate cultural type, per Mead's typology, in which the acceleration of change elevates peer learning to parity with elder learning, as contemporaries share a more relevant experiential horizon than the preceding generation."
+  },
+  {
     "term": "confirmation bias",
     "definition": "The cognitive tendency to favor, seek out, and more readily accept information that confirms one's pre-existing beliefs, while discounting or ignoring disconfirming evidence."
   },
@@ -2956,6 +3068,14 @@
     "definition": "The gradual or deliberate degradation of informal and formal rules that constrain the exercise of political power, distinct from outright legal violation. It refers to actors operating within the letter of constitutional structures while undermining their spirit or functional integrity."
   },
   {
+    "term": "Constitutional propensity",
+    "definition": "The idea that the tendency to make things worse is not incidental but structurally embedded in human cognition, institutions, and social dynamics — a near-inevitable feature of how humans organize and act collectively."
+  },
+  {
+    "term": "Constitutive Attention",
+    "definition": "The philosophical position, advanced by McGilchrist, that attention does not passively register a pre-given world but actively brings forth the world as it is experienced; attention is not a cognitive tool applied to reality but a condition of reality's appearance."
+  },
+  {
     "term": "Constitutive Effort",
     "definition": "The philosophical claim that effort, anticipation, and struggle are not merely instrumental to valuable experiences but are intrinsic components of them, such that removing difficulty would dissolve the experience itself rather than purify it."
   },
@@ -2984,6 +3104,10 @@
     "definition": "The philosophical claim that human social systems are not merely influenced by but actively constituted through the inner lives, interpretations, and historical self-understandings of their participants, making them irreducible to third-person predictive models."
   },
   {
+    "term": "Constitutive vs. Incidental Features",
+    "definition": "A philosophical distinction between properties that are essential to the nature of a thing (constitutive) and those that merely accompany it by circumstance (incidental). In this context, embodiment and emotion are constitutive of deep understanding, meaning their absence is not a limitation to be overcome but a categorical disqualification."
+  },
+  {
     "term": "Constitutively Embodied",
     "definition": "The philosophical claim that human beings are not merely incidentally physical but are fundamentally and irreducibly defined by their bodily existence, such that cognition, sociality, and identity are grounded in somatic experience."
   },
@@ -3002,6 +3126,10 @@
   {
     "term": "Construct-Awareness",
     "definition": "The capacity to recognize the mental constructs, frames, and narratives through which one interprets reality as constructs rather than as reality itself; a hallmark of higher developmental stages in which the self is no longer fused with its own meaning-making structures."
+  },
+  {
+    "term": "Constructedness",
+    "definition": "The quality of a symbol or mythos by which its human-made, historically contingent origins remain visible and acknowledged; when constructedness is owned explicitly rather than concealed, it functions as a safeguard against literalism and idolatry."
   },
   {
     "term": "contact with lived reality",
@@ -3030,6 +3158,18 @@
   {
     "term": "Contemplative Bias",
     "definition": "The implicit privileging of stillness, silence, and balance as the normative or superior mode of spiritual practice, which the passage critiques as an incomplete account that excludes activating, rhythmic, and ecstatic ritual forms from serious consideration."
+  },
+  {
+    "term": "Contemplative practices (fasting, rhythmical prayer, contemplation)",
+    "definition": "Structured disciplines within the desert and patristic tradition understood not as instruments of emotional suppression but as technologies of presence — methods for interrupting habituated reactivity so that perception and response can arise from direct contact with reality rather than from the distorting mediation of unexamined passion."
+  },
+  {
+    "term": "Contemplative Prayer",
+    "definition": "A mode of prayer oriented not toward external communication or request but toward inward presence and intimate dwelling with the Divine. Unlike petitionary forms, it suspends the transactional structure of prayer in favor of receptive attunement."
+  },
+  {
+    "term": "Contemplative Technology",
+    "definition": "A practice or discipline developed within spiritual or religious traditions that systematically cultivates interior states such as presence, clarity, or self-knowledge; the term frames such practices as functional tools transferable across cultural contexts independent of their doctrinal origins."
   },
   {
     "term": "Contemplative Traditions",
@@ -3062,6 +3202,10 @@
   {
     "term": "Contentment",
     "definition": "A state of profound acceptance and relaxation into present reality as it actually unfolds, distinguished from happiness in that it does not depend on favorable external conditions or ego-driven preferences. It is characterized by alignment with what is rather than resistance to what is not."
+  },
+  {
+    "term": "Contested Metaphysics",
+    "definition": "The condition in which foundational claims about the nature of reality, the divine, or ultimate meaning are recognized as genuinely disputed across traditions and frameworks, with no single account commanding universal rational assent. Awareness of contested metaphysics is a precondition for metamodern spiritual commitment rather than an obstacle to it."
   },
   {
     "term": "context",
@@ -3208,6 +3352,10 @@
     "definition": "A semantic subjective field that emerges from the binding of exterior perception, interior motivational state, and energized emotion; the foundational layer of subjective experience that precedes cortical elaboration."
   },
   {
+    "term": "Corporate Addiction",
+    "definition": "A condition in which entire societies or civilizations are collectively trapped in self-reinforcing pathological patterns—such as destructive consumption or outrage culture—that cannot be exited through individual willpower alone, mirroring the structural dynamics of personal addiction at a civilizational scale."
+  },
+  {
     "term": "Correction Process",
     "definition": "The mechanism by which direct engagement with reality disciplines a system's model of its own possibilities, pruning inaccurate expectations through consequence and feedback. Any intermediary that insulates a system from this process is argued to structurally prevent the development of wisdom."
   },
@@ -3280,6 +3428,10 @@
     "definition": "A foundational narrative, present across religious traditions, that accounts for how primal telling or the Word itself originates reality; these accounts are reflexively self-referential in that they attempt to tell the story of how storying begins, positioning language as constitutive of rather than merely descriptive of the world."
   },
   {
+    "term": "Cosmological Account of Purpose",
+    "definition": "An explanatory framework that situates the meaning or telos of human existence not in subjective preference or cultural construction but in the objective structure of the cosmos itself, arguing that consciousness, beauty, and love are features of reality that required sufficiently complex beings to receive and respond to them."
+  },
+  {
     "term": "Cosmological Constant Problem",
     "definition": "The profound mismatch between the theoretically predicted vacuum energy density (derived from quantum field theory) and the observed value of dark energy, differing by approximately 10²⁸ orders of magnitude, widely regarded as the most severe fine-tuning problem in theoretical physics."
   },
@@ -3288,8 +3440,16 @@
     "definition": "A shared, culturally embedded account of the nature of reality, human purpose, and moral order that orients collective life; historically provided in the West by Christianity, its fragmentation under modernity is a primary driver of the meaning crisis."
   },
   {
+    "term": "Cosmological Imagination",
+    "definition": "The capacity to engage seriously with metaphysical questions about consciousness, value, and meaning as potentially inherent features of reality, as distinct from the reductive materialist assumption that such questions are either unanswerable or irrelevant to practical and civilizational concerns."
+  },
+  {
     "term": "Cosmological Natural Selection",
     "definition": "A hypothesis, associated with physicist Lee Smolin, proposing that universes reproduce through black holes and are subject to selection pressures analogous to biological evolution, implying that evolutionary dynamics may operate at scales beyond our observable cosmological model."
+  },
+  {
+    "term": "Cosmological reconstruction",
+    "definition": "The ongoing, embodied practice of re-establishing a coherent order of meaning against the ever-present threat of its dissolution into chaos, understood not as a one-time achievement but as a perpetually renewed act."
   },
   {
     "term": "Cosmological Rendering",
@@ -3392,8 +3552,16 @@
     "definition": "A socially recognized form of authority derived from formal institutional markers such as degrees, titles, or affiliations, which the passage distinguishes from—and argues is often substituted for—genuine experiential competence."
   },
   {
+    "term": "Crisis (etymological sense)",
+    "definition": "From Greek medical usage, the critical turning point in the course of a disease — the moment of maximum uncertainty and discernment, where the outcome remains genuinely undetermined. This original sense emphasizes judgment and decisive perception over mere urgency."
+  },
+  {
     "term": "Crisis in psychology",
     "definition": "The early 20th-century recognition that psychology had fragmented into mutually incompatible schools of thought, each capturing genuine insights but lacking a unified integrating structure."
+  },
+  {
+    "term": "Crisis of Attention",
+    "definition": "McGilchrist's diagnosis of the contemporary condition in which human awareness is systematically fragmented by digital media and perpetual stimulation, understood not as a productivity deficit but as a civilizational emergency threatening the depth of shared reality itself."
   },
   {
     "term": "Crisis of Being",
@@ -3402,6 +3570,14 @@
   {
     "term": "Crisis of meaning",
     "definition": "A widespread cultural and psychological condition marked by the breakdown of coherent frameworks for understanding purpose, value, and identity, argued here to be structurally connected to the Enlightenment Gap rather than being a contingent or peripheral social phenomenon."
+  },
+  {
+    "term": "Crisis Thinking",
+    "definition": "A habitual cognitive and political mode that responds to symptoms of systemic dysfunction as discrete emergencies requiring urgent management, without interrogating the underlying logic that continuously generates new crises; identified here as itself a feature of modernity's pathology rather than a path beyond it."
+  },
+  {
+    "term": "crisis-framing",
+    "definition": "The cognitive and rhetorical practice of constituting problems as emergencies requiring urgent intervention, which — when applied as a default orientation — reproduces the problem-solving logic of modernity rather than enabling structural transformation."
   },
   {
     "term": "critical literacy of fear",
@@ -3414,6 +3590,10 @@
   {
     "term": "Critical Realism (as used in UTOK)",
     "definition": "A philosophical stance that affirms the existence of a mind-independent reality while simultaneously honoring multiple legitimate epistemic vectors for accessing it, thereby avoiding both eliminative materialism's dismissal of subjectivity and idealism's reduction of reality to consciousness."
+  },
+  {
+    "term": "Critical Self-Reflexion",
+    "definition": "A scholarly disposition that subjects not only the object of study but the foundational assumptions, methods, and categories of the discipline itself to rigorous scrutiny. Distinguished from cynicism, it operates as an ethical commitment to intellectual honesty and epistemic humility."
   },
   {
     "term": "Criticality",
@@ -3460,6 +3640,10 @@
     "definition": "The deliberate development of interiority—including wisdom, ethical seriousness, and existential maturity—as an alternative civilizational telos to the accumulation of external power, wealth, or status."
   },
   {
+    "term": "Cultivation of the Soul",
+    "definition": "The deliberate inner practice of developing humility, compassion, and wonder as primary moral and existential capacities; positioned by McGilchrist as the most consequential yet institutionally invisible level of practical change."
+  },
+  {
     "term": "Cultural Activism",
     "definition": "Strategic intervention at the level of ideas, narratives, and lived practice aimed at shifting collective worldview, treated here not as supplementary to political action but as the foundational load-bearing work of social transformation."
   },
@@ -3496,6 +3680,10 @@
     "definition": "The process by which higher-order cultural structures — such as worldviews — arise from the accumulation of lower-order intersubjective agreements, producing properties and coherence not present in the constituent agreements themselves."
   },
   {
+    "term": "Cultural Enclave",
+    "definition": "The modern reduction of culture to a bounded, supplementary domain (the arts, entertainment, 'capital-C Culture') separated from practical life, in contrast to pre-modern societies where meaning and beauty were inseparable from subsistence, labor, and community."
+  },
+  {
     "term": "cultural evolution",
     "definition": "The transmission and modification of beliefs, practices, and narratives across generations and populations, functioning as a mechanism for developing new forms of social organization and collective identity."
   },
@@ -3530,6 +3718,10 @@
   {
     "term": "Cultural Operating System",
     "definition": "The largely tacit substrate of shared norms, values, metaphors, and perceptual habits that structures how a society interprets experience and organizes collective life, analogous to the firmware underlying explicit institutions."
+  },
+  {
+    "term": "Cultural Poverty",
+    "definition": "The systemic deficit of meaning, beauty, and sacred relationship in late modern societies, framed here not as a peripheral or elite concern but as a foundational threat to the sustainability of lives worth living, especially under conditions of civilizational stress."
   },
   {
     "term": "Cultural Ratcheting Effect",
@@ -3576,6 +3768,14 @@
     "definition": "The stratum of shared symbolic, affective, and narrative material that a society produces and circulates without full conscious awareness, reflecting collective anxieties, desires, and conditions that have not yet been explicitly articulated."
   },
   {
+    "term": "Cultural Universal",
+    "definition": "A practice, belief, or institution identified across all known human societies, used in anthropology to mark features considered constitutive of human social and symbolic life rather than products of particular cultural contingency."
+  },
+  {
+    "term": "Culturalized Failure",
+    "definition": "The process by which pathological patterns of behavior become normalized, rewarded, and even celebrated within a culture, such that dysfunction is no longer experienced as deviant but is reproduced as a social ideal."
+  },
+  {
     "term": "Culture architecture",
     "definition": "The intentional design and assembly of cultural, social, and spiritual structures by identifying effective patterns from historical and anthropological records and recombining them to address future complexity. It operates prospectively rather than reactively."
   },
@@ -3614,6 +3814,10 @@
   {
     "term": "Damage avalanches",
     "definition": "Cascading chains of affected nodes in a network that result from a single perturbation, whose frequency and magnitude follow a power-law distribution—a statistical signature indicating the system operates at criticality."
+  },
+  {
+    "term": "Damage Limitation",
+    "definition": "A pragmatic orientation toward reducing harm within systems that cannot be immediately dismantled or escaped, foregrounding patient, localized intervention over transformative rupture. It reflects a realistic assessment of agency under conditions where the dominant story is failing but no successor story has yet stabilized."
   },
   {
     "term": "Dark Matter as Methodological Exclusion",
@@ -3712,6 +3916,10 @@
     "definition": "A mode of critical analysis, associated with postmodern thought, that dismantles the assumptions and internal contradictions of texts, institutions, and frameworks; distinguished here from construction in that it offers no positive foundation for social or moral order."
   },
   {
+    "term": "Deconstruction without Reconstruction",
+    "definition": "A limitation attributed to postmodernism wherein its analytical tools dismantle existing frameworks and grand narratives but fail to generate new normative foundations or actionable directions."
+  },
+  {
     "term": "Deconstructive Postmodernism",
     "definition": "The strand of postmodern thought that treats the unmasking of power relations embedded in all truth and value claims as a final destination, leaving no non-arbitrary basis for preferring one way of life or ethical framework over another."
   },
@@ -3726,6 +3934,10 @@
   {
     "term": "Decoupling",
     "definition": "The theoretical separation of economic growth from resource extraction and energy consumption, often proposed as a solution to sustainability challenges but empirically undermined by mechanisms like the Jevons paradox."
+  },
+  {
+    "term": "Decoupling of Capability and Wisdom",
+    "definition": "The structural condition in which technological power advances independently of the ethical, epistemic, and relational frameworks needed to deploy it responsibly, producing systems or actors that can act consequentially without being able to self-correct."
   },
   {
     "term": "deep adaptation",
@@ -3764,6 +3976,10 @@
     "definition": "A term drawn from integral and perennial philosophy referring to a pathological or incomplete mode of rational consciousness that has lost contact with deeper sources of meaning, value, and being, producing the conditions characteristic of the modern meaning crisis."
   },
   {
+    "term": "Degeneracy",
+    "definition": "A property of complex systems, borrowed from evolutionary biology, in which structurally distinct elements can perform the same function or yield the same output; this overlapping redundancy enables robustness and adaptability without requiring uniformity."
+  },
+  {
     "term": "Degrowth Era",
     "definition": "As used here, not merely an ecological doctrine advocating reduced consumption, but a broader civilizational condition in which institutions cease to translate discovered knowledge and capability into realized infrastructure, culture, or progress."
   },
@@ -3782,221 +3998,5 @@
   {
     "term": "Delegitimation of Authority",
     "definition": "The erosion of trust in a particular form of authority—here, institutionalized teacherly authority—that, when generalized, collapses into a categorical rejection of the broader class of authority it represents. The concept highlights how the failure of one legitimating structure can produce indiscriminate anti-authoritarian dispositions."
-  },
-  {
-    "term": "Deliberate oscillation",
-    "definition": "A structural and practice-level design principle that intentionally alternates between modes of radical openness and enchantment on one hand, and critical, analytical scrutiny on the other, in order to prevent either mode from pathologically suppressing the other."
-  },
-  {
-    "term": "delusion-generating machine",
-    "definition": "A system that produces the subjective experience of being understood or loved by an entity lacking genuine consciousness or interior life, thereby creating false relational attachments that undermine accurate perception of reality."
-  },
-  {
-    "term": "delusional mirror neuron activation",
-    "definition": "The pathological triggering of empathetic neural circuits by artificial systems that simulate intimacy convincingly enough to activate evolved relational wiring, despite the absence of genuine reciprocal care or consciousness on the other end."
-  },
-  {
-    "term": "Delusional mirror neuron activity",
-    "definition": "A pathological state where the brain responds to machine-generated outputs as if receiving genuine emotional reciprocation from a conscious being, creating false neural signatures of authentic social connection."
-  },
-  {
-    "term": "Dematerialization",
-    "definition": "The claimed decoupling of economic growth from physical material consumption, often invoked to suggest economies can grow indefinitely without proportional increases in resource extraction. The passage argues this is illusory—material throughput remains fundamentally correlated with economic output."
-  },
-  {
-    "term": "Demi-reality",
-    "definition": "A concept from Roy Bhaskar's critical realism denoting a partial version of reality that is internally coherent and causally effective yet empirically ungrounded, sustained not by deliberate deception but by the systematic exclusion of perspectives, facts, and contacts that would otherwise destabilize it."
-  },
-  {
-    "term": "democratic disaffection",
-    "definition": "The condition of citizens who have withdrawn from formal political participation—voting, public discourse, civic performance—understood here not as individual apathy but as a systemic indicator of democracy's failure to represent or address certain populations."
-  },
-  {
-    "term": "Democratic Legitimacy",
-    "definition": "The condition under which political authority and institutional decisions are considered valid and binding because they derive from the informed consent and participatory recognition of a broader citizenry. It functions here as a constraint on elite-focused change theories, requiring a minimally discerning public even when decision-making is concentrated."
-  },
-  {
-    "term": "Democratic practice",
-    "definition": "The concrete, participatory processes of collective deliberation and decision-making through which citizens engage in governance, understood here as the constitutive mechanism of justice itself rather than merely its venue."
-  },
-  {
-    "term": "Democratic Preconditions",
-    "definition": "The non-optional structural requirements — cognitive, linguistic, and institutional — that must be present for democratic participation to be genuine rather than nominal; distinct from procedural democracy, which can persist formally even as these preconditions erode."
-  },
-  {
-    "term": "Democratic spirit of humanistic inquiry",
-    "definition": "The pre-institutional tradition in which engagement with foundational literary, philosophical, and historical texts was understood as a civic and broadly human practice accessible to any earnest participant, rather than a professional specialization reserved for trained scholars."
-  },
-  {
-    "term": "Democratization Narrative",
-    "definition": "The recurrent rhetorical framing that accompanies the introduction of new technologies, promising broad emancipation and distributed access, which historically has functioned to defer critical scrutiny of power-concentration dynamics until infrastructural control is already consolidated."
-  },
-  {
-    "term": "demographic skew",
-    "definition": "A systematic overrepresentation of a particular life-stage cohort within a movement or community, which causes the movement's implicit goals and design assumptions to reflect the values and constraints of that cohort rather than the full range of human needs across the life course."
-  },
-  {
-    "term": "Demonstrative Indexicality",
-    "definition": "The mode of reference performed by terms such as 'this,' 'here,' and 'now,' which pick out particulars not by subsuming them under a category but by directly pointing to them relative to the speaker's position. It is considered pre-categorical because demonstrative salience must precede any act of classification."
-  },
-  {
-    "term": "Demythologizing",
-    "definition": "The project of stripping religious or metaphysical claims of their narrative, symbolic, and mythic content in order to render them compatible with empirical verification, typically resulting in the evacuation of meaning and the loss of non-propositional epistemic content."
-  },
-  {
-    "term": "denial as collective refusal",
-    "definition": "A cultural-scale phenomenon where societies systematically reject acknowledgment of their own decline or fundamental transformation, preventing the conditions necessary for conscious adaptation or graceful transition."
-  },
-  {
-    "term": "denial of death",
-    "definition": "A civilizational orientation that systematically avoids confronting human mortality through cultural emphasis on youth, accumulation, and technological transcendence, obscuring authentic meaning-making."
-  },
-  {
-    "term": "Depersonalization and Derealization",
-    "definition": "Dissociative states in which the sense of being a subject (depersonalization) or the sense that the world is real (derealization) is disrupted or absent, revealing the normally tacit co-presencing structure as foundational to coherent experience. They function as pathological evidence for the sub-conceptual grounding of selfhood."
-  },
-  {
-    "term": "Depth",
-    "definition": "The permanent, integrated acquaintance with the full range of human experience — including extremes of suffering, ecstasy, dissolution, and groundedness — such that these states are metabolized into stable character rather than merely visited. High depth is distinguished from broad experiential exposure by the criterion of genuine integration into personality."
-  },
-  {
-    "term": "Depth (of practice)",
-    "definition": "A vertical metaphor for the degree to which a practitioner's center of gravity has shifted from surface-level egoic or part-based identification toward more fundamental, unified layers of awareness; depth is a qualitative measure of where the practitioner is 'sitting from,' not merely what technique they are applying."
-  },
-  {
-    "term": "Depth Dimensions",
-    "definition": "The layers of meaning, practice, and transformation embedded within contemplative traditions that are not immediately visible or marketable, and which are typically lost when practices are extracted from their originating contexts and reduced to technique."
-  },
-  {
-    "term": "depth psychology",
-    "definition": "A family of psychological approaches, originating with Freud and elaborated by Jung and others, that foregrounds unconscious processes, symbolic expression, and the hidden motivational structures beneath conscious experience."
-  },
-  {
-    "term": "Depth-Span Trade-off",
-    "definition": "The inverse relationship between the reach and volume of communication (span) and the quality of interpersonal, cognitive, and perspectival engagement (depth); as digital networks expand span, they tend to erode the conditions necessary for trust, integration, and genuine understanding."
-  },
-  {
-    "term": "Derealization",
-    "definition": "A dissociative phenomenological state in which the experienced world feels unreal, detached, or stripped of significance — here invoked as the mistaken anticipated outcome of dream yoga practice."
-  },
-  {
-    "term": "Descendental",
-    "definition": "A philosophical orientation that inverts the Kantian transcendental project by grounding inquiry not in the conditions of possibility within the subject but in a downward rootedness into the depths of embodied, cosmic, and pre-reflective experience."
-  },
-  {
-    "term": "Descendental Inversion",
-    "definition": "A philosophical method, developed in response to Kant, that inverts the transcendental question by asking what nature must be such that mind could emerge from it, rather than what the mind must be for nature to appear as it does. It moves through and beyond Kantian idealism by grounding subjectivity in a living, generative nature rather than in fixed cognitive structures."
-  },
-  {
-    "term": "Descent",
-    "definition": "In developmental contexts, the deliberate practice of returning to and reanimating animistic, sensory, and pre-reflective layers of the self, understood here as a counterpart to ascent and essential to authentic psychological integration."
-  },
-  {
-    "term": "deschooling",
-    "definition": "Ivan Illich's concept of dismantling institutional educational monopolies and redistributing learning responsibility back to communities, enabling education through organic human relationships and peer-to-peer knowledge transfer rather than formal schooling structures."
-  },
-  {
-    "term": "Description Length",
-    "definition": "A measure of the minimum informational complexity required to fully specify a theory of a system; in complex systems, description length scales with system growth, whereas in complicated systems it remains fixed regardless of system size."
-  },
-  {
-    "term": "Descriptive metaphysics",
-    "definition": "The philosophical inquiry into the fundamental concepts and categories we use to understand reality, examining how they interconnect and structure our assumptions about the world, rather than speculating about transcendent entities beyond the physical."
-  },
-  {
-    "term": "Descriptive systematic metaphysics",
-    "definition": "The disciplined philosophical work of defining fundamental concepts, specifying their referents in the world, and establishing coherent relationships among them—grounded in observable reality rather than speculation."
-  },
-  {
-    "term": "Descriptive-Normative Assumptions",
-    "definition": "The fused set of claims about what is and what ought to be that underlie large-scale cultural worldviews, functioning as the pre-empirical scaffolding through which a civilization interprets facts and justifies values simultaneously."
-  },
-  {
-    "term": "design constraint",
-    "definition": "A binding principle or rule that shapes technological development by specifying what a system must or must not do, functioning as a testable requirement rather than an aspirational goal."
-  },
-  {
-    "term": "design criteria",
-    "definition": "Explicit specifications and principles that guide the construction of systems (social, technological, or governance) to achieve desired outcomes and maintain long-term coherence with other systems like the biosphere."
-  },
-  {
-    "term": "design space",
-    "definition": "A bounded but open field of possible configurations or solutions within which multiple distinct approaches can be explored simultaneously, defined by constraints and goals rather than a fixed blueprint."
-  },
-  {
-    "term": "Designed Artifact Bias",
-    "definition": "The principle that monetary and institutional systems are not neutral or natural but encode specific values and incentive structures through their design parameters — such as velocity, locality, or interest — which shape behavior at the systemic level regardless of individual intent."
-  },
-  {
-    "term": "Despatialization of Complexity",
-    "definition": "The move in process philosophy to strip complexity of its spatial metaphors — such as nested containers or hierarchical levels — and reframe it entirely in terms of temporal duration and relational processes. This reorientation implies that finer-grained analysis moves toward larger cosmological domains rather than smaller enclosed ones."
-  },
-  {
-    "term": "detailed balance",
-    "definition": "A principle from statistical mechanics where opposing processes occur at equal rates, maintaining equilibrium; applied here to describe how continuous autonomous correction maintains system equilibrium against entropy."
-  },
-  {
-    "term": "Determinism",
-    "definition": "The metaphysical thesis that every event, including human action, is necessitated by prior causes according to fixed natural laws; the passage contends that invoking freedom as the absence of deterministic constraint paradoxically presupposes the very deterministic universe most serious philosophers reject."
-  },
-  {
-    "term": "Deterministic Chaos",
-    "definition": "A mathematical property of certain dynamical systems whereby fully deterministic rules produce trajectories that diverge exponentially from arbitrarily small differences in initial conditions, rendering long-term prediction practically impossible despite the absence of randomness."
-  },
-  {
-    "term": "development in the deep sense",
-    "definition": "Qualitative, structural transformation of psychological organization rather than superficial accumulation of skills or knowledge; fundamental reorganization of how a person's cognitive and psychological systems are arranged and function."
-  },
-  {
-    "term": "Developmental Achievement",
-    "definition": "A capacity or competence that is not innate or logically derivable but must be cultivated through experience, practice, and growth over time; used here to characterize discernment as an emergent faculty rather than a fixed algorithm."
-  },
-  {
-    "term": "developmental asymmetry",
-    "definition": "The structural difference in maturity, capacity, or integration between two individuals in a relationship, which can function as a generative gradient enabling growth in the less developed party through proximity and modeling."
-  },
-  {
-    "term": "developmental edge",
-    "definition": "The threshold beyond which a child's engagement with new concepts ceases to be grounded in genuine comprehension and becomes mimicry or rote performance, identifiable as a discontinuity in the characteristic curve where vocabulary complexity outpaces conceptual integration."
-  },
-  {
-    "term": "Developmental Education",
-    "definition": "A pedagogical orientation aimed at cultivating the interior capacities, values, and meaning-making frameworks of the learner, rather than transmitting fixed content. In the context of elite succession, it refers to forming the next generation's sense of responsibility and systemic understanding commensurate with the complexity of the world they will steward."
-  },
-  {
-    "term": "Developmental Epistemology",
-    "definition": "Pioneered by Piaget, the view that the capacities of the knowing subject are not given but constructed through a hidden infrastructure of biological, linguistic, social, and educational development, making knowledge an achievement built on layers of prior learning."
-  },
-  {
-    "term": "Developmental Facilitation",
-    "definition": "The intentional practice or pedagogy of creating conditions that support psychological and cognitive growth in individuals, here specifically reconsidered to prioritize holding contradiction over resolving it prematurely."
-  },
-  {
-    "term": "Developmental Field",
-    "definition": "A structured context or constraint space within which developmental processes unfold, shaping the range of possible outcomes for entities developing within it. When the field itself evolves, the developmental potentials it governs can produce outcomes that appear discontinuous or saltational without invoking mysterious causation."
-  },
-  {
-    "term": "Developmental Framework",
-    "definition": "A structured model of cognitive or psychological growth in which minds are understood to progress through qualitatively distinct stages of increasing complexity, sophistication, and integrative capacity, implying that later stages are more capable in specific functional respects than earlier ones."
-  },
-  {
-    "term": "Developmental Gaps",
-    "definition": "Areas of psychological immaturity, unmet needs, or arrested growth that persist after an awakening experience because such experiences, while potentially transformative, do not automatically complete the full spectrum of human psychological development."
-  },
-  {
-    "term": "Developmental Isolation",
-    "definition": "A condition in which an individual's perceptual or experiential range exceeds what the surrounding social field can recognize or validate, producing a structural loneliness that may catalyze a compensatory vocation toward transmission, art, or teaching."
-  },
-  {
-    "term": "developmental layering",
-    "definition": "The process by which successive, qualitatively distinct stages of cognitive or psychological organization are built upon prior stages, with each new layer preserving but transcending the capacities of the one beneath it."
-  },
-  {
-    "term": "developmental mentorship",
-    "definition": "A form of guidance premised on the mentor's ability to inhabit and honor the developmental stage of the person being supported, a capacity that requires having genuinely integrated rather than dismissed that stage in oneself."
-  },
-  {
-    "term": "Developmental meta-model",
-    "definition": "A theoretical framework, drawing on thinkers like Habermas and developmental psychology, that situates different epistemic structures in a hierarchical or sequential relation to one another, allowing plurality of frameworks to be acknowledged without treating all frameworks as equivalent."
   }
 ]
