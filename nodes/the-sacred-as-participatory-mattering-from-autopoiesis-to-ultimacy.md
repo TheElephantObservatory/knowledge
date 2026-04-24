@@ -1,0 +1,67 @@
+---
+slug: the-sacred-as-participatory-mattering-from-autopoiesis-to-ultimacy
+title: "The Sacred as Participatory Mattering: From Autopoiesis to Ultimacy"
+observer: "John Vervaeke"
+observer_slug: john-vervaeke
+tags: [Participatory Epistemology, Process Philosophy, Relevance Realization, Relational Ontology, Phenomenology]
+edges:
+  - target: a-secular-structure-for-the-sacred-mattering-love-and-ultimacy
+    type: extends
+  - target: completing-tillich-from-sacred-gesture-to-participatory-structure
+    type: extends
+  - target: how-substance-ontology-nominalism-and-dualism-lock-us-into-adversarial-minds
+    type: contrasts
+  - target: the-missing-architecture-between-newtonian-matter-and-kantian-mind
+    type: contrasts
+created_at: "2026-04-23"
+---
+
+# The Sacred as Participatory Mattering: From Autopoiesis to Ultimacy
+
+> The sacred is not a supernatural addition to nature but the deepest expression of mattering — a structural feature of life itself that scales from autopoietic self-maintenance through agapic love to orientation toward what is ultimately real, requiring a participatory ontology of emergence to fill the prophetic but empty space Tillich opened beyond theism.
+
+The dominant cultural framing treats meaning as a subjective reward signal — a byproduct of goal-pursuit layered onto a neutral world. Vervaeke challenges this at its root. Drawing on autopoiesis — the capacity of living systems to actively maintain the conditions of their own existence — he argues that mattering is not something minds add to reality but is constitutive of life as such. Unlike self-organizing physical systems such as tornadoes, living beings have things that literally matter to them. Relevance is built into the structure of the organism, not overlaid on a neutral substrate.
+
+This autopoietic structure scales across nested levels in human beings. At the biological level, the organism is organized around its own continuation. At the cognitive level, the mind develops through selective uptake — it literally grows from what it attends to. At the social level, the question shifts from 'what is relevant to me?' to 'how am I relevant to you?' — what Vervaeke calls the agapic arrow: the drive to help another person become more fully themselves. Drawing on the meaning-in-life literature (Martella and Steger, Susan Wolf, Cin and Bales), meaning comprises at least four dimensions: purpose, coherence, significance, and mattering — where significance and mattering are understood as two facets of deep, non-arbitrary connectedness to something real and valuable.
+
+This structural account of mattering provides the foundation for a naturalistic phenomenology of the sacred. The sacred reveals itself in layers. The first layer is mattering itself — being connected to something with reality and value beyond one's egocentric frame. The paradigm case is agapic love: a parent loves a child not instrumentally but because they want the child to exist beyond their own existence. The structure deepens when what matters also discloses reality — when the relationship is not merely valued but revelatory, drawing one into deeper contact with what is real. And there is a superlative register: when that which deepens our contact with reality orients us toward what is ultimately real, the sacred reaches its highest intensity. This is the experiential referent behind terms like God, Dao, and Brahman — not supernatural entities but names for this culminating orientation toward ultimacy.
+
+Vervaeke names this entire constellation 'religio' — not religion in the confessional sense, but the ancient Latin root meaning binding and fitting together, the mutual conformity of mind and world. The capacity for agapic concern, for falling in love with reality, and for orientation toward ultimacy can be understood as exaptations of the care structures fundamental to primate mammalian life. Born from care, sustained by care, we extend care onto ever-wider domains.
+
+This naturalistic account also addresses a historical gap. Tillich's concept of the god beyond the god of theism was genuinely prophetic — it correctly identified that theism had severed ultimate concern from what is ultimately real. But the call remained structurally empty, lacking the ontological and epistemological machinery to make it actionable. Vervaeke aims to supply that machinery by reinterpreting Tillich's descriptor 'inexhaustible' not as infinite quantitative extension but as generative depth — the sacred as a living, self-organizing, dynamically unfolding process whose depth is emergent rather than merely extensive. The deeper claim is about structural conformity between psyche and cosmos: intelligence and intelligibility are not accidentally correlated but mutually constitutive. The psyche is not merely an epistemic instrument directed at the sacred but a participatory symbol — a sacrament — that makes the sacred present through its very operation.
+
+Without this reconceptualization — without grounding participation in a robust ontology of emergence and mattering — no ecological narrative, no artistic practice, and no ethical exhortation will generate the depth of commitment and sacrifice that the current civilizational crisis requires. The diagnostic questions this framework generates — What do you want to exist even if you don't? How real is it? How much difference do you make to it? — are not merely philosophical. Absence of these dimensions predicts measurable psychological, physiological, social, and economic harm.
+
+## Apprentice
+
+What if meaning isn't something you create but something built into the fabric of being alive? John Vervaeke argues that mattering — the sense that something beyond yourself is real, valuable, and connected to you — isn't a luxury or a feeling you add to the world. It's woven into the structure of life itself. Every living thing is organized around what matters to it, from a cell maintaining itself to a parent loving a child.
+
+This mattering has layers. At the simplest level, you're connected to something real and valuable beyond your own ego. Think of how a parent wants their child to exist and flourish even after the parent is gone — that's not instrumental, it's what Vervaeke calls agapic love. When that connection also reveals something true about reality — when it draws you deeper into what's real rather than distracting you — it intensifies. And when it orients you toward what is ultimately real, you've arrived at what the great traditions called God, Dao, or Brahman. But these aren't supernatural beings on this account — they're names for the deepest possible orientation toward reality.
+
+Vervaeke calls this whole pattern 'religio' — from the Latin for binding together. It's the mutual fitting of mind and world. He argues that our capacity for this kind of sacred connection grows naturally out of the care structures we share as mammals. We're born from care, sustained by care, and we extend care outward.
+
+The practical stakes are real. Research shows that when people lack a sense of mattering — when nothing beyond themselves feels real and valuable — the consequences show up in mental health, physical health, social bonds, and even economic outcomes. Three questions can help you locate where you stand: What do you want to exist even if you don't? How real is it? How much difference do you make to it?
+
+## Adept
+
+Vervaeke develops a naturalistic account of the sacred that begins not with theology but with the structure of life itself. The foundation is autopoiesis: living systems, unlike merely self-organizing physical phenomena, are constitutively organized around what matters to them. Relevance is not a subjective overlay on a neutral world — it is built into the architecture of being alive. This structural mattering scales through nested levels: biological self-maintenance, cognitive development through selective attention, and social existence where the question becomes not 'what is relevant to me?' but 'how am I relevant to you?' — the agapic arrow.
+
+From this base, the sacred emerges as a layered phenomenological structure. The first layer is mattering: connection to something with reality and value beyond the egocentric frame. The paradigm is agapic love — wanting something to exist beyond one's own existence. The second layer is revelatory depth: when what matters also discloses reality, drawing one into deeper contact with what is real rather than functioning as distraction. The third and superlative layer is orientation toward ultimacy — when the revelatory connection points toward what is ultimately real. This is the experiential referent behind the names God, Dao, Brahman — understood not as supernatural entities but as designations for this culminating orientation.
+
+Vervaeke names the whole constellation 'religio' in its original Latin sense: binding and fitting together, the mutual conformity of mind and world. The capacity for agapic concern and orientation toward ultimacy are understood as exaptations of mammalian care structures — the sacred as nature's deepest expression, not its exception.
+
+This framework also addresses a specific historical problem. Tillich's god beyond the god of theism was prophetic but structurally empty — it lacked the ontological machinery to become actionable. Vervaeke fills this gap by reinterpreting Tillich's 'inexhaustible' not as infinite quantitative extension but as generative emergent depth. The psyche, on this account, is not merely an epistemic instrument directed at the sacred but a participatory symbol — a sacrament — whose very operation makes the sacred present. Intelligence and intelligibility are mutually constitutive; the grammar of cognition and the grammar of reality are isomorphic in a non-trivial sense.
+
+The practical and civilizational stakes are explicit: without grounding participation in a robust ontology of emergence and mattering, no narrative or practice will generate the depth of commitment the current crisis demands. The diagnostic questions — What do you want to exist even if you don't? How real is it? How much difference do you make to it? — predict measurable harm when their answers are absent.
+
+## Magus
+
+Vervaeke's project here is to construct the ontological and epistemological machinery that Tillich's prophetic but empty gesture toward a god beyond theism could not supply. The construction proceeds from the ground up, beginning with a radical claim about the structure of life: mattering is not epiphenomenal to cognition or subjectively projected onto a neutral world. It is constitutive of autopoietic organization as such. Living systems are not self-organizing in the way tornadoes are — they have things that literally matter to them. This is the ontological basement of the entire edifice.
+
+The architecture scales through nested levels of mattering. Biological autopoiesis gives way to cognitive autopoiesis — the mind literally grows from what it attends to, making selective uptake a form of self-constitution. Social mattering introduces the agapic arrow: the reversal from 'what is relevant to me?' to 'how am I relevant to you?' — the drive to help another become more fully themselves. Vervaeke draws on the meaning-in-life literature to identify four dimensions — purpose, coherence, significance, and mattering — while treating significance and mattering as two facets of a single phenomenon: deep, non-arbitrary connectedness to something real and valuable.
+
+The sacred emerges as the superlative intensification of this mattering structure. Layer one: connection to something with reality and value beyond the egocentric frame, paradigmatically agapic love. Layer two: revelatory depth — the connection discloses reality rather than occluding it. Layer three: orientation toward what is ultimately real. God, Dao, Brahman are names for this culminating orientation, not for supernatural entities. The entire account is naturalistic: these capacities are exaptations of primate mammalian care structures. The sacred is nature's deepest expression.
+
+The Tillichian completion operates through two key moves. First, 'inexhaustible' is reinterpreted from Newtonian infinite extension to emergent generative depth — the sacred as a living, self-organizing, dynamically unfolding process. Second, the psyche is reconceived as participatory symbol, a sacrament whose operation makes the sacred present. This rests on the claim that intelligence and intelligibility are mutually constitutive — the fundamental grammar of cognition and the fundamental grammar of reality are isomorphic in a non-trivial sense. The psyche does not merely know the sacred; it enacts it through structural conformity with the self-organizing depth of reality.
+
+Vervaeke names this constellation 'religio' — binding and fitting together. The civilizational stakes are made explicit: without this participatory ontology of emergence, no ecological narrative, artistic practice, or ethical exhortation will generate the depth of commitment and sacrifice the current crisis demands. The diagnostic questions — What do you want to exist even if you don't? How real is it? How much difference do you make to it? — are not merely philosophical provocations. Their absence predicts measurable psychological, physiological, social, and economic harm. The framework is simultaneously metaphysical and clinical, ontological and existential.

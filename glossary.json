@@ -588,6 +588,10 @@
     "definition": "The implicit or explicit story a culture or individual holds about the nature and significance of human existence, which shapes how persons and civilizations motivate action, construct meaning, and respond to existential risk."
   },
   {
+    "term": "Anthropomorphic AI",
+    "definition": "AI systems designed or trained in ways that trigger human social and attachment responses by mimicking the behavioral signatures of a minded, responsive interior, regardless of whether any such interior exists."
+  },
+  {
     "term": "Anthropomorphism",
     "definition": "The attribution of human characteristics, emotions, intentions, or consciousness to non-human entities, particularly machines or AI systems, which can obscure the actual nature and limitations of those systems."
   },
@@ -622,6 +626,10 @@
   {
     "term": "anti-institutionalism",
     "definition": "A disposition within countercultural movements that rejects formal structures, hierarchies, and inherited institutions as inherently oppressive, often without providing alternative frameworks for sustaining collective life."
+  },
+  {
+    "term": "Anti-Reductionism",
+    "definition": "The philosophical position that complex phenomena — particularly meaning, value, and human dignity — cannot be fully explained or replaced by lower-level scientific descriptions. In this context, it is a defense of non-scientific modes of language as necessary for sustaining robust ethical and political commitments."
   },
   {
     "term": "Anti-structure",
@@ -894,6 +902,10 @@
   {
     "term": "attachment hacking",
     "definition": "The systematic exploitation of human attachment systems through AI systems designed to provide unconditional validation and availability, creating dependency patterns that resemble abusive relationships rather than substance addiction. Recovery requires psychological reconstruction rather than simple behavioral cessation."
+  },
+  {
+    "term": "attachment object",
+    "definition": "A concept derived from attachment theory describing an entity—typically a caregiver—to which a developing organism forms a primary emotional bond that regulates security, affect, and social development. Applying this term to AI systems signals that such technologies may be colonizing a psychobiological role previously reserved for human relationships."
   },
   {
     "term": "Attachment system",
@@ -1190,6 +1202,10 @@
   {
     "term": "Basin of Attraction",
     "definition": "A concept from complexity science describing a stable configuration of a system toward which surrounding states tend to converge, analogous to a marble resting in a bowl; the system resists small perturbations but can be displaced into a different basin by sufficiently large shocks."
+  },
+  {
+    "term": "Basis of Legitimacy",
+    "definition": "The foundational justificatory framework through which a society authorizes power and social order; historical transitions such as the shift from theocentric to democratic legitimation represent not mere policy change but a wholesale restructuring of the axioms upon which governance rests."
   },
   {
     "term": "Baskarian Dialectic",
@@ -2124,6 +2140,10 @@
     "definition": "The underlying complex of institutions, norms, infrastructure, and surplus-generating capacity upon which higher-order activities — including philanthropy and altruistic intervention — depend. It functions as a precondition rather than a resource, and its erosion undermines the possibility of sustained beneficial action."
   },
   {
+    "term": "Civilizational Suicide",
+    "definition": "The catastrophic and potentially irreversible elimination of the foundational conditions — cultural, biological, or metaphysical — that make a civilization's form of life coherent and self-sustaining, used here to characterize transhumanist projects that would dissolve the human substrate on which meaning and value depend."
+  },
+  {
     "term": "civilizational tipping point",
     "definition": "A threshold moment in collective human development where a technological or social shift fundamentally alters the substrate of human relationships and psychological development at scale, with irreversible systemic consequences."
   },
@@ -2602,6 +2622,10 @@
   {
     "term": "combogenesis",
     "definition": "The directional, nested, and cumulative historical sequence by which integrated wholes become parts of progressively higher-order integrated wholes, tracing complexification from atoms through molecules, cells, organisms, and cultures."
+  },
+  {
+    "term": "Comenian Preservation Network",
+    "definition": "A model of deliberate civilizational stewardship, derived from John Amos Comenius's response to the Thirty Years War, in which a coordinated network of forward-thinking actors consciously identifies, protects, and transmits the most valuable knowledge and institutions across a period of civilizational disassembly."
   },
   {
     "term": "ComMo flashlight",
@@ -3974,29 +3998,5 @@
   {
     "term": "Deficient Mental",
     "definition": "A term drawn from integral and perennial philosophy referring to a pathological or incomplete mode of rational consciousness that has lost contact with deeper sources of meaning, value, and being, producing the conditions characteristic of the modern meaning crisis."
-  },
-  {
-    "term": "Degeneracy",
-    "definition": "A property of complex systems, borrowed from evolutionary biology, in which structurally distinct elements can perform the same function or yield the same output; this overlapping redundancy enables robustness and adaptability without requiring uniformity."
-  },
-  {
-    "term": "Degrowth Era",
-    "definition": "As used here, not merely an ecological doctrine advocating reduced consumption, but a broader civilizational condition in which institutions cease to translate discovered knowledge and capability into realized infrastructure, culture, or progress."
-  },
-  {
-    "term": "Dehiscence of the Body",
-    "definition": "A concept from Merleau-Ponty describing the fundamental ambiguity of embodied existence in which the body is simultaneously subject and object — both the toucher and the touched — producing a folded, self-referential structure that underlies all perception and contact with the world."
-  },
-  {
-    "term": "Delegable Proxy",
-    "definition": "A transferable grant of voting authority in which a citizen assigns their decision-making power to another individual or organization for a specified domain, with the further property that the recipient may re-delegate that authority up a chain to more specialized actors."
-  },
-  {
-    "term": "Delegated Proxy Voting",
-    "definition": "The operational mechanism within liquid democracy whereby a voter transfers their voting weight to another individual or organization for a defined domain or issue, creating variable-weight voters whose incentive to engage scales with the number of proxies they hold."
-  },
-  {
-    "term": "Delegitimation of Authority",
-    "definition": "The erosion of trust in a particular form of authority—here, institutionalized teacherly authority—that, when generalized, collapses into a categorical rejection of the broader class of authority it represents. The concept highlights how the failure of one legitimating structure can produce indiscriminate anti-authoritarian dispositions."
   }
 ]

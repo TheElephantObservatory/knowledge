@@ -13370,6 +13370,11 @@
     "relationship_type": "grounds"
   },
   {
+    "source_slug": "civilizational-transitions-follow-historical-patterns-and-we-are-already-late",
+    "target_slug": "the-second-collapse-of-epistemic-authority-in-western-history",
+    "relationship_type": "grounds"
+  },
+  {
     "source_slug": "finesse-as-a-virtue-for-navigating-self-organizing-systems",
     "target_slug": "reconceiving-virtue-for-civilizational-scale-through-opponent-processing",
     "relationship_type": "extends"
@@ -13467,6 +13472,11 @@
   {
     "source_slug": "why-those-who-fear-death-most-have-already-stopped-living",
     "target_slug": "mcgilchrists-case-for-humans-as-the-universes-self-appreciation",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "civilizational-transitions-follow-historical-patterns-and-we-are-already-late",
+    "target_slug": "the-metacrisis-unfolds-over-centuries-not-moments",
     "relationship_type": "contrasts"
   },
   {
@@ -13575,6 +13585,16 @@
     "relationship_type": "extends"
   },
   {
+    "source_slug": "how-ai-attachment-hijacks-the-mammalian-brains-core-development-system",
+    "target_slug": "ai-chatbots-hack-attachment-not-just-attention",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "why-secular-frameworks-cannot-sustain-civilizational-commitment-to-intrinsic-value",
+    "target_slug": "how-scientific-reductionism-and-religious-fundamentalism-share-a-nihilistic-core",
+    "relationship_type": "extends"
+  },
+  {
     "source_slug": "why-secular-culture-has-not-yet-grieved-the-death-of-god",
     "target_slug": "why-western-culture-has-not-grieved-the-death-of-god",
     "relationship_type": "grounds"
@@ -13657,6 +13677,16 @@
   {
     "source_slug": "why-ai-cannot-know-what-it-feels-like-to-be-alive",
     "target_slug": "why-computers-process-but-cannot-understand-mcgilchrist-on-ai-and-meaning",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-ai-attachment-hijacks-the-mammalian-brains-core-development-system",
+    "target_slug": "ai-attachment-systems-are-replacing-human-developmental-bonds",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "evolutionary-drives-unmoored-by-technological-power",
+    "target_slug": "how-technology-breaks-the-symmetry-of-co-evolution",
     "relationship_type": "extends"
   },
   {
@@ -13768,6 +13798,21 @@
     "source_slug": "mcgilchrists-three-levels-of-civilizational-change-why-inner-life-comes-first",
     "target_slug": "culture-as-the-deep-driver-of-civilizational-change",
     "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-ai-attachment-hijacks-the-mammalian-brains-core-development-system",
+    "target_slug": "the-category-error-of-machine-personhood",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "transhumanisms-metaphysical-assumptions-are-driving-civilizational-decisions",
+    "target_slug": "transhumanism-as-unacknowledged-religion-and-civilizational-risk",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "evolutionary-drives-unmoored-by-technological-power",
+    "target_slug": "complexity-increases-over-time-but-progress-is-not-guaranteed",
+    "relationship_type": "contrasts"
   },
   {
     "source_slug": "reviving-spiritual-practice-without-turning-it-into-a-tool-for-survival",
@@ -14375,6 +14420,21 @@
     "relationship_type": "contrasts"
   },
   {
+    "source_slug": "grieving-the-death-of-god-and-world-as-the-precondition-for-recovering-the-sacred",
+    "target_slug": "the-double-death-of-the-sacred-god-and-world-together",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "why-secular-frameworks-cannot-sustain-civilizational-commitment-to-intrinsic-value",
+    "target_slug": "the-misidentification-of-value-in-modern-civilization",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "transhumanisms-metaphysical-assumptions-are-driving-civilizational-decisions",
+    "target_slug": "why-artificial-intelligence-is-a-category-error-about-the-nature-of-mind",
+    "relationship_type": "extends"
+  },
+  {
     "source_slug": "moving-beyond-anthropocentrism-as-a-civilizational-spiritual-task",
     "target_slug": "human-beings-as-earths-consciousness-not-its-conquerors",
     "relationship_type": "contrasts"
@@ -14448,6 +14508,16 @@
     "source_slug": "why-metacrisis-is-not-just-a-fancier-word-for-polycrisis",
     "target_slug": "four-ways-of-knowing-the-metacrisis-from-theory-to-lived-experience",
     "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "grieving-the-death-of-god-and-world-as-the-precondition-for-recovering-the-sacred",
+    "target_slug": "why-secular-culture-has-not-yet-grieved-the-death-of-god",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "why-secular-frameworks-cannot-sustain-civilizational-commitment-to-intrinsic-value",
+    "target_slug": "why-secular-materialists-are-reconsidering-religions-social-function",
+    "relationship_type": "contrasts"
   },
   {
     "source_slug": "moving-beyond-anthropocentrism-as-a-civilizational-spiritual-task",
@@ -14533,6 +14603,21 @@
     "source_slug": "why-innovation-gets-swallowed-by-the-status-quo-the-three-horizons-model",
     "target_slug": "moving-beyond-crisis-framing-toward-transformative-potential",
     "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "grieving-the-death-of-god-and-world-as-the-precondition-for-recovering-the-sacred",
+    "target_slug": "forsakenness-as-revelation-uncertainty-at-the-heart-of-god",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "transhumanisms-metaphysical-assumptions-are-driving-civilizational-decisions",
+    "target_slug": "sapience-as-autonomy-beyond-mere-biological-agency",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "evolutionary-drives-unmoored-by-technological-power",
+    "target_slug": "sapience-as-autonomy-beyond-mere-biological-agency",
+    "relationship_type": "grounds"
   },
   {
     "source_slug": "moving-beyond-anthropocentrism-as-a-civilizational-spiritual-task",
@@ -14630,6 +14715,16 @@
     "relationship_type": "grounds"
   },
   {
+    "source_slug": "the-sacred-as-participatory-mattering-from-autopoiesis-to-ultimacy",
+    "target_slug": "a-secular-structure-for-the-sacred-mattering-love-and-ultimacy",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "evolutionary-drives-unmoored-by-technological-power",
+    "target_slug": "technology-outpaces-moral-development-by-orders-of-magnitude",
+    "relationship_type": "extends"
+  },
+  {
     "source_slug": "how-the-death-of-god-left-the-self-without-a-mirror",
     "target_slug": "how-secular-devotions-replace-god-without-admitting-it",
     "relationship_type": "extends"
@@ -14693,6 +14788,11 @@
     "source_slug": "mcgilchrists-philosophical-intuitions-preceded-his-neuroscience",
     "target_slug": "how-substance-ontology-nominalism-and-dualism-lock-us-into-adversarial-minds",
     "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "the-sacred-as-participatory-mattering-from-autopoiesis-to-ultimacy",
+    "target_slug": "completing-tillich-from-sacred-gesture-to-participatory-structure",
+    "relationship_type": "extends"
   },
   {
     "source_slug": "how-the-death-of-god-left-the-self-without-a-mirror",
@@ -14795,6 +14895,11 @@
     "relationship_type": "extends"
   },
   {
+    "source_slug": "the-sacred-as-participatory-mattering-from-autopoiesis-to-ultimacy",
+    "target_slug": "how-substance-ontology-nominalism-and-dualism-lock-us-into-adversarial-minds",
+    "relationship_type": "contrasts"
+  },
+  {
     "source_slug": "how-the-death-of-god-left-the-self-without-a-mirror",
     "target_slug": "historical-trauma-and-the-loss-of-symbolic-immortality",
     "relationship_type": "extends"
@@ -14855,6 +14960,11 @@
     "relationship_type": "grounds"
   },
   {
+    "source_slug": "the-sacred-as-participatory-mattering-from-autopoiesis-to-ultimacy",
+    "target_slug": "the-missing-architecture-between-newtonian-matter-and-kantian-mind",
+    "relationship_type": "contrasts"
+  },
+  {
     "source_slug": "how-the-death-of-god-left-the-self-without-a-mirror",
     "target_slug": "the-no-self-argument-only-defeats-descartes-not-the-self",
     "relationship_type": "grounds"
@@ -14897,6 +15007,21 @@
   {
     "source_slug": "why-those-who-fear-death-most-have-already-stopped-living",
     "target_slug": "nihilism-as-bodily-failure-to-value-anything",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "civilizational-transitions-follow-historical-patterns-and-we-are-already-late",
+    "target_slug": "comenius-and-the-civilizational-function-of-education",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "how-ai-attachment-hijacks-the-mammalian-brains-core-development-system",
+    "target_slug": "ai-companions-hijack-the-brains-attachment-and-reality-testing-systems",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "transhumanisms-metaphysical-assumptions-are-driving-civilizational-decisions",
+    "target_slug": "why-those-who-fear-death-most-have-already-stopped-living",
     "relationship_type": "extends"
   },
   {
@@ -14952,6 +15077,11 @@
   {
     "source_slug": "why-ai-cannot-know-what-it-feels-like-to-be-alive",
     "target_slug": "why-large-language-models-are-not-genuinely-intelligent",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "civilizational-transitions-follow-historical-patterns-and-we-are-already-late",
+    "target_slug": "the-metacrisis-includes-the-mind-that-tries-to-grasp-it",
     "relationship_type": "extends"
   }
 ]
