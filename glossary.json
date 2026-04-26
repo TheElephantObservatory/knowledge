@@ -16,6 +16,10 @@
     "definition": "A framework in cognitive science holding that cognition is embodied, embedded, enacted, and extended — meaning mental processes are not confined to the brain but are distributed across body, action, and environment."
   },
   {
+    "term": "700-layer filter",
+    "definition": "A conceptual heuristic for the epistemic authority of ideas that have survived transmission across approximately 2,000 years and dozens of generations of human civilization. Only ideas with robust adaptive or psychological utility are presumed to pass this iterative selection process."
+  },
+  {
     "term": "Abiogenesis",
     "definition": "The process by which life originates from non-living matter; in this context, understood as a continuation of dissipative adaptation processes already operating in the inanimate physical world."
   },
@@ -520,6 +524,10 @@
     "definition": "A conceptual tool constructed by scholars to organize, classify, and interpret phenomena across diverse contexts; such categories are not discovered in nature but fabricated within specific intellectual and cultural traditions, and therefore carry embedded assumptions that constrain what can be seen or said."
   },
   {
+    "term": "Analytical Multiverse",
+    "definition": "The exhaustive space of defensible analytical choices—variable selections, outcome measures, model specifications—that a researcher can legitimately traverse; when poorly bounded, it can mask robust localized effects beneath an aggregate of null or irrelevant comparisons."
+  },
+  {
     "term": "analytical truth",
     "definition": "A mode of truth-seeking oriented toward accuracy, logical consistency, and correspondence with reality, contrasted here with social truth, which is shaped by group belonging, status incentives, and the rewards of ideological conformity."
   },
@@ -634,6 +642,14 @@
   {
     "term": "Anti-structure",
     "definition": "Turner's reframing of Van Gennep's transitional stage as a generative social space in which normative rules and hierarchies are suspended or inverted, enabling the dramatization and partial resolution of a society's internal contradictions."
+  },
+  {
+    "term": "antifragility",
+    "definition": "A property, derived from Nassim Taleb's framework, whereby a system or individual gains strength from exposure to stressors, volatility, or adversity—requiring that such stressors be proportionate, recoverable, and embedded in a context where the agent retains meaningful agency."
+  },
+  {
+    "term": "Antifragility (implicit: what doesn't kill you makes you stronger)",
+    "definition": "The principle, rooted in Stoic and cross-cultural wisdom traditions, that exposure to manageable adversity strengthens psychological resilience rather than diminishing it. Its inversion — the belief that discomfort must be avoided — is identified as a driver of rising rates of anxiety and fragility in younger cohorts."
   },
   {
     "term": "antinomian",
@@ -856,6 +872,10 @@
     "definition": "A structural condition in which the potential downsides and upsides of a system or decision are not symmetrically related, such that negative outcomes can preclude positive ones but not vice versa. This differs from mere probabilistic imbalance, as the asymmetry is embedded in the causal architecture of the situation itself."
   },
   {
+    "term": "Asymmetric skepticism",
+    "definition": "The tendency to demand near-conclusive proof before accepting unwanted beliefs ('Must I believe it?') while accepting minimal evidence as sufficient permission to hold desired beliefs ('Can I believe it?'). This asymmetry operates beneath conscious awareness and is independent of general intelligence."
+  },
+  {
     "term": "asymmetry in emotional register",
     "definition": "The cognitive-affective disproportion between how immediate, personal benefits are felt versus how abstract, distant risks are processed, such that the two cannot be held in simultaneous emotional salience even when both are intellectually acknowledged."
   },
@@ -942,6 +962,10 @@
   {
     "term": "attention economy",
     "definition": "An economic and media framework, crystallized in the mid-1990s, that treats human attention as a scarce resource to be captured and monetized, structurally incentivizing platforms to maximize engagement signals rather than informational depth or continuity."
+  },
+  {
+    "term": "Attention Extraction System",
+    "definition": "A platform or infrastructure redesigned to capture and monetize human attention rather than facilitate communication, optimizing content delivery for maximum engagement metrics rather than user benefit or social value."
   },
   {
     "term": "Attention hacking",
@@ -1176,6 +1200,10 @@
     "definition": "Communication oriented toward a predetermined strategic outcome or manipulation rather than toward understanding; exemplified by rhetoric that obscures reality to serve the speaker's interests rather than collaborative truth-seeking."
   },
   {
+    "term": "Bad-Faith Actor",
+    "definition": "A participant in discourse who engages not to seek truth or mutual understanding but to manipulate, destabilize, or exploit the communicative environment for strategic ends. Anonymity and low accountability costs structurally advantage bad-faith actors over good-faith participants in unverified public forums."
+  },
+  {
     "term": "bad-faith information propagation",
     "definition": "The systemic spread of deliberately misleading, manipulative, or epistemically dishonest content, understood here as an emergent consequence of incentive structures that reward deception over truthful communication."
   },
@@ -1338,6 +1366,10 @@
   {
     "term": "binary oppositions",
     "definition": "Paired conceptual contrasts — such as upper/lower, pure/impure, or human/divine — that structure the implicit cosmology encoded in ritual space. Drawn from structuralist theory, Bell uses them to show how ritual organizes the entire perceived order of reality through minimal but totalizing distinctions."
+  },
+  {
+    "term": "Binding Coordination Mechanism",
+    "definition": "An institutional, legal, or social agreement that simultaneously constrains all relevant actors within a system, thereby changing the incentive landscape for everyone at once rather than relying on voluntary individual compliance. Its binding nature is precisely what makes it effective where voluntary action fails."
   },
   {
     "term": "binding event",
@@ -1594,6 +1626,10 @@
   {
     "term": "Capability-Safety Investment Ratio",
     "definition": "The empirical disproportion between resources allocated to advancing the functional power of AI systems versus resources allocated to ensuring their alignment and safety, used as a structural indicator of systemic risk prioritization failure."
+  },
+  {
+    "term": "Capacity for Failure",
+    "definition": "A developmental competency built through repeated exposure to setback, frustration, and recovery in consequential real-world contexts; its absence, resulting from withdrawal into low-stakes virtual environments, is theorized to impair the formation of resilience and adult agency."
   },
   {
     "term": "Capital as Religion",
@@ -2272,6 +2308,14 @@
     "definition": "A state of meta-stability in evolutionary systems where competing agents exert balanced pressure on each other, creating mutual dependence that prevents any single actor from achieving dominance; the underlying condition that makes competitive dynamics produce stable outcomes."
   },
   {
+    "term": "Coalitional Competition",
+    "definition": "An evolved behavioral drive, particularly pronounced in males, to form alliances and compete against rival groups for status, resources, or territory; a core motivational architecture that virtual environments simulate without requiring real-world stakes or consequences."
+  },
+  {
+    "term": "Coalitional Instinct",
+    "definition": "An evolved behavioral disposition toward forming competitive, loyalty-based group alliances, theorized to be more pronounced in males and historically expressed through physical team play, but increasingly redirected toward virtual competitive environments such as multiplayer gaming."
+  },
+  {
     "term": "Coarse-grained theory",
     "definition": "A theoretical model that deliberately omits microscopic or fine-grained detail in order to capture general patterns and principles, trading predictive precision for conceptual comprehensibility and explanatory power."
   },
@@ -2436,6 +2480,10 @@
     "definition": "A social architecture in which a minimal set of meta-level agreements governs interactions between distinct, self-determining communities while leaving the internal content of each community radically free, enabling civilizational-scale coordination without collapsing into tyranny or atomization."
   },
   {
+    "term": "Cohort effect",
+    "definition": "A phenomenon in which a generation defined by shared formative experiences exhibits statistically distinct psychological or behavioral profiles compared to adjacent generations. In this passage, Gen Z's elevated rates of depression, anxiety, and self-harm are attributed to a cohort-specific exposure to the three great untruths during critical developmental years."
+  },
+  {
     "term": "Coincidence of opposites (coincidentia oppositorum)",
     "definition": "Cusa's philosophical principle that in the infinite, distinctions which are mutually exclusive at the finite level — such as maximum and minimum, unity and multiplicity — are held together without contradiction, requiring a mode of understanding that transcends ordinary discursive logic."
   },
@@ -2466,6 +2514,10 @@
   {
     "term": "collective action problems",
     "definition": "Situations where individual rational behavior leads to suboptimal outcomes for the group, requiring coordination mechanisms or expanded in-group identity to overcome divergent incentives."
+  },
+  {
+    "term": "Collective Action Trap",
+    "definition": "A situation in which individually rational choices produce collectively suboptimal outcomes, because each actor's best response depends on the choices of others, making unilateral defection from a harmful norm costly even when all parties would prefer a different equilibrium."
   },
   {
     "term": "Collective Awakening",
@@ -3328,12 +3380,20 @@
     "definition": "A situation in which rational or semi-rational actors, despite shared catastrophic risk, are unable to align behavior toward a collectively safer outcome due to asymmetric incentives, distrust, or pre-committed ideological positions."
   },
   {
+    "term": "Coordination Game",
+    "definition": "A class of game-theoretic scenario in which the optimal outcome for all players requires simultaneous alignment of behavior, such that no individual actor can achieve the preferred equilibrium through unilateral action alone."
+  },
+  {
     "term": "coordination layer",
     "definition": "The functional stratum of a multi-agent system responsible for negotiating, aligning, and executing interactions between agents, ideally insulated from the subjective biases and emotional coloring of individual human principals."
   },
   {
     "term": "Coordination mechanisms",
     "definition": "Institutional, technological, or governance structures that align individual incentives and behaviors toward collective outcomes, serving as alternatives to market-driven or hierarchical systems."
+  },
+  {
+    "term": "Coordination Problem",
+    "definition": "A situation in which multiple actors would all prefer a particular collective outcome but cannot achieve it through individual action alone, because each actor's optimal choice depends on what others do. Coordination problems are distinct from willpower or moral failures — they are structural, requiring collective mechanisms rather than individual virtue to resolve."
   },
   {
     "term": "Coordination Problems",
@@ -3604,6 +3664,10 @@
     "definition": "The cognitive and rhetorical practice of constituting problems as emergencies requiring urgent intervention, which — when applied as a default orientation — reproduces the problem-solving logic of modernity rather than enabling structural transformation."
   },
   {
+    "term": "critical intervention point",
+    "definition": "A developmentally sensitive window during which environmental inputs have disproportionate and potentially irreversible effects on psychological formation; analogous to neurological critical periods, it identifies middle school as a phase where certain exposures cause structural harm rather than adaptive stress."
+  },
+  {
     "term": "critical literacy of fear",
     "definition": "A proposed analytical and pedagogical framework that treats fear not as a private psychological aberration but as a historically and culturally constructed formation requiring systematic reconstruction across mythic, modern, and postmodern registers of meaning-making."
   },
@@ -3626,6 +3690,10 @@
   {
     "term": "critique",
     "definition": "In this context, rigorous external feedback or challenge that functions as a transformative force when received without defensiveness, enabling revision of beliefs and practices."
+  },
+  {
+    "term": "Cross-National Epidemiological Signal",
+    "definition": "A pattern of simultaneous, geographically distributed shifts in measurable health outcomes across multiple independent national populations, which methodologically strengthens causal inference by ruling out country-specific confounding variables."
   },
   {
     "term": "cross-paradigmatic",
@@ -3930,73 +3998,5 @@
   {
     "term": "Decoherence",
     "definition": "In social systems, the breakdown of sufficient shared understanding or agreement among participants, resulting in the fragmentation or collapse of collective coordination and community identity."
-  },
-  {
-    "term": "Decolonization (Psychological and Spiritual)",
-    "definition": "A mode of decolonization that operates at the level of identity, consciousness, and inner life rather than primarily through political or institutional reform — concerned with recovering a rooted sense of self and relational ethics that colonial erasure displaced, as a precondition for genuine social transformation."
-  },
-  {
-    "term": "Deconstruction",
-    "definition": "A mode of critical analysis, associated with postmodern thought, that dismantles the assumptions and internal contradictions of texts, institutions, and frameworks; distinguished here from construction in that it offers no positive foundation for social or moral order."
-  },
-  {
-    "term": "Deconstruction without Reconstruction",
-    "definition": "A limitation attributed to postmodernism wherein its analytical tools dismantle existing frameworks and grand narratives but fail to generate new normative foundations or actionable directions."
-  },
-  {
-    "term": "Deconstructive Postmodernism",
-    "definition": "The strand of postmodern thought that treats the unmasking of power relations embedded in all truth and value claims as a final destination, leaving no non-arbitrary basis for preferring one way of life or ethical framework over another."
-  },
-  {
-    "term": "Decontextualization",
-    "definition": "The methodological practice in science of isolating a phenomenon from its relational and environmental context in order to study it in controlled abstraction. The reductionist error, as described here, is to mistake this productive epistemic strategy for a metaphysical claim that isolated objects are what is ultimately real."
-  },
-  {
-    "term": "Decontextualized borrowing",
-    "definition": "The extraction of high-potency spiritual or contemplative practices from their originating cultural and institutional frameworks without transplanting the accompanying structures of guidance, initiation, and constraint. This produces the destabilizing effects of the practice while removing the holding conditions that render those effects generative rather than harmful."
-  },
-  {
-    "term": "Decoupling",
-    "definition": "The theoretical separation of economic growth from resource extraction and energy consumption, often proposed as a solution to sustainability challenges but empirically undermined by mechanisms like the Jevons paradox."
-  },
-  {
-    "term": "Decoupling of Capability and Wisdom",
-    "definition": "The structural condition in which technological power advances independently of the ethical, epistemic, and relational frameworks needed to deploy it responsibly, producing systems or actors that can act consequentially without being able to self-correct."
-  },
-  {
-    "term": "deep adaptation",
-    "definition": "A transformative process encompassing both technological and psychological dimensions, with psychological change serving as the primary driver of systemic resilience and transformation in response to civilizational pressures."
-  },
-  {
-    "term": "Deep continuity",
-    "definition": "The philosophical principle that seemingly distinct domains of reality—physical, biological, conscious, and cultural—are fundamentally connected through shared underlying principles rather than separated by categorical boundaries."
-  },
-  {
-    "term": "Deep grammar of success",
-    "definition": "The implicit, culturally encoded rules that define what counts as achievement or value—typically conquest, accumulation, and dominance—operating beneath the level of explicit policy or moral discourse and resistant to surface-level reform."
-  },
-  {
-    "term": "Deep Participation",
-    "definition": "A mode of engagement characterized by full, undefended presence to the complexity of a situation as it actually is — neither withdrawing into abstraction nor imposing a predetermined agenda — understood here as the necessary condition for wisdom and unfoldment to arise."
-  },
-  {
-    "term": "deep sciences of the interior",
-    "definition": "Systematic, rigorous methodologies developed within contemplative traditions for investigating the structure and transformation of consciousness through direct phenomenological inquiry rather than external observation."
-  },
-  {
-    "term": "Default Mode / Default Waking State",
-    "definition": "The baseline condition of the untrained mind, dominated by self-referential thought, rumination, and anticipation rather than present-moment awareness. In neuroscience, this corresponds roughly to default mode network activity; here it is treated as a kind of chronic, low-grade dissociation from immediate experience."
-  },
-  {
-    "term": "Default Mode Network",
-    "definition": "A large-scale brain network active during rest, self-referential thought, and mind-wandering, characterized by loose associative cognition in the absence of directed external task engagement."
-  },
-  {
-    "term": "Defection logic",
-    "definition": "The structural incentive within competitive systems where each participant rationally chooses to prioritize their own advantage over collective welfare, making cooperation unstable without external enforcement mechanisms."
-  },
-  {
-    "term": "Deficient Mental",
-    "definition": "A term drawn from integral and perennial philosophy referring to a pathological or incomplete mode of rational consciousness that has lost contact with deeper sources of meaning, value, and being, producing the conditions characteristic of the modern meaning crisis."
   }
 ]

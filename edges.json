@@ -13375,6 +13375,61 @@
     "relationship_type": "grounds"
   },
   {
+    "source_slug": "american-polarization-is-a-systems-problem-not-a-people-problem",
+    "target_slug": "how-the-like-button-rewired-democracys-social-architecture",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "american-polarization-is-a-systems-problem-not-a-people-problem",
+    "target_slug": "how-digital-information-overload-is-breaking-collective-decision-making",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-smartphones-harm-boys-and-girls-in-different-ways",
+    "target_slug": "how-social-media-replaced-being-loved-with-being-followed",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "how-smartphones-rewired-childhood-mental-health-after-2012",
+    "target_slug": "how-social-media-replaced-being-loved-with-being-followed",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "how-smartphones-replaced-play-based-childhood-and-broke-adolescent-mental-health",
+    "target_slug": "how-overprotection-and-social-media-broke-adolescent-mental-health",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-smartphones-replaced-play-based-childhood-and-broke-adolescent-mental-health",
+    "target_slug": "social-medias-like-button-and-the-teen-mental-health-collapse-after-2012",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-social-medias-attention-economy-became-a-template-for-ai-harm",
+    "target_slug": "the-ai-arms-race-is-structured-to-produce-the-wrong-winner",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "why-moral-intuition-defeats-political-argument-every-time",
+    "target_slug": "moral-foundations-as-functional-architecture-of-social-systems",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-smartphones-and-social-media-triggered-a-teen-mental-health-crisis-after-2012",
+    "target_slug": "excluding-children-from-real-work-creates-the-youth-mental-health-crisis",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "how-system-architecture-turns-reasonable-people-into-political-extremists",
+    "target_slug": "how-the-like-button-rewired-democracys-social-architecture",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "teaching-children-the-opposite-of-ancient-wisdom-caused-measurable-psychological-collapse",
+    "target_slug": "psychological-adaptation-and-the-crisis-of-personhood",
+    "relationship_type": "extends"
+  },
+  {
     "source_slug": "finesse-as-a-virtue-for-navigating-self-organizing-systems",
     "target_slug": "reconceiving-virtue-for-civilizational-scale-through-opponent-processing",
     "relationship_type": "extends"
@@ -13477,6 +13532,91 @@
   {
     "source_slug": "civilizational-transitions-follow-historical-patterns-and-we-are-already-late",
     "target_slug": "the-metacrisis-unfolds-over-centuries-not-moments",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "american-polarization-is-a-systems-problem-not-a-people-problem",
+    "target_slug": "political-polarization-as-broken-opponent-processing-between-real-moral-perspectives",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "how-overprotection-and-social-media-broke-adolescent-mental-health",
+    "target_slug": "social-medias-like-button-and-the-teen-mental-health-collapse-after-2012",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-smartphones-harm-boys-and-girls-in-different-ways",
+    "target_slug": "excluding-children-from-real-work-creates-the-youth-mental-health-crisis",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "how-the-like-button-rewired-democracys-social-architecture",
+    "target_slug": "large-platforms-as-public-infrastructure-the-case-for-common-carrier-regulation",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "how-the-like-button-rewired-democracys-social-architecture",
+    "target_slug": "how-manipulative-communication-replaced-sincere-exchange-online",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "why-we-demand-proof-from-enemies-but-permission-from-friends",
+    "target_slug": "political-identity-is-socially-assigned-not-individually-chosen",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "children-and-social-media-require-coordination-not-willpower",
+    "target_slug": "why-individual-families-cannot-opt-out-of-social-media-harms",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "childhood-phone-norms-as-a-collective-action-problem-with-exits",
+    "target_slug": "large-platforms-as-public-infrastructure-the-case-for-common-carrier-regulation",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "childhood-phone-norms-as-a-collective-action-problem-with-exits",
+    "target_slug": "excluding-children-from-real-work-creates-the-youth-mental-health-crisis",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "how-smartphones-rewired-childhood-mental-health-after-2012",
+    "target_slug": "how-platform-incentives-shape-social-media-design-and-ai-risk",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-smartphones-rewired-childhood-mental-health-after-2012",
+    "target_slug": "social-medias-like-button-and-the-teen-mental-health-collapse-after-2012",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "why-moral-intuition-defeats-political-argument-every-time",
+    "target_slug": "political-polarization-as-broken-opponent-processing-between-real-moral-perspectives",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "why-moral-intuition-defeats-political-argument-every-time",
+    "target_slug": "how-mood-based-politics-trapped-the-democratic-party",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "how-smartphones-harm-boys-and-girls-in-different-ways-1",
+    "target_slug": "how-social-media-platforms-weaponize-approval-to-capture-adolescent-attention",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "how-smartphones-and-social-media-triggered-a-teen-mental-health-crisis-after-2012",
+    "target_slug": "how-overprotection-and-social-media-broke-adolescent-mental-health",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-system-architecture-turns-reasonable-people-into-political-extremists",
+    "target_slug": "american-polarization-is-a-systems-problem-not-a-people-problem",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "teaching-children-the-opposite-of-ancient-wisdom-caused-measurable-psychological-collapse",
+    "target_slug": "structural-educational-lag-and-civilizational-collapse",
     "relationship_type": "contrasts"
   },
   {
@@ -13595,6 +13735,101 @@
     "relationship_type": "extends"
   },
   {
+    "source_slug": "american-polarization-is-a-systems-problem-not-a-people-problem",
+    "target_slug": "americas-culture-war-as-collision-between-three-competing-worldviews",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "how-overprotection-and-social-media-broke-adolescent-mental-health",
+    "target_slug": "how-social-media-platforms-weaponize-approval-to-capture-adolescent-attention",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-overprotection-and-social-media-broke-adolescent-mental-health",
+    "target_slug": "excluding-children-from-real-work-creates-the-youth-mental-health-crisis",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "how-smartphones-harm-boys-and-girls-in-different-ways",
+    "target_slug": "how-platform-incentives-shape-social-media-design-and-ai-risk",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-smartphones-harm-boys-and-girls-in-different-ways",
+    "target_slug": "ai-chatbots-hack-attachment-not-just-attention",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-the-like-button-rewired-democracys-social-architecture",
+    "target_slug": "how-digital-information-overload-is-breaking-collective-decision-making",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "how-platform-incentives-shape-social-media-design-and-ai-risk",
+    "target_slug": "why-new-technologies-arm-attackers-before-defending-users",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "why-we-demand-proof-from-enemies-but-permission-from-friends",
+    "target_slug": "the-brains-left-hemisphere-fabricates-reasons-for-actions-it-didnt-cause",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "why-we-demand-proof-from-enemies-but-permission-from-friends",
+    "target_slug": "why-sciences-reward-system-undermines-its-own-values",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "children-and-social-media-require-coordination-not-willpower",
+    "target_slug": "childhood-phone-norms-as-a-collective-action-problem-with-exits",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "children-and-social-media-require-coordination-not-willpower",
+    "target_slug": "the-metacrisis-as-systemic-failure-of-civilizations-operating-system",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "childhood-phone-norms-as-a-collective-action-problem-with-exits",
+    "target_slug": "why-individual-families-cannot-opt-out-of-social-media-harms",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-smartphones-replaced-play-based-childhood-and-broke-adolescent-mental-health",
+    "target_slug": "excluding-children-from-real-work-creates-the-youth-mental-health-crisis",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "how-social-medias-attention-economy-became-a-template-for-ai-harm",
+    "target_slug": "how-platform-incentives-shape-social-media-design-and-ai-risk",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-social-medias-attention-economy-became-a-template-for-ai-harm",
+    "target_slug": "the-invisible-apocalypse-of-attention-algorithms",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-social-medias-attention-economy-became-a-template-for-ai-harm",
+    "target_slug": "ai-accelerates-the-system-that-produces-it-making-it-uniquely-dangerous",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "why-moral-intuition-defeats-political-argument-every-time",
+    "target_slug": "why-we-demand-proof-from-enemies-but-permission-from-friends",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-smartphones-harm-boys-and-girls-in-different-ways-1",
+    "target_slug": "excluding-children-from-real-work-creates-the-youth-mental-health-crisis",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "teaching-children-the-opposite-of-ancient-wisdom-caused-measurable-psychological-collapse",
+    "target_slug": "the-structural-inability-to-transmit-human-meaning",
+    "relationship_type": "contrasts"
+  },
+  {
     "source_slug": "why-secular-culture-has-not-yet-grieved-the-death-of-god",
     "target_slug": "why-western-culture-has-not-grieved-the-death-of-god",
     "relationship_type": "grounds"
@@ -13688,6 +13923,71 @@
     "source_slug": "evolutionary-drives-unmoored-by-technological-power",
     "target_slug": "how-technology-breaks-the-symmetry-of-co-evolution",
     "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-overprotection-and-social-media-broke-adolescent-mental-health",
+    "target_slug": "how-social-media-replaced-being-loved-with-being-followed",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-platform-incentives-shape-social-media-design-and-ai-risk",
+    "target_slug": "the-ai-arms-race-is-structured-to-produce-the-wrong-winner",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-platform-incentives-shape-social-media-design-and-ai-risk",
+    "target_slug": "the-invisible-apocalypse-of-attention-algorithms",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "why-we-demand-proof-from-enemies-but-permission-from-friends",
+    "target_slug": "navigating-the-irreversible-collapse-of-collective-sensemaking",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "children-and-social-media-require-coordination-not-willpower",
+    "target_slug": "ai-agents-should-represent-your-goals-not-your-personality",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "how-smartphones-rewired-childhood-mental-health-after-2012",
+    "target_slug": "excluding-children-from-real-work-creates-the-youth-mental-health-crisis",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "how-smartphones-replaced-play-based-childhood-and-broke-adolescent-mental-health",
+    "target_slug": "how-smartphones-rewired-childhood-mental-health-after-2012",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-smartphones-harm-boys-and-girls-in-different-ways-1",
+    "target_slug": "how-smartphones-harm-boys-and-girls-in-different-ways",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-smartphones-harm-boys-and-girls-in-different-ways-1",
+    "target_slug": "how-social-media-replaced-being-loved-with-being-followed",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "how-smartphones-and-social-media-triggered-a-teen-mental-health-crisis-after-2012",
+    "target_slug": "how-social-media-replaced-being-loved-with-being-followed",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "how-system-architecture-turns-reasonable-people-into-political-extremists",
+    "target_slug": "large-platforms-as-public-infrastructure-the-case-for-common-carrier-regulation",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "how-system-architecture-turns-reasonable-people-into-political-extremists",
+    "target_slug": "political-identity-is-socially-assigned-not-individually-chosen",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "teaching-children-the-opposite-of-ancient-wisdom-caused-measurable-psychological-collapse",
+    "target_slug": "excluding-children-from-real-work-creates-the-youth-mental-health-crisis",
+    "relationship_type": "contrasts"
   },
   {
     "source_slug": "why-secular-culture-has-not-yet-grieved-the-death-of-god",
@@ -13813,6 +14113,11 @@
     "source_slug": "evolutionary-drives-unmoored-by-technological-power",
     "target_slug": "complexity-increases-over-time-but-progress-is-not-guaranteed",
     "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "childrens-social-media-harm-as-a-collective-action-trap-requiring-coordination-not-individual-choice",
+    "target_slug": "children-and-social-media-require-coordination-not-willpower",
+    "relationship_type": "extends"
   },
   {
     "source_slug": "reviving-spiritual-practice-without-turning-it-into-a-tool-for-survival",
@@ -14435,6 +14740,11 @@
     "relationship_type": "extends"
   },
   {
+    "source_slug": "childrens-social-media-harm-as-a-collective-action-trap-requiring-coordination-not-individual-choice",
+    "target_slug": "why-individual-families-cannot-opt-out-of-social-media-harms",
+    "relationship_type": "extends"
+  },
+  {
     "source_slug": "moving-beyond-anthropocentrism-as-a-civilizational-spiritual-task",
     "target_slug": "human-beings-as-earths-consciousness-not-its-conquerors",
     "relationship_type": "contrasts"
@@ -14518,6 +14828,11 @@
     "source_slug": "why-secular-frameworks-cannot-sustain-civilizational-commitment-to-intrinsic-value",
     "target_slug": "why-secular-materialists-are-reconsidering-religions-social-function",
     "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "childrens-social-media-harm-as-a-collective-action-trap-requiring-coordination-not-individual-choice",
+    "target_slug": "childhood-phone-norms-as-a-collective-action-problem-with-exits",
+    "relationship_type": "extends"
   },
   {
     "source_slug": "moving-beyond-anthropocentrism-as-a-civilizational-spiritual-task",
@@ -14618,6 +14933,11 @@
     "source_slug": "evolutionary-drives-unmoored-by-technological-power",
     "target_slug": "sapience-as-autonomy-beyond-mere-biological-agency",
     "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "childrens-social-media-harm-as-a-collective-action-trap-requiring-coordination-not-individual-choice",
+    "target_slug": "the-ai-race-as-a-self-fulfilling-collective-action-trap",
+    "relationship_type": "contrasts"
   },
   {
     "source_slug": "moving-beyond-anthropocentrism-as-a-civilizational-spiritual-task",
@@ -14795,6 +15115,16 @@
     "relationship_type": "extends"
   },
   {
+    "source_slug": "how-social-media-platforms-weaponize-approval-to-capture-adolescent-attention",
+    "target_slug": "why-individual-families-cannot-opt-out-of-social-media-harms",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-social-media-platforms-weaponize-approval-to-capture-adolescent-attention",
+    "target_slug": "excluding-children-from-real-work-creates-the-youth-mental-health-crisis",
+    "relationship_type": "contrasts"
+  },
+  {
     "source_slug": "how-the-death-of-god-left-the-self-without-a-mirror",
     "target_slug": "grieving-the-god-entangled-self-two-deaths-of-certainty",
     "relationship_type": "contrasts"
@@ -14900,6 +15230,16 @@
     "relationship_type": "contrasts"
   },
   {
+    "source_slug": "how-social-media-platforms-weaponize-approval-to-capture-adolescent-attention",
+    "target_slug": "how-social-media-replaced-being-loved-with-being-followed",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "social-medias-like-button-and-the-teen-mental-health-collapse-after-2012",
+    "target_slug": "why-individual-families-cannot-opt-out-of-social-media-harms",
+    "relationship_type": "extends"
+  },
+  {
     "source_slug": "how-the-death-of-god-left-the-self-without-a-mirror",
     "target_slug": "historical-trauma-and-the-loss-of-symbolic-immortality",
     "relationship_type": "extends"
@@ -14965,6 +15305,21 @@
     "relationship_type": "contrasts"
   },
   {
+    "source_slug": "how-social-media-platforms-weaponize-approval-to-capture-adolescent-attention",
+    "target_slug": "social-medias-like-button-and-the-teen-mental-health-collapse-after-2012",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "why-individual-families-cannot-opt-out-of-social-media-harms",
+    "target_slug": "bounded-communities-enable-trust-that-infinite-platforms-destroy",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "social-medias-like-button-and-the-teen-mental-health-collapse-after-2012",
+    "target_slug": "how-social-media-replaced-being-loved-with-being-followed",
+    "relationship_type": "grounds"
+  },
+  {
     "source_slug": "how-the-death-of-god-left-the-self-without-a-mirror",
     "target_slug": "the-no-self-argument-only-defeats-descartes-not-the-self",
     "relationship_type": "grounds"
@@ -15025,6 +15380,16 @@
     "relationship_type": "extends"
   },
   {
+    "source_slug": "why-individual-families-cannot-opt-out-of-social-media-harms",
+    "target_slug": "large-platforms-as-public-infrastructure-the-case-for-common-carrier-regulation",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "social-medias-like-button-and-the-teen-mental-health-collapse-after-2012",
+    "target_slug": "excluding-children-from-real-work-creates-the-youth-mental-health-crisis",
+    "relationship_type": "contrasts"
+  },
+  {
     "source_slug": "nihilism-as-bodily-failure-to-value-anything",
     "target_slug": "value-is-not-arbitrary-its-thermodynamic-roots-in-existence-itself",
     "relationship_type": "contrasts"
@@ -15083,5 +15448,10 @@
     "source_slug": "civilizational-transitions-follow-historical-patterns-and-we-are-already-late",
     "target_slug": "the-metacrisis-includes-the-mind-that-tries-to-grasp-it",
     "relationship_type": "extends"
+  },
+  {
+    "source_slug": "why-individual-families-cannot-opt-out-of-social-media-harms",
+    "target_slug": "digital-maturity-the-developmental-stage-no-one-is-teaching",
+    "relationship_type": "contrasts"
   }
 ]
