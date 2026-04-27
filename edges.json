@@ -13430,6 +13430,26 @@
     "relationship_type": "extends"
   },
   {
+    "source_slug": "why-grand-theories-need-method-not-just-framework",
+    "target_slug": "why-the-human-sciences-split-into-silos-and-how-to-reunify-them",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "wimsatts-framework-emergence-as-what-reduction-leaves-behind",
+    "target_slug": "organization-not-composition-how-complex-systems-produce-themselves",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "two-kinds-of-emergence-universal-novelty-vs-earths-specific-evolutionary-path",
+    "target_slug": "emergence-vs-panexperientialism-where-does-experience-begin",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "two-kinds-of-emergence-universal-novelty-vs-earths-specific-evolutionary-path",
+    "target_slug": "three-kinds-of-emergence-that-complexity-theory-usually-conflates",
+    "relationship_type": "extends"
+  },
+  {
     "source_slug": "finesse-as-a-virtue-for-navigating-self-organizing-systems",
     "target_slug": "reconceiving-virtue-for-civilizational-scale-through-opponent-processing",
     "relationship_type": "extends"
@@ -15045,6 +15065,71 @@
     "relationship_type": "extends"
   },
   {
+    "source_slug": "why-the-human-sciences-split-into-silos-and-how-to-reunify-them",
+    "target_slug": "how-the-humanities-lost-their-founding-purpose",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-social-science-hides-its-values-while-claiming-objectivity",
+    "target_slug": "how-separating-facts-from-values-left-ethics-illiterate",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "how-context-and-dependence-both-shape-reality-without-collapsing-into-hierarchy",
+    "target_slug": "wimsatts-framework-emergence-as-what-reduction-leaves-behind",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-context-and-dependence-both-shape-reality-without-collapsing-into-hierarchy",
+    "target_slug": "mapping-reality-from-energy-to-culture",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "three-orders-of-philosophy-why-critique-must-serve-reality",
+    "target_slug": "the-enlightenment-gap-why-modern-science-cannot-replace-a-worldview",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "three-orders-of-philosophy-why-critique-must-serve-reality",
+    "target_slug": "dialectical-thinking-as-a-method-for-escaping-your-own-worldview",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "psychologys-foundational-crisis-and-the-ontological-void-beneath-human-science",
+    "target_slug": "why-psychology-cannot-agree-on-what-mind-means",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "making-the-invisible-visible-how-worldview-becomes-an-object-of-growth",
+    "target_slug": "meditation-as-the-next-developmental-stage-not-a-wellness-tool",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "making-the-invisible-visible-how-worldview-becomes-an-object-of-growth",
+    "target_slug": "cognitive-complexity-and-worldview-are-not-the-same-variable",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "why-grand-theories-need-method-not-just-framework",
+    "target_slug": "how-meta-theories-bake-upward-bias-into-their-foundations",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "wimsatts-framework-emergence-as-what-reduction-leaves-behind",
+    "target_slug": "three-kinds-of-emergence-that-complexity-theory-usually-conflates",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-organism-waste-products-built-the-biospheres-chemical-cycles",
+    "target_slug": "why-closed-ecological-life-support-remains-space-colonizations-unsolved-prerequisite",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "how-organism-waste-products-built-the-biospheres-chemical-cycles",
+    "target_slug": "three-distinct-types-of-emergence-that-structure-how-complexity-builds",
+    "relationship_type": "exemplifies"
+  },
+  {
     "source_slug": "how-the-death-of-god-left-the-self-without-a-mirror",
     "target_slug": "how-secular-devotions-replace-god-without-admitting-it",
     "relationship_type": "extends"
@@ -15123,6 +15208,51 @@
     "source_slug": "how-social-media-platforms-weaponize-approval-to-capture-adolescent-attention",
     "target_slug": "excluding-children-from-real-work-creates-the-youth-mental-health-crisis",
     "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "why-the-human-sciences-split-into-silos-and-how-to-reunify-them",
+    "target_slug": "why-psychology-has-no-unified-foundation-and-what-utok-does-about-it",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "why-the-human-sciences-split-into-silos-and-how-to-reunify-them",
+    "target_slug": "mapping-reality-from-energy-to-culture",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "how-social-science-hides-its-values-while-claiming-objectivity",
+    "target_slug": "humes-is-ought-gap-as-a-continuum-not-a-chasm",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "how-context-and-dependence-both-shape-reality-without-collapsing-into-hierarchy",
+    "target_slug": "ontological-parity-nothing-is-more-real-than-anything-else",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "three-orders-of-philosophy-why-critique-must-serve-reality",
+    "target_slug": "nine-criteria-for-evaluating-competing-worldviews",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "wimsatts-framework-emergence-as-what-reduction-leaves-behind",
+    "target_slug": "whiteheads-scale-free-ontology-same-being-increasing-complexity",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "two-kinds-of-emergence-universal-novelty-vs-earths-specific-evolutionary-path",
+    "target_slug": "three-distinct-types-of-emergence-that-structure-how-complexity-builds",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "a-small-set-of-structural-patterns-may-organize-reality-across-all-scales",
+    "target_slug": "combogenesis-twelve-levels-from-quarks-to-human-culture",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "a-small-set-of-structural-patterns-may-organize-reality-across-all-scales",
+    "target_slug": "three-kinds-of-emergence-that-complexity-theory-usually-conflates",
+    "relationship_type": "extends"
   },
   {
     "source_slug": "how-the-death-of-god-left-the-self-without-a-mirror",
@@ -15240,6 +15370,36 @@
     "relationship_type": "extends"
   },
   {
+    "source_slug": "why-the-human-sciences-split-into-silos-and-how-to-reunify-them",
+    "target_slug": "the-missing-architecture-between-newtonian-matter-and-kantian-mind",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "nine-criteria-for-evaluating-competing-worldviews",
+    "target_slug": "worldviews-as-emergent-cultural-structures-not-personal-preferences",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "two-kinds-of-emergence-universal-novelty-vs-earths-specific-evolutionary-path",
+    "target_slug": "the-cambrian-explosion-as-psychologys-missing-ontological-boundary",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "the-enlightenment-gap-why-modern-science-cannot-replace-a-worldview",
+    "target_slug": "the-enlightenment-gap-how-western-civilization-split-mind-from-matter",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-enlightenment-gap-why-modern-science-cannot-replace-a-worldview",
+    "target_slug": "why-psychology-has-no-unified-foundation-and-what-utok-does-about-it",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "combogenesis-twelve-levels-from-quarks-to-human-culture",
+    "target_slug": "three-distinct-types-of-emergence-that-structure-how-complexity-builds",
+    "relationship_type": "extends"
+  },
+  {
     "source_slug": "how-the-death-of-god-left-the-self-without-a-mirror",
     "target_slug": "historical-trauma-and-the-loss-of-symbolic-immortality",
     "relationship_type": "extends"
@@ -15320,6 +15480,31 @@
     "relationship_type": "grounds"
   },
   {
+    "source_slug": "how-the-humanities-lost-their-founding-purpose",
+    "target_slug": "why-deconstruction-cannot-build-a-society-the-collapse-of-moral-language",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "making-the-invisible-visible-how-worldview-becomes-an-object-of-growth",
+    "target_slug": "kegans-five-orders-how-the-self-grows-in-complexity",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "why-grand-theories-need-method-not-just-framework",
+    "target_slug": "nine-criteria-for-evaluating-competing-worldviews",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "the-enlightenment-gap-why-modern-science-cannot-replace-a-worldview",
+    "target_slug": "psychology-as-the-hinge-between-science-meaning-and-myth",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "a-small-set-of-structural-patterns-may-organize-reality-across-all-scales",
+    "target_slug": "whiteheads-scale-free-ontology-same-being-increasing-complexity",
+    "relationship_type": "contrasts"
+  },
+  {
     "source_slug": "how-the-death-of-god-left-the-self-without-a-mirror",
     "target_slug": "the-no-self-argument-only-defeats-descartes-not-the-self",
     "relationship_type": "grounds"
@@ -15390,6 +15575,56 @@
     "relationship_type": "contrasts"
   },
   {
+    "source_slug": "how-the-humanities-lost-their-founding-purpose",
+    "target_slug": "the-structural-inability-to-transmit-human-meaning",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "how-social-science-hides-its-values-while-claiming-objectivity",
+    "target_slug": "why-psychology-cannot-choose-between-subjectivity-and-objectivity",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "why-psychology-cannot-choose-between-subjectivity-and-objectivity",
+    "target_slug": "the-foundational-crisis-of-psychological-definition",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "why-psychology-cannot-choose-between-subjectivity-and-objectivity",
+    "target_slug": "conflating-how-we-know-with-what-exists-psychologys-foundational-error",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "how-context-and-dependence-both-shape-reality-without-collapsing-into-hierarchy",
+    "target_slug": "boundaries-are-artifacts-of-scale-not-features-of-reality",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "three-orders-of-philosophy-why-critique-must-serve-reality",
+    "target_slug": "philosophys-highest-calling-arrives-at-moments-of-historical-rupture",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "ontological-parity-nothing-is-more-real-than-anything-else",
+    "target_slug": "relationship-is-more-primitive-than-the-object",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "psychologys-foundational-crisis-and-the-ontological-void-beneath-human-science",
+    "target_slug": "psychologys-ontological-vacancy-the-unresolved-crisis-at-the-heart-of-the-discipline",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "making-the-invisible-visible-how-worldview-becomes-an-object-of-growth",
+    "target_slug": "how-psychological-growth-and-transformative-learning-are-the-same-process",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "the-enlightenment-gap-why-modern-science-cannot-replace-a-worldview",
+    "target_slug": "the-missing-architecture-between-newtonian-matter-and-kantian-mind",
+    "relationship_type": "extends"
+  },
+  {
     "source_slug": "nihilism-as-bodily-failure-to-value-anything",
     "target_slug": "value-is-not-arbitrary-its-thermodynamic-roots-in-existence-itself",
     "relationship_type": "contrasts"
@@ -15452,6 +15687,61 @@
   {
     "source_slug": "why-individual-families-cannot-opt-out-of-social-media-harms",
     "target_slug": "digital-maturity-the-developmental-stage-no-one-is-teaching",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "how-social-science-hides-its-values-while-claiming-objectivity",
+    "target_slug": "science-has-a-hidden-metaphysics-it-refuses-to-acknowledge",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "why-psychology-cannot-choose-between-subjectivity-and-objectivity",
+    "target_slug": "how-language-crosses-the-boundary-between-private-and-shared-minds",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "ontological-parity-nothing-is-more-real-than-anything-else",
+    "target_slug": "mapping-reality-from-energy-to-culture",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "psychologys-foundational-crisis-and-the-ontological-void-beneath-human-science",
+    "target_slug": "why-psychology-stays-broken-without-descriptive-metaphysics",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "psychologys-foundational-crisis-and-the-ontological-void-beneath-human-science",
+    "target_slug": "psychologys-three-layer-crisis-fragmentation-misidentity-and-self-concealment",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "why-grand-theories-need-method-not-just-framework",
+    "target_slug": "mapping-reality-from-energy-to-culture",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "nine-criteria-for-evaluating-competing-worldviews",
+    "target_slug": "making-the-invisible-visible-how-worldview-becomes-an-object-of-growth",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "how-organism-waste-products-built-the-biospheres-chemical-cycles",
+    "target_slug": "combogenesis-twelve-levels-from-quarks-to-human-culture",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-organism-waste-products-built-the-biospheres-chemical-cycles",
+    "target_slug": "self-organization-and-the-spontaneous-origins-of-life",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "a-small-set-of-structural-patterns-may-organize-reality-across-all-scales",
+    "target_slug": "relationship-is-more-primitive-than-the-object",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "combogenesis-twelve-levels-from-quarks-to-human-culture",
+    "target_slug": "two-kinds-of-emergence-universal-novelty-vs-earths-specific-evolutionary-path",
     "relationship_type": "contrasts"
   }
 ]
