@@ -8,6 +8,15 @@ source_title: "Metapatterns Across Reality: From Quarks to Mind and Culture w/Ty
 source_url: "https://www.youtube.com/watch?v=GCOnYwmmh_Y"
 source_author: "Institute of Applied Metatheory"
 tags: [Systems Thinking, Epistemology, Cultural Evolution, Sensemaking]
+edges:
+  - target: how-propositional-language-made-humans-justifying-primates
+    type: grounds
+  - target: human-beings-as-justifying-animals-language-ego-and-culture
+    type: grounds
+  - target: how-propositional-language-created-a-new-plane-of-human-existence
+    type: extends
+  - target: worldviews-as-emergent-cultural-structures-not-personal-preferences
+    type: exemplifies
 created_at: "2026-04-26"
 ---
 

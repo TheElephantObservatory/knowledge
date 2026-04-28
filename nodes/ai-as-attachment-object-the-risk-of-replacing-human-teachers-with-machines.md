@@ -8,6 +8,15 @@ source_title: "Becoming Human in a Time Between Worlds with Zak Stein"
 source_url: "https://www.youtube.com/watch?v=k81tyhECbM4"
 source_author: "Katie Teague Films"
 tags: [Philosophy of Mind, Developmental Psychology, Ethics, Existential Risk]
+edges:
+  - target: how-ai-attachment-hijacks-the-mammalian-brains-core-development-system
+    type: extends
+  - target: ai-attachment-systems-are-replacing-human-developmental-bonds
+    type: extends
+  - target: ai-chatbots-hack-attachment-not-just-attention
+    type: grounds
+  - target: organic-vs-institutional-teacherly-authority-why-the-difference-matters
+    type: contrasts
 created_at: "2026-04-23"
 ---
 

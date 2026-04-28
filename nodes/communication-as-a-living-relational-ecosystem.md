@@ -9,8 +9,6 @@ source_url: "https://www.youtube.com/watch?v=MDtn0eEas7c"
 source_author: "Nate Hagens"
 tags: [Systems Thinking, Meta-Crisis, Collective Intelligence, Sensemaking]
 edges:
-  - target: reality-as-a-quantum-learning-process
-    type: extends
   - target: living-wisdom-in-the-american-folk-tradition
     type: exemplifies
   - target: why-economic-profit-ignores-true-planetary-costs

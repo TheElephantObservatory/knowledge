@@ -9,8 +9,6 @@ source_url: "https://www.youtube.com/watch?v=ChTmQ4iTYpo"
 source_author: "Brendan Graham Dempsey"
 tags: [Systems Thinking, Relevance Realization, Cognitive Science, Relational Ontology]
 edges:
-  - target: how-purpose-emerges-from-the-physics-of-absence
-    type: contrasts
   - target: the-transition-from-genetic-memory-to-neural-learning
     type: grounds
 created_at: "2026-03-07"

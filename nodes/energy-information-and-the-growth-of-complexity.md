@@ -11,8 +11,6 @@ tags: [Systems Thinking, Complexity Science, Information Theory]
 edges:
   - target: mapping-the-four-planes-of-cosmic-emergence
     type: extends
-  - target: genetic-information-and-the-evolution-of-meaning
-    type: exemplifies
 created_at: "2026-03-07"
 ---
 

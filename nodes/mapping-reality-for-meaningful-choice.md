@@ -15,8 +15,6 @@ edges:
     type: extends
   - target: reclaiming-agency-from-the-curated-information-environment
     type: contrasts
-  - target: information-as-the-mechanism-of-physical-existence
-    type: grounds
 created_at: "2026-03-08"
 ---
 

@@ -17,8 +17,6 @@ edges:
     type: grounds
   - target: biological-vulnerability-and-the-modern-economic-trap
     type: exemplifies
-  - target: the-formation-of-persons-through-cultural-inheritance
-    type: contrasts
 created_at: "2026-03-07"
 ---
 

@@ -11,8 +11,6 @@ tags: [Systems Thinking, Evolutionary Biology, Cognitive Science, Information Th
 edges:
   - target: from-thermodynamic-survival-to-cultural-meaning
     type: exemplifies
-  - target: the-continuity-of-meaning-from-matter-to-culture
-    type: grounds
 created_at: "2026-03-07"
 ---
 

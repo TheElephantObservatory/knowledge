@@ -13,8 +13,6 @@ edges:
     type: extends
   - target: relevance-realization-and-the-optimal-grip
     type: extends
-  - target: how-purpose-emerges-from-the-physics-of-absence
-    type: grounds
   - target: mapping-reality-for-meaningful-choice
     type: applies
 created_at: "2026-03-07"

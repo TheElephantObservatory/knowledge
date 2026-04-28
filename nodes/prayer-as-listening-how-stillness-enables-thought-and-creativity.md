@@ -8,6 +8,15 @@ source_title: "The Counterintuitive Need to Slow Down and Find Spaciousness with
 source_url: "https://www.youtube.com/watch?v=PQ9_FtLEeoc"
 source_author: "Nate Hagens"
 tags: [Philosophy of Mind, Consciousness Studies, Contemplative Practice, Embodied Cognition]
+edges:
+  - target: mystical-prayer-as-continuous-state-not-occasional-act
+    type: extends
+  - target: why-theologians-stopped-asking-god-to-change-his-mind
+    type: grounds
+  - target: negative-capability-as-scientific-and-poetic-discipline
+    type: extends
+  - target: prayer-as-human-technology-beyond-religious-belief
+    type: contrasts
 created_at: "2026-04-22"
 ---
 

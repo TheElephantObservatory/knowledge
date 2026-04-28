@@ -9,8 +9,6 @@ source_url: "https://www.youtube.com/watch?v=ZuCieejIEbI"
 source_author: "John Vervaeke’s Lectern"
 tags: [Participatory Epistemology, Meaning Crisis, Relational Ontology, Ontological Design]
 edges:
-  - target: the-continuity-of-meaning-from-matter-to-culture
-    type: extends
   - target: enlightenment-infrastructure-in-a-scaled-world
     type: grounds
   - target: mapping-the-four-planes-of-cosmic-emergence
