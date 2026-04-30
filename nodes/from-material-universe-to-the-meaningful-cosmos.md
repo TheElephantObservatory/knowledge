@@ -11,12 +11,8 @@ tags: [Participatory Epistemology, Meaning Crisis, Relational Ontology, Ontologi
 edges:
   - target: enlightenment-infrastructure-in-a-scaled-world
     type: grounds
-  - target: mapping-the-four-planes-of-cosmic-emergence
-    type: grounds
   - target: locating-the-wrong-turn-in-western-history
     type: contrasts
-  - target: from-thermodynamic-survival-to-cultural-meaning
-    type: grounds
 created_at: "2026-03-08"
 ---
 

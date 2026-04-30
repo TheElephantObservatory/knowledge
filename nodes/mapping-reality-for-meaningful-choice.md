@@ -9,8 +9,6 @@ source_url: "https://www.youtube.com/watch?v=8Es_WTEgZHE"
 source_author: "Rebel Wisdom"
 tags: [Systems Thinking, Epistemology, Relational Ontology, Sensemaking]
 edges:
-  - target: from-thermodynamic-survival-to-cultural-meaning
-    type: grounds
   - target: structural-failure-modes-of-collective-sensemaking
     type: extends
   - target: reclaiming-agency-from-the-curated-information-environment

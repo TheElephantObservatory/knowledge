@@ -65,11 +65,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "the-evolution-of-brains-as-predictive-models",
-    "target_slug": "the-transition-from-genetic-memory-to-neural-learning",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "reverse-engineering-peak-states-through-biological-hardware",
     "target_slug": "how-mystical-states-reverse-the-standard-of-what-is-real",
     "relationship_type": "contrasts"
@@ -2535,11 +2530,6 @@
     "relationship_type": "exemplifies"
   },
   {
-    "source_slug": "intelligence-as-a-function-of-cognitive-scaffolding",
-    "target_slug": "the-transition-from-genetic-memory-to-neural-learning",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "the-necessary-uncertainty-of-genuine-expertise",
     "target_slug": "the-structural-barriers-to-shared-systems-narratives",
     "relationship_type": "extends"
@@ -2578,11 +2568,6 @@
     "source_slug": "the-neural-process-of-constructing-meaningful-worlds",
     "target_slug": "rationality-requires-meaning-how-agents-construct-relevant-worlds",
     "relationship_type": "extends"
-  },
-  {
-    "source_slug": "from-material-universe-to-the-meaningful-cosmos",
-    "target_slug": "mapping-the-four-planes-of-cosmic-emergence",
-    "relationship_type": "grounds"
   },
   {
     "source_slug": "cultural-continuity-strategies-for-prosocial-communities",
@@ -3592,11 +3577,6 @@
   {
     "source_slug": "reclaiming-agency-from-the-curated-information-environment",
     "target_slug": "the-digital-arms-race-against-human-perception",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "from-material-universe-to-the-meaningful-cosmos",
-    "target_slug": "from-thermodynamic-survival-to-cultural-meaning",
     "relationship_type": "grounds"
   },
   {
@@ -4635,11 +4615,6 @@
     "relationship_type": "contrasts"
   },
   {
-    "source_slug": "energy-information-and-the-growth-of-complexity",
-    "target_slug": "mapping-the-four-planes-of-cosmic-emergence",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "the-four-interior-dimensions-of-the-meta-crisis",
     "target_slug": "four-interlocking-crises-that-constitute-the-metacrisis",
     "relationship_type": "contrasts"
@@ -5138,11 +5113,6 @@
     "source_slug": "ai-mimicry-and-the-crisis-of-human-formation",
     "target_slug": "educational-skill-building-versus-ai-prosthetic-dependency",
     "relationship_type": "applies"
-  },
-  {
-    "source_slug": "the-transition-from-genetic-memory-to-neural-learning",
-    "target_slug": "from-thermodynamic-survival-to-cultural-meaning",
-    "relationship_type": "exemplifies"
   },
   {
     "source_slug": "kegans-five-orders-how-the-self-grows-in-complexity",
@@ -6140,11 +6110,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "relevance-realization-and-the-optimal-grip",
-    "target_slug": "the-transition-from-genetic-memory-to-neural-learning",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "how-science-built-a-blind-spot-for-consciousness-into-its-own-foundations",
     "target_slug": "why-science-cannot-remove-the-scientist-from-its-own-ontology",
     "relationship_type": "extends"
@@ -7113,11 +7078,6 @@
     "source_slug": "the-tripartite-map-of-human-consciousness",
     "target_slug": "how-the-brain-builds-a-unified-field-of-conscious-experience",
     "relationship_type": "exemplifies"
-  },
-  {
-    "source_slug": "mapping-reality-for-meaningful-choice",
-    "target_slug": "from-thermodynamic-survival-to-cultural-meaning",
-    "relationship_type": "grounds"
   },
   {
     "source_slug": "shared-logic-across-religious-and-secular-raptures",
@@ -10625,11 +10585,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "the-evolution-of-brains-as-predictive-models",
-    "target_slug": "relevance-realization-and-the-optimal-grip",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "reverse-engineering-peak-states-through-biological-hardware",
     "target_slug": "self-transformation-as-access-to-higher-ontological-truths",
     "relationship_type": "contrasts"
@@ -11593,11 +11548,6 @@
     "source_slug": "the-structural-inability-to-transmit-human-meaning",
     "target_slug": "the-misidentification-of-value-in-modern-civilization",
     "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "the-evolution-of-brains-as-predictive-models",
-    "target_slug": "mapping-reality-for-meaningful-choice",
-    "relationship_type": "applies"
   },
   {
     "source_slug": "mythology-and-chaos-theory-describe-the-same-underlying-reality",
@@ -14670,6 +14620,26 @@
     "relationship_type": "grounds"
   },
   {
+    "source_slug": "why-meaning-cannot-exist-inside-a-single-mind",
+    "target_slug": "how-each-mode-of-knowing-tests-contact-with-reality",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "why-meaning-cannot-exist-inside-a-single-mind",
+    "target_slug": "the-imaginal-as-bridge-between-bodily-experience-and-propositional-thought",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "reliance-vs-dependency-how-communities-either-build-or-diminish-agency",
+    "target_slug": "why-information-abundance-produces-wisdom-famine",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "why-isolated-practices-fail-ritual-memory-and-the-transfer-problem",
+    "target_slug": "why-no-single-spiritual-practice-can-transform-you",
+    "relationship_type": "extends"
+  },
+  {
     "source_slug": "moving-beyond-anthropocentrism-as-a-civilizational-spiritual-task",
     "target_slug": "human-beings-as-earths-consciousness-not-its-conquerors",
     "relationship_type": "contrasts"
@@ -14777,6 +14747,16 @@
   {
     "source_slug": "solving-civilizational-collective-action-requires-a-shared-sacred-foundation",
     "target_slug": "mammon-and-moloch-the-twin-forces-governing-humanitys-ai-encounter",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "why-meaning-cannot-exist-inside-a-single-mind",
+    "target_slug": "how-substance-ontology-nominalism-and-dualism-lock-us-into-adversarial-minds",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "reliance-vs-dependency-how-communities-either-build-or-diminish-agency",
+    "target_slug": "why-isolated-practices-fail-ritual-memory-and-the-transfer-problem",
     "relationship_type": "extends"
   },
   {
@@ -14903,6 +14883,11 @@
     "source_slug": "solving-civilizational-collective-action-requires-a-shared-sacred-foundation",
     "target_slug": "why-secular-frameworks-cannot-sustain-civilizational-commitment-to-intrinsic-value",
     "relationship_type": "extends"
+  },
+  {
+    "source_slug": "why-meaning-cannot-exist-inside-a-single-mind",
+    "target_slug": "relevance-as-the-binding-force-between-mind-and-world",
+    "relationship_type": "grounds"
   },
   {
     "source_slug": "moving-beyond-anthropocentrism-as-a-civilizational-spiritual-task",
@@ -15080,6 +15065,21 @@
     "relationship_type": "extends"
   },
   {
+    "source_slug": "reliance-vs-dependency-how-communities-either-build-or-diminish-agency",
+    "target_slug": "trust-as-adaptive-skill-not-guarantee-of-safety",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "trust-as-adaptive-skill-not-guarantee-of-safety",
+    "target_slug": "pistis-how-faith-was-mistranslated-into-delusion",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "holy-listening-bridging-theory-and-practice-across-traditions",
+    "target_slug": "transformation-as-a-prerequisite-for-accessing-deep-reality",
+    "relationship_type": "grounds"
+  },
+  {
     "source_slug": "how-the-death-of-god-left-the-self-without-a-mirror",
     "target_slug": "how-secular-devotions-replace-god-without-admitting-it",
     "relationship_type": "extends"
@@ -15208,6 +15208,21 @@
     "source_slug": "from-sacred-cosmos-to-silent-void-what-modernity-lost-when-it-stopped-reading-the-world",
     "target_slug": "the-enlightenment-gap-why-modern-science-cannot-replace-a-worldview",
     "relationship_type": "extends"
+  },
+  {
+    "source_slug": "reliance-vs-dependency-how-communities-either-build-or-diminish-agency",
+    "target_slug": "how-digital-networks-may-reconcile-tribal-intimacy-with-civilizational-scale",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "trust-as-adaptive-skill-not-guarantee-of-safety",
+    "target_slug": "why-the-sacred-cannot-be-engineered-from-its-parts",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "holy-listening-bridging-theory-and-practice-across-traditions",
+    "target_slug": "embodied-ambiguity-as-the-ground-of-self-transcendence",
+    "relationship_type": "grounds"
   },
   {
     "source_slug": "how-the-death-of-god-left-the-self-without-a-mirror",
@@ -15370,6 +15385,16 @@
     "relationship_type": "extends"
   },
   {
+    "source_slug": "trust-as-adaptive-skill-not-guarantee-of-safety",
+    "target_slug": "how-to-trust-wisdom-before-you-have-wisdom",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "holy-listening-bridging-theory-and-practice-across-traditions",
+    "target_slug": "why-isolated-practices-fail-ritual-memory-and-the-transfer-problem",
+    "relationship_type": "contrasts"
+  },
+  {
     "source_slug": "how-the-death-of-god-left-the-self-without-a-mirror",
     "target_slug": "historical-trauma-and-the-loss-of-symbolic-immortality",
     "relationship_type": "extends"
@@ -15482,6 +15507,21 @@
   {
     "source_slug": "how-reason-and-myth-were-split-and-how-they-might-reunite",
     "target_slug": "naturalizing-the-sacred-without-evacuating-its-meaning",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "why-isolated-practices-fail-ritual-memory-and-the-transfer-problem",
+    "target_slug": "how-ritual-was-misclassified-as-irrationality-and-why-that-error-costs-us",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "why-isolated-practices-fail-ritual-memory-and-the-transfer-problem",
+    "target_slug": "ritual-as-two-way-passage-induction-eduction-and-the-standard-of-good-practice",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "holy-listening-bridging-theory-and-practice-across-traditions",
+    "target_slug": "imaginal-vs-imaginary-perception-deepened-not-escaped",
     "relationship_type": "extends"
   },
   {

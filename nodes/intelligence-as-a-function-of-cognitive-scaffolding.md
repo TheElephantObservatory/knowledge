@@ -13,8 +13,6 @@ edges:
     type: extends
   - target: three-pillars-of-a-new-enlightenment
     type: extends
-  - target: the-transition-from-genetic-memory-to-neural-learning
-    type: grounds
   - target: shared-sensemaking-as-the-foundation-for-global-action
     type: applies
   - target: decoupling-technical-advancement-from-human-betterment
