@@ -11,8 +11,6 @@ tags: [Systems Thinking, Ethics, Epistemology, Game Theory]
 edges:
   - target: the-necessary-uncertainty-of-genuine-expertise
     type: grounds
-  - target: strategic-warfare-in-the-informational-commons
-    type: extends
   - target: structural-failure-modes-of-collective-sensemaking
     type: extends
 created_at: "2026-03-08"

@@ -9,8 +9,6 @@ source_url: "https://www.youtube.com/watch?v=8Es_WTEgZHE"
 source_author: "Rebel Wisdom"
 tags: [Systems Thinking, Game B, Civilizational Risk, Cultural Evolution]
 edges:
-  - target: the-generative-dynamics-of-civilizational-self-termination
-    type: grounds
   - target: human-nature-and-the-architecture-of-global-risk
     type: extends
   - target: the-structural-tension-of-global-coordination-systems

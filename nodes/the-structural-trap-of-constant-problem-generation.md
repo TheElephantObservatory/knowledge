@@ -9,10 +9,6 @@ source_url: "https://www.youtube.com/watch?v=tmusbHBKW84"
 source_author: "Nate Hagens"
 tags: [Systems Thinking, Epistemology, Meta-Crisis, Civilizational Risk]
 edges:
-  - target: design-criteria-for-a-mature-global-civilization
-    type: extends
-  - target: the-competitive-logic-of-technological-acceleration
-    type: grounds
   - target: mandating-safety-proofs-for-irreversible-technologies
     type: applies
   - target: the-necessary-uncertainty-of-genuine-expertise

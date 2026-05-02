@@ -11,12 +11,6 @@ tags: [Systems Thinking, Epistemology, Meta-Crisis, Sensemaking]
 edges:
   - target: ai-acceleration-of-the-global-economic-superorganism
     type: extends
-  - target: the-blind-superorganism-of-global-economic-growth-1
-    type: grounds
-  - target: why-economic-profit-ignores-true-planetary-costs
-    type: grounds
-  - target: the-competitive-logic-of-technological-acceleration
-    type: exemplifies
 created_at: "2026-03-07"
 ---
 

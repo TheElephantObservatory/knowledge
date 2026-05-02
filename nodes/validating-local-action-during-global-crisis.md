@@ -9,8 +9,6 @@ source_url: "https://www.youtube.com/watch?v=Kep8Fi_rUUI"
 source_author: "Nate Hagens"
 tags: [Systems Thinking, Relevance Realization, Meta-Crisis, Sensemaking]
 edges:
-  - target: reclaiming-agency-from-the-curated-information-environment
-    type: grounds
   - target: the-three-by-three-matrix-of-civilizational-response
     type: extends
   - target: mapping-reality-for-meaningful-choice

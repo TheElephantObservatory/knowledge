@@ -11,8 +11,6 @@ tags: [Systems Thinking, Meta-Crisis, Civilizational Risk, Sensemaking]
 edges:
   - target: human-nature-and-the-architecture-of-global-risk
     type: grounds
-  - target: the-competitive-logic-of-technological-acceleration
-    type: exemplifies
 created_at: "2026-03-08"
 ---
 

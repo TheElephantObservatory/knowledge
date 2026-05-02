@@ -45,11 +45,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "the-three-by-three-matrix-of-civilizational-response",
-    "target_slug": "design-criteria-for-a-mature-global-civilization",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "shared-cosmic-narratives-and-civilizational-value",
     "target_slug": "the-spiritual-crisis-beneath-our-global-breakdown",
     "relationship_type": "extends"
@@ -78,11 +73,6 @@
     "source_slug": "locating-the-wrong-turn-in-western-history",
     "target_slug": "enlightenment-infrastructure-in-a-scaled-world",
     "relationship_type": "contrasts"
-  },
-  {
-    "source_slug": "commercial-incentives-and-the-psychedelic-movement",
-    "target_slug": "the-competitive-logic-of-technological-acceleration",
-    "relationship_type": "grounds"
   },
   {
     "source_slug": "public-narrative-construction-for-sensemaking",
@@ -455,11 +445,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "three-pillars-of-a-new-enlightenment",
-    "target_slug": "mutual-understanding-in-the-presence-of-deep-disagreement",
-    "relationship_type": "applies"
-  },
-  {
     "source_slug": "how-propositional-language-made-humans-justifying-primates",
     "target_slug": "the-four-dimensions-of-behavioral-complexity",
     "relationship_type": "exemplifies"
@@ -505,19 +490,9 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "ai-optimization-of-global-fossil-fuel-extraction",
-    "target_slug": "the-blind-superorganism-of-global-economic-growth-1",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "the-cambrian-explosion-as-the-biological-origin-of-mindedness",
     "target_slug": "emergence-vs-panexperientialism-where-does-experience-begin",
     "relationship_type": "contrasts"
-  },
-  {
-    "source_slug": "the-structural-trap-of-constant-problem-generation",
-    "target_slug": "design-criteria-for-a-mature-global-civilization",
-    "relationship_type": "extends"
   },
   {
     "source_slug": "the-structural-unification-of-psychological-science",
@@ -573,11 +548,6 @@
     "source_slug": "building-coordination-through-shared-value-stories",
     "target_slug": "myth-as-a-long-term-survival-technology",
     "relationship_type": "applies"
-  },
-  {
-    "source_slug": "encoding-values-into-organizational-governance-and-capital",
-    "target_slug": "why-economic-profit-ignores-true-planetary-costs",
-    "relationship_type": "contrasts"
   },
   {
     "source_slug": "how-pluralistic-hesitation-enables-bad-faith-actors",
@@ -975,11 +945,6 @@
     "relationship_type": "exemplifies"
   },
   {
-    "source_slug": "communication-as-a-living-relational-ecosystem",
-    "target_slug": "why-economic-profit-ignores-true-planetary-costs",
-    "relationship_type": "contrasts"
-  },
-  {
     "source_slug": "mattering-as-a-structural-feature-of-life",
     "target_slug": "why-behaviorism-and-integral-theory-both-collapse-reality-into-one-substance",
     "relationship_type": "contrasts"
@@ -1000,11 +965,6 @@
     "relationship_type": "applies"
   },
   {
-    "source_slug": "ai-optimization-of-global-fossil-fuel-extraction",
-    "target_slug": "why-economic-profit-ignores-true-planetary-costs",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "the-cambrian-explosion-as-the-biological-origin-of-mindedness",
     "target_slug": "how-animal-mindedness-disappeared-from-western-thought",
     "relationship_type": "extends"
@@ -1015,11 +975,6 @@
     "relationship_type": "exemplifies"
   },
   {
-    "source_slug": "the-structural-trap-of-constant-problem-generation",
-    "target_slug": "the-competitive-logic-of-technological-acceleration",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "the-structural-unification-of-psychological-science",
     "target_slug": "psychologys-three-layer-crisis-fragmentation-misidentity-and-self-concealment",
     "relationship_type": "exemplifies"
@@ -1027,11 +982,6 @@
   {
     "source_slug": "why-hypocrisy-served-as-a-brake-on-power",
     "target_slug": "sincere-irony-as-the-metamodern-minimum-viable-ethos",
-    "relationship_type": "contrasts"
-  },
-  {
-    "source_slug": "the-necessary-uncertainty-of-genuine-expertise",
-    "target_slug": "the-competitive-logic-of-technological-acceleration",
     "relationship_type": "contrasts"
   },
   {
@@ -1498,11 +1448,6 @@
     "source_slug": "addiction-rates-as-a-proxy-for-human-agency",
     "target_slug": "undue-influence-and-the-collapse-of-personal-autonomy",
     "relationship_type": "extends"
-  },
-  {
-    "source_slug": "ai-optimization-of-global-fossil-fuel-extraction",
-    "target_slug": "the-competitive-logic-of-technological-acceleration",
-    "relationship_type": "exemplifies"
   },
   {
     "source_slug": "decoupling-technical-advancement-from-human-betterment",
@@ -2040,11 +1985,6 @@
     "relationship_type": "contrasts"
   },
   {
-    "source_slug": "escaping-the-twin-risks-of-catastrophe-and-dystopia",
-    "target_slug": "design-criteria-for-a-mature-global-civilization",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "historical-trauma-and-the-loss-of-symbolic-immortality",
     "target_slug": "shared-cosmic-narratives-and-civilizational-value",
     "relationship_type": "extends"
@@ -2280,16 +2220,6 @@
     "relationship_type": "applies"
   },
   {
-    "source_slug": "mutual-understanding-in-the-presence-of-deep-disagreement",
-    "target_slug": "the-mutual-dependence-of-liberty-and-equality",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "reclaiming-agency-from-the-curated-information-environment",
-    "target_slug": "shared-sensemaking-as-the-foundation-for-global-action",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "the-neural-process-of-constructing-meaningful-worlds",
     "target_slug": "mattering-as-a-structural-feature-of-life",
     "relationship_type": "grounds"
@@ -2302,11 +2232,6 @@
   {
     "source_slug": "from-material-universe-to-the-meaningful-cosmos",
     "target_slug": "enlightenment-infrastructure-in-a-scaled-world",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "shared-sensemaking-as-the-foundation-for-global-action",
-    "target_slug": "design-criteria-for-a-mature-global-civilization",
     "relationship_type": "grounds"
   },
   {
@@ -2790,11 +2715,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "energy-infrastructure-and-the-material-foundations-of-society",
-    "target_slug": "shared-sensemaking-as-the-foundation-for-global-action",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "structural-educational-lag-and-civilizational-collapse",
     "target_slug": "the-structural-breakdown-of-our-meaning-making-systems",
     "relationship_type": "exemplifies"
@@ -2828,11 +2748,6 @@
     "source_slug": "the-four-distinct-layers-of-mind",
     "target_slug": "distinguishing-what-we-know-from-what-exists",
     "relationship_type": "applies"
-  },
-  {
-    "source_slug": "the-competitive-logic-of-technological-acceleration",
-    "target_slug": "the-structural-tension-of-global-coordination-systems",
-    "relationship_type": "grounds"
   },
   {
     "source_slug": "the-four-distinct-layers-of-mind",
@@ -3050,11 +2965,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "escaping-the-twin-risks-of-catastrophe-and-dystopia",
-    "target_slug": "the-generative-dynamics-of-civilizational-self-termination",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "biological-vulnerability-and-the-modern-economic-trap",
     "target_slug": "decoupling-technical-advancement-from-human-betterment",
     "relationship_type": "contrasts"
@@ -3085,18 +2995,8 @@
     "relationship_type": "contrasts"
   },
   {
-    "source_slug": "design-criteria-for-a-mature-global-civilization",
-    "target_slug": "the-structural-tension-of-global-coordination-systems",
-    "relationship_type": "applies"
-  },
-  {
     "source_slug": "cultural-continuity-strategies-for-prosocial-communities",
     "target_slug": "a-decentralized-toolkit-for-designing-new-communities",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "energy-infrastructure-and-the-material-foundations-of-society",
-    "target_slug": "ai-optimization-of-global-fossil-fuel-extraction",
     "relationship_type": "applies"
   },
   {
@@ -3118,11 +3018,6 @@
     "source_slug": "distinguishing-what-we-know-from-what-exists",
     "target_slug": "how-the-tree-of-knowledge-reveals-psychologys-hidden-category-errors",
     "relationship_type": "applies"
-  },
-  {
-    "source_slug": "the-competitive-logic-of-technological-acceleration",
-    "target_slug": "mandating-safety-proofs-for-irreversible-technologies",
-    "relationship_type": "contrasts"
   },
   {
     "source_slug": "defining-psychology-through-the-ontology-of-mind",
@@ -3545,11 +3440,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "validating-local-action-during-global-crisis",
-    "target_slug": "reclaiming-agency-from-the-curated-information-environment",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "mapping-the-shape-of-a-childs-mind-through-expressive-output",
     "target_slug": "how-rival-developmental-theories-were-measuring-the-same-thing",
     "relationship_type": "grounds"
@@ -3567,21 +3457,6 @@
   {
     "source_slug": "ai-orchestration-of-human-to-human-educational-networks",
     "target_slug": "humane-ai-should-strengthen-human-relationships-not-substitute-for-them",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "making-hidden-context-explicit-in-difficult-conversations",
-    "target_slug": "binary-logic-and-the-practice-of-contextualism",
-    "relationship_type": "contrasts"
-  },
-  {
-    "source_slug": "reclaiming-agency-from-the-curated-information-environment",
-    "target_slug": "the-digital-arms-race-against-human-perception",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "energy-infrastructure-and-the-material-foundations-of-society",
-    "target_slug": "from-tribal-intimacy-to-global-institutional-systems",
     "relationship_type": "grounds"
   },
   {
@@ -3622,11 +3497,6 @@
   {
     "source_slug": "distinguishing-what-we-know-from-what-exists",
     "target_slug": "psychologys-missing-foundation-defining-what-the-discipline-actually-studies",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "the-competitive-logic-of-technological-acceleration",
-    "target_slug": "the-blind-superorganism-of-global-economic-growth-1",
     "relationship_type": "grounds"
   },
   {
@@ -4065,24 +3935,9 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "making-hidden-context-explicit-in-difficult-conversations",
-    "target_slug": "strategic-warfare-in-the-informational-commons",
-    "relationship_type": "contrasts"
-  },
-  {
-    "source_slug": "design-criteria-for-a-mature-global-civilization",
-    "target_slug": "human-nature-and-the-architecture-of-global-risk",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "cultural-continuity-strategies-for-prosocial-communities",
     "target_slug": "from-tribal-intimacy-to-global-institutional-systems",
     "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "energy-infrastructure-and-the-material-foundations-of-society",
-    "target_slug": "the-blind-superorganism-of-global-economic-growth-1",
-    "relationship_type": "extends"
   },
   {
     "source_slug": "the-structural-architecture-of-cultic-emergence",
@@ -4570,16 +4425,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "strategic-warfare-in-the-informational-commons",
-    "target_slug": "the-digital-arms-race-against-human-perception",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "strategic-warfare-in-the-informational-commons",
-    "target_slug": "digital-market-incentives-and-the-new-intellectuals",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "integrating-objective-science-and-interior-wisdom",
     "target_slug": "personal-transformation-as-a-condition-for-accessing-certain-truths",
     "relationship_type": "extends"
@@ -5027,11 +4872,6 @@
   {
     "source_slug": "the-informational-war-against-shared-reality",
     "target_slug": "navigating-the-irreversible-collapse-of-collective-sensemaking",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "competitive-acceleration-and-ai-governance-lag",
-    "target_slug": "the-competitive-logic-of-technological-acceleration",
     "relationship_type": "grounds"
   },
   {
@@ -6035,11 +5875,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "shared-sensemaking-as-the-foundation-for-global-action",
-    "target_slug": "the-generative-dynamics-of-civilizational-self-termination",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "validating-local-action-during-global-crisis",
     "target_slug": "mapping-reality-for-meaningful-choice",
     "relationship_type": "grounds"
@@ -6103,11 +5938,6 @@
     "source_slug": "educational-skill-building-versus-ai-prosthetic-dependency",
     "target_slug": "why-human-flourishing-requires-genuine-learning-not-its-simulation",
     "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "human-nature-and-the-architecture-of-global-risk",
-    "target_slug": "the-generative-dynamics-of-civilizational-self-termination",
-    "relationship_type": "extends"
   },
   {
     "source_slug": "how-science-built-a-blind-spot-for-consciousness-into-its-own-foundations",
@@ -6535,11 +6365,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "ai-acceleration-of-the-global-economic-superorganism",
-    "target_slug": "the-blind-superorganism-of-global-economic-growth-1",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "shared-sensemaking-as-the-foundation-for-global-action",
     "target_slug": "human-nature-and-the-architecture-of-global-risk",
     "relationship_type": "grounds"
@@ -6558,11 +6383,6 @@
     "source_slug": "how-ai-captures-the-childs-sense-of-truth",
     "target_slug": "ai-socialization-and-the-breaking-of-intergenerational-moral-transmission",
     "relationship_type": "extends"
-  },
-  {
-    "source_slug": "reconciling-ancient-biology-with-god-like-technology",
-    "target_slug": "the-competitive-logic-of-technological-acceleration",
-    "relationship_type": "exemplifies"
   },
   {
     "source_slug": "myth-as-a-long-term-survival-technology",
@@ -7015,11 +6835,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "the-structural-tension-of-global-coordination-systems",
-    "target_slug": "the-generative-dynamics-of-civilizational-self-termination",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "open-sourcing-ecstasy-against-institutional-gatekeeping",
     "target_slug": "wilderness-risk-and-leaderless-psychedelic-culture",
     "relationship_type": "exemplifies"
@@ -7050,18 +6865,8 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "mutual-understanding-in-the-presence-of-deep-disagreement",
-    "target_slug": "strategic-warfare-in-the-informational-commons",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "how-propositional-language-made-humans-justifying-primates",
     "target_slug": "utok-maps-the-ontological-origins-of-epistemology-itself",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "from-tribal-intimacy-to-global-institutional-systems",
-    "target_slug": "the-generative-dynamics-of-civilizational-self-termination",
     "relationship_type": "grounds"
   },
   {
@@ -7553,11 +7358,6 @@
     "source_slug": "binary-logic-and-the-practice-of-contextualism",
     "target_slug": "how-pluralistic-hesitation-enables-bad-faith-actors",
     "relationship_type": "applies"
-  },
-  {
-    "source_slug": "mutual-understanding-in-the-presence-of-deep-disagreement",
-    "target_slug": "how-pluralistic-hesitation-enables-bad-faith-actors",
-    "relationship_type": "exemplifies"
   },
   {
     "source_slug": "the-epistemic-distinction-between-science-and-psyche",
@@ -8055,11 +7855,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "mutual-understanding-in-the-presence-of-deep-disagreement",
-    "target_slug": "making-hidden-context-explicit-in-difficult-conversations",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "translucent-framing-seeing-the-frame-while-seeing-through-it",
     "target_slug": "the-imaginal-as-bridge-between-bodily-experience-and-propositional-thought",
     "relationship_type": "grounds"
@@ -8078,11 +7873,6 @@
     "source_slug": "integrating-development-ensoulment-and-transcendence",
     "target_slug": "soul-and-spirit-as-distinct-dimensions-of-selfhood",
     "relationship_type": "exemplifies"
-  },
-  {
-    "source_slug": "mapping-reality-for-meaningful-choice",
-    "target_slug": "reclaiming-agency-from-the-curated-information-environment",
-    "relationship_type": "contrasts"
   },
   {
     "source_slug": "identity-shifting-the-fluid-boundaries-of-self-identification",
@@ -9600,11 +9390,6 @@
     "relationship_type": "contrasts"
   },
   {
-    "source_slug": "the-structural-barriers-to-shared-systems-narratives",
-    "target_slug": "the-generative-dynamics-of-civilizational-self-termination",
-    "relationship_type": "exemplifies"
-  },
-  {
     "source_slug": "the-epistemic-distinction-between-science-and-psyche",
     "target_slug": "why-science-cannot-capture-the-individual-psyche",
     "relationship_type": "extends"
@@ -10093,11 +9878,6 @@
     "source_slug": "three-pillars-of-a-new-enlightenment",
     "target_slug": "locating-the-wrong-turn-in-western-history",
     "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "mutual-understanding-in-the-presence-of-deep-disagreement",
-    "target_slug": "communication-as-a-living-relational-ecosystem",
-    "relationship_type": "contrasts"
   },
   {
     "source_slug": "structural-failure-modes-of-collective-sensemaking",
@@ -11055,11 +10835,6 @@
     "relationship_type": "contrasts"
   },
   {
-    "source_slug": "exponential-financial-systems-within-finite-physical-realities",
-    "target_slug": "the-blind-superorganism-of-global-economic-growth-1",
-    "relationship_type": "extends"
-  },
-  {
     "source_slug": "the-structural-inability-to-transmit-human-meaning",
     "target_slug": "ai-socialization-and-the-breaking-of-intergenerational-moral-transmission",
     "relationship_type": "extends"
@@ -11088,11 +10863,6 @@
     "source_slug": "encoding-values-into-organizational-governance-and-capital",
     "target_slug": "exponential-financial-systems-within-finite-physical-realities",
     "relationship_type": "contrasts"
-  },
-  {
-    "source_slug": "how-pluralistic-hesitation-enables-bad-faith-actors",
-    "target_slug": "strategic-warfare-in-the-informational-commons",
-    "relationship_type": "extends"
   },
   {
     "source_slug": "william-bateson-s-scientific-resistance-to-eugenics",
@@ -11312,11 +11082,6 @@
   {
     "source_slug": "communication-as-a-living-relational-ecosystem",
     "target_slug": "the-structural-barriers-to-shared-systems-narratives",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "why-economic-profit-ignores-true-planetary-costs",
-    "target_slug": "the-blind-superorganism-of-global-economic-growth-1",
     "relationship_type": "extends"
   },
   {
@@ -11795,16 +11560,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "communication-as-a-living-relational-ecosystem",
-    "target_slug": "strategic-warfare-in-the-informational-commons",
-    "relationship_type": "contrasts"
-  },
-  {
-    "source_slug": "why-economic-profit-ignores-true-planetary-costs",
-    "target_slug": "exponential-financial-systems-within-finite-physical-realities",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "why-secular-materialists-are-reconsidering-religions-social-function",
     "target_slug": "naturalizing-the-sacred-without-evacuating-its-meaning",
     "relationship_type": "extends"
@@ -12032,11 +11787,6 @@
   {
     "source_slug": "the-simultaneous-collapse-of-sacred-and-secular-authority",
     "target_slug": "shared-sensemaking-as-the-foundation-for-global-action",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "exponential-financial-systems-within-finite-physical-realities",
-    "target_slug": "energy-infrastructure-and-the-material-foundations-of-society",
     "relationship_type": "grounds"
   },
   {
@@ -12318,11 +12068,6 @@
     "source_slug": "communication-as-a-living-relational-ecosystem",
     "target_slug": "structural-failure-modes-of-collective-sensemaking",
     "relationship_type": "exemplifies"
-  },
-  {
-    "source_slug": "why-economic-profit-ignores-true-planetary-costs",
-    "target_slug": "ai-acceleration-of-the-global-economic-superorganism",
-    "relationship_type": "extends"
   },
   {
     "source_slug": "why-psychology-stays-broken-without-descriptive-metaphysics",
@@ -12805,16 +12550,6 @@
     "relationship_type": "exemplifies"
   },
   {
-    "source_slug": "communication-as-a-living-relational-ecosystem",
-    "target_slug": "making-hidden-context-explicit-in-difficult-conversations",
-    "relationship_type": "applies"
-  },
-  {
-    "source_slug": "why-economic-profit-ignores-true-planetary-costs",
-    "target_slug": "decoupling-technical-advancement-from-human-betterment",
-    "relationship_type": "contrasts"
-  },
-  {
     "source_slug": "the-ethics-of-acknowledging-civilizational-death",
     "target_slug": "confronting-death-as-the-foundation-of-meaningful-life",
     "relationship_type": "grounds"
@@ -13175,6 +12910,16 @@
     "relationship_type": "extends"
   },
   {
+    "source_slug": "how-civilizations-recover-creative-power-after-eras-of-domination",
+    "target_slug": "the-second-realm-how-transcendent-belief-sustains-meaning-and-resistance",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-llms-exploit-the-mechanisms-of-human-religious-belief",
+    "target_slug": "how-ai-attachment-hijacks-the-mammalian-brains-core-development-system",
+    "relationship_type": "extends"
+  },
+  {
     "source_slug": "finesse-as-a-virtue-for-navigating-self-organizing-systems",
     "target_slug": "reconceiving-virtue-for-civilizational-scale-through-opponent-processing",
     "relationship_type": "extends"
@@ -13388,6 +13133,16 @@
     "source_slug": "why-the-sacred-cannot-be-engineered-from-its-parts",
     "target_slug": "the-meaning-dj-moderating-resonance-across-wisdom-practices",
     "relationship_type": "applies"
+  },
+  {
+    "source_slug": "how-civilizations-recover-creative-power-after-eras-of-domination",
+    "target_slug": "reviving-spiritual-practice-without-turning-it-into-a-tool-for-survival",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "how-llms-exploit-the-mechanisms-of-human-religious-belief",
+    "target_slug": "why-information-abundance-produces-wisdom-famine",
+    "relationship_type": "grounds"
   },
   {
     "source_slug": "reviving-spiritual-practice-without-turning-it-into-a-tool-for-survival",
@@ -13640,6 +13395,11 @@
     "relationship_type": "extends"
   },
   {
+    "source_slug": "how-llms-exploit-the-mechanisms-of-human-religious-belief",
+    "target_slug": "why-ai-makes-theology-the-most-urgent-discipline",
+    "relationship_type": "extends"
+  },
+  {
     "source_slug": "why-secular-culture-has-not-yet-grieved-the-death-of-god",
     "target_slug": "why-western-culture-has-not-grieved-the-death-of-god",
     "relationship_type": "grounds"
@@ -13830,6 +13590,11 @@
     "relationship_type": "grounds"
   },
   {
+    "source_slug": "how-llms-exploit-the-mechanisms-of-human-religious-belief",
+    "target_slug": "ai-companions-hijack-the-brains-attachment-and-reality-testing-systems",
+    "relationship_type": "extends"
+  },
+  {
     "source_slug": "why-secular-culture-has-not-yet-grieved-the-death-of-god",
     "target_slug": "grieving-the-god-entangled-self-two-deaths-of-certainty",
     "relationship_type": "extends"
@@ -13983,6 +13748,16 @@
     "source_slug": "ai-as-attachment-object-the-risk-of-replacing-human-teachers-with-machines",
     "target_slug": "organic-vs-institutional-teacherly-authority-why-the-difference-matters",
     "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "using-socratic-method-to-reimagine-ai-platforms",
+    "target_slug": "how-civilizations-recover-creative-power-after-eras-of-domination",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "large-language-models-cannot-perform-relevance-realization-and-lack-general-intelligence",
+    "target_slug": "relevance-only-exists-for-agents-that-care-about-themselves",
+    "relationship_type": "grounds"
   },
   {
     "source_slug": "reviving-spiritual-practice-without-turning-it-into-a-tool-for-survival",
@@ -14640,6 +14415,21 @@
     "relationship_type": "extends"
   },
   {
+    "source_slug": "using-socratic-method-to-reimagine-ai-platforms",
+    "target_slug": "the-learnable-conditions-under-which-groups-actually-think-together",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "large-language-models-cannot-perform-relevance-realization-and-lack-general-intelligence",
+    "target_slug": "why-large-language-models-are-not-genuinely-intelligent",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "large-language-models-cannot-perform-relevance-realization-and-lack-general-intelligence",
+    "target_slug": "why-large-language-models-cannot-stop-confabulating",
+    "relationship_type": "extends"
+  },
+  {
     "source_slug": "moving-beyond-anthropocentrism-as-a-civilizational-spiritual-task",
     "target_slug": "human-beings-as-earths-consciousness-not-its-conquerors",
     "relationship_type": "contrasts"
@@ -14758,6 +14548,11 @@
     "source_slug": "reliance-vs-dependency-how-communities-either-build-or-diminish-agency",
     "target_slug": "why-isolated-practices-fail-ritual-memory-and-the-transfer-problem",
     "relationship_type": "extends"
+  },
+  {
+    "source_slug": "using-socratic-method-to-reimagine-ai-platforms",
+    "target_slug": "religion-reoriented-from-custodianship-of-the-past-to-readiness-for-the-unknown",
+    "relationship_type": "contrasts"
   },
   {
     "source_slug": "moving-beyond-anthropocentrism-as-a-civilizational-spiritual-task",
@@ -14887,6 +14682,11 @@
   {
     "source_slug": "why-meaning-cannot-exist-inside-a-single-mind",
     "target_slug": "relevance-as-the-binding-force-between-mind-and-world",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "large-language-models-cannot-perform-relevance-realization-and-lack-general-intelligence",
+    "target_slug": "why-meaning-cannot-exist-inside-a-single-mind",
     "relationship_type": "grounds"
   },
   {
@@ -15080,6 +14880,31 @@
     "relationship_type": "grounds"
   },
   {
+    "source_slug": "how-outcome-driven-thinking-destroys-the-ecology-it-claims-to-heal",
+    "target_slug": "how-urgency-destroys-the-complexity-needed-to-address-crisis",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-outcome-driven-thinking-destroys-the-ecology-it-claims-to-heal",
+    "target_slug": "why-fixing-problems-one-at-a-time-makes-everything-worse",
+    "relationship_type": "exemplifies"
+  },
+  {
+    "source_slug": "how-words-encode-worldviews-the-hidden-ontology-of-everyday-language",
+    "target_slug": "how-language-participates-in-reality-rather-than-just-describing-it",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "how-words-encode-worldviews-the-hidden-ontology-of-everyday-language",
+    "target_slug": "worldview-shifts-must-precede-institutional-change",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "why-fixing-problems-one-at-a-time-makes-everything-worse",
+    "target_slug": "how-urgency-destroys-the-complexity-needed-to-address-crisis",
+    "relationship_type": "extends"
+  },
+  {
     "source_slug": "how-the-death-of-god-left-the-self-without-a-mirror",
     "target_slug": "how-secular-devotions-replace-god-without-admitting-it",
     "relationship_type": "extends"
@@ -15223,6 +15048,16 @@
     "source_slug": "holy-listening-bridging-theory-and-practice-across-traditions",
     "target_slug": "embodied-ambiguity-as-the-ground-of-self-transcendence",
     "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "how-outcome-driven-thinking-destroys-the-ecology-it-claims-to-heal",
+    "target_slug": "why-climate-strategy-keeps-solving-the-wrong-problem",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-words-encode-worldviews-the-hidden-ontology-of-everyday-language",
+    "target_slug": "aboriginal-pronouns-encode-relational-identity-not-individual-selfhood",
+    "relationship_type": "exemplifies"
   },
   {
     "source_slug": "how-the-death-of-god-left-the-self-without-a-mirror",
@@ -15395,6 +15230,21 @@
     "relationship_type": "contrasts"
   },
   {
+    "source_slug": "how-outcome-driven-thinking-destroys-the-ecology-it-claims-to-heal",
+    "target_slug": "how-words-encode-worldviews-the-hidden-ontology-of-everyday-language",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-words-encode-worldviews-the-hidden-ontology-of-everyday-language",
+    "target_slug": "how-radical-commitments-become-adoptable-identities",
+    "relationship_type": "applies"
+  },
+  {
+    "source_slug": "how-radical-commitments-become-adoptable-identities",
+    "target_slug": "why-civilizational-change-requires-embodied-communities-not-just-ideas",
+    "relationship_type": "contrasts"
+  },
+  {
     "source_slug": "how-the-death-of-god-left-the-self-without-a-mirror",
     "target_slug": "historical-trauma-and-the-loss-of-symbolic-immortality",
     "relationship_type": "extends"
@@ -15523,6 +15373,16 @@
     "source_slug": "holy-listening-bridging-theory-and-practice-across-traditions",
     "target_slug": "imaginal-vs-imaginary-perception-deepened-not-escaped",
     "relationship_type": "extends"
+  },
+  {
+    "source_slug": "why-fixing-problems-one-at-a-time-makes-everything-worse",
+    "target_slug": "the-metacrisis-as-civilizational-pathogenesis-diagnosing-the-self-terminating-world-system",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "symmathesy-how-living-systems-continuously-learn-together",
+    "target_slug": "organization-not-composition-how-complex-systems-produce-themselves",
+    "relationship_type": "grounds"
   },
   {
     "source_slug": "how-the-death-of-god-left-the-self-without-a-mirror",
@@ -15660,6 +15520,41 @@
     "relationship_type": "grounds"
   },
   {
+    "source_slug": "how-civilizations-recover-creative-power-after-eras-of-domination",
+    "target_slug": "civilizational-transitions-follow-historical-patterns-and-we-are-already-late",
+    "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "using-socratic-method-to-reimagine-ai-platforms",
+    "target_slug": "ai-orchestration-of-human-to-human-educational-networks",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "why-fixing-problems-one-at-a-time-makes-everything-worse",
+    "target_slug": "polycrisis-vs-metacrisis-symptoms-versus-civilizational-root-causes",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "symmathesy-how-living-systems-continuously-learn-together",
+    "target_slug": "warm-data-how-meaning-emerges-from-disorientation-and-entanglement",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "symmathesy-how-living-systems-continuously-learn-together",
+    "target_slug": "process-philosophy-replaces-spatial-hierarchy-with-temporal-duration",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-radical-commitments-become-adoptable-identities",
+    "target_slug": "the-structural-inability-to-transmit-human-meaning",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "how-radical-commitments-become-adoptable-identities",
+    "target_slug": "why-climate-strategy-keeps-solving-the-wrong-problem",
+    "relationship_type": "grounds"
+  },
+  {
     "source_slug": "nihilism-as-bodily-failure-to-value-anything",
     "target_slug": "value-is-not-arbitrary-its-thermodynamic-roots-in-existence-itself",
     "relationship_type": "contrasts"
@@ -15793,5 +15688,20 @@
     "source_slug": "why-the-sacred-cannot-be-engineered-from-its-parts",
     "target_slug": "religion-reoriented-from-custodianship-of-the-past-to-readiness-for-the-unknown",
     "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "how-civilizations-recover-creative-power-after-eras-of-domination",
+    "target_slug": "pre-tragic-tragic-and-post-tragic-orientations-toward-civilizational-crisis",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "symmathesy-how-living-systems-continuously-learn-together",
+    "target_slug": "panmathism-the-universe-as-a-learning-process",
+    "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "how-radical-commitments-become-adoptable-identities",
+    "target_slug": "why-deconstruction-cannot-build-a-society-the-collapse-of-moral-language",
+    "relationship_type": "extends"
   }
 ]

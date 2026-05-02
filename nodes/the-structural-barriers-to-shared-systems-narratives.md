@@ -11,8 +11,6 @@ tags: [Narrative and Myth, Systems Thinking, Meta-Crisis, Sensemaking]
 edges:
   - target: the-path-from-na-ve-slogans-to-earned-clarity
     type: contrasts
-  - target: the-generative-dynamics-of-civilizational-self-termination
-    type: exemplifies
 created_at: "2026-03-07"
 ---
 

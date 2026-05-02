@@ -9,8 +9,6 @@ source_url: "https://www.youtube.com/watch?v=yxtTUsew0L0"
 source_author: "Bret Weinstein"
 tags: [Epistemology, Meta-Crisis, Complexity Science, Sensemaking]
 edges:
-  - target: the-competitive-logic-of-technological-acceleration
-    type: contrasts
   - target: enlightenment-infrastructure-in-a-scaled-world
     type: grounds
   - target: the-path-from-na-ve-slogans-to-earned-clarity

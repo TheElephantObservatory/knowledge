@@ -13,14 +13,10 @@ edges:
     type: grounds
   - target: validating-local-action-during-global-crisis
     type: grounds
-  - target: design-criteria-for-a-mature-global-civilization
-    type: grounds
   - target: mapping-reality-for-meaningful-choice
     type: grounds
   - target: the-structural-barriers-to-shared-systems-narratives
     type: exemplifies
-  - target: the-generative-dynamics-of-civilizational-self-termination
-    type: extends
   - target: human-nature-and-the-architecture-of-global-risk
     type: grounds
   - target: three-pillars-of-a-new-enlightenment

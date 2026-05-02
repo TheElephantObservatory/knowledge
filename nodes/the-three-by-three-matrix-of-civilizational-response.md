@@ -9,8 +9,6 @@ source_url: "https://www.youtube.com/watch?v=Kep8Fi_rUUI"
 source_author: "Nate Hagens"
 tags: [Systems Thinking, Meta-Crisis, Civilizational Risk, Sensemaking]
 edges:
-  - target: design-criteria-for-a-mature-global-civilization
-    type: extends
   - target: three-pillars-of-a-new-enlightenment
     type: contrasts
   - target: escaping-the-twin-risks-of-catastrophe-and-dystopia

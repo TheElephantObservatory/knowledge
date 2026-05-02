@@ -11,8 +11,6 @@ tags: [Political Philosophy, Systems Thinking, Game Theory, Civilizational Risk]
 edges:
   - target: escaping-the-twin-risks-of-catastrophe-and-dystopia
     type: exemplifies
-  - target: the-competitive-logic-of-technological-acceleration
-    type: grounds
   - target: ai-acceleration-of-the-global-economic-superorganism
     type: grounds
   - target: the-structural-tension-of-global-coordination-systems

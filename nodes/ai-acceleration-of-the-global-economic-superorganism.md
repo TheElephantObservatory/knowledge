@@ -11,8 +11,6 @@ tags: [Systems Thinking, Civilizational Risk, Complexity Science, Sensemaking]
 edges:
   - target: exponential-financial-systems-within-finite-physical-realities
     type: grounds
-  - target: the-blind-superorganism-of-global-economic-growth-1
-    type: grounds
 created_at: "2026-03-07"
 ---
 

@@ -9,8 +9,6 @@ source_url: "https://www.youtube.com/watch?v=ZCOfUYrZJMQ"
 source_author: "Rebel Wisdom"
 tags: [Political Philosophy, Systems Thinking, Game Theory, Civilizational Risk]
 edges:
-  - target: the-generative-dynamics-of-civilizational-self-termination
-    type: grounds
   - target: the-three-by-three-matrix-of-civilizational-response
     type: applies
   - target: human-nature-and-the-architecture-of-global-risk

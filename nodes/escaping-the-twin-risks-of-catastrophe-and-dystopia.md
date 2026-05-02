@@ -11,10 +11,6 @@ tags: [Systems Thinking, Meta-Crisis, Existential Risk, Civilizational Risk]
 edges:
   - target: the-structural-tension-of-global-coordination-systems
     type: extends
-  - target: design-criteria-for-a-mature-global-civilization
-    type: extends
-  - target: the-generative-dynamics-of-civilizational-self-termination
-    type: grounds
 created_at: "2026-03-07"
 ---
 

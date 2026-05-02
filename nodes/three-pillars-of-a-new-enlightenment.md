@@ -9,8 +9,6 @@ source_url: "https://www.youtube.com/watch?v=-mNP6pQcH88"
 source_author: "UTOK | Unified Theory of Knowledge"
 tags: [Systems Thinking, Epistemology, Civilizational Risk, Collective Intelligence]
 edges:
-  - target: mutual-understanding-in-the-presence-of-deep-disagreement
-    type: applies
   - target: structural-failure-modes-of-collective-sensemaking
     type: contrasts
   - target: binary-logic-and-the-practice-of-contextualism

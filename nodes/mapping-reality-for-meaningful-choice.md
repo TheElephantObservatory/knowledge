@@ -11,8 +11,6 @@ tags: [Systems Thinking, Epistemology, Relational Ontology, Sensemaking]
 edges:
   - target: structural-failure-modes-of-collective-sensemaking
     type: extends
-  - target: reclaiming-agency-from-the-curated-information-environment
-    type: contrasts
 created_at: "2026-03-08"
 ---
 

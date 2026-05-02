@@ -9,8 +9,6 @@ source_url: "https://www.youtube.com/watch?v=hZrjJLwjpto"
 source_author: "Rebel Wisdom"
 tags: [Systems Thinking, Social Technology, Ontological Design]
 edges:
-  - target: why-economic-profit-ignores-true-planetary-costs
-    type: contrasts
   - target: enlightenment-infrastructure-in-a-scaled-world
     type: applies
   - target: commercial-incentives-and-the-psychedelic-movement

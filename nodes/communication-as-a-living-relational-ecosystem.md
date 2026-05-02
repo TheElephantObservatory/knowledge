@@ -11,16 +11,10 @@ tags: [Systems Thinking, Meta-Crisis, Collective Intelligence, Sensemaking]
 edges:
   - target: living-wisdom-in-the-american-folk-tradition
     type: exemplifies
-  - target: why-economic-profit-ignores-true-planetary-costs
-    type: contrasts
   - target: the-structural-barriers-to-shared-systems-narratives
     type: extends
-  - target: strategic-warfare-in-the-informational-commons
-    type: contrasts
   - target: structural-failure-modes-of-collective-sensemaking
     type: exemplifies
-  - target: making-hidden-context-explicit-in-difficult-conversations
-    type: applies
 created_at: "2026-03-07"
 ---
 

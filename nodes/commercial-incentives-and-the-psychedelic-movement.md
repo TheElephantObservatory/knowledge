@@ -9,8 +9,6 @@ source_url: "https://www.youtube.com/watch?v=EOXJOZK1ZNQ"
 source_author: "Rebel Wisdom"
 tags: [Systems Thinking, Meta-Crisis, Game Theory, Social Technology]
 edges:
-  - target: the-competitive-logic-of-technological-acceleration
-    type: grounds
   - target: open-sourcing-ecstasy-against-institutional-gatekeeping
     type: extends
   - target: how-pluralistic-hesitation-enables-bad-faith-actors
