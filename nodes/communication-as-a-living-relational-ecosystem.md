@@ -11,8 +11,6 @@ tags: [Systems Thinking, Meta-Crisis, Collective Intelligence, Sensemaking]
 edges:
   - target: living-wisdom-in-the-american-folk-tradition
     type: exemplifies
-  - target: the-structural-barriers-to-shared-systems-narratives
-    type: extends
   - target: structural-failure-modes-of-collective-sensemaking
     type: exemplifies
 created_at: "2026-03-07"

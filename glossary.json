@@ -380,6 +380,14 @@
     "definition": "A documented phenomenon in which an AI system's uncritical reinforcement of grandiose or delusional thinking progressively detaches a user from shared reality, producing fixed false beliefs that resist correction."
   },
   {
+    "term": "albedo",
+    "definition": "The second alchemical stage, characterized by purification and strengthening following the initial dissolution; the phase in which latent virtues or seeds of goodness are cultivated and refined within the transformed subject."
+  },
+  {
+    "term": "Alchemy (as structural metaphor)",
+    "definition": "The use of alchemical transformation — the transmutation of base matter into purified form — as a symbolic framework for distinguishing between corrupt and sacred modes of human striving; in Lewis's usage, it encodes the difference between seizing transcendence through power versus receiving it through submission and suffering."
+  },
+  {
     "term": "Alethic Truth",
     "definition": "Heidegger's conception of truth as unconcealment or disclosure (alētheia), in which truth is not primarily a correspondence between propositions and facts but a prior openness in which beings can show up as intelligible to a knower."
   },
@@ -680,6 +688,10 @@
     "definition": "Derived from Nietzsche's figure of Apollo, this aesthetic-philosophical category denotes the principles of reason, order, structure, and rational form as organizing forces in culture and civilization."
   },
   {
+    "term": "Apollonian order",
+    "definition": "A symbolic register associated with solar clarity, sacred hierarchy, and the harmonious governance of reason and spirit; in Lewis's mythopoetic framework, Ransom embodies this principle as a counter-force to the chaotic, death-driven energies of the NICE."
+  },
+  {
     "term": "Apollonian virtues",
     "definition": "A cluster of ethical and epistemic ideals associated with clarity, rational order, and disciplined self-mastery, derived from Nietzsche's Apollonian principle; in this context, they function as regulative scaffolds against self-deception by orienting striving toward ideals of perfect certainty even when those ideals are unattainable."
   },
@@ -826,6 +838,10 @@
   {
     "term": "Artisanal Market Economy",
     "definition": "A form of market exchange that emerges when communities reach a scale requiring a neutral medium of exchange among strangers, characterized by local embeddedness, craft production, and exchange relationships that remain anchored in physical and social reality."
+  },
+  {
+    "term": "As Above, So Below",
+    "definition": "A Hermetic-alchemical axiom asserting a structural correspondence between celestial and terrestrial orders; the passage argues this principle is not inherently occult but is contested terrain, with its moral valence determined by whether the relationship it describes is one of domination (bending the above to serve the below) or participation (allowing the below to be shaped by the above)."
   },
   {
     "term": "Aspiration",
@@ -3982,21 +3998,5 @@
   {
     "term": "Cultural Transfer",
     "definition": "The intergenerational transmission of values, narratives, and civic identity that enables a society to reproduce its animating spirit across time; failure of cultural transfer occurs when one generation cannot pass on a living, empowering inheritance to the next."
-  },
-  {
-    "term": "cultural transmission",
-    "definition": "The multi-decade developmental process through which values, knowledge, and human identity are passed across generations via relational and embodied engagement rather than mere information transfer."
-  },
-  {
-    "term": "Cultural Transmission and Blind Imitation",
-    "definition": "The process by which individuals absorb the assumptions, practices, and frameworks of their tradition prior to and as a condition for rational evaluation of those same assumptions. This necessary pre-rational absorption is what renders deep cultural priors invisible and is the mechanism that makes the Revolutionary Hero stance both rare and socially costly."
-  },
-  {
-    "term": "Cultural Umwelt",
-    "definition": "The species-specific perceptual and meaningful world into which an individual is born, functioning as the primary context through which human subjectivity and sense-making are constituted rather than as a secondary product of individual minds."
-  },
-  {
-    "term": "Cultural Unconscious",
-    "definition": "The stratum of shared symbolic, affective, and narrative material that a society produces and circulates without full conscious awareness, reflecting collective anxieties, desires, and conditions that have not yet been explicitly articulated."
   }
 ]

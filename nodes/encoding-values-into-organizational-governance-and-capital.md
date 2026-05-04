@@ -13,8 +13,6 @@ edges:
     type: applies
   - target: commercial-incentives-and-the-psychedelic-movement
     type: grounds
-  - target: exponential-financial-systems-within-finite-physical-realities
-    type: contrasts
   - target: the-three-by-three-matrix-of-civilizational-response
     type: applies
 created_at: "2026-03-08"

@@ -13,6 +13,8 @@ edges:
     type: extends
   - target: dialectical-thinking-as-a-method-for-thinking-the-unthinkable
     type: contrasts
+  - target: how-the-literal-metaphorical-split-became-common-sense
+    type: contrasts
 created_at: "2026-04-22"
 ---
 

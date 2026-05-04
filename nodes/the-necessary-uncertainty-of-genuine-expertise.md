@@ -13,8 +13,6 @@ edges:
     type: grounds
   - target: the-path-from-na-ve-slogans-to-earned-clarity
     type: contrasts
-  - target: the-structural-barriers-to-shared-systems-narratives
-    type: extends
   - target: binary-logic-and-the-practice-of-contextualism
     type: grounds
 created_at: "2026-03-08"

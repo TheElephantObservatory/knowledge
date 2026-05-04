@@ -11,8 +11,6 @@ tags: [Systems Thinking, Game B, Civilizational Risk, Cultural Evolution]
 edges:
   - target: human-nature-and-the-architecture-of-global-risk
     type: extends
-  - target: the-structural-tension-of-global-coordination-systems
-    type: extends
 created_at: "2026-03-08"
 ---
 

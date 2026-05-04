@@ -8,9 +8,6 @@ source_title: "The Psychological Drivers of the Metacrisis John Vervaeke Iain Mc
 source_url: "https://www.youtube.com/watch?v=P7i1ughRGcQ"
 source_author: "John Vervaeke’s Lectern"
 tags: [Philosophy of Mind, Systems Thinking, Meta-Crisis, Civilizational Risk]
-edges:
-  - target: escaping-the-twin-risks-of-catastrophe-and-dystopia
-    type: extends
 created_at: "2026-03-07"
 ---
 

@@ -435,11 +435,6 @@
     "relationship_type": "exemplifies"
   },
   {
-    "source_slug": "competitive-acceleration-and-ai-governance-lag",
-    "target_slug": "escaping-the-twin-risks-of-catastrophe-and-dystopia",
-    "relationship_type": "exemplifies"
-  },
-  {
     "source_slug": "humanity-as-a-constitutively-technological-creature",
     "target_slug": "how-technology-encodes-unintended-social-values",
     "relationship_type": "grounds"
@@ -508,11 +503,6 @@
     "source_slug": "shared-cosmic-narratives-and-civilizational-value",
     "target_slug": "recovering-the-singular-source-of-human-value",
     "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "escaping-the-twin-risks-of-catastrophe-and-dystopia",
-    "target_slug": "the-structural-tension-of-global-coordination-systems",
-    "relationship_type": "extends"
   },
   {
     "source_slug": "value-is-not-arbitrary-its-thermodynamic-roots-in-existence-itself",
@@ -1400,11 +1390,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "human-nature-and-the-failure-of-developmental-conditioning",
-    "target_slug": "shared-sensemaking-as-the-foundation-for-global-action",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "finding-the-simple-core-of-complexity",
     "target_slug": "the-four-dimensions-of-behavioral-complexity",
     "relationship_type": "applies"
@@ -1975,11 +1960,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "the-three-by-three-matrix-of-civilizational-response",
-    "target_slug": "escaping-the-twin-risks-of-catastrophe-and-dystopia",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "the-necessary-uncertainty-of-genuine-expertise",
     "target_slug": "the-path-from-na-ve-slogans-to-earned-clarity",
     "relationship_type": "contrasts"
@@ -2023,11 +2003,6 @@
     "source_slug": "the-structural-breakdown-of-our-meaning-making-systems",
     "target_slug": "polycrisis-vs-metacrisis-symptoms-versus-civilizational-root-causes",
     "relationship_type": "contrasts"
-  },
-  {
-    "source_slug": "the-structural-architecture-of-cultic-emergence",
-    "target_slug": "human-nature-and-the-failure-of-developmental-conditioning",
-    "relationship_type": "grounds"
   },
   {
     "source_slug": "comenius-and-the-global-framework-for-universal-wisdom",
@@ -2453,11 +2428,6 @@
     "source_slug": "decoupling-technical-advancement-from-human-betterment",
     "target_slug": "ai-optimization-of-global-fossil-fuel-extraction",
     "relationship_type": "exemplifies"
-  },
-  {
-    "source_slug": "the-necessary-uncertainty-of-genuine-expertise",
-    "target_slug": "the-structural-barriers-to-shared-systems-narratives",
-    "relationship_type": "extends"
   },
   {
     "source_slug": "historical-trauma-and-the-loss-of-symbolic-immortality",
@@ -3925,11 +3895,6 @@
     "relationship_type": "exemplifies"
   },
   {
-    "source_slug": "ai-acceleration-of-the-global-economic-superorganism",
-    "target_slug": "exponential-financial-systems-within-finite-physical-realities",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "aesthetic-meaning-beyond-dramatic-conflict",
     "target_slug": "how-western-modernity-overloaded-the-analytical-mind-at-the-expense-of-participatory-knowing",
     "relationship_type": "grounds"
@@ -5385,11 +5350,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "shared-sensemaking-as-the-foundation-for-global-action",
-    "target_slug": "the-structural-barriers-to-shared-systems-narratives",
-    "relationship_type": "exemplifies"
-  },
-  {
     "source_slug": "validating-local-action-during-global-crisis",
     "target_slug": "the-three-by-three-matrix-of-civilizational-response",
     "relationship_type": "extends"
@@ -5863,11 +5823,6 @@
     "source_slug": "hemispheric-attention-and-the-crisis-of-representation",
     "target_slug": "binary-logic-and-the-practice-of-contextualism",
     "relationship_type": "contrasts"
-  },
-  {
-    "source_slug": "competitive-acceleration-and-ai-governance-lag",
-    "target_slug": "the-structural-tension-of-global-coordination-systems",
-    "relationship_type": "extends"
   },
   {
     "source_slug": "humanity-as-a-constitutively-technological-creature",
@@ -7320,11 +7275,6 @@
     "relationship_type": "grounds"
   },
   {
-    "source_slug": "the-structural-tension-of-global-coordination-systems",
-    "target_slug": "the-three-by-three-matrix-of-civilizational-response",
-    "relationship_type": "applies"
-  },
-  {
     "source_slug": "open-sourcing-ecstasy-against-institutional-gatekeeping",
     "target_slug": "living-wisdom-in-the-american-folk-tradition",
     "relationship_type": "contrasts"
@@ -7427,11 +7377,6 @@
   {
     "source_slug": "the-misidentification-of-value-in-modern-civilization",
     "target_slug": "the-missing-architecture-between-newtonian-matter-and-kantian-mind",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "human-nature-and-the-architecture-of-global-risk",
-    "target_slug": "escaping-the-twin-risks-of-catastrophe-and-dystopia",
     "relationship_type": "extends"
   },
   {
@@ -7812,16 +7757,6 @@
   {
     "source_slug": "why-western-culture-has-not-grieved-the-death-of-god",
     "target_slug": "historical-trauma-and-the-loss-of-symbolic-immortality",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "the-structural-tension-of-global-coordination-systems",
-    "target_slug": "human-nature-and-the-architecture-of-global-risk",
-    "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "human-nature-and-the-failure-of-developmental-conditioning",
-    "target_slug": "biological-drivers-of-culture-and-political-failure",
     "relationship_type": "extends"
   },
   {
@@ -8330,11 +8265,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "human-nature-and-the-failure-of-developmental-conditioning",
-    "target_slug": "from-tribal-intimacy-to-global-institutional-systems",
-    "relationship_type": "grounds"
-  },
-  {
     "source_slug": "the-fossil-labor-subsidy-of-modern-economics",
     "target_slug": "energy-quality-and-the-physics-of-civilizational-scale",
     "relationship_type": "grounds"
@@ -8347,11 +8277,6 @@
   {
     "source_slug": "how-propositional-language-made-humans-justifying-primates",
     "target_slug": "human-beings-as-justifying-animals-language-ego-and-culture",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "structural-failure-modes-of-collective-sensemaking",
-    "target_slug": "the-structural-barriers-to-shared-systems-narratives",
     "relationship_type": "extends"
   },
   {
@@ -9355,11 +9280,6 @@
     "relationship_type": "contrasts"
   },
   {
-    "source_slug": "human-nature-and-the-failure-of-developmental-conditioning",
-    "target_slug": "biological-vulnerability-and-the-modern-economic-trap",
-    "relationship_type": "exemplifies"
-  },
-  {
     "source_slug": "recovering-the-singular-source-of-human-value",
     "target_slug": "truth-and-goodness-share-a-common-root",
     "relationship_type": "grounds"
@@ -9383,11 +9303,6 @@
     "source_slug": "structural-failure-modes-of-collective-sensemaking",
     "target_slug": "from-tribal-intimacy-to-global-institutional-systems",
     "relationship_type": "grounds"
-  },
-  {
-    "source_slug": "the-structural-barriers-to-shared-systems-narratives",
-    "target_slug": "the-path-from-na-ve-slogans-to-earned-clarity",
-    "relationship_type": "contrasts"
   },
   {
     "source_slug": "the-epistemic-distinction-between-science-and-psyche",
@@ -9883,11 +9798,6 @@
     "source_slug": "structural-failure-modes-of-collective-sensemaking",
     "target_slug": "the-structural-architecture-of-cultic-emergence",
     "relationship_type": "exemplifies"
-  },
-  {
-    "source_slug": "from-tribal-intimacy-to-global-institutional-systems",
-    "target_slug": "the-structural-tension-of-global-coordination-systems",
-    "relationship_type": "extends"
   },
   {
     "source_slug": "the-epistemic-distinction-between-science-and-psyche",
@@ -10860,11 +10770,6 @@
     "relationship_type": "extends"
   },
   {
-    "source_slug": "encoding-values-into-organizational-governance-and-capital",
-    "target_slug": "exponential-financial-systems-within-finite-physical-realities",
-    "relationship_type": "contrasts"
-  },
-  {
     "source_slug": "william-bateson-s-scientific-resistance-to-eugenics",
     "target_slug": "the-anti-fascist-origins-of-systems-thinking",
     "relationship_type": "extends"
@@ -11077,11 +10982,6 @@
   {
     "source_slug": "how-the-vitalism-debate-was-dissolved-not-won-and-what-this-means-for-consciousness",
     "target_slug": "how-science-built-a-blind-spot-for-consciousness-into-its-own-foundations",
-    "relationship_type": "extends"
-  },
-  {
-    "source_slug": "communication-as-a-living-relational-ecosystem",
-    "target_slug": "the-structural-barriers-to-shared-systems-narratives",
     "relationship_type": "extends"
   },
   {
@@ -13435,7 +13335,17 @@
     "relationship_type": "grounds"
   },
   {
+    "source_slug": "divestment-vs-disinvestment-staying-entangled-while-refusing-the-logic",
+    "target_slug": "why-extracting-indigenous-knowledge-reproduces-the-colonial-gesture",
+    "relationship_type": "extends"
+  },
+  {
     "source_slug": "what-metacrisis-actually-means-and-why-it-matters",
+    "target_slug": "why-metacrisis-is-not-just-a-fancier-word-for-polycrisis",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "modern-institutions-model-agency-on-an-impossible-god",
     "target_slug": "why-metacrisis-is-not-just-a-fancier-word-for-polycrisis",
     "relationship_type": "extends"
   },
@@ -13443,6 +13353,11 @@
     "source_slug": "collective-individuation-personal-development-as-civilizational-response",
     "target_slug": "the-metacrisis-includes-the-mind-that-tries-to-grasp-it",
     "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "how-modernity-stripped-meaning-from-everyday-life",
+    "target_slug": "meaning-without-belonging-why-personal-fulfillment-is-not-enough",
+    "relationship_type": "extends"
   },
   {
     "source_slug": "why-extracting-indigenous-knowledge-reproduces-the-colonial-gesture",
@@ -13655,6 +13570,11 @@
     "relationship_type": "extends"
   },
   {
+    "source_slug": "divestment-vs-disinvestment-staying-entangled-while-refusing-the-logic",
+    "target_slug": "colonialism-and-climate-change-share-an-ontological-root",
+    "relationship_type": "grounds"
+  },
+  {
     "source_slug": "progress-statistics-that-omit-the-ecological-foundation-are-misleading",
     "target_slug": "how-measurement-destroys-what-it-tries-to-capture",
     "relationship_type": "extends"
@@ -13682,6 +13602,16 @@
   {
     "source_slug": "expert-generalism-as-a-rigorous-discipline-not-a-fallback",
     "target_slug": "three-dimensions-of-wisdom-awakening-prophecy-and-polymathy",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-the-literal-metaphorical-split-became-common-sense",
+    "target_slug": "how-modernity-stripped-meaning-from-everyday-life",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "wounds-become-scars-before-they-can-become-gifts",
+    "target_slug": "how-sentimentality-replaced-love-in-modern-civilization",
     "relationship_type": "extends"
   },
   {
@@ -14315,6 +14245,11 @@
     "relationship_type": "extends"
   },
   {
+    "source_slug": "divestment-vs-disinvestment-staying-entangled-while-refusing-the-logic",
+    "target_slug": "the-seven-as-and-es-how-colonial-desire-structures-modern-politics",
+    "relationship_type": "extends"
+  },
+  {
     "source_slug": "progress-statistics-that-omit-the-ecological-foundation-are-misleading",
     "target_slug": "effective-altruisms-unexamined-assumption-about-civilizational-stability",
     "relationship_type": "extends"
@@ -14330,6 +14265,11 @@
     "relationship_type": "contrasts"
   },
   {
+    "source_slug": "how-modernity-stripped-meaning-from-everyday-life",
+    "target_slug": "why-deconstruction-cannot-be-the-final-word-on-human-values",
+    "relationship_type": "extends"
+  },
+  {
     "source_slug": "negative-capability-as-scientific-and-poetic-discipline",
     "target_slug": "mcgilchrists-philosophical-intuitions-preceded-his-neuroscience",
     "relationship_type": "exemplifies"
@@ -14343,6 +14283,11 @@
     "source_slug": "ai-as-ontological-extrapolation-beyond-logocentric-limits",
     "target_slug": "reality-hinging-loosening-modernitys-grip-on-how-we-know",
     "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "wounds-become-scars-before-they-can-become-gifts",
+    "target_slug": "ensoulment-as-the-foundation-of-learning-and-growth",
+    "relationship_type": "extends"
   },
   {
     "source_slug": "why-innovation-gets-swallowed-by-the-status-quo-the-three-horizons-model",
@@ -14465,13 +14410,28 @@
     "relationship_type": "extends"
   },
   {
+    "source_slug": "divestment-vs-disinvestment-staying-entangled-while-refusing-the-logic",
+    "target_slug": "reality-hinging-loosening-modernitys-grip-on-how-we-know",
+    "relationship_type": "contrasts"
+  },
+  {
     "source_slug": "progress-statistics-that-omit-the-ecological-foundation-are-misleading",
     "target_slug": "four-interlocking-crises-that-compound-into-one-metacrisis",
     "relationship_type": "grounds"
   },
   {
+    "source_slug": "modern-institutions-model-agency-on-an-impossible-god",
+    "target_slug": "how-the-literal-metaphorical-split-became-common-sense",
+    "relationship_type": "grounds"
+  },
+  {
     "source_slug": "metamodernism-as-synthesis-beyond-modernitys-drive-and-postmodernitys-critique",
     "target_slug": "metamodernism-as-culture-stage-and-philosophy-a-three-part-framework",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-modernity-stripped-meaning-from-everyday-life",
+    "target_slug": "civilizational-fragmentation-as-the-root-of-existential-risk",
     "relationship_type": "extends"
   },
   {
@@ -14488,6 +14448,11 @@
     "source_slug": "ai-as-ontological-extrapolation-beyond-logocentric-limits",
     "target_slug": "how-communication-infrastructure-shapes-human-subjects-not-just-messages",
     "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "wounds-become-scars-before-they-can-become-gifts",
+    "target_slug": "collective-individuation-personal-development-as-civilizational-response",
+    "relationship_type": "applies"
   },
   {
     "source_slug": "why-innovation-gets-swallowed-by-the-status-quo-the-three-horizons-model",
@@ -14610,6 +14575,11 @@
     "relationship_type": "exemplifies"
   },
   {
+    "source_slug": "modern-institutions-model-agency-on-an-impossible-god",
+    "target_slug": "metamodernism-as-synthesis-beyond-modernitys-drive-and-postmodernitys-critique",
+    "relationship_type": "contrasts"
+  },
+  {
     "source_slug": "metamodernism-as-synthesis-beyond-modernitys-drive-and-postmodernitys-critique",
     "target_slug": "the-core-qualities-of-a-metamodern-spiritual-sensibility",
     "relationship_type": "applies"
@@ -14618,6 +14588,11 @@
     "source_slug": "collective-individuation-personal-development-as-civilizational-response",
     "target_slug": "navigating-the-metacrisis-through-intuition-and-vocational-calling",
     "relationship_type": "extends"
+  },
+  {
+    "source_slug": "how-modernity-stripped-meaning-from-everyday-life",
+    "target_slug": "metamodernism-as-synthesis-beyond-modernitys-drive-and-postmodernitys-critique",
+    "relationship_type": "grounds"
   },
   {
     "source_slug": "why-extracting-indigenous-knowledge-reproduces-the-colonial-gesture",
@@ -14763,6 +14738,11 @@
     "source_slug": "collective-individuation-personal-development-as-civilizational-response",
     "target_slug": "civilizational-fragmentation-as-the-root-of-existential-risk",
     "relationship_type": "applies"
+  },
+  {
+    "source_slug": "how-the-literal-metaphorical-split-became-common-sense",
+    "target_slug": "how-communication-infrastructure-shapes-human-subjects-not-just-messages",
+    "relationship_type": "contrasts"
   },
   {
     "source_slug": "why-extracting-indigenous-knowledge-reproduces-the-colonial-gesture",
@@ -14960,6 +14940,16 @@
     "relationship_type": "extends"
   },
   {
+    "source_slug": "how-the-literal-metaphorical-split-became-common-sense",
+    "target_slug": "costly-perennialism-finding-incompleteness-within-each-tradition",
+    "relationship_type": "extends"
+  },
+  {
+    "source_slug": "wounds-become-scars-before-they-can-become-gifts",
+    "target_slug": "pre-tragic-tragic-and-post-tragic-as-existential-stations",
+    "relationship_type": "grounds"
+  },
+  {
     "source_slug": "how-sound-and-space-shape-the-souls-capacities",
     "target_slug": "how-value-blind-technology-design-degrades-human-attention",
     "relationship_type": "contrasts"
@@ -14968,6 +14958,11 @@
     "source_slug": "mcgilchrists-philosophical-intuitions-preceded-his-neuroscience",
     "target_slug": "how-substance-ontology-nominalism-and-dualism-lock-us-into-adversarial-minds",
     "relationship_type": "grounds"
+  },
+  {
+    "source_slug": "chess-teaches-positional-clarity-not-long-range-calculation",
+    "target_slug": "how-the-literal-metaphorical-split-became-common-sense",
+    "relationship_type": "contrasts"
   },
   {
     "source_slug": "the-sacred-as-participatory-mattering-from-autopoiesis-to-ultimacy",
@@ -15120,9 +15115,19 @@
     "relationship_type": "extends"
   },
   {
+    "source_slug": "modern-institutions-model-agency-on-an-impossible-god",
+    "target_slug": "reality-hinging-loosening-modernitys-grip-on-how-we-know",
+    "relationship_type": "contrasts"
+  },
+  {
     "source_slug": "collective-individuation-personal-development-as-civilizational-response",
     "target_slug": "meaning-without-belonging-why-personal-fulfillment-is-not-enough",
     "relationship_type": "contrasts"
+  },
+  {
+    "source_slug": "how-the-literal-metaphorical-split-became-common-sense",
+    "target_slug": "hegels-historical-stages-applied-to-western-secularism-and-the-christian-revival",
+    "relationship_type": "extends"
   },
   {
     "source_slug": "why-extracting-indigenous-knowledge-reproduces-the-colonial-gesture",

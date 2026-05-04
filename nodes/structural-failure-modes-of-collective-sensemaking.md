@@ -11,8 +11,6 @@ tags: [Systems Thinking, Meta-Crisis, Collective Intelligence, Sensemaking]
 edges:
   - target: shared-sensemaking-as-the-foundation-for-global-action
     type: contrasts
-  - target: the-structural-barriers-to-shared-systems-narratives
-    type: extends
   - target: from-tribal-intimacy-to-global-institutional-systems
     type: grounds
   - target: the-structural-architecture-of-cultic-emergence

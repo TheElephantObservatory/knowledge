@@ -15,8 +15,6 @@ edges:
     type: grounds
   - target: mapping-reality-for-meaningful-choice
     type: grounds
-  - target: the-structural-barriers-to-shared-systems-narratives
-    type: exemplifies
   - target: human-nature-and-the-architecture-of-global-risk
     type: grounds
   - target: three-pillars-of-a-new-enlightenment

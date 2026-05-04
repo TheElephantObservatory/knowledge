@@ -8,9 +8,6 @@ source_title: "Daniel Schmachtenberger: \"Artificial Intelligence and The Supero
 source_url: "https://www.youtube.com/watch?v=_P8PLHvZygo"
 source_author: "Nate Hagens"
 tags: [Systems Thinking, Civilizational Risk, Complexity Science, Sensemaking]
-edges:
-  - target: exponential-financial-systems-within-finite-physical-realities
-    type: grounds
 created_at: "2026-03-07"
 ---
 

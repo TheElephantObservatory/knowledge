@@ -11,8 +11,6 @@ tags: [Systems Thinking, Meta-Crisis, Civilizational Risk, Sensemaking]
 edges:
   - target: three-pillars-of-a-new-enlightenment
     type: contrasts
-  - target: escaping-the-twin-risks-of-catastrophe-and-dystopia
-    type: grounds
   - target: the-path-from-na-ve-slogans-to-earned-clarity
     type: applies
 created_at: "2026-03-07"

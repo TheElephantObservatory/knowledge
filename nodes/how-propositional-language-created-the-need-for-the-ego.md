@@ -2,8 +2,8 @@
 slug: how-propositional-language-created-the-need-for-the-ego
 title: "How Propositional Language Created the Need for the Ego"
 subtitle: "The lie that language made necessary"
-observer: "John Vervaeke"
-observer_slug: john-vervaeke
+observer: "Gregg Henriques"
+observer_slug: gregg-henriques
 source_title: "The Elusive I - Part 5 w/Gregg Henriques, John Vervaeke, Christopher Mastropietro"
 source_url: "https://www.youtube.com/watch?v=8mrq-bsQ5Rs"
 source_author: "UTOK | Unified Theory of Knowledge"
