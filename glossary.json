@@ -3368,6 +3368,10 @@
     "definition": "A cross-cultural practice structure in which the practitioner deliberately disengages from social roles and valuations in order to encounter a more essential dimension of experience or being. Rather than dissolving the self, such withdrawal paradoxically tends to intensify the sense of agency or presence."
   },
   {
+    "term": "Contemplative-Analytical Convergence",
+    "definition": "The thesis that rigorous analytical inquiry, when pursued with sufficient depth and consistency, does not terminate in purely third-person objectivity but opens into the first-person, participatory modes of knowing characteristic of contemplative traditions. This convergence challenges the assumed opposition between scientific rationality and mystical insight."
+  },
+  {
     "term": "content",
     "definition": "The explicit level of conversation consisting of words, arguments, and data being directly communicated between participants."
   },
@@ -3602,6 +3606,10 @@
   {
     "term": "cosmic natural selection",
     "definition": "A hypothesis, originally proposed by Lee Smolin, that universes reproducing through black holes are subject to selection pressure favoring constants that maximize black hole production. The passage extends this framework to propose selection operating instead on the autocatalytic generativity of physical law itself."
+  },
+  {
+    "term": "Cosmic Self-Knowledge",
+    "definition": "The philosophical proposition, associated with thinkers such as Teilhard de Chardin and Carl Sagan, that sufficiently complex conscious beings are the mechanism through which the universe becomes reflexively aware of its own existence and structure."
   },
   {
     "term": "cosmic teleology",
@@ -3990,13 +3998,5 @@
   {
     "term": "cultural sensemaking",
     "definition": "The collective process by which groups construct, test, and revise shared meaning and narrative frameworks in response to experience, requiring integration of plural perspectives and willingness to rewrite foundational stories."
-  },
-  {
-    "term": "Cultural Substrate",
-    "definition": "The foundational layer of shared values, practices, identities, and relational norms upon which institutional and political structures depend for their legitimacy and durability; the precondition that institutional design cannot bypass."
-  },
-  {
-    "term": "Cultural Transfer",
-    "definition": "The intergenerational transmission of values, narratives, and civic identity that enables a society to reproduce its animating spirit across time; failure of cultural transfer occurs when one generation cannot pass on a living, empowering inheritance to the next."
   }
 ]
