@@ -1,0 +1,55 @@
+---
+slug: how-language-participates-in-reality-rather-than-just-describing-it
+title: "How Language Participates in Reality Rather Than Just Describing It"
+subtitle: "In the beginning was the forgetting."
+observer: "John Vervaeke"
+observer_slug: john-vervaeke
+source_title: "Re/thinking Religion (Ep. 6: Language, Embodiment & Magic in the Religion that is Not a Religion)"
+source_url: "https://www.youtube.com/watch?v=qYKiEkx5idk"
+source_author: "The Integral Stage"
+tags: [Philosophy of Mind, Hermeneutics, Contemplative Practice, Embodied Cognition]
+edges:
+  - target: declining-interoception-and-the-somatic-roots-of-the-meaning-crisis
+    type: extends
+  - target: the-imaginal-as-bridge-between-bodily-experience-and-propositional-thought
+    type: extends
+  - target: translucent-framing-seeing-the-frame-while-seeing-through-it
+    type: exemplifies
+  - target: how-substance-ontology-nominalism-and-dualism-lock-us-into-adversarial-minds
+    type: grounds
+created_at: "2026-04-19"
+---
+
+# How Language Participates in Reality Rather Than Just Describing It
+
+In the beginning was the forgetting.
+
+---
+
+> Language is not just a tool for pointing at reality — it is itself a piece of reality. Words have a physical, sonic existence we've learned to ignore, and recovering awareness of this dual nature reveals why speech has always been treated as a sacred, world-shaping act.
+
+Language does not merely represent reality — it participates in it. This is what John Vervaeke calls the 'dual aspect' of language: every word has both a referential existence (what it points to) and a vehicle existence (the physical, sonic, graphic thing it is). Through habituation and literacy, the vehicle becomes transparent — we see through words rather than seeing them. The Stroop effect is the cognitive signature of this: the word 'red' written in green ink hijacks attention because the vehicle has been so thoroughly subordinated to the referent that we cannot easily separate them. What psychedelic experience, mindfulness practice, and certain religious rituals accomplish is a kind of Sati — a remembering — that language is not just a pointing device but an instantiation of fundamental properties of reality: nowness, togetherness, flowing through time. This is why David Bohm's RheoMode project matters: by experimenting with verbal grammar, he was not trying to perfect language as a transparent tool but to use language as a mirror of cognitive process itself — to make thinking visible to itself through the very act of speaking. The word in the saying points to the action taking place in the saying of it. This recursive self-reference is not a philosophical trick; it is the recovery of something primordial. Virtually every religious tradition begins with a cosmogony of language — a story of how primal telling works. 'In the beginning was the Word' is the most famous, but the pattern is universal: religion opens by trying to tell you the story of how storying itself begins, how language operates in its potential to simultaneously fit reality and transparently reveal its own function. What Bohm is doing with the RheoMode is a contemporary version of exactly this ancient project. The Protestant Reformation's move — scripture over sacrament, symbol over enactment — was not arbitrary. It was the religious expression of a broader cultural drift toward propositional tyranny, accelerated by left-to-right literacy, print, and the cognitive dominance of the left hemisphere. What we have lost is the sense that speech, at its depth, is a religious act — a participation in logos, not merely a report about it. Invocation practices reveal this dual function with particular clarity: when someone begins to speak of 'the most high, the most merciful, the most perfect,' they are not merely pointing to a referent — they are shifting a mode in the listener. The incantatory, the invocatory, the mantra are technologies for demonstrating that language can alter the interior state of the receiver, not just transmit information. This is the magic function that most ancestors recognized as the fundamental religious operation. Alongside this, religion serves as a technology for expanding the range of accessible affect: Cthulhu, the unfathomable Jehovah, the dark Aztec gods are not just theology — they are placeholders for ranges of affect that ordinary cognition cannot reach, invitations to expand the map of what can be felt and known. And this points to a distinction that religious communities have always needed but rarely named explicitly: there are people who need a good cosmogonic tale — a grounding narrative that orients them to the pattern by which cognition maps a universe — and there are people whose vocation is the skill of generating new versions of these tales as reality complexifies. That second group constitutes a kind of special caste: religious workers in the sense of gardeners of the species' meaning-making capacity.
+
+## Apprentice
+
+We tend to think of words as transparent labels — you see the word 'tree' and immediately think of a tree, never noticing the ink or sound itself. This invisibility is so deep that when the word 'red' is printed in green ink, your brain stumbles: the famous Stroop effect. John Vervaeke calls this the 'dual aspect' of language — every word is both a pointer to something and a thing in itself. Through habit and literacy, we've lost sight of the second part.
+
+This matters because virtually every religious tradition begins with a story about language creating reality — 'In the beginning was the Word' being the most familiar example. These aren't just myths. They encode an ancient recognition that speaking is not merely reporting on the world but participating in it. Chanting, prayer, invocation — these practices show that words can shift your inner state, not just deliver information. They are technologies for demonstrating that language does something, not just says something.
+
+Physicist David Bohm tried to recover this insight through his RheoMode — an experiment in restructuring grammar so that the act of speaking would mirror the flow of thought itself. This wasn't a quirky linguistic project; it was a modern attempt at the same thing ancient cosmogonies were doing: making language aware of its own power. What has been lost in modern culture is the sense that speech, at its deepest, is a creative and even sacred act.
+
+## Adept
+
+John Vervaeke's concept of the 'dual aspect' of language identifies a fundamental cognitive structure: every linguistic sign possesses both referential existence (what it designates) and vehicle existence (its material, sonic, graphic instantiation). Literacy and habituation render the vehicle transparent — the Stroop effect being the clearest empirical signature of how thoroughly the vehicle has been subordinated to the referent. Psychedelic experience, contemplative practice, and ritual enactment function as forms of Sati — a remembering that language is not merely a pointing device but an instantiation of fundamental properties of reality: nowness, togetherness, temporal flow.
+
+David Bohm's RheoMode project sits squarely within this framework. By restructuring verbal grammar so that the word in the saying points to the action taking place in the saying of it, Bohm was not refining language as a transparent tool but deploying it as a mirror of cognitive process — making thinking visible to itself through speech. This recursive self-reference echoes a universal pattern: virtually every religious tradition opens with a cosmogony of language, a story of how primal telling works. The Protestant Reformation's privileging of scripture over sacrament represents the religious expression of a broader drift toward propositional tyranny, accelerated by print culture and left-hemisphere cognitive dominance.
+
+Invocation practices reveal the dual function with particular clarity. Incantatory speech — mantras, liturgical formulae, divine naming — demonstrates that language can alter the interior state of the receiver, not merely transmit propositional content. This is the magic function that pre-modern cultures recognized as fundamental to religious operation. Alongside this, religion expands the range of accessible affect: figures like Cthulhu, the unfathomable Jehovah, or dark Aztec deities serve as placeholders for affective ranges ordinary cognition cannot reach. This points to an implicit but rarely named distinction within religious communities: between those who need a grounding cosmogonic narrative and those whose vocation is generating new versions of such narratives as reality complexifies.
+
+## Magus
+
+Vervaeke's dual-aspect analysis of language — referential existence versus vehicle existence — reframes the transparency of the linguistic sign not as an epistemic achievement but as a cognitive loss. The Stroop effect indexes the depth of this subordination: the vehicle has been so thoroughly colonized by the referent that their separation requires effortful inhibition. What contemplative Sati, psychedelic deautomatization, and ritual enactment recover is precisely the vehicle's participation in the real — language as instantiation of nowness, togetherness, and temporal flow rather than mere designation of them. Bohm's RheoMode operationalizes this recovery: by engineering recursive self-reference into verbal grammar — the word in the saying pointing to the action taking place in the saying of it — he constructs language as a mirror of cognitive process, not a window onto an independent referent. This is not philosophical cleverness but the contemporary iteration of a universal cosmogonic pattern: religion opens by telling the story of how storying begins, encoding the insight that logos is simultaneously world-disclosing and self-disclosing.
+
+The Reformation's privileging of propositional scripture over sacramental enactment marks the religious inflection point of a broader hemispheric and technological drift — left-to-right literacy, print, left-hemisphere dominance — toward what might be called propositional tyranny: the reduction of language to its referential function. Invocation, incantation, and mantra constitute counter-technologies that foreground language's performative and state-shifting capacities. When divine naming — 'the most high, the most merciful' — shifts the listener's mode of being, it demonstrates that the magic function of speech is not metaphorical but operative.
+
+This framework also illuminates religion's role as affective technology: figures of radical alterity — the unfathomable Jehovah, Cthulhu, dark Aztec theogonies — function as placeholders for affect-ranges inaccessible to ordinary cognition, expanding the phenomenological map. The implicit sociological corollary is a distinction between consumers of cosmogonic narrative and producers of it — a vocational caste of meaning-gardeners whose task is regenerating orienting tales as the complexity of the real outpaces inherited formulations.
